@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://agoraloi.local/schemas/agoraloi_processed_payload.schema.json",
-  "title": "AgoraLoi processed public debate payload",
+  "$id": "https://AgorIA.local/schemas/AgorIA_processed_payload.schema.json",
+  "title": "AgorIA processed public debate payload",
   "type": "object",
   "additionalProperties": false,
   "required": [

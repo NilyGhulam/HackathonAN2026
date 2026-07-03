@@ -1,8 +1,8 @@
-# Architecture de prétraitement documentaire AgoraLoi
+# Architecture de prétraitement documentaire AgorIA
 
 ## Principe
 
-AgoraLoi utilise l'IA en amont pour transformer des sources publiques en données structurées, versionnées et sourcées.
+AgorIA utilise l'IA en amont pour transformer des sources publiques en données structurées, versionnées et sourcées.
 L'application publique lit ensuite ces données sans dépendre d'une génération IA en temps réel pour afficher la cartographie.
 
 ```text
@@ -57,7 +57,7 @@ data/examples/
 Schéma :
 
 ```text
-data/schemas/agoraloi_processed_payload.schema.json
+data/schemas/AgorIA_processed_payload.schema.json
 ```
 
 Exemple :

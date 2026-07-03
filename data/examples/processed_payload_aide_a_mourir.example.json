@@ -4,7 +4,7 @@
     "run_id": "run_2026_07_03_demo_001",
     "processed_at": "2026-07-03T12:00:00Z",
     "model": "gpt-4.1",
-    "prompt_version": "agoraloi_extraction_v0.1",
+    "prompt_version": "AgorIA_extraction_v0.1",
     "status": "automatic",
     "global_confidence": 0.82,
     "warnings": [

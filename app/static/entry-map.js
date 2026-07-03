@@ -5,13 +5,6 @@ if (entryMap) {
   const nodes = entryMap.querySelector("[data-map-nodes]");
   const mindMap = entryMap.querySelector("[data-mind-map]");
   const title = entryMap.querySelector("[data-map-title]");
-  const summary = entryMap.querySelector("[data-map-summary]");
-  const kicker = entryMap.querySelector("[data-map-kicker]");
-  const sideTitle = entryMap.querySelector("[data-map-side-title]");
-  const sideSummary = entryMap.querySelector("[data-map-side-summary]");
-  const level = entryMap.querySelector("[data-map-level]");
-  const breadcrumb = entryMap.querySelector("[data-map-breadcrumb]");
-  const reset = entryMap.querySelector("[data-map-reset]");
   const search = entryMap.querySelector("[data-entry-search]");
   const searchButton = entryMap.querySelector("[data-entry-search-button]");
   const searchResults = entryMap.querySelector("[data-entry-search-results]");
@@ -21,16 +14,6 @@ if (entryMap) {
       subtheme.subjects.map((subject) => ({ category, subtheme, subject })),
     ),
   );
-
-  const setBreadcrumb = (items) => {
-    breadcrumb.querySelectorAll("[data-crumb]").forEach((item) => item.remove());
-    items.forEach((item) => {
-      const span = document.createElement("span");
-      span.dataset.crumb = "true";
-      span.textContent = item;
-      breadcrumb.append(span);
-    });
-  };
 
   const placeNode = (button, index, total) => {
     const maxPerRing = 8;
@@ -52,7 +35,7 @@ if (entryMap) {
     mindMap.style.minWidth = `${size}px`;
   };
 
-  const renderNodes = (items, kind, handler) => {
+  const renderNodes = (items, handler) => {
     nodes.replaceChildren();
     resizeMapFor(items);
     items.forEach((item, index) => {
@@ -63,7 +46,6 @@ if (entryMap) {
       button.innerHTML = `
         <span>${String(index + 1).padStart(2, "0")}</span>
         <strong>${item.label || item.title}</strong>
-        <small>${kind}</small>
       `;
       button.addEventListener("click", () => handler(item));
       nodes.append(button);
@@ -71,36 +53,18 @@ if (entryMap) {
   };
 
   const renderCategories = () => {
-    kicker.textContent = "Départ";
     title.textContent = "Débat public";
-    summary.textContent = "Sélectionnez une grande catégorie pour afficher sa carte mentale.";
-    level.textContent = "Étape 1";
-    sideTitle.textContent = "Grandes catégories";
-    sideSummary.textContent = "Chaque nœud ouvre une nouvelle carte centrée sur votre choix.";
-    setBreadcrumb([]);
-    renderNodes(data, "Grande catégorie", renderSubthemes);
+    renderNodes(data, renderSubthemes);
   };
 
   const renderSubthemes = (category) => {
-    kicker.textContent = "Catégorie";
     title.textContent = category.label;
-    summary.textContent = category.summary;
-    level.textContent = "Étape 2";
-    sideTitle.textContent = "Sous-catégories";
-    sideSummary.textContent = "Choisissez une sous-catégorie pour afficher les sujets précis qu'elle contient.";
-    setBreadcrumb([category.label]);
-    renderNodes(category.subthemes, "Sous-catégorie", (subtheme) => renderSubjects(category, subtheme));
+    renderNodes(category.subthemes, (subtheme) => renderSubjects(category, subtheme));
   };
 
   const renderSubjects = (category, subtheme) => {
-    kicker.textContent = "Sous-catégorie";
     title.textContent = subtheme.label;
-    summary.textContent = subtheme.summary;
-    level.textContent = "Étape 3";
-    sideTitle.textContent = "Sujets précis";
-    sideSummary.textContent = "Cliquez sur un sujet pour ouvrir sa fiche complète.";
-    setBreadcrumb([category.label, subtheme.label]);
-    renderNodes(subtheme.subjects, "Sujet précis", (subject) => {
+    renderNodes(subtheme.subjects, (subject) => {
       window.location.href = `/sujets/${subject.id}`;
     });
   };
@@ -141,7 +105,6 @@ if (entryMap) {
     });
   };
 
-  reset.addEventListener("click", renderCategories);
   searchButton.addEventListener("click", runSearch);
   search.addEventListener("keydown", (event) => {
     if (event.key === "Enter") {

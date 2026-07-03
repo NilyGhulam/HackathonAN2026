@@ -36,4 +36,4 @@ class CivicRouter:
             return CivicDiagnosis("demande_clarification", "moyen", "Le texte demande une précision sur l'application de la mesure.")
         if any(word in text for word in ["gouvernement", "ministre", "réponse", "question"]):
             return CivicDiagnosis("question_a_transmettre", "moyen", "Le texte peut être transformé en question à transmettre à un parlementaire.")
-        return CivicDiagnosis("message_representant", "faible", "Aucune catégorie forte n'a été détectée ; un message structuré à un représentant est proposé.")
+        return CivicDiagnosis("message_representant", "faible", "Aucun signal dominant n'a été détecté ; un message structuré à un représentant est proposé.")

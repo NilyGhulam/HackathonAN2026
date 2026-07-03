@@ -1,11 +1,11 @@
 ### Nom du défi
-AgoraLoi — Cartographier le débat public pour mieux y participer
+Cartographier le débat public pour mieux y participer
 
 ### Description courte
 Une plateforme qui organise les traces publiques du débat parlementaire autour d'une mesure, explique ce qui est en jeu et aide les citoyens à préparer une intervention claire vers les voies officielles, sans collecter leurs opinions politiques par défaut.
 
 ### Porteur
-AgoraLoi
+GHULAM NABI Nily
 
 ### Description longue
 **Le constat**
@@ -16,17 +16,17 @@ Résultat : lorsqu'un citoyen veut comprendre une mesure, se faire un avis ou in
 
 **La solution**
 
-AgoraLoi utilise l'IA et les données ouvertes pour organiser les traces publiques du débat parlementaire et législatif autour d'une mesure.
+La plateforme utilise l'IA et les données ouvertes pour organiser les traces publiques du débat parlementaire et législatif autour d'une mesure.
 
 À partir des textes, amendements, comptes rendus de séance, questions parlementaires, réponses du Gouvernement, rapports et dossiers législatifs, la plateforme construit une carte claire du débat public : ce que la mesure change, pour qui, avec quelles obligations, quels effets attendus, quels arguments favorables ou défavorables, quelles demandes de clarification et quelles alternatives ont été discutées.
 
-L'objectif n'est pas de collecter les opinions politiques des citoyens ni de créer une nouvelle plateforme de doléances. AgoraLoi rend lisible le débat public déjà documenté, puis aide chacun à structurer sa propre réflexion.
+L'objectif n'est pas de collecter les opinions politiques des citoyens ni de créer une nouvelle plateforme de doléances. La plateforme rend lisible le débat public déjà documenté, puis aide chacun à structurer sa propre réflexion.
 
 La plateforme peut ensuite accompagner l'utilisateur dans la formulation d'une intervention : question à transmettre à un parlementaire, demande de clarification, proposition d'évolution, argumentaire de pétition, contribution à une consultation publique ou message à un représentant. L'utilisateur garde la main : la plateforme prépare, explique et oriente, mais ne transmet rien automatiquement.
 
 **L'enjeu démocratique**
 
-AgoraLoi veut renforcer la qualité du débat public en passant d'un avis isolé à une participation informée.
+La plateforme veut renforcer la qualité du débat public en passant d'un avis isolé à une participation informée.
 
 Côté citoyen : mieux comprendre les mesures, identifier les arguments existants, repérer les points de désaccord et formuler une intervention plus claire, plus utile et mieux orientée.
 
@@ -94,4 +94,4 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 - [Image 1](images/cover.png)
 
 ### Documents
-- [Architecture](docs/architecture.md)
+

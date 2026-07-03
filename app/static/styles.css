@@ -167,29 +167,20 @@ textarea { resize: vertical; }
 .entry-map-head { display: grid; grid-template-columns: minmax(0, 1fr) 420px; gap: 24px; align-items: start; border-bottom: 2px solid var(--accent); padding-bottom: 18px; }
 .entry-map-head h1 { font-size: clamp(32px, 4vw, 54px); margin-bottom: 0; }
 .entry-search { background: var(--paper); border: 1px solid var(--line); border-left: 6px solid var(--accent); padding: 16px; }
-.map-stage { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 18px; align-items: stretch; min-height: 620px; }
-.map-breadcrumb { grid-column: 1 / -1; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-.map-breadcrumb button, .map-breadcrumb span { border: 1px solid var(--line); background: var(--paper); padding: 8px 10px; font: inherit; color: var(--accent); font-weight: 700; }
-.map-breadcrumb span::before { content: "› "; color: var(--muted); }
+.map-stage { min-height: 620px; }
 .mind-map { position: relative; min-height: 660px; min-width: 780px; border: 1px solid var(--line); background: radial-gradient(circle at center, #ffffff 0 24%, #eeeeff 25% 25.5%, #fdfdff 26% 42%, #dddddd 42.3% 42.5%, #f6f6f6 43% 100%); overflow: auto; }
 .mind-map::before, .mind-map::after { content: ""; position: absolute; border-radius: 50%; border: 1px solid #c7c7ff; pointer-events: none; }
 .mind-map::before { inset: 90px; }
 .mind-map::after { inset: 175px; border-style: dashed; }
 .mind-center { position: absolute; z-index: 3; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 270px; min-height: 270px; border-radius: 50%; background: var(--accent); color: white; display: flex; flex-direction: column; justify-content: center; text-align: center; padding: 26px; box-shadow: 0 0 0 14px white; }
-.mind-center .eyebrow { color: white; }
-.mind-center h2 { color: white; font-size: 30px; line-height: 1.12; margin: 8px 0 12px; }
-.mind-center p { margin: 0; color: var(--accent-soft); line-height: 1.45; }
+.mind-center h2 { color: white; font-size: 30px; line-height: 1.12; margin: 0; }
 .mind-nodes { position: absolute; inset: 0; }
 .mind-node { position: absolute; left: 50%; top: 50%; z-index: 4; width: 230px; min-height: 132px; background: var(--paper); border: 1px solid var(--line); border-left: 6px solid var(--accent); padding: 16px; text-align: left; font: inherit; cursor: pointer; box-shadow: 0 4px 0 rgba(0,0,145,.08); transform: translate(-50%, -50%) rotate(var(--node-angle)) translate(var(--node-radius)) rotate(calc(-1 * var(--node-angle))); }
 .mind-node::after { display: none; }
 .mind-node:hover, .mind-node:focus { background: var(--accent-soft); border-color: var(--accent); outline: 3px solid #c7c7ff; }
 .mind-node span { display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; background: var(--accent); color: white; font-weight: 800; margin-bottom: 10px; }
-.mind-node strong, .mind-node small { display: block; }
+.mind-node strong { display: block; }
 .mind-node strong { color: var(--accent); font-size: 20px; line-height: 1.2; }
-.mind-node small { color: var(--muted); margin-top: 6px; font-weight: 700; }
-.map-explain { background: var(--paper); border: 1px solid var(--line); border-top: 6px solid var(--accent); padding: 20px; align-self: stretch; }
-.map-explain h2 { font-size: 25px; }
-.map-explain p:last-child { color: var(--muted); line-height: 1.6; }
 
 .subject-page { padding: 48px 0 30px; border-bottom: 2px solid var(--accent); }
 .subject-layout { display: grid; grid-template-columns: minmax(0, 1fr) 330px; gap: 22px; margin: 28px 0 48px; align-items: start; }
@@ -247,8 +238,8 @@ main { max-width: 1360px; }
   .mapping-workbench { grid-template-columns: 1fr; }
   .map-sidebar, .level-two-panel, .subject-sheet { min-height: auto; }
   .mapping-workbench .subject-sheet { position: static; max-height: none; }
-  .entry-map-head, .map-stage, .subject-layout { grid-template-columns: 1fr; }
-  .map-explain, .subject-aside { position: static; }
+  .entry-map-head, .subject-layout { grid-template-columns: 1fr; }
+  .subject-aside { position: static; }
 }
 
 @media (max-width: 720px) {

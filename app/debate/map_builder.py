@@ -10,7 +10,7 @@ class DebateMapBuilder:
     """Construit une cartographie argumentative à partir de traces publiques.
 
     Ce service ne classe pas des citoyens : il regroupe des sources publiques
-    par rôle argumentatif et par catégorie de débat.
+    par rôle argumentatif et par axe de débat.
     """
 
     def __init__(self, taxonomy: Taxonomy) -> None:

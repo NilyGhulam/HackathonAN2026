@@ -1,6 +1,6 @@
-# AgoraLoi — prototype de départ
+# AgorIA — prototype de départ
 
-AgoraLoi est un prototype d'IA civique conçu pour le hackathon de l'Assemblée nationale 2026.
+AgorIA est un prototype d'IA civique conçu pour le hackathon de l'Assemblée nationale 2026.
 
 Le cœur du projet : **cartographier le débat public existant** à partir de traces institutionnelles publiques — textes, amendements, débats, questions parlementaires — puis aider le citoyen à comprendre les arguments et à préparer une intervention vers les voies officielles.
 

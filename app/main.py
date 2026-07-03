@@ -13,7 +13,7 @@ from app.repositories.official_channels import OfficialChannelsRepository
 from app.civic.drafts import DraftService
 
 app = FastAPI(
-    title="AgoraLoi",
+    title="AgorIA",
     description="Prototype de cartographie du débat public parlementaire et d'aide à la participation éclairée.",
     version="0.1.0",
 )

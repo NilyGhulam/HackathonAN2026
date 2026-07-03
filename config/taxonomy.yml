@@ -3,7 +3,7 @@
 # vers une forme d'intervention adaptée, sans collecter d'opinions par défaut.
 
 project:
-  name: AgoraLoi
+  name: AgorIA
   tagline: Cartographier le débat public pour mieux y participer.
   data_policy: >
     La plateforme organise des traces publiques déjà disponibles et ne conserve

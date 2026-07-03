@@ -1,4 +1,4 @@
-# Architecture — AgoraLoi
+# Architecture — AgorIA
 
 ## Objectif
 
