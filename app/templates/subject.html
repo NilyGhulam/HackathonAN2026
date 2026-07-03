@@ -19,22 +19,30 @@
 
     <section id="timeline-block" class="timeline-block" data-timeline-paginated>
       <h2>Frise chronologique</h2>
-      <p class="timeline-note">Les 10 actualités les plus récentes sont affichées en premier. Utilisez les boutons pour remonter plus loin dans le temps.</p>
-      <ol class="timeline" data-timeline-list>
-        {% for event in subject.timeline_events %}
-          <li data-timeline-item>
-            <time>{{ event.date }}</time>
-            <strong>{{ event.kind }} · {{ event.type }} · {{ event.title }}</strong>
-            <p>{{ event.summary }}</p>
-            <a href="{{ event.url }}">Voir le texte officiel</a>
-          </li>
-        {% endfor %}
-      </ol>
-      <nav class="timeline-pagination" aria-label="Pagination de la frise chronologique">
-        <button class="button secondary" type="button" data-timeline-newer>Actualités plus récentes</button>
-        <span data-timeline-page-status></span>
-        <button class="button secondary" type="button" data-timeline-older>Actualités plus anciennes</button>
-      </nav>
+      <p class="timeline-note">
+        Repères tirés de sources officielles réelles (ex. questions écrites à l'Assemblée
+        nationale), extraits automatiquement par IA. Les 10 plus récents sont affichés en
+        premier.
+      </p>
+      {% if subject.timeline_events %}
+        <ol class="timeline" data-timeline-list>
+          {% for event in subject.timeline_events %}
+            <li data-timeline-item>
+              <time>{{ event.date }}</time>
+              <strong>{{ event.type }} · {{ event.title }}</strong>
+              <p>{{ event.summary }}</p>
+              <a href="{{ event.url }}">Voir la source officielle</a>
+            </li>
+          {% endfor %}
+        </ol>
+        <nav class="timeline-pagination" aria-label="Pagination de la frise chronologique">
+          <button class="button secondary" type="button" data-timeline-newer>Actualités plus récentes</button>
+          <span data-timeline-page-status></span>
+          <button class="button secondary" type="button" data-timeline-older>Actualités plus anciennes</button>
+        </nav>
+      {% else %}
+        <p class="notice">Aucune trace officielle vérifiée pour l'instant sur ce sujet.</p>
+      {% endif %}
     </section>
 
     <section id="argument-map" class="argument-map">
@@ -43,40 +51,38 @@
           <p class="eyebrow">Argumentaire</p>
           <h2>Carte des acteurs et des thèses</h2>
         </div>
-        <p>Les réactions sont regroupées par position, puis par thèses proches. Chaque axe indique un motif qui revient fortement dans les arguments.</p>
+        <p>
+          Arguments regroupés par position à partir de sources officielles réelles, extraites
+          automatiquement par IA.
+        </p>
       </header>
 
-      <div class="argument-axes">
-        {% for axis in subject.argument_map.axes %}
-          <article>
-            <strong>{{ axis.label }}</strong>
-            <p>{{ axis.summary }}</p>
-          </article>
-        {% endfor %}
-      </div>
+      {% if subject.argument_map.clusters %}
+        <div class="argument-lanes">
+          <section class="argument-lane argument-lane-for">
+            <h3>Pour</h3>
+            {% for cluster in subject.argument_map.clusters_by_position['for'] %}
+              {% include "partials/argument_cluster.html" %}
+            {% endfor %}
+          </section>
 
-      <div class="argument-lanes">
-        <section class="argument-lane argument-lane-for">
-          <h3>Pour</h3>
-          {% for cluster in subject.argument_map.clusters_by_position['for'] %}
-            {% include "partials/argument_cluster.html" %}
-          {% endfor %}
-        </section>
+          <section class="argument-lane argument-lane-neutral">
+            <h3>Neutre / clarification</h3>
+            {% for cluster in subject.argument_map.clusters_by_position['neutral'] %}
+              {% include "partials/argument_cluster.html" %}
+            {% endfor %}
+          </section>
 
-        <section class="argument-lane argument-lane-neutral">
-          <h3>Neutre / clarification</h3>
-          {% for cluster in subject.argument_map.clusters_by_position['neutral'] %}
-            {% include "partials/argument_cluster.html" %}
-          {% endfor %}
-        </section>
-
-        <section class="argument-lane argument-lane-against">
-          <h3>Contre</h3>
-          {% for cluster in subject.argument_map.clusters_by_position['against'] %}
-            {% include "partials/argument_cluster.html" %}
-          {% endfor %}
-        </section>
-      </div>
+          <section class="argument-lane argument-lane-against">
+            <h3>Contre</h3>
+            {% for cluster in subject.argument_map.clusters_by_position['against'] %}
+              {% include "partials/argument_cluster.html" %}
+            {% endfor %}
+          </section>
+        </div>
+      {% else %}
+        <p class="notice">Aucune trace officielle vérifiée pour l'instant sur ce sujet.</p>
+      {% endif %}
     </section>
   </article>
 

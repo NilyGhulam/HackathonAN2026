@@ -64,6 +64,7 @@ if (entryMap) {
         <span>${String(index + 1).padStart(2, "0")}</span>
         <strong>${item.label || item.title}</strong>
         <small>${kind}</small>
+        ${item.has_official_traces ? '<small class="mind-node-badge">✓ Données réelles</small>' : ""}
       `;
       button.addEventListener("click", () => handler(item));
       nodes.append(button);
@@ -136,7 +137,7 @@ if (entryMap) {
       const link = document.createElement("a");
       link.className = "search-result";
       link.href = `/sujets/${subject.id}`;
-      link.innerHTML = `<strong>${subject.title}</strong><span>${category.label} · ${subtheme.label}</span>`;
+      link.innerHTML = `<strong>${subject.title}</strong><span>${category.label} · ${subtheme.label}</span>${subject.has_official_traces ? '<small class="mind-node-badge">✓ Données réelles</small>' : ""}`;
       searchResults.append(link);
     });
   };

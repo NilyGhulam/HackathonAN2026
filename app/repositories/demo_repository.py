@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 import json
+from collections import defaultdict
 from pathlib import Path
 
 from app.core.models import Measure, PublicTrace, SourceRef
-from app.core.settings import DATA_DIR
+from app.core.settings import DATA_DIR, PROCESSED_DATA_DIR
 
 
 class DemoRepository:
@@ -38,16 +39,43 @@ class DemoRepository:
     def list_all_debate_subjects(self) -> list[dict]:
         return self._load_json("debate_subjects.json")
 
+    def list_all_debate_subjects_with_status(self) -> list[dict]:
+        """Comme list_all_debate_subjects, mais chaque sujet est annoté de has_official_traces
+        et official_traces_count, pour signaler sur les vignettes qu'un sujet a de vraies
+        données extraites (data/processed/) plutôt que de rester figé sur la démo."""
+        grouped = self._processed_updates_by_subject()
+        categories = self.list_all_debate_subjects()
+        annotated = []
+        for category in categories:
+            subthemes = []
+            for subtheme in category.get("subthemes", []):
+                subjects = []
+                for subject in subtheme.get("subjects", []):
+                    updates = grouped.get(subject.get("id", ""), [])
+                    subjects.append(
+                        {
+                            **subject,
+                            "has_official_traces": bool(updates),
+                            "official_traces_count": sum(
+                                len(update.get("argument_clusters", [])) for update in updates
+                            ),
+                        }
+                    )
+                subthemes.append({**subtheme, "subjects": subjects})
+            annotated.append({**category, "subthemes": subthemes})
+        return annotated
+
     def get_subject(self, subject_id: str) -> dict | None:
         for category in self.list_all_debate_subjects():
             for subtheme in category.get("subthemes", []):
                 for subject in subtheme.get("subjects", []):
                     if subject.get("id") == subject_id:
                         measure_id = category.get("measure_id")
+                        processed_updates = self._load_processed_subject_updates(subject.get("id", ""))
                         enriched_subject = {
                             **subject,
-                            "timeline_events": self._subject_timeline_events(subject),
-                            "argument_map": self._subject_argument_map(subject),
+                            "timeline_events": self._subject_timeline_events(processed_updates),
+                            "argument_map": self._subject_argument_map(processed_updates),
                         }
                         return {
                             "category": category,
@@ -57,83 +85,77 @@ class DemoRepository:
                         }
         return None
 
-    @staticmethod
-    def _subject_timeline_events(subject: dict) -> list[dict]:
-        legal_events = [
-            {
-                **item,
-                "kind": "Texte ou loi",
-            }
-            for item in subject.get("legal_texts", [])
-        ]
-        news_events = [
-            {
-                **item,
-                "kind": "Actualité",
-            }
-            for item in subject.get("timeline", [])
-        ]
-        return sorted(
-            [*legal_events, *news_events],
-            key=lambda item: item.get("date", ""),
-            reverse=True,
-        )
+    def _processed_updates_by_subject(self) -> dict[str, list[dict]]:
+        grouped: dict[str, list[dict]] = defaultdict(list)
+        if not PROCESSED_DATA_DIR.exists():
+            return grouped
+        for path in PROCESSED_DATA_DIR.rglob("*.json"):
+            if "_failed" in path.parts:
+                continue
+            try:
+                payload = json.loads(path.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                continue
+            for update in payload.get("subject_updates", []):
+                subject_id = update.get("subject_id")
+                if subject_id:
+                    grouped[subject_id].append(update)
+        return grouped
+
+    def _load_processed_subject_updates(self, subject_id: str) -> list[dict]:
+        if not subject_id:
+            return []
+        return self._processed_updates_by_subject().get(subject_id, [])
 
     @staticmethod
-    def _subject_argument_map(subject: dict) -> dict:
-        if subject.get("argument_map"):
-            argument_map = subject["argument_map"]
-            clusters = argument_map.get("clusters", [])
-        else:
-            labels = {
-                "favorable": ("for", "Arguments favorables"),
-                "unfavorable": ("against", "Arguments défavorables"),
-                "neutral": ("neutral", "Arguments neutres"),
-            }
-            clusters = []
-            for source_key, (position, label) in labels.items():
+    def _subject_timeline_events(processed_updates: list[dict]) -> list[dict]:
+        """Uniquement les traces réelles extraites par le pipeline IA (data/processed/) : pas
+        de repli sur la démonstration, pour ne jamais afficher un contenu fictif comme réel."""
+        events = [event for update in processed_updates for event in update.get("timeline_events", [])]
+        return sorted(events, key=lambda item: item.get("date", ""), reverse=True)
+
+    @staticmethod
+    def _subject_argument_map(processed_updates: list[dict]) -> dict:
+        """Uniquement les traces réelles extraites par le pipeline IA (data/processed/) : pas
+        de repli sur la démonstration, pour ne jamais afficher un contenu fictif comme réel."""
+        clusters: list[dict] = []
+        for update in processed_updates:
+            actors_by_id = {actor["id"]: actor for actor in update.get("actors", []) if actor.get("id")}
+            for cluster in update.get("argument_clusters", []):
                 actors = []
-                for index, argument in enumerate(subject.get("arguments", {}).get(source_key, []), start=1):
+                for cluster_actor in cluster.get("actors", []):
+                    actor = actors_by_id.get(cluster_actor.get("actor_id"), {})
+                    name = actor.get("name", "Acteur public")
                     actors.append(
                         {
-                            "name": argument.get("carrier", "Acteur public"),
-                            "initials": "".join(part[:1] for part in argument.get("carrier", "AP").split()[:2]),
-                            "role": argument.get("carrier", "Acteur public"),
-                            "party": "Non renseigné",
-                            "photo": "",
-                            "quote": argument.get("text", ""),
-                            "quote_source": argument.get("source", "Source non renseignée"),
-                            "stance_summary": argument.get("text", ""),
+                            "name": name,
+                            "initials": "".join(part[:1] for part in name.split()[:2]),
+                            "role": actor.get("role", ""),
+                            "party": actor.get("party", "Non renseigné"),
+                            "photo": actor.get("photo_url", ""),
+                            "quote": cluster_actor.get("quote", ""),
+                            "quote_source": cluster_actor.get("quote_source", ""),
+                            "stance_summary": cluster_actor.get("stance_summary", ""),
                         }
                     )
                 if actors:
                     clusters.append(
                         {
-                            "id": f"{position}-{len(clusters) + 1}",
-                            "axis": "arguments-declares",
-                            "position": position,
-                            "label": label,
-                            "summary": "Arguments regroupés à partir des traces disponibles pour ce sujet.",
+                            "id": cluster.get("id", f"processed-{len(clusters) + 1}"),
+                            "axis": cluster.get("axis", "arguments-declares"),
+                            "position": cluster.get("position", "neutral"),
+                            "label": cluster.get("label", ""),
+                            "summary": cluster.get("summary", ""),
                             "actors": actors,
                         }
                     )
-            argument_map = {
-                "axes": [
-                    {
-                        "id": "arguments-declares",
-                        "label": "Arguments déclarés",
-                        "summary": "Axe construit automatiquement à partir des arguments disponibles.",
-                    }
-                ],
-                "clusters": clusters,
-            }
-
         return {
-            **argument_map,
+            "axes": [],
+            "clusters": clusters,
             "clusters_by_position": {
-                "for": [cluster for cluster in clusters if cluster.get("position") == "for"],
-                "against": [cluster for cluster in clusters if cluster.get("position") == "against"],
-                "neutral": [cluster for cluster in clusters if cluster.get("position") == "neutral"],
+                "for": [c for c in clusters if c.get("position") == "for"],
+                "against": [c for c in clusters if c.get("position") == "against"],
+                "neutral": [c for c in clusters if c.get("position") == "neutral"],
             },
         }
 

@@ -6,6 +6,9 @@ timelines.forEach((timeline) => {
   const newer = timeline.querySelector("[data-timeline-newer]");
   const older = timeline.querySelector("[data-timeline-older]");
   const status = timeline.querySelector("[data-timeline-page-status]");
+  if (!newer || !older || !status) {
+    return;
+  }
   let page = 0;
 
   const render = () => {

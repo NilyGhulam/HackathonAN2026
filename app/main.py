@@ -39,7 +39,7 @@ def index(request: Request) -> HTMLResponse:
     measures = repository.list_measures()
     all_traces = repository.list_traces()
     stats = map_builder.stats(all_traces)
-    debate_subjects = repository.list_all_debate_subjects()
+    debate_subjects = repository.list_all_debate_subjects_with_status()
     return templates.TemplateResponse(
         request,
         "index.html",

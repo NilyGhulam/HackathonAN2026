@@ -191,6 +191,7 @@ textarea { resize: vertical; }
 .mind-node strong, .mind-node small { display: block; }
 .mind-node strong { color: var(--accent); font-size: 20px; line-height: 1.2; }
 .mind-node small { color: var(--muted); margin-top: 6px; font-weight: 700; }
+.mind-node-badge, .search-result .mind-node-badge { display: inline-block !important; margin-top: 8px !important; padding: 4px 8px; background: var(--success-soft); color: #18753c !important; border-left: 3px solid #18753c; font-size: 12px; }
 .map-explain { background: var(--paper); border: 1px solid var(--line); border-top: 6px solid var(--accent); padding: 20px; align-self: stretch; }
 .map-explain h2 { font-size: 25px; }
 .map-explain p:last-child { color: var(--muted); line-height: 1.6; }
