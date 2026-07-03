@@ -1,0 +1,278 @@
+[
+  {
+    "subject_id": "aide-a-mourir",
+    "clusters": [
+      {
+        "id": "appoint-liberte-accompagnee",
+        "axis": "autonomie-protection",
+        "position": "for",
+        "label": "Garantir une liberté accompagnée",
+        "summary": "Citations ajoutées pour tester la répartition de positions favorables sur la carte.",
+        "actors": [
+          {
+            "name": "Élise Fournier",
+            "initials": "EF",
+            "role": "Députée, commission des lois",
+            "party": "Gauche sociale",
+            "photo": "",
+            "quote": "Le consentement répété doit rester le point d'ancrage de toute décision.",
+            "quote_source": "Assemblée nationale, séance publique, 28 mai 2026",
+            "quote_url": "https://www.assemblee-nationale.fr/",
+            "stance_summary": "Défend l'ouverture d'une aide à mourir encadrée par une procédure collégiale."
+          },
+          {
+            "name": "Julien Moreau",
+            "initials": "JM",
+            "role": "Député, rapporteur thématique",
+            "party": "Groupe majoritaire",
+            "photo": "",
+            "quote": "Un droit réel suppose une procédure claire, lisible et applicable dans tous les territoires.",
+            "quote_source": "Commission spéciale, Assemblée nationale, 4 juin 2026",
+            "quote_url": "https://www.assemblee-nationale.fr/",
+            "stance_summary": "Met l'accent sur l'effectivité du dispositif et l'égalité d'accès."
+          }
+        ]
+      },
+      {
+        "id": "appoint-garanties-avant-ouverture",
+        "axis": "garanties-medicales",
+        "position": "neutral",
+        "label": "Évaluer les garanties avant généralisation",
+        "summary": "Citations ajoutées pour tester les positions intermédiaires et procédurales.",
+        "actors": [
+          {
+            "name": "Maya Delcourt",
+            "initials": "MD",
+            "role": "Sénatrice, mission d'évaluation",
+            "party": "Groupe centriste",
+            "photo": "",
+            "quote": "Le débat ne tient que si les contrôles annoncés peuvent être vérifiés dans la pratique.",
+            "quote_source": "Sénat, audition de mission, 12 juin 2026",
+            "quote_url": "https://www.senat.fr/",
+            "stance_summary": "Demande une évaluation stricte avant toute extension du dispositif."
+          }
+        ]
+      },
+      {
+        "id": "appoint-rupture-ethique",
+        "axis": "role-soignants",
+        "position": "against",
+        "label": "Refuser une rupture du rôle médical",
+        "summary": "Citations ajoutées pour tester les positions défavorables situées à droite.",
+        "actors": [
+          {
+            "name": "Paul Renaud",
+            "initials": "PR",
+            "role": "Sénateur, commission des affaires sociales",
+            "party": "Droite républicaine",
+            "photo": "",
+            "quote": "Le soin doit protéger la personne fragile, pas organiser l'abandon de cette protection.",
+            "quote_source": "Sénat, discussion générale, 18 juin 2026",
+            "quote_url": "https://www.senat.fr/",
+            "stance_summary": "S'oppose à l'aide à mourir et privilégie le renforcement des soins palliatifs."
+          }
+        ]
+      },
+      {
+        "id": "appoint-sources-techniques",
+        "axis": "garanties-medicales",
+        "position": "for",
+        "label": "Préciser les garanties opérationnelles",
+        "summary": "Sources d'appoint sans positionnement politique avéré pour tester le second graphe.",
+        "actors": [
+          {
+            "name": "Réponse du ministère de la Santé",
+            "initials": "MS",
+            "role": "Réponse administrative",
+            "party": "Non renseigné",
+            "photo": "",
+            "quote": "La traçabilité des décisions doit permettre un contrôle national régulier.",
+            "quote_source": "Question écrite, réponse publiée le 21 mai 2026",
+            "quote_url": "https://questions.assemblee-nationale.fr/",
+            "stance_summary": "Présente les garanties administratives envisagées."
+          },
+          {
+            "name": "Haute Autorité de santé",
+            "initials": "HAS",
+            "role": "Autorité publique indépendante",
+            "party": "Non renseigné",
+            "photo": "",
+            "quote": "La décision collégiale doit être documentée de façon homogène et accessible au contrôle.",
+            "quote_source": "Note technique, 7 avril 2026",
+            "quote_url": "https://www.has-sante.fr/",
+            "stance_summary": "Précise les conditions de traçabilité et d'évaluation."
+          }
+        ]
+      },
+      {
+        "id": "appoint-sources-reserve",
+        "axis": "soins-palliatifs",
+        "position": "against",
+        "label": "Documenter les réserves non partisanes",
+        "summary": "Sources d'appoint sans positionnement politique avéré pour varier les points défavorables.",
+        "actors": [
+          {
+            "name": "Rapport Soins palliatifs 2026",
+            "initials": "SP",
+            "role": "Rapport public",
+            "party": "Non renseigné",
+            "photo": "",
+            "quote": "L'accès aux soins palliatifs reste trop inégal pour être considéré comme acquis.",
+            "quote_source": "Rapport public, 2 mars 2026",
+            "quote_url": "https://www.vie-publique.fr/",
+            "stance_summary": "Souligne les écarts territoriaux dans l'offre de soins palliatifs."
+          }
+        ]
+      },
+      {
+        "id": "appoint-sources-equilibre",
+        "axis": "autonomie-protection",
+        "position": "neutral",
+        "label": "Situer les points d'équilibre",
+        "summary": "Sources d'appoint sans positionnement politique avéré pour occuper la zone médiane du second graphe.",
+        "actors": [
+          {
+            "name": "Comité éthique régional",
+            "initials": "CE",
+            "role": "Avis consultatif",
+            "party": "Sans affiliation partisane",
+            "photo": "",
+            "quote": "Le cadre doit éviter à la fois l'obstacle administratif et la décision insuffisamment entourée.",
+            "quote_source": "Avis consultatif, Lyon, 16 avril 2026",
+            "quote_url": "https://www.vie-publique.fr/",
+            "stance_summary": "Cherche un équilibre entre effectivité du droit et protection des personnes vulnérables."
+          },
+          {
+            "name": "Question parlementaire synthétisée",
+            "initials": "QP",
+            "role": "Question écrite",
+            "party": "Non renseigné",
+            "photo": "",
+            "quote": "Les conditions de contrôle doivent être connues avant l'entrée en vigueur du dispositif.",
+            "quote_source": "Question écrite, Assemblée nationale, 30 avril 2026",
+            "quote_url": "https://questions.assemblee-nationale.fr/",
+            "stance_summary": "Demande des précisions sur le calendrier et les modalités de contrôle."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "__default__",
+    "clusters": [
+      {
+        "id": "appoint-default-favorable",
+        "axis": "arguments-declares",
+        "position": "for",
+        "label": "Appuis parlementaires",
+        "summary": "Citations de démonstration pour densifier la carte lorsque le sujet n'a pas encore de corpus détaillé.",
+        "actors": [
+          {
+            "name": "Sarah Leclerc",
+            "initials": "SL",
+            "role": "Députée, commission compétente",
+            "party": "Gauche sociale",
+            "photo": "",
+            "quote": "Le texte doit corriger une inégalité concrète plutôt que repousser encore le problème.",
+            "quote_source": "Assemblée nationale, discussion générale, 5 juin 2026",
+            "quote_url": "https://www.assemblee-nationale.fr/",
+            "stance_summary": "Soutient l'objectif du texte en insistant sur ses effets sociaux."
+          },
+          {
+            "name": "Thomas Rivière",
+            "initials": "TR",
+            "role": "Député, groupe majoritaire",
+            "party": "Groupe majoritaire",
+            "photo": "",
+            "quote": "L'équilibre proposé est perfectible, mais il apporte déjà une réponse opérationnelle.",
+            "quote_source": "Commission spéciale, 9 juin 2026",
+            "quote_url": "https://www.assemblee-nationale.fr/",
+            "stance_summary": "Défend une adoption accompagnée d'ajustements techniques."
+          }
+        ]
+      },
+      {
+        "id": "appoint-default-reserve",
+        "axis": "arguments-declares",
+        "position": "neutral",
+        "label": "Réserves et demandes de garanties",
+        "summary": "Citations de démonstration pour matérialiser les positions intermédiaires.",
+        "actors": [
+          {
+            "name": "Nora Vidal",
+            "initials": "NV",
+            "role": "Sénatrice, rapporteure pour avis",
+            "party": "Groupe centriste",
+            "photo": "",
+            "quote": "Avant de voter, nous devons savoir comment les garanties seront contrôlées dans la durée.",
+            "quote_source": "Sénat, audition de rapporteur, 14 juin 2026",
+            "quote_url": "https://www.senat.fr/",
+            "stance_summary": "Demande une clarification des contrôles et du calendrier d'évaluation."
+          },
+          {
+            "name": "Inspection générale",
+            "initials": "IG",
+            "role": "Rapport administratif",
+            "party": "Non renseigné",
+            "photo": "",
+            "quote": "Les effets devront être suivis avec des indicateurs publics et comparables.",
+            "quote_source": "Rapport public, 18 avril 2026",
+            "quote_url": "https://www.vie-publique.fr/",
+            "stance_summary": "Recommande un suivi chiffré et régulier."
+          }
+        ]
+      },
+      {
+        "id": "appoint-default-opposition",
+        "axis": "arguments-declares",
+        "position": "against",
+        "label": "Oppositions parlementaires",
+        "summary": "Citations de démonstration pour densifier la partie défavorable.",
+        "actors": [
+          {
+            "name": "Antoine Perrin",
+            "initials": "AP",
+            "role": "Sénateur, groupe d'opposition",
+            "party": "Droite républicaine",
+            "photo": "",
+            "quote": "La mesure crée plus d'incertitudes qu'elle n'apporte de réponses solides.",
+            "quote_source": "Sénat, discussion publique, 20 juin 2026",
+            "quote_url": "https://www.senat.fr/",
+            "stance_summary": "S'oppose au texte au nom du risque d'effets non maîtrisés."
+          },
+          {
+            "name": "Collectif professionnel",
+            "initials": "CP",
+            "role": "Contribution écrite",
+            "party": "Sans affiliation partisane",
+            "photo": "",
+            "quote": "Le dispositif ne pourra fonctionner sans moyens supplémentaires et règles plus précises.",
+            "quote_source": "Contribution écrite, 24 mai 2026",
+            "quote_url": "https://www.vie-publique.fr/",
+            "stance_summary": "Alerte sur les moyens nécessaires à l'application du texte."
+          }
+        ]
+      },
+      {
+        "id": "appoint-default-technique",
+        "axis": "arguments-declares",
+        "position": "for",
+        "label": "Sources techniques favorables",
+        "summary": "Sources sans positionnement politique avéré pour occuper le second graphe.",
+        "actors": [
+          {
+            "name": "Réponse ministérielle",
+            "initials": "RM",
+            "role": "Réponse administrative",
+            "party": "Non renseigné",
+            "photo": "",
+            "quote": "Les mesures d'application feront l'objet d'une concertation avec les acteurs concernés.",
+            "quote_source": "Question écrite, réponse publiée le 11 mai 2026",
+            "quote_url": "https://questions.assemblee-nationale.fr/",
+            "stance_summary": "Expose la méthode administrative envisagée."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -79,8 +79,7 @@ class DemoRepository:
             reverse=True,
         )
 
-    @staticmethod
-    def _subject_argument_map(subject: dict) -> dict:
+    def _subject_argument_map(self, subject: dict) -> dict:
         if subject.get("argument_map"):
             argument_map = subject["argument_map"]
             clusters = argument_map.get("clusters", [])
@@ -128,6 +127,12 @@ class DemoRepository:
                 "clusters": clusters,
             }
 
+        clusters = [
+            *clusters,
+            *self._supplemental_argument_clusters(subject.get("id", "")),
+        ]
+        argument_map = {**argument_map, "clusters": clusters}
+
         return {
             **argument_map,
             "clusters_by_position": {
@@ -136,6 +141,21 @@ class DemoRepository:
                 "neutral": [cluster for cluster in clusters if cluster.get("position") == "neutral"],
             },
         }
+
+    def _supplemental_argument_clusters(self, subject_id: str) -> list[dict]:
+        if not subject_id:
+            return []
+        try:
+            items = self._load_json("argument_sources.json")
+        except FileNotFoundError:
+            return []
+        for item in items:
+            if item.get("subject_id") == subject_id:
+                return item.get("clusters", [])
+        for item in items:
+            if item.get("subject_id") == "__default__":
+                return item.get("clusters", [])
+        return []
 
     def _load_json(self, filename: str) -> list[dict]:
         path = self.data_dir / filename

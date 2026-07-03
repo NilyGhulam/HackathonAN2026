@@ -43,38 +43,29 @@
           <p class="eyebrow">Argumentaire</p>
           <h2>Carte des acteurs et des thèses</h2>
         </div>
-        <p>Les réactions sont regroupées par position, puis par thèses proches. Chaque axe indique un motif qui revient fortement dans les arguments.</p>
+        <p>Les prises de parole sont placées selon leur position dans le débat et leur famille politique, avec une zone centrale pour les acteurs hors positionnement politique.</p>
       </header>
 
-      <div class="argument-axes">
-        {% for axis in subject.argument_map.axes %}
-          <article>
-            <strong>{{ axis.label }}</strong>
-            <p>{{ axis.summary }}</p>
-          </article>
-        {% endfor %}
-      </div>
-
-      <div class="argument-lanes">
-        <section class="argument-lane argument-lane-for">
-          <h3>Pour</h3>
-          {% for cluster in subject.argument_map.clusters_by_position['for'] %}
-            {% include "partials/argument_cluster.html" %}
-          {% endfor %}
+      <script type="application/json" data-argument-map-data>{{ subject.argument_map|tojson }}</script>
+      <div class="argument-graph" data-argument-graph>
+        <section class="argument-panel">
+          <h3>Positions parlementaires situées</h3>
+          <div class="argument-plane argument-plane-positioned" aria-live="polite">
+            <span class="argument-plane-label argument-plane-for">Pour</span>
+            <span class="argument-plane-label argument-plane-against">Contre</span>
+            <span class="argument-plane-label argument-plane-left">Gauche</span>
+            <span class="argument-plane-label argument-plane-right">Droite</span>
+            <div class="argument-nodes" data-positioned-argument-nodes></div>
+          </div>
         </section>
 
-        <section class="argument-lane argument-lane-neutral">
-          <h3>Neutre / clarification</h3>
-          {% for cluster in subject.argument_map.clusters_by_position['neutral'] %}
-            {% include "partials/argument_cluster.html" %}
-          {% endfor %}
-        </section>
-
-        <section class="argument-lane argument-lane-against">
-          <h3>Contre</h3>
-          {% for cluster in subject.argument_map.clusters_by_position['against'] %}
-            {% include "partials/argument_cluster.html" %}
-          {% endfor %}
+        <section class="argument-panel">
+          <h3>Sources sans positionnement politique avéré</h3>
+          <div class="argument-plane argument-plane-unpositioned" aria-live="polite">
+            <span class="argument-plane-label argument-plane-for">Pour</span>
+            <span class="argument-plane-label argument-plane-against">Contre</span>
+            <div class="argument-nodes" data-unpositioned-argument-nodes></div>
+          </div>
         </section>
       </div>
     </section>
