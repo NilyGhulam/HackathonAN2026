@@ -1,0 +1,95 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE10723",
+    "identifiant": {
+      "numero": "10723",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Reconnaître le métier de musicothérapeute dans le champ des soins palliatifs"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793322",
+        "mandatRef": "PM840246"
+      },
+      "groupe": {
+        "organeRef": "PO872880",
+        "abrege": "UDDPLR",
+        "developpe": "Union des droites pour la République"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO873673",
+      "abrege": "Santé, familles, autonomie et personnes handicapées",
+      "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-11-04",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "organeRef": "PO873673",
+          "abrege": "Santé, familles, autonomie et personnes handicapées",
+          "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-11-04",
+          "pageJO": "8897",
+          "numJO": "20250044",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Mme Christelle D'Intorni appelle l'attention de Mme la ministre de la santé, des familles, de l'autonomie et des personnes handicapées sur la nécessité de reconnaître et de structurer le métier de musicothérapeute, en particulier dans le champ des soins palliatifs. La musicothérapie est aujourd'hui identifiée par la Haute Autorité de santé parmi les interventions non médicamenteuses à visée thérapeutique. Elle agit sur la douleur, l'anxiété, la souffrance psychique et le sommeil. Dans les unités de soins palliatifs, les EHPAD ou les services hospitaliers, elle contribue également à améliorer la qualité de vie des patients, en leur offrant un accompagnement adapté. Les musicothérapeutes exercent en complémentarité avec les équipes médicales et paramédicales sur des objectifs thérapeutiques précis et avec une supervision professionnelle régulière. De plus, leur formation est assurée par des établissements reconnus et par un diplôme universitaire. Pourtant, malgré leur rôle croissant dans le parcours de soins, la profession de musicothérapeute demeure sans cadre légal en France. Le titre n'est pas protégé, aucun statut professionnel n'en garantit la qualification et aucune norme nationale ne fixe les conditions d'exercice ou de supervision. Ce vide juridique fragilise la reconnaissance du métier et la qualité des accompagnements, particulièrement dans le contexte actuel. De surcroît, plusieurs pays européens, comme l'Allemagne, l'Autriche ou la Finlande, ont également reconnu la musicothérapie comme une profession de santé paramédicale ou réglementée. Ces pays ont établi des formations nationales, une certification professionnelle et une reconnaissance dans le parcours de soins. Pendant ce temps, la France, malgré un haut niveau de compétence de ses praticiens, accuse un retard en matière de reconnaissance institutionnelle. En parallèle, la récente proposition de loi relative aux soins palliatifs et à l'accompagnement souligne pourtant l'importance d'une approche globale qui intègre les dimensions psychologique, sociale et spirituelle de la personne. À ce titre, la musicothérapie constitue un levier cohérent avec les ambitions de la loi et avec les recommandations de l'Organisation mondiale de la santé, qui encourage depuis 2023 l'intégration de ces pratiques. En définitive, Mme le député souhaite savoir si le Gouvernement envisage d'engager une réflexion nationale sur la réglementation du titre de musicothérapeute et sur son intégration au sein des professions de santé reconnues. Elle l'interroge également sur les mesures qu'elle compte prendre pour garantir la qualité, la déontologie et la supervision des pratiques, afin d'offrir aux patients un accompagnement thérapeutique reconnu et conforme aux standards européens."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2026-05-12",
+          "pageJO": "4246",
+          "numJO": "20260019",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "L'intégration des musicothérapeutes comme profession de santé au sein du code de la santé publique nécessite un ancrage législatif. En effet, la loi doit définir le contenu de la profession, le niveau de formation, le champ de compétences et les lieux d'exercice ouverts. Des textes réglementaires d'application seraient également nécessaires pour lister les actes que ces professionnels peuvent réaliser, de même que la mise en place de mesures transitoires pour examiner l'ensemble des professionnels exerçant actuellement en tant que musicothérapeutes mais ne remplissant pas les conditions posées par la loi. La reconnaissance comme profession de santé emporterait des conséquences importantes pour les professionnels qui exercent déjà comme musicothérapeutes : obligation de souscription d'une assurance professionnelle, inscription au répertoire partagé des professionnels intervenant dans le système de santé, obligations de formation continue, mise en place d'une procédure d'équivalence de diplôme à l'échelle de l'Union européenne. Le fondement législatif n'existant pas pour réglementer le titre, ni pour créer cette profession de santé, ce chantier n'est pas actuellement ouvert ni souhaité par le ministère de la santé, de l'autonomie, des familles et des personnes handicapées."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2026-05-12",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2026-05-12",
+        "pageJO": "4246",
+        "numJO": "20260019",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

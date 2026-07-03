@@ -1,0 +1,112 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE2536",
+    "identifiant": {
+      "numero": "2536",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Amélioration de l'accès aux soins palliatifs à domicile"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794894",
+        "mandatRef": "PM840351"
+      },
+      "groupe": {
+        "organeRef": "PO845401",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO847648",
+      "abrege": "Santé et accès aux soins",
+      "developpe": "Ministère de la santé et de l’accès aux soins"
+    },
+    "minAttribs": {
+      "minAttrib": [
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2024-12-03",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO847648",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère de la santé et de l’accès aux soins"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_LOI_DECRET",
+            "dateJO": "2024-12-24",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855064",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+          }
+        }
+      ]
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2024-12-03",
+          "pageJO": "6394",
+          "numJO": "20240034",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Mme Anaïs Sabatini attire l'attention de Mme la ministre de la santé et de l'accès aux soins sur les difficultés rencontrées par certaines familles concernant l'accès aux soins palliatifs à domicile. Il persiste des obstacles administratifs liés à l'hospitalisation à domicile (HAD), notamment l'impossibilité pour les infirmiers libéraux d'accéder à certains matériels médicaux, tels que le <em>kit</em> de drainage PleurX, nécessaire au confort des patients en fin de vie. Cette restriction impose aux patients et à leurs familles de recourir au HAD, même lorsque ceux-ci préfèrent une prise en charge par une infirmière libérale à domicile, créant des situations de grande détresse et limitant la liberté de choix en fin de vie. Elle lui demande ainsi quelles mesures le Gouvernement entend prendre pour faciliter l'accès aux soins palliatifs à domicile, en dehors du cadre strict de l'HAD et permettre aux patients d'exercer pleinement leur droit à choisir leur mode de prise en charge."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-05-20",
+          "pageJO": "3696",
+          "numJO": "20250020",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Le développement de l'accès aux soins palliatifs à domicile a été l'un des axes de travail du plan national « développement des soins palliatifs et accompagnement de la fin de vie » 2021-2024 et s'est traduit par des mesures concrètes pour faciliter ces prises en charge. Ainsi, le nombre de visites longues de soins palliatifs a été déplafonné, pour permettre au médecin traitant d'engager l'évaluation médicale, d'organiser et de coordonner la prise en charge du patient requérant des soins palliatifs. En février 2022, le MIDAZOLAM à usage de sédation palliative a été rendu accessible aux médecins traitants en officines de ville. Encadrée par les règles de bonnes pratiques professionnelles éditées par la haute autorité de santé, cette marge de man&#339;uvre supplémentaire est véritablement mobilisée sur le terrain. L'Hospitalisation à domicile (HAD) figure parmi les effecteurs de soins et experts en soins palliatifs en capacité d'intervenir au chevet des patients aux différents niveaux de prise en charge. La feuille de route nationale de développement de l'HAD consacre un axe spécifique au développement des prises en charge en soins palliatifs et la récente réforme des autorisations vise à assurer une couverture optimale du territoire français. Par ailleurs, les moyens des équipes mobiles de soins palliatifs ont été renforcés à hauteur de 43,5 M&#8364; durant le plan national 2021-2024 « développement des soins palliatifs et accompagnement de la fin de vie ». Ces équipes sont directement mobilisables par les professionnels pour accompagner les prises en charge à domicile et pour orienter les patients vers des structures quand cela est nécessaire. Dans le cadre de la stratégie décennale \"soins d'accompagnement\" annoncée en avril 2024, de nouvelles actions seront conduites en faveur du développement des prises en charge à domicile des personnes en soins palliatifs ou en situation de fin de vie. Les agences régionales de santé veillent à ce qu'à l'échelle territoriale, l'ensemble des modalités de prise en charge soit présent pour permettre un accès aux soins palliatifs sur le lieu de vie des personnes malades via notamment l'hospitalisation à domicile, l'intervention d'équipes mobiles de soins palliatifs et le développement des prises en charge ambulatoires. Des filières de soins palliatifs se structurent pour organiser les prises en charge dans une logique de proximité et de coordination des intervenants. Parce que l'accès aux soins palliatifs pour tous suppose de disposer des ressources humaines requises, les mesures de soutien de l'offre palliative se combinent avec des actions de développement de la formation des professionnels qui doivent permettre de proposer à tous ceux qui le nécessitent une prise en charge de qualité, y compris à domicile."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2025-05-20",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-05-20",
+        "pageJO": "3696",
+        "numJO": "20250020",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

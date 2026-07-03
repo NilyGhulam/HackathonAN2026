@@ -1,0 +1,142 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE5560",
+    "identifiant": {
+      "numero": "5560",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Sophrologie en milieu hospitalier"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720668",
+        "mandatRef": "PM840342"
+      },
+      "groupe": {
+        "organeRef": "PO845401",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO855081",
+      "abrege": "Travail, santé, solidarités et familles",
+      "developpe": "Ministère du travail, de la santé, des solidarités et des familles"
+    },
+    "minAttribs": {
+      "minAttrib": [
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-04-01",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855081",
+            "abrege": "Travail, santé, solidarités et familles",
+            "developpe": "Ministère du travail, de la santé, des solidarités et des familles"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-04-08",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855064",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_LOI_DECRET",
+            "dateJO": "2025-10-05",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO873446",
+            "abrege": "Travail, santé, solidarités, familles, autonomie et personnes handicapées",
+            "developpe": "Ministère du travail, de la santé, des solidarités, des familles, de l’autonomie et des personnes handicapées"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_LOI_DECRET",
+            "dateJO": "2025-10-13",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO873673",
+            "abrege": "Santé, familles, autonomie et personnes handicapées",
+            "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+          }
+        }
+      ]
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-04-01",
+          "pageJO": "2195",
+          "numJO": "20250013",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. Emmanuel Blairy interroge Mme la ministre du travail, de la santé, des solidarités et des familles sur l'intérêt de la sophrologie en milieu hospitalier, notamment pour les patients en fin de vie. Dans un environnement où la douleur, l'angoisse et la solitude sont omniprésentes, il est essentiel de proposer des solutions permettant d'améliorer la qualité de vie des patients. Parmi ces solutions, la sophrologie apparaît comme un outil précieux pour accompagner ces patients avec plus de sérénité dans leurs derniers instants. Cette méthode de relaxation, basée sur la respiration, la détente musculaire et la visualisation positive, présente de nombreux bénéfices. Tout d'abord, elle permet un apaisement de la douleur : en complément des soins palliatifs, elle aide à mieux la gérer en détournant l'attention et en relâchant les tensions physiques. Ensuite, elle contribue à une réduction de l'anxiété : pour les patients en fin de vie, l'angoisse liée à la peur de l'inconnu ou à l'isolement peut être atténuée grâce à des exercices de respiration et de méditation guidée. La sophrologie joue également un rôle essentiel dans le soutien psychologique des patients, en les aidant à cheminer intérieurement vers une meilleure acceptation de leur état et un lâcher-prise face à la maladie. Par ailleurs, son intégration en milieu hospitalier permettrait aussi une amélioration du bien-être des soignants, souvent confrontés à une charge émotionnelle lourde. La pratique de la sophrologie leur offrirait un outil efficace pour mieux gérer leur stress et leur fatigue au quotidien. Pour que cette méthode puisse être déployée efficacement, il est nécessaire de mettre en place des mesures concrètes. Cela passe notamment par la formation des soignants, en leur proposant une initiation à la sophrologie afin qu'ils puissent l'intégrer dans leur pratique quotidienne. Il serait également pertinent de désigner un référent sophrologie par service, un professionnel formé qui pourrait accompagner patients et soignants et assurer la bonne application de cette méthode. Enfin, la création d'espaces dédiés à la relaxation dans les hôpitaux permettrait à ceux qui le souhaitent de pratiquer ces exercices dans un cadre adapté et apaisant. Aujourd'hui, plusieurs établissements pionniers en France ont déjà intégré la sophrologie dans leurs services hospitaliers, avec des résultats très encourageants. Pourtant, cette pratique demeure encore marginale et largement sous-exploitée. Il lui demande si le Gouvernement envisage de soutenir et de généraliser l'intégration de la sophrologie en milieu hospitalier, notamment dans les services de soins palliatifs, en formant les soignants et en mettant en place des référents spécialisés."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2026-05-12",
+          "pageJO": "4213",
+          "numJO": "20260019",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Les soins palliatifs et d'accompagnement ont pour objet, à l'initiative et sous la conduite des médecins et des professionnels de l'équipe de soins, de garantir une prise en charge globale et de proximité de la personne malade afin de préserver sa dignité, sa qualité de vie et son bien-être. Ils comprennent des soins de support et de confort destinés à répondre aux besoins physiques de la personne, dont le traitement de la douleur, ainsi qu'à ses besoins psychologiques et sociaux. Dans ce cadre, développer l'accès à des thérapeutiques non médicamenteuses est encouragé. Les équipes de soins palliatifs tracent depuis plusieurs années la voie de prises en charge innovantes, embrassant l'ensemble des pratiques et des techniques à disposition pour apaiser les souffrances des patients. Ainsi, la sophrologie relève de pratiques de plus en plus associées aux soins, notamment en oncologie. Dans le cadre de la Stratégie décennale d'accompagnement et de soins palliatifs, sont conduites des actions de soutien de l'offre de soins ainsi que d'accompagnement des personnes malades et de leurs proches, couplées à des actions de renforcement de la formation et d'appropriation de pratiques garantes d'anticipation et de réévaluation régulière des besoins. Des réflexions sur la sophrologie pourront être conduites dans ce cadre. Par ailleurs, la thématique « Prise en charge palliative dont l'accompagnement de la fin de vie » fait partie des actions de formation nationale dont le déploiement national et pluriannuel est confié à l'association nationale pour la formation permanente du personnel hospitalier. Un appel d'offre a été lancé sur la base d'un cahier des charges, à l'issue duquel des sessions seront inscrites au catalogue des quatre prochaines années. Le ministère chargé de la santé rendra compte régulièrement de l'avancée des actions conduites et veillera à mettre en visibilité les résultats tangibles obtenus avec le concours de l'ensemble des parties prenantes, et notamment des agences régionales de santé sous l'égide desquelles se structurent les filières de soins palliatifs."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2026-05-12",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2026-05-12",
+        "pageJO": "4213",
+        "numJO": "20260019",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

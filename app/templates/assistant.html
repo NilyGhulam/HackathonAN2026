@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block title %}Assistant — {{ subject.title }} — AgoraLoi{% endblock %}
+{% block content %}
+<section class="page-header">
+  <p class="eyebrow">{{ category.label }} · {{ subtheme.label }}</p>
+  <h1>Assistant — {{ subject.title }}</h1>
+</section>
+
+<nav class="assistant-modes">
+  <a
+    class="button {{ '' if mode == 'question' else 'secondary' }}"
+    href="/sujets/{{ subject.id }}/assistant?mode=question"
+  >Poser une question</a>
+  <a
+    class="button {{ '' if mode == 'participer' else 'secondary' }}"
+    href="/sujets/{{ subject.id }}/assistant?mode=participer"
+  >Participer activement à ce débat</a>
+</nav>
+
+{% if mode == 'participer' %}
+<section class="section layout {{ 'two-columns' if participation_result else 'single-column' }}">
+  <article class="panel assistant-form">
+    <h2>Votre initiative</h2>
+    <p>
+      Décrivez ce que vous voulez faire (mobiliser, proposer une évolution, contribuer à une
+      consultation, interpeller un représentant...) : l'assistant vous indique les personnes et
+      sites officiels adaptés.
+    </p>
+    <form method="post" action="/sujets/{{ subject.id }}/assistant/participer" class="form">
+      <label for="initiative_text">Votre initiative</label>
+      <textarea
+        id="initiative_text"
+        name="initiative_text"
+        rows="6"
+        placeholder="Ex. Je voudrais lancer une pétition pour renforcer les soins palliatifs avant toute évolution du cadre légal."
+      >{{ initiative_text or '' }}</textarea>
+      <button class="button" type="submit">M'orienter</button>
+    </form>
+  </article>
+
+  {% if participation_result %}
+    <article class="panel result-panel">
+      <p class="tag">{{ participation_result.output_label }}</p>
+      <p>{{ participation_result.reason }}</p>
+      <h3>Personnes et sites qui peuvent vous aider</h3>
+      <ul class="channels">
+        {% for channel in participation_result.channels %}
+          <li><a href="{{ channel.url }}">{{ channel.label }}</a><br><span>{{ channel.note }}</span></li>
+        {% endfor %}
+      </ul>
+    </article>
+  {% endif %}
+</section>
+{% else %}
+<section class="section layout {{ 'two-columns' if question_result else 'single-column' }}">
+  <article class="panel assistant-form">
+    <h2>Votre question</h2>
+    <form method="post" action="/sujets/{{ subject.id }}/assistant/question" class="form">
+      <label for="question">Question</label>
+      <textarea
+        id="question"
+        name="question"
+        rows="6"
+        placeholder="Ex. Est-ce que cette mesure s'applique tout de suite ? Quels sont les arguments contre ?"
+      >{{ question_result.question if question_result else '' }}</textarea>
+      <button class="button" type="submit">Demander à l'assistant</button>
+    </form>
+  </article>
+
+  {% if question_result %}
+    <article class="panel result-panel">
+      <p class="tag">Réponse de l'assistant</p>
+      <p class="assistant-answer">{{ question_result.answer }}</p>
+      <p class="notice">{{ question_result.disclaimer }}</p>
+      <h3>Pages pertinentes</h3>
+      <ul class="channels">
+        {% for link in question_result.links %}
+          <li><a href="{{ link.url }}">{{ link.label }}</a><br><span>{{ link.note }}</span></li>
+        {% endfor %}
+      </ul>
+    </article>
+  {% endif %}
+</section>
+{% endif %}
+
+<a class="button secondary" href="/sujets/{{ subject.id }}">Retour au sujet</a>
+{% endblock %}

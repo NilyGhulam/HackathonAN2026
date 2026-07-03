@@ -1,0 +1,112 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE3029",
+    "identifiant": {
+      "numero": "3029",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Développement des soins palliatifs dans l'Indre"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719778",
+        "mandatRef": "PM842744"
+      },
+      "groupe": {
+        "organeRef": "PO845470",
+        "abrege": "HOR",
+        "developpe": "Horizons & Indépendants"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO855081",
+      "abrege": "Travail, santé, solidarités et familles",
+      "developpe": "Ministère du travail, de la santé, des solidarités et des familles"
+    },
+    "minAttribs": {
+      "minAttrib": [
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-01-07",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855081",
+            "abrege": "Travail, santé, solidarités et familles",
+            "developpe": "Ministère du travail, de la santé, des solidarités et des familles"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-02-18",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855064",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+          }
+        }
+      ]
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-01-07",
+          "pageJO": "39",
+          "numJO": "20250001",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. François Jolivet attire l'attention de Mme la ministre du travail, de la santé, des solidarités et des familles sur la situation des habitants de départements non dotés de centres de soins palliatifs comme le département de l'Indre. Le projet de loi relatif à l'accompagnement des malades et de la fin de vie, dont la discussion est pour l'heure interrompue, n'est pas une réponse de court terme. Il souhaiterait donc connaître les voies et moyens envisagés pour le Gouvernement pour répondre au défi des soins palliatifs partout en France et sur les éléments de calendrier de mise en œuvre."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-04-08",
+          "pageJO": "2584",
+          "numJO": "20250014",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Le renforcement de l'offre de soins palliatifs pour mieux répondre aux besoins actuels et futurs de nos concitoyens est une priorité du ministère de la santé. Le département de l'Indre dispose aujourd'hui d'une équipe mobile de soins palliatifs et de lits identifiés de soins palliatifs, avec un ratio de 17,8 lits pour 100 000 habitants, à comparer au ratio national moyen de 8,1 lits pour 100 000 habitants. Par ailleurs, un appel à projets a été lancé par l'Agence régionale de santé (ARS) pour créer une unité de soins palliatifs sur ce territoire courant 2025. A l'échelle nationale, le plan de soins palliatifs 2021-2024 a permis de soutenir par des crédits nouveaux des équipes expertes à hauteur de 80 M&#8364; sur la période et avec la stratégie décennale annoncée en avril 2024, ce sont 100 M&#8364; de mesures nouvelles qui seront dédiées annuellement au renfort des soins palliatifs et à l'accompagnement de la fin de vie. Ces crédits serviront notamment à la création de nouvelles unités, dans un objectif d'accès à des soins très spécialisés, en structure hospitalière et en proximité. Les ARS veilleront à ce qu'à l'échelle territoriale, l'ensemble des modalités permettent un accès aux soins palliatifs à l'hôpital et sur le lieu de vie des personnes malades, via notamment l'hospitalisation à domicile, l'intervention d'équipes mobiles de soins palliatifs et le développement de l'ambulatoire. Les filières soins palliatifs sont en cours de structuration à l'échelle des territoires pour garantir l'accès à des soins adaptés, dans une logique de proximité de la prise en charge et d'adéquation de l'offre à la demande des personnes malades et de leurs proches. L'enjeu est bien d'accompagner le déploiement de pratiques et de moyens garants d'une prise en charge conforme à la démarche palliative qui inclue les soins et l'accompagnement. Pour atteindre cet objectif, il est nécessaire de disposer des ressources humaines en nombre suffisant et formées aux soins palliatifs. Des actions de développement de la formation des professionnels sont donc prévues. La formation spécialisée transversale « médecine palliative » ouvre un nombre de postes réévalué tous les ans qui attire des internes de spécialités variées. La thématique de la « Prise en charge palliative et accompagnement de la fin de vie » figure dans les orientations du développement professionnel continu pour 2023-2025 et elle a été retenue comme action de formation nationale pour 2025, et ce pour quatre ans, dans le cadre du développement des compétences des personnels de la fonction publique hospitalière. Au-delà de ces mesures, la stratégie décennale prévoit des mesures visant à mieux former les professionnels, notamment en conférant une reconnaissance universitaire à la médecine palliative et d'accompagnement."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2025-04-08",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-04-08",
+        "pageJO": "2584",
+        "numJO": "20250014",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

@@ -19,7 +19,7 @@ Le cœur du projet : **cartographier le débat public existant** à partir de tr
 - Il ne collecte pas d'opinions citoyennes par défaut.
 - Il ne publie pas de contributions d'utilisateurs.
 - Il ne transmet rien à un élu ou à une plateforme externe.
-- Il n'appelle pas encore de LLM externe.
+- Sans clé API configurée, il n'appelle aucun LLM externe (l'assistant reste déterministe).
 - Il utilise des données fictives de démonstration, prêtes à être remplacées par les ressources ouvertes.
 
 ## Installation
@@ -32,6 +32,20 @@ pip install -r requirements.txt
 ```
 
 Puis ouvrir : http://127.0.0.1:8000
+
+### Activer l'assistant IA (optionnel)
+
+Par défaut, l'assistant du sujet (questions / orientation civique) répond avec une logique
+déterministe (mots-clés, taxonomie), sans appel réseau. Pour activer un vrai LLM (Groq, API
+compatible OpenAI), créez un fichier `.env` à la racine du projet (déjà ignoré par git) :
+
+```bash
+GROQ_API_KEY="votre_clé"
+# optionnel : GROQ_MODEL="llama-3.3-70b-versatile"
+```
+
+Le prompt système utilisé est `docs/api/extraction_prompt.md` (Mode B). Sans `GROQ_API_KEY`,
+ou en cas d'erreur réseau, l'assistant retombe automatiquement sur sa logique déterministe.
 
 ## Tests
 

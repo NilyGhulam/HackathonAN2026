@@ -1,0 +1,127 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE1681",
+    "identifiant": {
+      "numero": "1681",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Moyens financiers et humains pour améliorer l'accès aux soins palliatifs"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794762",
+        "mandatRef": "PM843233"
+      },
+      "groupe": {
+        "organeRef": "PO845401",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO847648",
+      "abrege": "Santé et accès aux soins",
+      "developpe": "Ministère de la santé et de l’accès aux soins"
+    },
+    "minAttribs": {
+      "minAttrib": [
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2024-11-05",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO847648",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère de la santé et de l’accès aux soins"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_LOI_DECRET",
+            "dateJO": "2024-12-24",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855064",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-01-28",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855081",
+            "abrege": "Travail, santé, solidarités et familles",
+            "developpe": "Ministère du travail, de la santé, des solidarités et des familles"
+          }
+        }
+      ]
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2024-11-05",
+          "pageJO": "5837",
+          "numJO": "20240030",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Mme Sandrine Dogor-Such rappelle à Mme la ministre de la santé et de l'accès aux soins que, lors de son discours de politique générale, M. le Premier ministre a annoncé que des « efforts en faveur des soins palliatifs seront renforcés dès 2025 ». Il est en effet urgent d'amorcer le déploiement de la stratégie décennale de soins palliatifs actée par le précédent gouvernement au début de l'année. 25 ans après, la loi de 1999 n'est toujours pas correctement appliquée sur l'ensemble du territoire. La réalité du terrain est que 20 départements ne disposent toujours pas d'unités de soins palliatifs, c'est-à-dire d'un service capable d'accueillir des malades dans les situations les plus difficiles et que 500 personnes meurent encore par jour sans avoir accès aux soins dont elles auraient besoin : soulager la douleur, apaiser la souffrance psychologique, sauvegarder la dignité de la personne malade et de son entourage. Le système de santé français est très abimé et de nombreux postes sont supprimés. L'urgence aujourd'hui est de trouver des soignants, de pouvoir se fournir en médicaments souvent manquants pour soulager les patients. Il avait été annoncé un milliard d'euros supplémentaires sur dix ans par le précédent gouvernement. En raison du vieillissement de la population, le besoin en soins palliatifs va augmenter considérablement. Les soins palliatifs sont le symbole d'un choix de société de la solidarité et de l'interdépendance prête à secourir la fragilité. Ils sont le choix d'une société solidaire et fraternelle qui a le souci des plus fragiles. Elle souhaite donc savoir quels moyens financiers, humains, universitaires et scientifiques Mme la ministre souhaite donc enfin mettre en place pour permettre aux Français d'y accéder partout sur le territoire."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-02-25",
+          "pageJO": "1262",
+          "numJO": "20250008",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Le renforcement de l'offre de soins palliatifs pour mieux répondre aux besoins actuels et futurs de nos concitoyens est une priorité du Gouvernement. Dans le cadre de la stratégie décennale annoncée en avril 2024, ce sont 100 M&#8364; supplémentaires qui seront dédiés annuellement au renfort des soins palliatifs et à l'accompagnement de la fin de vie, dès 2025. L'un des objectifs de la stratégie décennale est d'assurer l'accès aux soins palliatifs en tout point du territoire. Des crédits sont ainsi alloués pour aider à la création de nouvelles unités de soins palliatifs, dans un objectif d'accès à des soins très spécialisés, en structure hospitalière et en proximité. Ainsi, ce sont 14 projets qui seront accompagnés dans les prochains mois pour doter en unités de soins palliatifs les départements qui n'en disposent pas. Au-delà de la prise en charge spécialisée assurée dans les unités de soins palliatifs, les agences régionales de santé sont particulièrement vigilantes à ce que cet accès aux soins palliatifs soit assuré, à l'hôpital, mais aussi sur le lieu de vie des personnes malades via notamment l'hospitalisation à domicile, l'intervention d'équipes mobiles de soins palliatifs ou encore le développement des prises en charge ambulatoires. Des filières de soins palliatifs sont en cours de structuration pour garantir l'accès à des soins adaptés, dans une logique de proximité et de réponse aux besoins des personnes malades et de leurs proches, aussi bien en termes de soins que d'accompagnement. Cela suppose également de disposer de professionnels formés pour réaliser les missions spécifiques des unités de soins palliatifs, d'où les actions de développement de la formation des professionnels prévues par la stratégie décennale."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2025-02-25",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-02-25",
+        "pageJO": "1262",
+        "numJO": "20250008",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

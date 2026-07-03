@@ -1,0 +1,112 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE5337",
+    "identifiant": {
+      "numero": "5337",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Dissociation loi soins palliatifs et loi fin de vie"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA840979",
+        "mandatRef": "PM842588"
+      },
+      "groupe": {
+        "organeRef": "PO845425",
+        "abrege": "DR",
+        "developpe": "Droite Républicaine"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO855081",
+      "abrege": "Travail, santé, solidarités et familles",
+      "developpe": "Ministère du travail, de la santé, des solidarités et des familles"
+    },
+    "minAttribs": {
+      "minAttrib": [
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-03-25",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855081",
+            "abrege": "Travail, santé, solidarités et familles",
+            "developpe": "Ministère du travail, de la santé, des solidarités et des familles"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-04-01",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855064",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+          }
+        }
+      ]
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-03-25",
+          "pageJO": "2024",
+          "numJO": "20250012",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. Corentin Le Fur attire l'attention de Mme la ministre du travail, de la santé, des solidarités et des familles sur l'impérieuse nécessité de dissocier une loi de programmation en faveur des soins palliatifs de toute évolution éventuelle de la loi (dite « Claeys-Léonetti ») n° 2016-87 du 2 février 2016 créant de nouveaux droits en faveur des malades et des personnes en fin de vie qui ne pourrait être qu'ultérieure. En effet, les deux sujets relèvent de logiques totalement antagonistes, l'accès aux soins palliatifs étant un droit, inscrit dans l'article L. 1110-9 du code de la santé publique qui comprend le soin et l'accompagnement. Ce droit relève du principe à valeur constitutionnelle de sauvegarde de la dignité de la personne humaine, la prise en charge de la souffrance étant « un des aspects les plus importants de cette dignité ». De plus, comme le soulignait le Conseil d'État en 2018, le développement des soins palliatifs constitue un facteur déterminant dans la résolution des questions éthiques soulevées par les situations de vie : « En effet, l'accès du malade à des soins palliatifs détermine largement le degré des souffrances qu'il sera conduit à endurer en situation de fin de vie et ce sont ces souffrances qui joueront un rôle déterminant dans la formation de ses attentes à l'égard du monde médical dans les derniers moments de son existence. En d'autres termes, la volonté du malade, repère essentiel des pratiques médicales en situation de fin de vie, dépend en grande partie de la manière dont sa douleur sera prise en charge par le système de soins. À cet égard, l'expression d'une demande d'aide anticipée à mourir ne devrait jamais naître d'un accès insuffisant à des soins palliatifs ». En 2023, le rapport d'évaluation de la loi « Claeys-Léonetti » notait aussi que, « dans la plupart des cas, les personnes en fin de vie ne demandent plus à mourir lorsqu'elles sont prises en charge et accompagnées de manière adéquate ». Dans son rapport de juillet 2023, la Cour des Comptes constate que les besoins estimés de soins palliatifs ne seraient couverts qu'à hauteur de 50 %. Si la majorité des territoires disposent d'unités spécialisées dans la prise en charge palliative, dix-neuf départements en sont encore dépourvus. Dans ces conditions, il apparaît clairement que les moyens alloués à la stratégie décennale dévoilée par le Gouvernement, en avril 2024, sont largement insuffisants pour répondre aux besoins, d'autant qu'elle ne prend pas en compte la forte hausse des besoins liée au vieillissement de la population. En outre, l'ouverture annoncée d'unités de soins palliatifs dès 2024 dans une dizaine de départements qui n'en disposent toujours pas n'a pas été effective. À ce jour, seules deux unités ont ouvert, dans le Cher et dans le Lot. Ainsi, l'effet de ciseau entre des besoins croissants et des moyens lacunaires pourrait conduire à une dégradation supplémentaire des soins dont les personnes en fin de vie auront besoin. Par conséquent, il lui demande de bien vouloir lui indiquer s'il entend présenter un projet de loi de programmation des soins palliatifs qui fasse résolument le choix du soin."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-07-08",
+          "pageJO": "6141",
+          "numJO": "20250027",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Deux propositions de loi, l'une relative à l'accompagnement et aux soins palliatifs, l'autre relative au droit à l'aide à mourir viennent d'être adoptées par l'Assemblée nationale. C'est dans ce cadre que doit s'inscrire la réponse aux besoins de chacun en matière d'accès aux soins palliatifs et d'accompagnement de fin de vie. Par ailleurs, la stratégie décennale d'accompagnement et de soins palliatifs 2024-2034, qui bénéficiera d'un financement à hauteur de 1,1 milliard d'euros sur la période, doit permettre de renforcer l'offre de soins palliatifs et de poursuivre les actions en faveur du développement des équipes formées, pour une prise en charge sur l'ensemble du territoire des personnes qui le nécessitent. En 2024, ce sont ainsi 17 Unités de soins palliatifs (USP) qui ont été accompagnées, notamment dans le Cher, dans le Lot et dans les Hautes-Pyrénées, trois départements jusqu'alors non dotés d'USP. De nouveaux projets seront accompagnés en 2025 de sorte que, sur la période 2024-2026, 13 USP seront déployées dans des départements qui n'en disposaient pas jusque-là. Des actions de renforcement de la formation des professionnels sont également menées pour rendre possible ce développement de l'offre et garantir la qualité des prises en charge. Le ministère de la santé rendra compte régulièrement de l'avancée des actions conduites et veillera à fournir les résultats des indicateurs objectivant cette meilleure réponse aux besoins, recherchée avec le concours de l'ensemble des parties prenantes, et notamment des agences régionales de santé sous l'égide desquelles se structurent les filières de soins palliatifs sur l'ensemble du territoire."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2025-07-08",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-07-08",
+        "pageJO": "6141",
+        "numJO": "20250027",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

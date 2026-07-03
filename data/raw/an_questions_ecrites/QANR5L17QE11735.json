@@ -1,0 +1,71 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE11735",
+    "identifiant": {
+      "numero": "11735",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Généralisation des directives anticipées via le mariage"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719024",
+        "mandatRef": "PM842390"
+      },
+      "groupe": {
+        "organeRef": "PO845454",
+        "abrege": "DEM",
+        "developpe": "Les Démocrates"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO873673",
+      "abrege": "Santé, familles, autonomie et personnes handicapées",
+      "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-12-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "organeRef": "PO873673",
+          "abrege": "Santé, familles, autonomie et personnes handicapées",
+          "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-12-16",
+          "pageJO": "10229",
+          "numJO": "20250050",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. Christophe Blanchet interroge Mme la ministre de la santé, des familles, de l'autonomie et des personnes handicapées sur le faible recours aux directives anticipées et les opportunités de sensibilisation lors des démarches d'état civil. Alors que la loi Claeys-Leonetti de 2016 a renforcé ce droit, une minorité de Français a formellement rédigé ses directives, laissant souvent les familles et le corps médical dans l'incertitude lors de fins de vie difficiles. Or l'officier d'état civil joue un rôle central lors des moments clés de la vie citoyenne. La constitution du dossier de mariage ou de PACS, moment de réflexion sur la protection mutuelle des époux, constitue une opportunité administrative unique et peu coûteuse pour aborder ce sujet. Il ne s'agit pas d'imposer, mais de systématiser l'information. Il lui demande si le Gouvernement envisage d'intégrer, lors des démarches préalables au mariage ou au PACS en mairie, la remise systématique d'un formulaire ou d'une notice explicative sur les directives anticipées et la désignation de la personne de confiance, afin de normaliser cette démarche de prévoyance au sein des familles."
+      }
+    },
+    "textesReponse": null,
+    "cloture": null,
+    "signalement": null,
+    "renouvellements": null
+  }
+}

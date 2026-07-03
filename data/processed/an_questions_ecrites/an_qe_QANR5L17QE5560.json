@@ -1,0 +1,120 @@
+{
+  "schema_version": "0.1.0",
+  "processing": {
+    "run_id": "run_1ebee0d7c839",
+    "processed_at": "2026-07-03T15:59:34.360789+00:00",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_version": "agoraloi_prompt_v0.2",
+    "status": "automatic",
+    "global_confidence": 0.8,
+    "warnings": []
+  },
+  "raw_source": {
+    "id": "an_qe_QANR5L17QE5560",
+    "type": "written_question",
+    "institution": "assemblee_nationale",
+    "date": "2025-04-01",
+    "title": "Sophrologie en milieu hospitalier",
+    "url": "https://questions.assemblee-nationale.fr/q17/17-5560QE.htm",
+    "official_identifier": "QANR5L17QE5560",
+    "original_text": "Question : M. Emmanuel Blairy interroge Mme la ministre du travail, de la santé, des solidarités et des familles sur l'intérêt de la sophrologie en milieu hospitalier, notamment pour les patients en fin de vie. Dans un environnement où la douleur, l'angoisse et la solitude sont omniprésentes, il est essentiel de proposer des solutions permettant d'améliorer la qualité de vie des patients. Parmi ces solutions, la sophrologie apparaît comme un outil précieux pour accompagner ces patients avec plus de sérénité dans leurs derniers instants. Cette méthode de relaxation, basée sur la respiration, la détente musculaire et la visualisation positive, présente de nombreux bénéfices. Tout d'abord, elle permet un apaisement de la douleur : en complément des soins palliatifs, elle aide à mieux la gérer en détournant l'attention et en relâchant les tensions physiques. Ensuite, elle contribue à une réduction de l'anxiété : pour les patients en fin de vie, l'angoisse liée à la peur de l'inconnu ou à l'isolement peut être atténuée grâce à des exercices de respiration et de méditation guidée. La sophrologie joue également un rôle essentiel dans le soutien psychologique des patients, en les aidant à cheminer intérieurement vers une meilleure acceptation de leur état et un lâcher-prise face à la maladie. Par ailleurs, son intégration en milieu hospitalier permettrait aussi une amélioration du bien-être des soignants, souvent confrontés à une charge émotionnelle lourde. La pratique de la sophrologie leur offrirait un outil efficace pour mieux gérer leur stress et leur fatigue au quotidien. Pour que cette méthode puisse être déployée efficacement, il est nécessaire de mettre en place des mesures concrètes. Cela passe notamment par la formation des soignants, en leur proposant une initiation à la sophrologie afin qu'ils puissent l'intégrer dans leur pratique quotidienne. Il serait également pertinent de désigner un référent sophrologie par service, un professionnel formé qui pourrait accompagner patients et soignants et assurer la bonne application de cette méthode. Enfin, la création d'espaces dédiés à la relaxation dans les hôpitaux permettrait à ceux qui le souhaitent de pratiquer ces exercices dans un cadre adapté et apaisant. Aujourd'hui, plusieurs établissements pionniers en France ont déjà intégré la sophrologie dans leurs services hospitaliers, avec des résultats très encourageants. Pourtant, cette pratique demeure encore marginale et largement sous-exploitée. Il lui demande si le Gouvernement envisage de soutenir et de généraliser l'intégration de la sophrologie en milieu hospitalier, notamment dans les services de soins palliatifs, en formant les soignants et en mettant en place des référents spécialisés.\n\nRéponse du Gouvernement : Les soins palliatifs et d'accompagnement ont pour objet, à l'initiative et sous la conduite des médecins et des professionnels de l'équipe de soins, de garantir une prise en charge globale et de proximité de la personne malade afin de préserver sa dignité, sa qualité de vie et son bien-être. Ils comprennent des soins de support et de confort destinés à répondre aux besoins physiques de la personne, dont le traitement de la douleur, ainsi qu'à ses besoins psychologiques et sociaux. Dans ce cadre, développer l'accès à des thérapeutiques non médicamenteuses est encouragé. Les équipes de soins palliatifs tracent depuis plusieurs années la voie de prises en charge innovantes, embrassant l'ensemble des pratiques et des techniques à disposition pour apaiser les souffrances des patients. Ainsi, la sophrologie relève de pratiques de plus en plus associées aux soins, notamment en oncologie. Dans le cadre de la Stratégie décennale d'accompagnement et de soins palliatifs, sont conduites des actions de soutien de l'offre de soins ainsi que d'accompagnement des personnes malades et de leurs proches, couplées à des actions de renforcement de la formation et d'appropriation de pratiques garantes d'anticipation et de réévaluation régulière des besoins. Des réflexions sur la sophrologie pourront être conduites dans ce cadre. Par ailleurs, la thématique « Prise en charge palliative dont l'accompagnement de la fin de vie » fait partie des actions de formation nationale dont le déploiement national et pluriannuel est confié à l'association nationale pour la formation permanente du personnel hospitalier. Un appel d'offre a été lancé sur la base d'un cahier des charges, à l'issue duquel des sessions seront inscrites au catalogue des quatre prochaines années. Le ministère chargé de la santé rendra compte régulièrement de l'avancée des actions conduites et veillera à mettre en visibilité les résultats tangibles obtenus avec le concours de l'ensemble des parties prenantes, et notamment des agences régionales de santé sous l'égide desquelles se structurent les filières de soins palliatifs.",
+    "metadata": {
+      "legislature": "17",
+      "numero": "5560",
+      "rubrique": "fin de vie et soins palliatifs",
+      "code_cloture": "REP_PUB"
+    }
+  },
+  "extracted_traces": [
+    {
+      "id": "trace_sophrologie_001",
+      "source_id": "an_qe_QANR5L17QE5560",
+      "summary": "La question écrite interroge le Gouvernement sur l'intégration de la sophrologie en milieu hospitalier, notamment pour les patients en fin de vie, pour améliorer leur qualité de vie.",
+      "argument_role": "evaluation_request",
+      "position": "neutral",
+      "public_policy_domains": [
+        "sante"
+      ],
+      "affected_publics": [
+        "patients en fin de vie",
+        "soignants"
+      ],
+      "issues": [
+        "soins_palliatifs",
+        "sophrologie"
+      ],
+      "evidence": [
+        {
+          "quote": "La sophrologie apparaît comme un outil précieux pour accompagner les patients avec plus de sérénité dans leurs derniers instants.",
+          "source_url": "https://questions.assemblee-nationale.fr/q17/17-5560QE.htm"
+        }
+      ],
+      "confidence": 0.8,
+      "validation_status": "automatic"
+    }
+  ],
+  "taxonomy_links": [
+    {
+      "domain_id": "sante",
+      "domain_label": "Santé",
+      "subtheme_id": "droits-patients-fin-vie",
+      "subtheme_label": "Droits des patients et fin de vie",
+      "subject_id": "aide-a-mourir",
+      "subject_title": "Aide à mourir",
+      "link_strength": "weak",
+      "rationale": "La question porte sur l'amélioration de la qualité de vie des patients en fin de vie, ce qui peut être lié à l'aide à mourir.",
+      "confidence": 0.6
+    }
+  ],
+  "subject_updates": [
+    {
+      "subject_id": "aide-a-mourir",
+      "subject_title": "Aide à mourir",
+      "summary": "La question écrite soulève la question de l'intégration de la sophrologie en milieu hospitalier pour améliorer la qualité de vie des patients en fin de vie.",
+      "context_update": "La sophrologie est présentée comme un outil pour accompagner les patients en fin de vie avec plus de sérénité.",
+      "timeline_events": [
+        {
+          "date": "2025-04-01",
+          "type": "Question écrite",
+          "title": "Sophrologie en milieu hospitalier",
+          "summary": "La question écrite interroge le Gouvernement sur l'intégration de la sophrologie en milieu hospitalier.",
+          "url": "https://questions.assemblee-nationale.fr/q17/17-5560QE.htm"
+        }
+      ],
+      "actors": [
+        {
+          "id": "emmanuel_blairy",
+          "name": "Emmanuel Blairy",
+          "type": "elected_official",
+          "role": "Député, auteur de la question écrite",
+          "party": "Non renseigné",
+          "photo_url": "",
+          "stance_summary": "Demande l'intégration de la sophrologie en milieu hospitalier pour améliorer la qualité de vie des patients en fin de vie."
+        }
+      ],
+      "argument_clusters": [
+        {
+          "id": "cluster_sophrologie_fin_vie",
+          "axis": "sophrologie_fin_vie",
+          "position": "for",
+          "label": "Intégration de la sophrologie en milieu hospitalier",
+          "summary": "La sophrologie est présentée comme un outil pour améliorer la qualité de vie des patients en fin de vie.",
+          "actors": [
+            {
+              "actor_id": "emmanuel_blairy",
+              "quote": "La sophrologie apparaît comme un outil précieux pour accompagner les patients avec plus de sérénité dans leurs derniers instants.",
+              "quote_source": "Question écrite n°5560, 17e législature",
+              "stance_summary": "Demande l'intégration de la sophrologie en milieu hospitalier pour améliorer la qualité de vie des patients en fin de vie.",
+              "evidence": [
+                {
+                  "quote": "La sophrologie apparaît comme un outil précieux pour accompagner les patients avec plus de sérénité dans leurs derniers instants.",
+                  "source_url": "https://questions.assemblee-nationale.fr/q17/17-5560QE.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

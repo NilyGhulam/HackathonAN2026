@@ -1,0 +1,95 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE11494",
+    "identifiant": {
+      "numero": "11494",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Evolution du volet médical du certificat de décès et sédation"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA642847",
+        "mandatRef": "PM843056"
+      },
+      "groupe": {
+        "organeRef": "PO845425",
+        "abrege": "DR",
+        "developpe": "Droite Républicaine"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO873673",
+      "abrege": "Santé, familles, autonomie et personnes handicapées",
+      "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-12-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "organeRef": "PO873673",
+          "abrege": "Santé, familles, autonomie et personnes handicapées",
+          "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-12-09",
+          "pageJO": "10043",
+          "numJO": "20250049",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. Thibault Bazin attire l'attention de Mme la ministre de la santé, des familles, de l'autonomie et des personnes handicapées sur les travaux lancés le 23 septembre 2025 par la direction générale de la santé (DGS) relatifs à l'évolution du volet médical du certificat de décès. Les documents de cadrage indiquent que ce groupe de travail vise notamment à « répondre à des enjeux sociétaux » et, plus spécifiquement, à « améliorer le suivi de la mise en œuvre de la loi dite \"Claeys-Leonetti\" en permettant d'identifier les décès faisant suite à une sédation profonde et continue ». La perspective d'introduire une mention spécifique permettant d'isoler les décès survenus dans le cadre d'une sédation profonde et continue interroge quant à la portée et à la signification d'une telle distinction. En effet, la sédation profonde et continue, telle que définie par la loi du 2 février 2016, constitue un acte médical pleinement intégré aux soins palliatifs, strictement encadré, reconnu comme un droit du patient et ne pouvant en aucun cas être assimilé à un acte visant à provoquer la mort. La catégoriser à part au sein du certificat de décès pourrait induire l'idée qu'il s'agit d'une pratique exceptionnelle, extérieure au cadre médical ordinaire et contribuer ainsi à en altérer la perception ou à fragiliser son statut juridique. Si l'objectif de la DGS peut s'expliquer par la volonté d'améliorer la traçabilité de ces pratiques, les débats bioéthiques récents ayant mis en évidence le manque de données dans ce domaine, cette démarche nécessite toutefois des garanties solides pour éviter toute interprétation erronée. Il lui demande donc quelles garanties juridiques, éthiques et pratiques le Gouvernement entend mettre en place afin que l'amélioration de la traçabilité de la sédation profonde et continue ne conduise pas à une catégorisation particulière susceptible d'en modifier la compréhension, la perception publique ou le statut juridique et n'alimente pas des confusions préjudiciables sur la nature de cet acte médical encadré."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2026-05-26",
+          "pageJO": "4673",
+          "numJO": "20260021",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "A l'automne 2025, des travaux ont été lancés par le ministère de la santé et l'Institut national de la santé et de la recherche médicale (INSERM) pour actualiser le volet médical du certificat de décès afin, d'une part, de l'aligner sur le modèle international, et, d'autre part, de permettre le suivi de nouvelles données. Il est apparu que la révision de ce certificat était une opportunité pour mieux suivre le nombre de Sédation profonde et continue maintenue jusqu'au décès (SPCMJDC) pratiquées en France alors que les rapports et débats récents sur l'application de la loi Claeys-Leonetti ont mis en évidence le manque de données concernant cette pratique médicale. Cette révision pourrait prendre la forme de l'ajout d'une nouvelle rubrique permettant au professionnel remplissant le certificat d'indiquer si le décès a été précédé ou non de la mise en place d'une SPCMJDC. Cette nouvelle rubrique ne se substituerait pas aux rubriques permettant d'indiquer les causes du décès et les circonstances apparentes du décès (mort naturelle, accident, suicide, atteinte volontaire à la vie d'autrui, complication de soins médicaux, &#8230;). Catégoriser à part la SPCMJDC au sein du certificat de décès ne saurait avoir pour conséquence une quelconque modification du statut juridique de cette pratique qui relève de l'acte médical comme le prévoit très clairement le code de la santé publique. D'ailleurs, le certificat de décès prévoit également une rubrique spécifique pour identifier si une intervention chirurgicale a été pratiquée au cours des quatre dernières semaines. En outre, afin que cette nouvelle rubrique soit bien comprise et bien remplie par les professionnels, elle s'accompagnera d'explications détaillées dans la notice du certificat de décès."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2026-05-26",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2026-05-26",
+        "pageJO": "4673",
+        "numJO": "20260021",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

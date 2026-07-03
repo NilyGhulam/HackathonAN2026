@@ -161,6 +161,10 @@ textarea { resize: vertical; }
 .draft { white-space: pre-wrap; background: var(--ink); color: white; border-radius: 0; padding: 16px; line-height: 1.6; }
 .channels li { margin-bottom: 12px; }
 .channels span { color: var(--muted); }
+.assistant-answer { white-space: pre-line; line-height: 1.6; }
+.assistant-modes { display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin: 28px 0; }
+.layout.single-column { display: flex; justify-content: center; }
+.layout.single-column .assistant-form { max-width: 640px; width: 100%; }
 .principles { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
 
 .entry-map { min-height: calc(100vh - 82px); display: grid; grid-template-rows: auto 1fr; gap: 20px; padding: 22px 0 34px; }

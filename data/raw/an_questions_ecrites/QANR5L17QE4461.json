@@ -1,0 +1,103 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE4461",
+    "identifiant": {
+      "numero": "4461",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Loi sur le droit à mourir dans la dignité"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA841023",
+        "mandatRef": "PM842645"
+      },
+      "groupe": {
+        "organeRef": "PO845413",
+        "abrege": "LFI-NFP",
+        "developpe": "La France insoumise - Nouveau Front Populaire"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO855064",
+      "abrege": "Santé et accès aux soins",
+      "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+    },
+    "minAttribs": {
+      "minAttrib": [
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-02-25",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855064",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_LOI_DECRET",
+            "dateJO": "2025-10-05",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO873446",
+            "abrege": "Travail, santé, solidarités, familles, autonomie et personnes handicapées",
+            "developpe": "Ministère du travail, de la santé, des solidarités, des familles, de l’autonomie et des personnes handicapées"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_LOI_DECRET",
+            "dateJO": "2025-10-13",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO873673",
+            "abrege": "Santé, familles, autonomie et personnes handicapées",
+            "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+          }
+        }
+      ]
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-02-25",
+          "pageJO": "1178",
+          "numJO": "20250008",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. Pierre-Yves Cadalen interroge M. le ministre auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l'accès aux soins, sur les dispositions qu'il compte mettre en place pour organiser un débat et un vote sur l'aide active à mourir. En effet, le Président de la République Emmanuel Macron s'est exprimé pour l'ouverture du débat lors de sa campagne présidentielle en 2022. En avril 2023, la convention citoyenne a répondu « oui » à 75,16 % à la question : « L'accès à l'aide active à mourir devrait-il être ouvert ? ». En mai 2024, un sondage IFOP montrait que 92 % des Français étaient « favorables à l'euthanasie lorsque le patient, atteint d'une maladie insupportable et incurable, en formule la demande » et 89 % d'entre eux sont pour « l'autorisation pour les personnes souffrant de maladies incurables de s'administrer un produit létal sous la supervision d'un médecin », soit le suicide assisté. Face à ce consensus global, M. le député s'interroge sur les raisons qui repoussent indéfiniment le dépôt d'un tel projet de loi par le Gouvernement. Dans de récents propos, M. le Premier ministre instaure une opposition entre soins palliatifs et l'aide à mourir. Il semble qu'il souhaite le vote d'une loi centrée sur les soins palliatifs qui mettrait à l'écart la réflexion globale sur l'aide active à mourir. En bref, qu'une fois la loi sur les soins palliatifs votée, il sera difficile d'en proposer une de plus sur l'aide active à mourir. L'écrasante majorité des citoyens souhaite qu'un tel projet de loi soit déposé et examiné. Un tel projet devra montrer qu'il n'y a pas de nécessité à opposer euthanasie et suicide assisté puisque, dans les deux cas, c'est la volonté de la personne concernée qui prime, exprimée directement ou <em>via</em> des directives anticipées. Il lui demande donc quelles modalités seront mises en œuvre pour un tel projet de loi et selon quel calendrier."
+      }
+    },
+    "textesReponse": null,
+    "cloture": null,
+    "signalement": null,
+    "renouvellements": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE3689",
+    "identifiant": {
+      "numero": "3689",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Données sur la fin de vie en France"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793122",
+        "mandatRef": "PM842369"
+      },
+      "groupe": {
+        "organeRef": "PO845454",
+        "abrege": "DEM",
+        "developpe": "Les Démocrates"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO855064",
+      "abrege": "Santé et accès aux soins",
+      "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-02-04",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "organeRef": "PO855064",
+          "abrege": "Santé et accès aux soins",
+          "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+        }
+      }
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-02-04",
+          "pageJO": "485",
+          "numJO": "20250005",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. Romain Daubié appelle l'attention de M. le ministre auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l'accès aux soins, sur les conclusions de la mission d'évaluation de l'Assemblée nationale de la loi du 2 février 2016 créant de nouveaux droits en faveur des malades et des personnes en fin de vite, dite « Claeys-Leonetti ». Celle-ci constate une « absence de données robustes » relatives à la fin de vie et elle précise que la mission s'est déroulée « dans un contexte singulier», en raison des difficultés rencontrées dans « le travail d'évaluation quantitative de la loi ». Aussi, elle reconnaît que si elle a su mener à bien son travail d'évaluation qualitative de la loi, « il en va différemment du travail d'évaluation quantitative de la loi, pour lequel la mission a rencontré des difficultés que les rapporteurs souhaitent souligner ». Après le constat d'une méconnaissance réelle des circonstances exactes de la fin de vie posé par l'Inspection générale des affaires sociales en 2018, le manque d'indicateurs sur la mise en œuvre de la loi « Claeys-Leonetti » et, plus globalement, sur la fin de vie en France, est aujourd'hui d'une évidence criante. En l'absence de données robustes, la mission souligne qu'elle n'a pas été en mesure d'évaluer précisément l'écart entre l'offre et les besoins de soins palliatifs. Les données relatives aux directives anticipées restent aussi incertaines, tandis que l'on ne sait pas dénombrer précisément les sédations profondes et continues administrées chaque année, ni même les demandes à cet effet, pas plus que les procédures collégiales organisées. Les données publiées sont rares et parfois anciennes ou issues d'un échantillon peu représentatif. De plus, les données collectées sont muettes sur le parcours et l'expérience de la personne en fin de vie, dont les besoins sont mal évalués. Cette absence de retour d'expérience, limite la capacité à évaluer l'effectivité des dispositifs légaux en vigueur. Enfin, les travaux de recherche sont, eux aussi, largement manquants. Malgré la création en 2018 d'une plateforme nationale pour la recherche sur la fin de vie, ayant pour but de contribuer à la structuration, au développement et à la valorisation de la recherche française dans le domaine de la fin de vie et des soins palliatifs, les travaux de recherche ne sont pas à la mesure de l'importance de l'enjeu que constitue la fin de vie aujourd'hui. Ainsi, il lui demande de bien vouloir lui indiquer quelles sont les mesures concrètes qu'il entend prendre et dans quel délai, afin de remédier à cette situation qui hypothèque tout débat sur la fin de vie en France."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-05-20",
+          "pageJO": "3696",
+          "numJO": "20250020",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Pour évaluer l'adéquation de l'offre de soins palliatifs aux besoins des personnes requérantes et pour documenter, plus généralement, les conditions d'accès aux soins palliatifs ainsi que l'appropriation des dispositifs de la loi Léonetti, la collecte de données robustes, régulièrement actualisées et fines à l'échelle des territoires, est incontournable. Le centre national des soins palliatifs et de la fin de vie a vu ses missions recentrées sur l'information des citoyens ainsi que sur la collecte et l'analyse de données dans le champ des soins palliatifs et de la fin de vie. Il édite tous les deux ans l'atlas des soins palliatifs et de la fin de vie et développe des outils pour améliorer la lisibilité de l'offre de prise en charge en soins palliatifs. Concernant l'accès aux droits, un sondage va être lancé prochainement pour recueillir l'état des connaissances des citoyens sur les soins palliatifs et les dispositifs de la fin de vie. Réitéré régulièrement, il nous permettra de suivre l'évolution de l'appropriation des notions et de la connaissance des droits de chacun concernant la fin de vie. La stratégie décennale soins d'accompagnement, lancée en avril 2024, fera l'objet à échéances régulières de points de situation sur la mise en &#339;uvre des différentes mesures qui la composent. Dans ce cadre, la remontée de données complètes sur l'activité des équipes de soins palliatifs, leur maillage ainsi que la prise en charge en ambulatoire des personnes suivies à domicile est organisée.  Depuis fin 2023, nous recueillons des informations sur les visites de soins palliatifs réalisées par les médecins au domicile de leurs patients. A compter de 2025, les sédations longues, profondes et continues jusqu'au décès pourront être saisies dans le système d'information des établissements de santé.  La plateforme nationale pour la recherche sur la fin de vie accompagne depuis 2018 les équipes mobilisées sur des projets de recherche en contribuant à la diffusion de leurs travaux. Ses actions se déploient à l'échelle du territoire national et à l'international. Des appels à projets de recherche sont également lancés tous les ans par le ministère de la santé, qui couvrent les champs de la recherche translationnelle, clinique, paramédicale, médico-économique et organisationnelle, et financent des projets relatifs à la fin de vie. Toutes ces actions concourent à une meilleure documentation de l'accès aux soins palliatifs."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2025-05-20",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-05-20",
+        "pageJO": "3696",
+        "numJO": "20250020",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

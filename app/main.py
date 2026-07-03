@@ -11,6 +11,9 @@ from app.debate.map_builder import DebateMapBuilder
 from app.repositories.demo_repository import DemoRepository
 from app.repositories.official_channels import OfficialChannelsRepository
 from app.civic.drafts import DraftService
+from app.civic.participation import ParticipationService
+from app.ia.assistant import AssistantService
+from app.ia.provider import LLMProvider
 
 app = FastAPI(
     title="AgoraLoi",
@@ -26,6 +29,9 @@ repository = DemoRepository()
 map_builder = DebateMapBuilder(taxonomy)
 channels_repository = OfficialChannelsRepository()
 draft_service = DraftService(taxonomy, channels_repository)
+llm_provider = LLMProvider()
+participation_service = ParticipationService(taxonomy, channels_repository, llm_provider=llm_provider)
+assistant_service = AssistantService(llm_provider=llm_provider)
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -57,6 +63,72 @@ def subject_detail(request: Request, subject_id: str) -> HTMLResponse:
         "subject.html",
         {
             "request": request,
+            **subject_bundle,
+        },
+    )
+
+
+@app.get("/sujets/{subject_id}/assistant", response_class=HTMLResponse)
+def subject_assistant(request: Request, subject_id: str, mode: str = "question") -> HTMLResponse:
+    subject_bundle = repository.get_subject(subject_id)
+    if subject_bundle is None:
+        raise HTTPException(status_code=404, detail="Sujet introuvable")
+    return templates.TemplateResponse(
+        request,
+        "assistant.html",
+        {
+            "request": request,
+            "mode": mode if mode in ("question", "participer") else "question",
+            **subject_bundle,
+        },
+    )
+
+
+@app.post("/sujets/{subject_id}/assistant/question", response_class=HTMLResponse)
+def subject_assistant_question(
+    request: Request,
+    subject_id: str,
+    question: str = Form(...),
+) -> HTMLResponse:
+    subject_bundle = repository.get_subject(subject_id)
+    if subject_bundle is None:
+        raise HTTPException(status_code=404, detail="Sujet introuvable")
+    result = assistant_service.answer(
+        subject_id=subject_id,
+        subject=subject_bundle["subject"],
+        measure=subject_bundle["measure"],
+        question=question,
+    )
+    return templates.TemplateResponse(
+        request,
+        "assistant.html",
+        {
+            "request": request,
+            "mode": "question",
+            "question_result": result,
+            **subject_bundle,
+        },
+    )
+
+
+@app.post("/sujets/{subject_id}/assistant/participer", response_class=HTMLResponse)
+def subject_assistant_participer(
+    request: Request,
+    subject_id: str,
+    initiative_text: str = Form(...),
+) -> HTMLResponse:
+    subject_bundle = repository.get_subject(subject_id)
+    if subject_bundle is None:
+        raise HTTPException(status_code=404, detail="Sujet introuvable")
+    result = participation_service.orient(initiative_text=initiative_text)
+    return templates.TemplateResponse(
+        request,
+        "assistant.html",
+        {
+            "request": request,
+            "mode": "participer",
+            "participation_result": result,
+            "initiative_text": initiative_text,
             **subject_bundle,
         },
     )

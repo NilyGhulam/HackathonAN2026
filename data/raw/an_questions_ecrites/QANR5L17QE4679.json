@@ -1,0 +1,122 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE4679",
+    "identifiant": {
+      "numero": "4679",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Allocation journalière d'accompagnement d'une personne en fin de vie"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA774958",
+        "mandatRef": "PM843389"
+      },
+      "groupe": {
+        "organeRef": "PO845419",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO855064",
+      "abrege": "Santé et accès aux soins",
+      "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+    },
+    "minAttribs": {
+      "minAttrib": [
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-03-04",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855064",
+            "abrege": "Santé et accès aux soins",
+            "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+          }
+        },
+        {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2025-07-22",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO855067",
+            "abrege": "Autonomie et handicap",
+            "developpe": "Ministère délégué auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de l'autonomie et du handicap"
+          }
+        }
+      ]
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-03-04",
+          "pageJO": "1347",
+          "numJO": "20250009",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. Gérard Leseul appelle l'attention de M. le ministre auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l'accès aux soins, sur les conditions d'attribution de l'allocation journalière d'accompagnement d'une personne en fin de vie. Le congé de solidarité familiale donne droit à un salarié, sous certaines conditions, de prendre un congé pour assister un de ses proches en fin de vie, soit un ascendant, un descendant, un frère ou une soeur, une personne partageant le même domicile ou ayant désigné le demandeur comme personne de confiance. Ce congé donne droit à une allocation journalière d'accompagnement d'une personne en fin de vie, sous réserve que le proche soit accompagné à son domicile, au domicile du salarié ou d'un tiers, ou dans un EHPAD. De fait, cette allocation n'est pas versée si le congé est demandé alors que le proche est hospitalisé. Une exception est faite si l'hospitalisation intervient après le début du congé. L'absence d'allocation journalière d'accompagnement d'une personne en fin de vie fait que les proches ne sont, bien souvent, pas en capacité de solliciter un congé de solidarité familiale. Si l'admission dans un établissement hospitalier n'induit pas la même charge pour le proche, il est clair que cette période de fin de vie est particulièrement douloureuse pour le patient et ses proches et que la présence des proches au chevet du malade est totalement justifiée. Il aimerait donc avoir communication des modifications qui pourraient être apportées à cette réglementation afin de permettre aux proches de bénéficier d'une allocation journalière d'accompagnement d'une personne en fin de vie hospitalisée."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-08-05",
+          "pageJO": "7029",
+          "numJO": "20250031",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "L'Allocation journalière d'accompagnement d'une personne en fin de vie (AJAP) est ouverte aux assurés qui sont en congé de solidarité familiale ou qui ont transformé leur congé de solidarité familiale en période d'activité à temps partiel, lorsqu'ils accompagnent à domicile une personne en phase avancée ou terminale d'une affection grave et incurable. Le congé de solidarité familiale permet à tout salarié de s'absenter pendant trois mois renouvelables une fois pour assister un proche ou une personne partageant le même domicile et souffrant d'une pathologie mettant en jeu le pronostic vital ou qui se trouve en phase avancée ou terminale d'une affection grave et incurable. Son indemnisation par l'AJAP est possible durant 21 jours, ou 42 jours en cas de réduction de travail à temps partiel. L'attribution de l'AJAP est aujourd'hui conditionnée au fait que la personne accompagnée soit à domicile. La notion de domicile s'entend de manière large, il peut donc s'agir par exemple du domicile de la personne accompagnée, de celui de la personne accompagnante ou d'un établissement d'hébergement pour personnes âgées dépendantes. En pratique, la notion de fin de vie à domicile est opposée à celle de fin de vie à l'hôpital, qui ne permet pas le versement de l'allocation, hormis lorsque la personne est hospitalisée en cours de versement de l'allocation. En effet, la loi permet aux bénéficiaires de l'AJAP de continuer à bénéficier de l'allocation lorsque la personne accompagnée est hospitalisée. Cette condition a récemment fait l'objet de débats parlementaires, dans le cadre de l'examen à l'Assemblée nationale de la proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs. Ainsi, cette proposition de loi, dans sa version adoptée en première lecture le 27 mai 2025, prévoit en son article 12 la remise d'un rapport gouvernemental au Parlement, notamment sur la possibilité d'élargir les modalités de versement de l'AJAP. Il est en particulier prévu que celui-ci étudiera la suppression du critère d'accompagnement effectué à domicile afin de bénéficier du dispositif. Dans ce contexte, le Gouvernement souhaite laisser le soin aux travaux parlementaires à venir sur cette proposition de loi d'avancer sur l'équilibre et l'accès à ce dispositif et notamment concernant cette condition d'accès à la prestation."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2025-08-05",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-08-05",
+        "pageJO": "7029",
+        "numJO": "20250031",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": {
+      "dateDepotSignal": "2025-07-07",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-07-08",
+        "pageJO": null,
+        "numJO": "20250027",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "renouvellements": null
+  }
+}

@@ -17,7 +17,7 @@
       <p>{{ subject.summary }}</p>
     </section>
 
-    <section class="timeline-block" data-timeline-paginated>
+    <section id="timeline-block" class="timeline-block" data-timeline-paginated>
       <h2>Frise chronologique</h2>
       <p class="timeline-note">Les 10 actualités les plus récentes sont affichées en premier. Utilisez les boutons pour remonter plus loin dans le temps.</p>
       <ol class="timeline" data-timeline-list>
@@ -37,7 +37,7 @@
       </nav>
     </section>
 
-    <section class="argument-map">
+    <section id="argument-map" class="argument-map">
       <header class="argument-map-head">
         <div>
           <p class="eyebrow">Argumentaire</p>
@@ -95,6 +95,17 @@
       <a class="button secondary" href="/mesures/{{ measure.id }}">Voir la mesure liée</a>
     {% endif %}
   </aside>
+</section>
+
+<section class="section assistant-cta">
+  <article class="panel emphasis">
+    <h2>Une question ou une envie d'agir sur ce sujet ?</h2>
+    <p>
+      L'assistant répond à vos questions à partir des traces publiques déjà cartographiées, ou
+      vous oriente vers les personnes et sites adaptés si vous voulez porter une initiative.
+    </p>
+    <a class="button" href="/sujets/{{ subject.id }}/assistant">Ouvrir l'assistant</a>
+  </article>
 </section>
 {% endblock %}
 

@@ -1,0 +1,95 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE5116",
+    "identifiant": {
+      "numero": "5116",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Soins palliatifs consacrés aux personnes handicapées"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA774954",
+        "mandatRef": "PM842843"
+      },
+      "groupe": {
+        "organeRef": "PO845425",
+        "abrege": "DR",
+        "developpe": "Droite Républicaine"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO855064",
+      "abrege": "Santé et accès aux soins",
+      "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-03-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "organeRef": "PO855064",
+          "abrege": "Santé et accès aux soins",
+          "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+        }
+      }
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-03-18",
+          "pageJO": "1744",
+          "numJO": "20250011",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Mme Anne-Laure Blin attire l'attention de M. le ministre auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l'accès aux soins, sur le futur texte consacré aux soins palliatifs et sur la place que celui-ci doit réserver aux personnes porteuses d'un handicap quelques semaines seulement après le vingtième anniversaire de la loi du 11 février 2005. Si des évolutions ont eu lieu en faveur de l'intégration des personnes fragiles dans la société, il reste tant à faire. À cet égard, le prochain débat autour de la « fin de vie » fait naître aujourd'hui de grandes inquiétudes. À l'aune notamment de ce qui a été rapporté récemment sur ce qui se serait produit à Angoulême lorsqu'un homme âgé de 66 ans atteint de trisomie 21, hospitalisé pour détresse respiratoire, s'est vu administrer un puissant sédatif provoquant le décès. Si une plainte a été déposée par la famille en octobre 2024, ce tragique fait alimente l'inquiétude grandissante des proches de personnes handicapées et tout spécialement de celles qui souffrent de déficience intellectuelle. En effet, beaucoup savent très bien combien le handicap est encore trop souvent mal pris en compte et particulièrement en ce qui concerne les soins palliatifs. Au regard de l'enjeu primordial de protection des personnes fragiles, elle souhaiterait savoir de quelle manière le Gouvernement envisage d'accorder une attention spécifique à cette problématique vitale pour placer enfin les personnes fragiles au cœur des attentions de la société."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-07-01",
+          "pageJO": "5870",
+          "numJO": "20250026",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Il est nécessaire de garantir la qualité de la prise en charge des personnes malades et en situation de handicap et l'adaptation de la prise en charge est une obligation transversale à l'ensemble des dispositifs sanitaires, sociaux et médico-sociaux. La loi garantit l'accès aux soins palliatifs et encadre les conditions de recours à une sédation longue, profonde et continue jusqu'au décès, au terme d'une procédure collégiale. Elle inclut la consultation des directives anticipées et, à défaut, de la personne de confiance désignée. La Haute autorité de santé (HAS) dans son guide du parcours de soins de 2020 « Comment mettre en &#339;uvre une sédation profonde et continue maintenue jusqu'au décès, précise que « La sédation en situation palliative est la recherche, par des moyens médicamenteux, d'une diminution de la vigilance pouvant aller jusqu'à la perte de conscience. Son but est de diminuer ou de faire disparaître la perception d'une situation vécue comme insupportable par le patient, alors que tous les autres moyens disponibles et adaptés à cette situation ont pu lui être proposés et/ou mis en &#339;uvre sans permettre le soulagement escompté. La sédation peut être appliquée de façon intermittente, transitoire ou continue ». De plus, parlons-fin-de-vie.fr est le site d'information et de référence du centre national fin de vie soins palliatifs pour le grand public et les professionnels. Ce site, lancé en 2017, met à disposition un très grand nombre de productions réalisées par le centre national : vidéos, audio/podcast, brochures multilingues, guides à destination du grand public et des professionnels, conçus afin de soutenir le dialogue autour des soins palliatifs, de la douleur et de la fin de vie, avec un langage simple. Par ailleurs, de nombreuses mesures en direction des aidants ont été mises en &#339;uvre et les deux stratégies nationales des aidants 2020-2022 et 2023-2027 leur sont dédiées et portent les engagements pour faire avancer concrètement leurs droits. En complément de l'adaptation des soins à l'âge des personnes et aux besoins particuliers liés aux situations de handicap, le ministère chargé de la santé met l'accent sur la formation des professionnels de santé incluant les spécificités du handicap dans le cadre des soins palliatifs et l'évaluation de la douleur notamment chez les patients non communicants. En outre, la HAS joue un rôle clé dans l'amélioration de la qualité et de la sécurité des soins, y compris pour les personnes en situation de handicap. La certification des établissements de santé par la HAS permet de garantir que ces établissements respectent des critères stricts en matière de qualité, de sécurité des soins, et de respect des droits des patients, notamment le consentement. La certification par la HAS évalue les pratiques des établissements de santé, y compris la gestion des traitements médicaux, le respect des protocoles de soins et la prise en charge des patients vulnérables. Cela inclut la vérification de l'utilisation correcte des sédatifs et autres traitements. Les établissements certifiés par la HAS sont tenus de démontrer qu'ils ont mis en place des dispositifs adaptés et des soins personnalisés pour prendre en charge les patients en situation de handicap."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2025-07-01",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-07-01",
+        "pageJO": "5870",
+        "numJO": "20250026",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}

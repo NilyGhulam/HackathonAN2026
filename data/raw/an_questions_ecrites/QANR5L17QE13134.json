@@ -1,0 +1,82 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE13134",
+    "identifiant": {
+      "numero": "13134",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Développement de soins palliatifs dans les Pyrénées-Orientales"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794770",
+        "mandatRef": "PM843236"
+      },
+      "groupe": {
+        "organeRef": "PO845401",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO873673",
+      "abrege": "Santé, familles, autonomie et personnes handicapées",
+      "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2026-02-24",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "organeRef": "PO873673",
+          "abrege": "Santé, familles, autonomie et personnes handicapées",
+          "developpe": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2026-02-24",
+          "pageJO": "1599",
+          "numJO": "20260008",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "Mme Michèle Martinez attire l'attention de Mme la ministre de la santé, des familles, de l'autonomie et des personnes handicapées sur l'absence d'unité hospitalière spécialisée en soins palliatifs dans les Pyrénées-Orientales. Le centre hospitalier de Perpignan effectue un travail admirable : il compte des lits identifiés de soins palliatifs (LISP) dans ses différentes unités ainsi qu'une équipe mobile pour accompagner les patients. Une clinique peut également prendre en charge et orienter les patients. L'offre de soins reste cependant limitée et, si les équipes soignantes font de leur mieux avec les moyens humains, matériels et financiers à leur disposition, elle reste sous-calibrée par rapport aux besoins du département. Ce manque de couverture médicale sur un sujet sanitaire et social très sensible fait écho aux débats concernant la fin de vie. Avant même de permettre à la médecine de donner la mort, Mme la députée estime que les efforts doivent prioritairement être consacrés aux soins et à l'accompagnement des patients. Cela constitue le rôle premier de la médecine que la loi « Claeys-Leonetti », équilibrée mais encore trop peu appliquée, réaffirme d'ailleurs en mettant l'accent sur une fin digne garantissant dès que c'est possible l'apaisement des souffrances. Dans ce contexte, elle souhaite qu'elle lui donne la garantie qu'en cas d'adoption de la proposition de loi sur « l'aide à mourir », les efforts financiers et sanitaires dans les Pyrénées-Orientales se concentrent en priorité sur les soins palliatifs et non sur les nouvelles pratiques qu'ouvrirait une nouvelle loi qui est loin de faire consensus chez les citoyens."
+      }
+    },
+    "textesReponse": null,
+    "cloture": null,
+    "signalement": null,
+    "renouvellements": {
+      "renouvellement": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2026-06-16",
+          "pageJO": null,
+          "numJO": "20260024",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        }
+      }
+    }
+  }
+}

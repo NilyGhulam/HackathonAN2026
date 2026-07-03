@@ -1,0 +1,120 @@
+{
+  "schema_version": "0.1.0",
+  "processing": {
+    "run_id": "run_5f9eef43eee9",
+    "processed_at": "2026-07-03T16:00:21.374561+00:00",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_version": "agoraloi_prompt_v0.2",
+    "status": "automatic",
+    "global_confidence": 0.8,
+    "warnings": []
+  },
+  "raw_source": {
+    "id": "an_qe_QANR5L17QE4461",
+    "type": "written_question",
+    "institution": "assemblee_nationale",
+    "date": "2025-02-25",
+    "title": "Loi sur le droit à mourir dans la dignité",
+    "url": "https://questions.assemblee-nationale.fr/q17/17-4461QE.htm",
+    "official_identifier": "QANR5L17QE4461",
+    "original_text": "Question : M. Pierre-Yves Cadalen interroge M. le ministre auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l'accès aux soins, sur les dispositions qu'il compte mettre en place pour organiser un débat et un vote sur l'aide active à mourir. En effet, le Président de la République Emmanuel Macron s'est exprimé pour l'ouverture du débat lors de sa campagne présidentielle en 2022. En avril 2023, la convention citoyenne a répondu « oui » à 75,16 % à la question : « L'accès à l'aide active à mourir devrait-il être ouvert ? ». En mai 2024, un sondage IFOP montrait que 92 % des Français étaient « favorables à l'euthanasie lorsque le patient, atteint d'une maladie insupportable et incurable, en formule la demande » et 89 % d'entre eux sont pour « l'autorisation pour les personnes souffrant de maladies incurables de s'administrer un produit létal sous la supervision d'un médecin », soit le suicide assisté. Face à ce consensus global, M. le député s'interroge sur les raisons qui repoussent indéfiniment le dépôt d'un tel projet de loi par le Gouvernement. Dans de récents propos, M. le Premier ministre instaure une opposition entre soins palliatifs et l'aide à mourir. Il semble qu'il souhaite le vote d'une loi centrée sur les soins palliatifs qui mettrait à l'écart la réflexion globale sur l'aide active à mourir. En bref, qu'une fois la loi sur les soins palliatifs votée, il sera difficile d'en proposer une de plus sur l'aide active à mourir. L'écrasante majorité des citoyens souhaite qu'un tel projet de loi soit déposé et examiné. Un tel projet devra montrer qu'il n'y a pas de nécessité à opposer euthanasie et suicide assisté puisque, dans les deux cas, c'est la volonté de la personne concernée qui prime, exprimée directement ou <em>via</em> des directives anticipées. Il lui demande donc quelles modalités seront mises en œuvre pour un tel projet de loi et selon quel calendrier.",
+    "metadata": {
+      "legislature": "17",
+      "numero": "4461",
+      "rubrique": "fin de vie et soins palliatifs",
+      "code_cloture": ""
+    }
+  },
+  "extracted_traces": [
+    {
+      "id": "trace_fin_vie_001",
+      "source_id": "an_qe_QANR5L17QE4461",
+      "summary": "Une question écrite demande des précisions sur les dispositions pour organiser un débat et un vote sur l'aide active à mourir.",
+      "argument_role": "evaluation_request",
+      "position": "neutral",
+      "public_policy_domains": [
+        "sante"
+      ],
+      "affected_publics": [
+        "patients en fin de vie",
+        "professionnels de santé"
+      ],
+      "issues": [
+        "aide à mourir",
+        "soins palliatifs"
+      ],
+      "evidence": [
+        {
+          "quote": "92 % des Français sont « favorables à l'euthanasie lorsque le patient, atteint d'une maladie insupportable et incurable, en formule la demande »",
+          "source_url": "https://questions.assemblee-nationale.fr/q17/17-4461QE.htm"
+        }
+      ],
+      "confidence": 0.8,
+      "validation_status": "automatic"
+    }
+  ],
+  "taxonomy_links": [
+    {
+      "domain_id": "sante",
+      "domain_label": "Santé",
+      "subtheme_id": "droits-patients-fin-vie",
+      "subtheme_label": "Droits des patients et fin de vie",
+      "subject_id": "aide-a-mourir",
+      "subject_title": "Aide à mourir",
+      "link_strength": "strong",
+      "rationale": "La question porte explicitement sur l'aide active à mourir.",
+      "confidence": 0.85
+    }
+  ],
+  "subject_updates": [
+    {
+      "subject_id": "aide-a-mourir",
+      "subject_title": "Aide à mourir",
+      "summary": "L'aide à mourir est un sujet de débat qui concerne les droits des patients en fin de vie. Une majorité de citoyens souhaite que le gouvernement dépose un projet de loi pour permettre l'aide active à mourir.",
+      "context_update": "La question écrite souligne le consensus global en faveur de l'aide à mourir et interroge le gouvernement sur les raisons de son retard.",
+      "timeline_events": [
+        {
+          "date": "2025-02-25",
+          "type": "Question écrite",
+          "title": "Aide à mourir",
+          "summary": "Une question écrite demande des précisions sur les dispositions pour organiser un débat et un vote sur l'aide active à mourir.",
+          "url": "https://questions.assemblee-nationale.fr/q17/17-4461QE.htm"
+        }
+      ],
+      "actors": [
+        {
+          "id": "acteur_pierre_yves_cadalen",
+          "name": "Pierre-Yves Cadalen",
+          "type": "elected_official",
+          "role": "Député, auteur de la question écrite",
+          "party": "Non renseigné",
+          "photo_url": "",
+          "stance_summary": "Demande des précisions sur les dispositions pour organiser un débat et un vote sur l'aide active à mourir."
+        }
+      ],
+      "argument_clusters": [
+        {
+          "id": "cluster_aide_mourir",
+          "axis": "aide-a-mourir",
+          "position": "neutral",
+          "label": "Aide à mourir",
+          "summary": "La question écrite et les sondages montrent un consensus global en faveur de l'aide à mourir.",
+          "actors": [
+            {
+              "actor_id": "acteur_pierre_yves_cadalen",
+              "quote": "92 % des Français sont « favorables à l'euthanasie lorsque le patient, atteint d'une maladie insupportable et incurable, en formule la demande »",
+              "quote_source": "Question écrite n°4461, 17e législature",
+              "stance_summary": "Demande des précisions sur les dispositions pour organiser un débat et un vote sur l'aide active à mourir.",
+              "evidence": [
+                {
+                  "quote": "92 % des Français sont « favorables à l'euthanasie lorsque le patient, atteint d'une maladie insupportable et incurable, en formule la demande »",
+                  "source_url": "https://questions.assemblee-nationale.fr/q17/17-4461QE.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

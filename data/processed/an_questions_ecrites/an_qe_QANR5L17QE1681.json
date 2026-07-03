@@ -1,0 +1,206 @@
+{
+  "schema_version": "0.1.0",
+  "processing": {
+    "run_id": "run_9d8d1a1440b9",
+    "processed_at": "2026-07-03T15:59:54.745654+00:00",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_version": "agoraloi_prompt_v0.2",
+    "status": "automatic",
+    "global_confidence": 0.8500000000000001,
+    "warnings": []
+  },
+  "raw_source": {
+    "id": "an_qe_QANR5L17QE1681",
+    "type": "written_question",
+    "institution": "assemblee_nationale",
+    "date": "2024-11-05",
+    "title": "Moyens financiers et humains pour améliorer l'accès aux soins palliatifs",
+    "url": "https://questions.assemblee-nationale.fr/q17/17-1681QE.htm",
+    "official_identifier": "QANR5L17QE1681",
+    "original_text": "Question : Mme Sandrine Dogor-Such rappelle à Mme la ministre de la santé et de l'accès aux soins que, lors de son discours de politique générale, M. le Premier ministre a annoncé que des « efforts en faveur des soins palliatifs seront renforcés dès 2025 ». Il est en effet urgent d'amorcer le déploiement de la stratégie décennale de soins palliatifs actée par le précédent gouvernement au début de l'année. 25 ans après, la loi de 1999 n'est toujours pas correctement appliquée sur l'ensemble du territoire. La réalité du terrain est que 20 départements ne disposent toujours pas d'unités de soins palliatifs, c'est-à-dire d'un service capable d'accueillir des malades dans les situations les plus difficiles et que 500 personnes meurent encore par jour sans avoir accès aux soins dont elles auraient besoin : soulager la douleur, apaiser la souffrance psychologique, sauvegarder la dignité de la personne malade et de son entourage. Le système de santé français est très abimé et de nombreux postes sont supprimés. L'urgence aujourd'hui est de trouver des soignants, de pouvoir se fournir en médicaments souvent manquants pour soulager les patients. Il avait été annoncé un milliard d'euros supplémentaires sur dix ans par le précédent gouvernement. En raison du vieillissement de la population, le besoin en soins palliatifs va augmenter considérablement. Les soins palliatifs sont le symbole d'un choix de société de la solidarité et de l'interdépendance prête à secourir la fragilité. Ils sont le choix d'une société solidaire et fraternelle qui a le souci des plus fragiles. Elle souhaite donc savoir quels moyens financiers, humains, universitaires et scientifiques Mme la ministre souhaite donc enfin mettre en place pour permettre aux Français d'y accéder partout sur le territoire.\n\nRéponse du Gouvernement : Le renforcement de l'offre de soins palliatifs pour mieux répondre aux besoins actuels et futurs de nos concitoyens est une priorité du Gouvernement. Dans le cadre de la stratégie décennale annoncée en avril 2024, ce sont 100 M&#8364; supplémentaires qui seront dédiés annuellement au renfort des soins palliatifs et à l'accompagnement de la fin de vie, dès 2025. L'un des objectifs de la stratégie décennale est d'assurer l'accès aux soins palliatifs en tout point du territoire. Des crédits sont ainsi alloués pour aider à la création de nouvelles unités de soins palliatifs, dans un objectif d'accès à des soins très spécialisés, en structure hospitalière et en proximité. Ainsi, ce sont 14 projets qui seront accompagnés dans les prochains mois pour doter en unités de soins palliatifs les départements qui n'en disposent pas. Au-delà de la prise en charge spécialisée assurée dans les unités de soins palliatifs, les agences régionales de santé sont particulièrement vigilantes à ce que cet accès aux soins palliatifs soit assuré, à l'hôpital, mais aussi sur le lieu de vie des personnes malades via notamment l'hospitalisation à domicile, l'intervention d'équipes mobiles de soins palliatifs ou encore le développement des prises en charge ambulatoires. Des filières de soins palliatifs sont en cours de structuration pour garantir l'accès à des soins adaptés, dans une logique de proximité et de réponse aux besoins des personnes malades et de leurs proches, aussi bien en termes de soins que d'accompagnement. Cela suppose également de disposer de professionnels formés pour réaliser les missions spécifiques des unités de soins palliatifs, d'où les actions de développement de la formation des professionnels prévues par la stratégie décennale.",
+    "metadata": {
+      "legislature": "17",
+      "numero": "1681",
+      "rubrique": "fin de vie et soins palliatifs",
+      "code_cloture": "REP_PUB"
+    }
+  },
+  "extracted_traces": [
+    {
+      "id": "trace_fin_vie_001",
+      "source_id": "an_qe_QANR5L17QE1681",
+      "summary": "Une question demande un renforcement des moyens humains et financiers pour les soins palliatifs.",
+      "argument_role": "evaluation_request",
+      "position": "neutral",
+      "public_policy_domains": [
+        "sante"
+      ],
+      "affected_publics": [
+        "patients en fin de vie",
+        "professionnels de santé"
+      ],
+      "issues": [
+        "soins_palliatifs",
+        "moyens_humains"
+      ],
+      "evidence": [
+        {
+          "quote": "20 départements ne disposent toujours pas d'unités de soins palliatifs.",
+          "source_url": "https://questions.assemblee-nationale.fr/q17/17-1681QE.htm"
+        }
+      ],
+      "confidence": 0.8,
+      "validation_status": "automatic"
+    },
+    {
+      "id": "trace_fin_vie_002",
+      "source_id": "an_qe_QANR5L17QE1681",
+      "summary": "Le Gouvernement répond en annonçant 100 M€ supplémentaires annuels pour les soins palliatifs à partir de 2025.",
+      "argument_role": "support",
+      "position": "for",
+      "public_policy_domains": [
+        "sante"
+      ],
+      "affected_publics": [
+        "patients en fin de vie",
+        "professionnels de santé"
+      ],
+      "issues": [
+        "soins_palliatifs",
+        "financement"
+      ],
+      "evidence": [
+        {
+          "quote": "100 M€ supplémentaires seront dédiés annuellement au renfort des soins palliatifs",
+          "source_url": "https://questions.assemblee-nationale.fr/q17/17-1681QE.htm"
+        }
+      ],
+      "confidence": 0.9,
+      "validation_status": "automatic"
+    }
+  ],
+  "taxonomy_links": [
+    {
+      "domain_id": "sante",
+      "domain_label": "Santé",
+      "subtheme_id": "droits-patients-fin-vie",
+      "subtheme_label": "Droits des patients et fin de vie",
+      "subject_id": "aide-a-mourir",
+      "subject_title": "Aide à mourir",
+      "link_strength": "weak",
+      "rationale": "La question et la réponse portent sur les moyens alloués aux soins palliatifs, mais ne traitent pas directement de l'aide à mourir.",
+      "confidence": 0.6
+    },
+    {
+      "domain_id": "sante",
+      "domain_label": "Santé",
+      "subtheme_id": "acces-soins",
+      "subtheme_label": "Accès aux soins",
+      "subject_id": "deserts-medicaux",
+      "subject_title": "Déserts médicaux",
+      "link_strength": "strong",
+      "rationale": "La question évoque les départements sans unités de soins palliatifs, ce qui est lié au sujet des déserts médicaux.",
+      "confidence": 0.8
+    }
+  ],
+  "subject_updates": [
+    {
+      "subject_id": "aide-a-mourir",
+      "subject_title": "Aide à mourir",
+      "summary": "Le sujet de l'aide à mourir est indirectement lié à la question des soins palliatifs, mais les réponses ne traitent pas explicitement de ce sujet.",
+      "context_update": "La question et la réponse apportent un éclairage sur les moyens alloués aux soins palliatifs, mais ne modifient pas directement le contexte de l'aide à mourir.",
+      "timeline_events": [
+        {
+          "date": "2024-11-05",
+          "type": "Question écrite",
+          "title": "Moyens financiers et humains pour améliorer l'accès aux soins palliatifs",
+          "summary": "La question interroge le Gouvernement sur les moyens dédiés aux soins palliatifs.",
+          "url": "https://questions.assemblee-nationale.fr/q17/17-1681QE.htm"
+        }
+      ],
+      "actors": [
+        {
+          "id": "acteur_sandrine_dogor-such",
+          "name": "Sandrine Dogor-Such",
+          "type": "elected_official",
+          "role": "Députée, auteure de la question écrite",
+          "party": "Non renseigné",
+          "photo_url": "",
+          "stance_summary": "Demande un renforcement des moyens humains et financiers pour les soins palliatifs."
+        }
+      ],
+      "argument_clusters": [
+        {
+          "id": "cluster_moyens_soins_palliatifs",
+          "axis": "acces-soins-palliatifs",
+          "position": "neutral",
+          "label": "Renforcer les moyens humains et financiers",
+          "summary": "La question et la réponse portent sur les moyens alloués aux soins palliatifs.",
+          "actors": [
+            {
+              "actor_id": "acteur_sandrine_dogor-such",
+              "quote": "20 départements ne disposent toujours pas d'unités de soins palliatifs.",
+              "quote_source": "Question écrite n°1681, 17e législature",
+              "stance_summary": "Demande un renforcement des moyens humains et financiers.",
+              "evidence": [
+                {
+                  "quote": "20 départements ne disposent toujours pas d'unités de soins palliatifs.",
+                  "source_url": "https://questions.assemblee-nationale.fr/q17/17-1681QE.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject_id": "deserts-medicaux",
+      "subject_title": "Déserts médicaux",
+      "summary": "Le sujet des déserts médicaux est lié à la question des soins palliatifs, car les départements sans unités de soins palliatifs sont également touchés par les déserts médicaux.",
+      "context_update": "La question et la réponse apportent un éclairage sur les moyens alloués aux soins palliatifs, ce qui peut avoir un impact sur les déserts médicaux.",
+      "timeline_events": [
+        {
+          "date": "2024-11-05",
+          "type": "Question écrite",
+          "title": "Moyens financiers et humains pour améliorer l'accès aux soins palliatifs",
+          "summary": "La question interroge le Gouvernement sur les moyens dédiés aux soins palliatifs.",
+          "url": "https://questions.assemblee-nationale.fr/q17/17-1681QE.htm"
+        }
+      ],
+      "actors": [
+        {
+          "id": "acteur_sandrine_dogor-such",
+          "name": "Sandrine Dogor-Such",
+          "type": "elected_official",
+          "role": "Députée, auteure de la question écrite",
+          "party": "Non renseigné",
+          "photo_url": "",
+          "stance_summary": "Demande un renforcement des moyens humains et financiers pour les soins palliatifs."
+        }
+      ],
+      "argument_clusters": [
+        {
+          "id": "cluster_deserts_medicaux",
+          "axis": "acces-soins",
+          "position": "neutral",
+          "label": "Réduire les déserts médicaux",
+          "summary": "La question et la réponse portent sur les moyens alloués aux soins palliatifs, ce qui peut avoir un impact sur les déserts médicaux.",
+          "actors": [
+            {
+              "actor_id": "acteur_sandrine_dogor-such",
+              "quote": "20 départements ne disposent toujours pas d'unités de soins palliatifs.",
+              "quote_source": "Question écrite n°1681, 17e législature",
+              "stance_summary": "Demande un renforcement des moyens humains et financiers.",
+              "evidence": [
+                {
+                  "quote": "20 départements ne disposent toujours pas d'unités de soins palliatifs.",
+                  "source_url": "https://questions.assemblee-nationale.fr/q17/17-1681QE.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

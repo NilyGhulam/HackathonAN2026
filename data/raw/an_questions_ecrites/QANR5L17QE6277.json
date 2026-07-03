@@ -1,0 +1,95 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionEcrite_Type",
+    "uid": "QANR5L17QE6277",
+    "identifiant": {
+      "numero": "6277",
+      "regime": "5eme Republique",
+      "legislature": "17"
+    },
+    "type": "QE",
+    "indexationAN": {
+      "rubrique": "fin de vie et soins palliatifs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Insuffisance de l'offre de soins palliatifs en Charente-Maritime"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA840837",
+        "mandatRef": "PM842495"
+      },
+      "groupe": {
+        "organeRef": "PO845401",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "organeRef": "PO855064",
+      "abrege": "Santé et accès aux soins",
+      "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-04-29",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "organeRef": "PO855064",
+          "abrege": "Santé et accès aux soins",
+          "developpe": "Ministère auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l’accès aux soins"
+        }
+      }
+    },
+    "textesQuestion": {
+      "texteQuestion": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-04-29",
+          "pageJO": "3034",
+          "numJO": "20250017",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "M. Pascal Markowsky alerte M. le ministre auprès de la ministre du travail, de la santé, de la solidarité et des familles, chargé de la santé et de l'accès aux soins, sur les insuffisances préoccupantes en matière d'accès aux soins palliatifs dans le département de la Charente-Maritime. Selon le rapport 2023 de l'inspection générale des affaires sociales (IGAS), près de 60 % des patients nécessitant un accompagnement palliatif en France n'en bénéficient toujours pas. Cette carence touche particulièrement les zones rurales et littorales comme la Charente-Maritime, où l'offre spécialisée reste insuffisante face à une demande croissante. Le schéma régional de santé 2023-2028 de l'ARS Nouvelle-Aquitaine souligne d'ailleurs que, sur les 17 établissements de santé publics du département, seuls deux disposent d'unités de soins palliatifs identifiées. Le centre hospitalier de Saintonge, à Saintes, est actuellement le seul à accueillir une unité spécialisée, avec une capacité restreinte à 10 lits, très inférieure aux besoins recensés. Cette situation crée une pression accrue sur les équipes mobiles, les services de médecine générale et les aidants familiaux, déjà en tension. De nombreux patients en fin de vie sont contraints de rester hospitalisés dans des services non adaptés, ou de regagner leur domicile sans encadrement suffisant, au mépris de leur dignité et de leur sécurité. Ce déséquilibre territorial est d'autant plus préoccupant que la Charente-Maritime connaît un vieillissement accéléré de sa population, avec plus de 32 % des habitants qui auront plus de 60 ans en 2030. Le vieillissement démographique, combiné à l'insuffisance chronique de l'offre en soins palliatifs, pourrait accentuer les fractures territoriales et sociales dans l'accès à une fin de vie digne. Si le Gouvernement a engagé un débat sur l'euthanasie, il est essentiel de rappeler que la seule réponse véritablement humaine, respectueuse de la personne et de sa vulnérabilité, demeure le développement massif et équitable des soins palliatifs. Toute évolution législative sur la fin de vie serait dénuée de fondement si elle ne s'appuyait pas d'abord sur un accès effectif aux soins d'accompagnement. Il lui demande donc quelles mesures concrètes le Gouvernement compte mettre en œuvre pour garantir l'égalité territoriale en matière d'accès aux soins palliatifs et notamment pour renforcer l'offre hospitalière, ambulatoire et à domicile adaptée à l'accompagnement de la fin de vie dans le département de la Charente-Maritime."
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_QUESTION",
+          "dateJO": "2025-07-29",
+          "pageJO": "6870",
+          "numJO": "20250030",
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "La stratégie décennale d'accompagnement et de soins palliatifs porte des mesures concrètes pour développer les soins palliatifs. Des crédits supplémentaires ont été alloués dès 2024 et sont actuellement en cours de délégation en direction des Agences régionales de santé (ARS) pour accompagner l'organisation des filières de soins palliatifs et pour renforcer les moyens des Equipes mobiles de soins palliatifs (EMSP). Ayant vocation à intervenir en tous lieux, les EMSP constituent en effet un maillon déterminant de la prise en charge en apportant conseils et appui aux professionnels de proximité, aux personnes malades et à leurs proches. La création d'Unités de soins palliatifs (USP) supplémentaires est également soutenue. La région Nouvelle-Aquitaine a ainsi été destinataire, depuis 2023, de crédits dédiés pour accompagner l'installation d'USP tant dans les départements non pourvus que dans ceux insuffisamment dotés. C'était le cas de la Charente-Maritime, qui était caractérisée par un ratio inférieur à 3 lits d'USP pour 100 000 habitants. Elle bénéficiera d'une offre de soins palliatifs renforcée en 2025 avec un projet de création d'USP.  Les efforts se poursuivent et sous l'égide des ARS, dans le cadre de la stratégie nationale. Un comité de suivi de la stratégie se réunira à la rentrée et sera l'occasion de communiquer un état des réalisations sur chacune des mesures de la stratégie."
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2025-07-29",
+      "infoJO": {
+        "typeJO": "JO_QUESTION",
+        "dateJO": "2025-07-29",
+        "pageJO": "6870",
+        "numJO": "20250030",
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    },
+    "signalement": null,
+    "renouvellements": null
+  }
+}
