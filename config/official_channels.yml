@@ -1,0 +1,45 @@
+channels:
+  depute:
+    label: Député de circonscription
+    url: https://www.assemblee-nationale.fr/dyn/vos-deputes
+    suitable_for:
+      - question_a_transmettre
+      - demande_clarification
+      - proposition_modification
+      - message_representant
+    note: Le citoyen prépare une question ou un message ; le député décide librement des suites parlementaires.
+  senateur:
+    label: Sénateur du département
+    url: https://www.senat.fr/vos-senateurs.html
+    suitable_for:
+      - question_a_transmettre
+      - demande_clarification
+      - proposition_modification
+      - message_representant
+    note: Utile pour une question liée au contrôle du Gouvernement ou à une évolution législative.
+  petitions_assemblee:
+    label: Plateforme des pétitions de l'Assemblée nationale
+    url: https://petitions.assemblee-nationale.fr/
+    suitable_for:
+      - argumentaire_petition
+      - proposition_modification
+    note: Pour porter un sujet d'intérêt général auprès de l'Assemblée nationale.
+  petitions_senat:
+    label: Plateforme e-pétitions du Sénat
+    url: https://petitions.senat.fr/
+    suitable_for:
+      - argumentaire_petition
+      - proposition_modification
+    note: Pour proposer une modification du droit ou une mission de contrôle.
+  consultations_vie_publique:
+    label: Consultations publiques recensées par Vie-publique
+    url: https://www.vie-publique.fr/consultations
+    suitable_for:
+      - contribution_consultation
+    note: À utiliser lorsqu'une consultation officielle existe sur le sujet.
+  defenseur_droits:
+    label: Défenseur des droits
+    url: https://www.defenseurdesdroits.fr/
+    suitable_for:
+      - message_representant
+    note: À envisager plutôt pour un dysfonctionnement administratif ou une atteinte aux droits, pas pour un débat législatif général.

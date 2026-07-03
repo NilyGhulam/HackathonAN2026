@@ -1,0 +1,163 @@
+{
+  "schema_version": "0.1.0",
+  "processing": {
+    "run_id": "run_2026_07_03_demo_001",
+    "processed_at": "2026-07-03T12:00:00Z",
+    "model": "gpt-4.1",
+    "prompt_version": "agoraloi_extraction_v0.1",
+    "status": "automatic",
+    "global_confidence": 0.82,
+    "warnings": [
+      "Source de démonstration : les acteurs et citations doivent être remplacés par des données officielles avant publication."
+    ]
+  },
+  "raw_source": {
+    "id": "source_an_2024_fin_vie_seance_001",
+    "type": "public_session_debate",
+    "institution": "assemblee_nationale",
+    "date": "2024-05-27",
+    "title": "Examen du texte relatif à l'accompagnement des malades et de la fin de vie",
+    "url": "https://www.assemblee-nationale.fr/",
+    "official_identifier": "AN_DEMO_2024_FIN_VIE",
+    "original_text": "Extrait de démonstration sur les conditions d'accès, la clause de conscience et l'articulation avec les soins palliatifs.",
+    "metadata": {
+      "legislature": "demo",
+      "session": "demo",
+      "source_format": "html"
+    }
+  },
+  "extracted_traces": [
+    {
+      "id": "trace_fin_vie_001",
+      "source_id": "source_an_2024_fin_vie_seance_001",
+      "summary": "Un argument favorable présente l'aide à mourir comme une réponse encadrée à des situations de souffrance réfractaire.",
+      "argument_role": "support",
+      "position": "for",
+      "public_policy_domains": ["sante"],
+      "affected_publics": ["patients en fin de vie", "équipes soignantes", "proches aidants"],
+      "issues": ["aide_a_mourir", "souffrance_refractaire", "autonomie_patient"],
+      "evidence": [
+        {
+          "quote": "La liberté du patient ne disparaît pas au moment où la souffrance devient insupportable.",
+          "source_url": "https://www.assemblee-nationale.fr/",
+          "note": "Citation de démonstration à remplacer par l'extrait exact."
+        }
+      ],
+      "confidence": 0.86,
+      "validation_status": "automatic"
+    },
+    {
+      "id": "trace_fin_vie_002",
+      "source_id": "source_an_2024_fin_vie_seance_001",
+      "summary": "Un argument défavorable alerte sur le risque de pression envers les personnes vulnérables si les soins palliatifs restent insuffisants.",
+      "argument_role": "opposition",
+      "position": "against",
+      "public_policy_domains": ["sante"],
+      "affected_publics": ["personnes vulnérables", "patients âgés", "patients isolés"],
+      "issues": ["soins_palliatifs", "vulnerabilite", "protection"],
+      "evidence": [
+        {
+          "quote": "Aucune personne ne doit demander la mort faute d'accompagnement.",
+          "source_url": "https://www.assemblee-nationale.fr/",
+          "note": "Citation de démonstration à remplacer par l'extrait exact."
+        }
+      ],
+      "confidence": 0.8,
+      "validation_status": "automatic"
+    }
+  ],
+  "taxonomy_links": [
+    {
+      "domain_id": "sante",
+      "domain_label": "Santé",
+      "subtheme_id": "droits-patients-fin-vie",
+      "subtheme_label": "Droits des patients et fin de vie",
+      "subject_id": "aide-a-mourir",
+      "subject_title": "Aide à mourir",
+      "link_strength": "strong",
+      "rationale": "La source porte explicitement sur la fin de vie, l'aide à mourir, les garanties médicales et les soins palliatifs.",
+      "confidence": 0.92
+    }
+  ],
+  "subject_updates": [
+    {
+      "subject_id": "aide-a-mourir",
+      "subject_title": "Aide à mourir",
+      "summary": "Le débat porte sur l'ouverture possible d'une aide à mourir, ses conditions d'accès, les garanties médicales et l'articulation avec les soins palliatifs.",
+      "context_update": "La source renforce deux axes du débat : autonomie du patient et protection des personnes vulnérables.",
+      "timeline_events": [
+        {
+          "date": "2024-05-27",
+          "type": "Débat parlementaire",
+          "title": "Examen du texte en séance",
+          "summary": "Les débats portent sur les conditions d'accès, la clause de conscience et l'articulation avec les soins palliatifs.",
+          "url": "https://www.assemblee-nationale.fr/"
+        }
+      ],
+      "actors": [
+        {
+          "id": "acteur_claire_martin",
+          "name": "Claire Martin",
+          "type": "elected_official",
+          "role": "Députée, commission des affaires sociales",
+          "party": "Groupe majoritaire",
+          "photo_url": "",
+          "stance_summary": "Défend une aide à mourir strictement encadrée, centrée sur le consentement explicite du patient."
+        },
+        {
+          "id": "acteur_marc_legrand",
+          "name": "Marc Legrand",
+          "type": "elected_official",
+          "role": "Sénateur, commission des lois",
+          "party": "Opposition conservatrice",
+          "photo_url": "",
+          "stance_summary": "Conditionne toute évolution législative à des garanties fortes contre les pressions."
+        }
+      ],
+      "argument_clusters": [
+        {
+          "id": "cluster_liberte_choix",
+          "axis": "autonomie-protection",
+          "position": "for",
+          "label": "Respecter le choix en situation de souffrance réfractaire",
+          "summary": "Arguments rapprochant l'aide à mourir d'une liberté encadrée lorsque la personne exprime une volonté claire.",
+          "actors": [
+            {
+              "actor_id": "acteur_claire_martin",
+              "quote": "La liberté du patient ne disparaît pas au moment où la souffrance devient insupportable.",
+              "quote_source": "Débat parlementaire de démonstration, 27 mai 2024",
+              "stance_summary": "Soutient une ouverture sous conditions strictes.",
+              "evidence": [
+                {
+                  "quote": "La liberté du patient ne disparaît pas au moment où la souffrance devient insupportable.",
+                  "source_url": "https://www.assemblee-nationale.fr/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cluster_risque_vulnerabilite",
+          "axis": "autonomie-protection",
+          "position": "against",
+          "label": "Prévenir les pressions sur les personnes vulnérables",
+          "summary": "Arguments soulignant les risques de pression implicite sur les personnes âgées, isolées ou dépendantes.",
+          "actors": [
+            {
+              "actor_id": "acteur_marc_legrand",
+              "quote": "Aucune personne ne doit demander la mort faute d'accompagnement.",
+              "quote_source": "Débat parlementaire de démonstration, 27 mai 2024",
+              "stance_summary": "Demande un renforcement préalable des soins palliatifs.",
+              "evidence": [
+                {
+                  "quote": "Aucune personne ne doit demander la mort faute d'accompagnement.",
+                  "source_url": "https://www.assemblee-nationale.fr/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

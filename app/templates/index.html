@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}AgoraLoi — Cartographier le débat public{% endblock %}
+{% block content %}
+<section class="entry-map" data-entry-map>
+  <script type="application/json" data-entry-map-data>{{ debate_subjects|tojson }}</script>
+
+  <header class="entry-map-head">
+    <div>
+      <p class="eyebrow">Cartographie interactive du débat public</p>
+      <h1>Choisissez une grande catégorie pour explorer le débat.</h1>
+    </div>
+    <div class="entry-search">
+      <label for="entry-search">Recherche directe</label>
+      <div class="search-row">
+        <input id="entry-search" type="search" placeholder="Recours, indicateurs, formation..." data-entry-search>
+        <button class="button" type="button" data-entry-search-button>Rechercher</button>
+      </div>
+      <div class="search-results" data-entry-search-results aria-live="polite"></div>
+    </div>
+  </header>
+
+  <div class="map-stage" data-map-stage>
+    <div class="map-breadcrumb" data-map-breadcrumb>
+      <button type="button" data-map-reset>Grandes catégories</button>
+    </div>
+
+    <div class="mind-map" data-mind-map aria-live="polite">
+      <div class="mind-center">
+        <p class="eyebrow" data-map-kicker>Départ</p>
+        <h2 data-map-title>Débat public</h2>
+        <p data-map-summary>Les grandes catégories structurent l'entrée dans la cartographie.</p>
+      </div>
+      <div class="mind-nodes" data-map-nodes></div>
+    </div>
+
+    <aside class="map-explain">
+      <p class="step-label" data-map-level>Étape 1</p>
+      <h2 data-map-side-title>Grandes catégories</h2>
+      <p data-map-side-summary>Chaque clic remplace la carte par le niveau suivant. Le dernier niveau mène à une page sujet dédiée.</p>
+    </aside>
+  </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+  <script src="/static/entry-map.js" defer></script>
+{% endblock %}

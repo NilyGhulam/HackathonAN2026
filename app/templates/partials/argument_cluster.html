@@ -1,0 +1,35 @@
+<article class="argument-cluster">
+  <div class="argument-cluster-head">
+    <span>{{ cluster.axis }}</span>
+    <h4>{{ cluster.label }}</h4>
+    <p>{{ cluster.summary }}</p>
+  </div>
+
+  <div class="actor-list">
+    {% for actor in cluster.actors %}
+      <article class="actor-card">
+        <div class="actor-main">
+          {% if actor.photo %}
+            <img class="actor-photo" src="{{ actor.photo }}" alt="Portrait de {{ actor.name }}">
+          {% else %}
+            <span class="actor-photo actor-photo-fallback">{{ actor.initials }}</span>
+          {% endif %}
+          <div>
+            <strong>{{ actor.name }}</strong>
+            <span>{{ actor.stance_summary }}</span>
+          </div>
+        </div>
+
+        <div class="actor-details">
+          <strong>{{ actor.name }}</strong>
+          <span>{{ actor.role }}</span>
+          <span>{{ actor.party }}</span>
+        </div>
+
+        <blockquote class="actor-quote" title="{{ actor.quote_source }}">
+          “{{ actor.quote }}”
+        </blockquote>
+      </article>
+    {% endfor %}
+  </div>
+</article>

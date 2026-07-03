@@ -1,0 +1,125 @@
+# Taxonomie métier modifiable sans toucher au code.
+# Elle sert à classer les traces publiques du débat et à guider l'utilisateur
+# vers une forme d'intervention adaptée, sans collecter d'opinions par défaut.
+
+project:
+  name: AgoraLoi
+  tagline: Cartographier le débat public pour mieux y participer.
+  data_policy: >
+    La plateforme organise des traces publiques déjà disponibles et ne conserve
+    pas les brouillons citoyens par défaut.
+
+argument_roles:
+  soutien:
+    label: Soutien
+    description: Argument en faveur d'une mesure ou de son objectif.
+  opposition:
+    label: Opposition
+    description: Argument contestant une mesure, son principe ou ses effets.
+  nuance:
+    label: Nuance
+    description: Argument qui reconnaît l'intérêt d'une mesure mais en limite la portée.
+  clarification:
+    label: Clarification
+    description: Question ou demande de précision sur le droit applicable, le calendrier ou le public concerné.
+  alternative:
+    label: Alternative
+    description: Proposition de formulation ou de mécanisme différent.
+  alerte_application:
+    label: Alerte d'application
+    description: Signalement d'une difficulté pratique, territoriale ou administrative.
+
+category_themes:
+  cadre_juridique:
+    label: Cadre juridique et libertés
+    description: Lisibilité de la règle, droits fondamentaux et garanties.
+  mise_en_oeuvre:
+    label: Mise en œuvre et moyens
+    description: Conditions pratiques, ressources, échéances et faisabilité.
+  effets_publics:
+    label: Effets sur les publics et territoires
+    description: Effets différenciés selon les citoyens, services publics ou territoires.
+  pilotage_evaluation:
+    label: Pilotage et évaluation
+    description: Données, indicateurs, suivi et effets observables.
+
+categories:
+  cout:
+    label: Coût et moyens
+    theme: mise_en_oeuvre
+    description: Financement, ressources humaines, charge budgétaire.
+  faisabilite:
+    label: Faisabilité
+    theme: mise_en_oeuvre
+    description: Capacité concrète à appliquer la mesure.
+  calendrier:
+    label: Calendrier
+    theme: mise_en_oeuvre
+    description: Entrée en vigueur, délais, décrets attendus.
+  clarte_juridique:
+    label: Clarté juridique
+    theme: cadre_juridique
+    description: Lisibilité, champ d'application, articulation avec d'autres textes.
+  libertes_publiques:
+    label: Libertés publiques
+    theme: cadre_juridique
+    description: Effets possibles sur les libertés individuelles ou collectives.
+  egalite:
+    label: Égalité et accès aux droits
+    theme: effets_publics
+    description: Effets différenciés selon les publics ou territoires.
+  impact_territorial:
+    label: Impact territorial
+    theme: effets_publics
+    description: Communes, départements, régions, outre-mer, ruralité, quartiers.
+  evaluation:
+    label: Évaluation
+    theme: pilotage_evaluation
+    description: Données, indicateurs, effets attendus ou observés.
+
+problem_types:
+  besoin_clarification: Besoin de clarification
+  difficulte_application: Difficulté d'application
+  effet_inattendu: Effet inattendu ou risque non anticipé
+  manque_donnees: Manque de données ou d'évaluation
+  proposition_evolution: Proposition d'évolution
+  divergence_arguments: Désaccord argumentatif
+
+trace_types:
+  texte_legislatif: Texte législatif
+  amendement: Amendement
+  debat_seance: Débat en séance publique
+  commission: Compte rendu de commission
+  question_ecrite: Question écrite
+  question_orale: Question orale
+  question_au_gouvernement: Question au Gouvernement
+  reponse_gouvernementale: Réponse du Gouvernement
+  rapport: Rapport parlementaire
+  petition_publique: Pétition publique institutionnelle
+
+participation_outputs:
+  question_a_transmettre:
+    label: Question à transmettre à un parlementaire
+    description: Pour demander une clarification ou une réponse du Gouvernement via un élu.
+  demande_clarification:
+    label: Demande de clarification
+    description: Pour préciser l'application d'une mesure ou ses échéances.
+  proposition_modification:
+    label: Proposition de modification
+    description: Pour formuler une évolution possible de la règle.
+  argumentaire_petition:
+    label: Argumentaire de pétition
+    description: Pour structurer une pétition vers une plateforme officielle.
+  contribution_consultation:
+    label: Contribution à une consultation publique
+    description: Pour répondre à une consultation déjà ouverte.
+  message_representant:
+    label: Message à un représentant
+    description: Pour écrire à un député, sénateur ou élu local selon le sujet.
+
+publication_rules:
+  store_user_drafts_by_default: false
+  transmit_without_explicit_action: false
+  show_public_source_links: true
+  distinguish_fact_opinion_inference: true
+  minimum_sources_for_argument_cluster: 1

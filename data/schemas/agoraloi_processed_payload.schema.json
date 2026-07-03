@@ -1,0 +1,349 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://agoraloi.local/schemas/agoraloi_processed_payload.schema.json",
+  "title": "AgoraLoi processed public debate payload",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "processing",
+    "raw_source",
+    "extracted_traces",
+    "taxonomy_links",
+    "subject_updates"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "0.1.0"
+    },
+    "processing": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "processed_at",
+        "model",
+        "prompt_version",
+        "status",
+        "global_confidence"
+      ],
+      "properties": {
+        "run_id": { "type": "string" },
+        "processed_at": { "type": "string", "format": "date-time" },
+        "model": { "type": "string" },
+        "prompt_version": { "type": "string" },
+        "status": {
+          "type": "string",
+          "enum": ["automatic", "needs_review", "validated", "obsolete"]
+        },
+        "global_confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "warnings": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "raw_source": {
+      "$ref": "#/$defs/raw_source"
+    },
+    "extracted_traces": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/extracted_trace" }
+    },
+    "taxonomy_links": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/taxonomy_link" }
+    },
+    "subject_updates": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/subject_update" }
+    }
+  },
+  "$defs": {
+    "raw_source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "type",
+        "institution",
+        "date",
+        "title",
+        "url",
+        "original_text",
+        "metadata"
+      ],
+      "properties": {
+        "id": { "type": "string" },
+        "type": {
+          "type": "string",
+          "enum": [
+            "law_text",
+            "bill",
+            "amendment",
+            "committee_report",
+            "public_session_debate",
+            "written_question",
+            "oral_question",
+            "government_answer",
+            "public_petition",
+            "public_consultation",
+            "other"
+          ]
+        },
+        "institution": {
+          "type": "string",
+          "examples": ["assemblee_nationale", "senat", "gouvernement", "legifrance"]
+        },
+        "date": { "type": "string", "format": "date" },
+        "title": { "type": "string" },
+        "url": { "type": "string" },
+        "official_identifier": { "type": "string" },
+        "original_text": { "type": "string" },
+        "metadata": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["quote", "source_url"],
+      "properties": {
+        "quote": { "type": "string" },
+        "source_url": { "type": "string" },
+        "start_char": { "type": "integer", "minimum": 0 },
+        "end_char": { "type": "integer", "minimum": 0 },
+        "note": { "type": "string" }
+      }
+    },
+    "extracted_trace": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "source_id",
+        "summary",
+        "argument_role",
+        "position",
+        "public_policy_domains",
+        "affected_publics",
+        "issues",
+        "evidence",
+        "confidence",
+        "validation_status"
+      ],
+      "properties": {
+        "id": { "type": "string" },
+        "source_id": { "type": "string" },
+        "summary": { "type": "string" },
+        "argument_role": {
+          "type": "string",
+          "enum": [
+            "support",
+            "opposition",
+            "nuance",
+            "clarification",
+            "alternative",
+            "implementation_alert",
+            "evaluation_request"
+          ]
+        },
+        "position": {
+          "type": "string",
+          "enum": ["for", "against", "neutral", "mixed", "not_applicable"]
+        },
+        "public_policy_domains": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "examples": ["sante", "justice", "agriculture", "logement", "education"]
+          }
+        },
+        "affected_publics": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "issues": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "examples": ["fin_de_vie", "soins_palliatifs", "clause_de_conscience"]
+          }
+        },
+        "evidence": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/evidence" }
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "validation_status": {
+          "type": "string",
+          "enum": ["automatic", "needs_review", "validated", "obsolete"]
+        }
+      }
+    },
+    "taxonomy_link": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "domain_id",
+        "subtheme_id",
+        "subject_id",
+        "link_strength",
+        "rationale",
+        "confidence"
+      ],
+      "properties": {
+        "domain_id": { "type": "string" },
+        "domain_label": { "type": "string" },
+        "subtheme_id": { "type": "string" },
+        "subtheme_label": { "type": "string" },
+        "subject_id": { "type": "string" },
+        "subject_title": { "type": "string" },
+        "link_strength": {
+          "type": "string",
+          "enum": ["strong", "probable", "weak", "new_subject_suggested"]
+        },
+        "rationale": { "type": "string" },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "actor": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "type",
+        "role",
+        "party",
+        "stance_summary"
+      ],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "type": {
+          "type": "string",
+          "enum": ["elected_official", "government", "institution", "association", "expert", "union", "other"]
+        },
+        "role": { "type": "string" },
+        "party": { "type": "string" },
+        "photo_url": { "type": "string" },
+        "stance_summary": { "type": "string" }
+      }
+    },
+    "argument_cluster": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "axis",
+        "position",
+        "label",
+        "summary",
+        "actors"
+      ],
+      "properties": {
+        "id": { "type": "string" },
+        "axis": { "type": "string" },
+        "position": {
+          "type": "string",
+          "enum": ["for", "against", "neutral"]
+        },
+        "label": { "type": "string" },
+        "summary": { "type": "string" },
+        "actors": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "actor_id",
+              "quote",
+              "quote_source",
+              "stance_summary"
+            ],
+            "properties": {
+              "actor_id": { "type": "string" },
+              "quote": { "type": "string" },
+              "quote_source": { "type": "string" },
+              "stance_summary": { "type": "string" },
+              "evidence": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/evidence" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "timeline_event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["date", "type", "title", "summary", "url"],
+      "properties": {
+        "date": { "type": "string", "format": "date" },
+        "type": { "type": "string" },
+        "title": { "type": "string" },
+        "summary": { "type": "string" },
+        "url": { "type": "string" }
+      }
+    },
+    "subject_update": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "subject_id",
+        "subject_title",
+        "summary",
+        "context_update",
+        "timeline_events",
+        "actors",
+        "argument_clusters"
+      ],
+      "properties": {
+        "subject_id": { "type": "string" },
+        "subject_title": { "type": "string" },
+        "summary": { "type": "string" },
+        "context_update": { "type": "string" },
+        "timeline_events": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/timeline_event" }
+        },
+        "actors": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/actor" }
+        },
+        "argument_clusters": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/argument_cluster" }
+        },
+        "suggested_new_subject": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "domain_label": { "type": "string" },
+            "subtheme_label": { "type": "string" },
+            "subject_title": { "type": "string" },
+            "reason": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

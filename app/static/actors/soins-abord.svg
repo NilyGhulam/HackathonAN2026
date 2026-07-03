@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Portrait stylisé">
+  <rect width="96" height="96" fill="#f6f6f6"/>
+  <circle cx="48" cy="34" r="18" fill="#666"/>
+  <path d="M17 88c5-21 18-33 31-33s26 12 31 33" fill="#929292"/>
+  <text x="48" y="39" text-anchor="middle" font-size="18" font-family="Arial" font-weight="700" fill="#fff">SA</text>
+</svg>

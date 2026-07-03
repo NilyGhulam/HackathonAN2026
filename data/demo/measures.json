@@ -1,0 +1,83 @@
+[
+  {
+    "id": "mesure-transparence-algorithmes",
+    "title": "Informer l'usager lorsqu'une décision administrative s'appuie sur un algorithme",
+    "law_title": "Projet de loi de démonstration sur la confiance dans les services publics numériques",
+    "article": "Article 3",
+    "status": "Données de démonstration",
+    "summary": "La mesure impose à une administration d'informer l'usager lorsqu'un traitement algorithmique contribue à une décision qui le concerne.",
+    "changes": [
+      "Ajoute une obligation d'information explicite sur l'usage d'un traitement algorithmique.",
+      "Prévoit une demande possible d'explication sur les critères principaux utilisés.",
+      "Renvoie certaines modalités pratiques à un texte d'application."
+    ],
+    "audiences": [
+      "Usagers des services publics",
+      "Administrations",
+      "Collectivités utilisant des outils algorithmiques"
+    ],
+    "obligations": [
+      "Informer l'usager",
+      "Documenter les critères principaux",
+      "Prévoir une voie de demande d'explication"
+    ],
+    "deadlines": [
+      "Entrée en vigueur à préciser par texte d'application"
+    ],
+    "expected_effects": [
+      "Renforcer la transparence",
+      "Faciliter la contestation d'une décision",
+      "Créer une charge de documentation pour les administrations"
+    ],
+    "sources": [
+      {
+        "label": "Texte législatif de démonstration",
+        "type": "texte_legislatif",
+        "url": "#"
+      },
+      {
+        "label": "Traces publiques de démonstration",
+        "type": "debat_seance",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "mesure-delai-application-collectivites",
+    "title": "Reporter l'entrée en vigueur d'une obligation pour les petites collectivités",
+    "law_title": "Projet de loi de démonstration sur la simplification administrative locale",
+    "article": "Article 8",
+    "status": "Données de démonstration",
+    "summary": "La mesure prévoit un délai supplémentaire pour les collectivités de petite taille avant l'application d'une nouvelle obligation déclarative.",
+    "changes": [
+      "Crée un calendrier différencié selon la taille de la collectivité.",
+      "Prévoit une période transitoire pour les petites communes.",
+      "Demande un bilan d'application après la première année."
+    ],
+    "audiences": [
+      "Petites communes",
+      "Intercommunalités",
+      "Services administratifs locaux"
+    ],
+    "obligations": [
+      "Mettre en conformité les procédures déclaratives",
+      "Transmettre un bilan d'application"
+    ],
+    "deadlines": [
+      "Délai principal : date prévue par la loi",
+      "Délai supplémentaire : période transitoire pour les petites collectivités"
+    ],
+    "expected_effects": [
+      "Réduire la charge immédiate",
+      "Limiter les ruptures d'application",
+      "Identifier les difficultés territoriales"
+    ],
+    "sources": [
+      {
+        "label": "Texte législatif de démonstration",
+        "type": "texte_legislatif",
+        "url": "#"
+      }
+    ]
+  }
+]

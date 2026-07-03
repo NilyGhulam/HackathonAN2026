@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% block title %}{{ measure.title }} — AgoraLoi{% endblock %}
+{% block content %}
+<section class="page-header">
+  <p class="eyebrow">{{ measure.law_title }} · {{ measure.article }}</p>
+  <h1>{{ measure.title }}</h1>
+  <p class="lead">{{ measure.summary }}</p>
+  <p class="notice">Prototype : cette page utilise des données de démonstration. Le branchement aux ressources ouvertes est isolé côté dépôt de données.</p>
+</section>
+
+<section class="section layout two-columns">
+  <article class="panel">
+    <h2>Ce que la mesure change</h2>
+    <ul class="check-list">
+      {% for item in measure.changes %}<li>{{ item }}</li>{% endfor %}
+    </ul>
+    <h3>Publics concernés</h3>
+    <div class="chips">{% for item in measure.audiences %}<span>{{ item }}</span>{% endfor %}</div>
+    <h3>Obligations</h3>
+    <ul>{% for item in measure.obligations %}<li>{{ item }}</li>{% endfor %}</ul>
+    <h3>Échéances</h3>
+    <ul>{% for item in measure.deadlines %}<li>{{ item }}</li>{% endfor %}</ul>
+  </article>
+
+  <article class="panel emphasis">
+    <h2>Cartographie générale</h2>
+    <div class="mini-stats">
+      <span>{{ stats.traces }} traces</span>
+      <span>{{ stats.roles }} rôles</span>
+      <span>{{ stats.categories }} catégories</span>
+    </div>
+    <p>
+      La cartographie interactive se trouve à l'entrée du site. Cette page reste une fiche détaillée de la mesure.
+    </p>
+    <a class="button secondary" href="/">Retour à la cartographie</a>
+  </article>
+</section>
+
+<section class="section layout two-columns">
+  <article class="panel">
+    <h2>Préparer une intervention</h2>
+    <p>
+      L'atelier aide à formuler une question, une demande de clarification ou une proposition.
+      Le brouillon n'est pas conservé et rien n'est transmis automatiquement.
+    </p>
+    <form method="post" action="/mesures/{{ measure.id }}/preparer" class="form">
+      <label for="selected_intent">Forme souhaitée</label>
+      <select id="selected_intent" name="selected_intent">
+        <option value="auto" {% if selected_intent == 'auto' %}selected{% endif %}>Laisser la plateforme proposer</option>
+        {% for key, item in participation_outputs.items() %}
+          <option value="{{ key }}" {% if selected_intent == key %}selected{% endif %}>{{ item.label }}</option>
+        {% endfor %}
+      </select>
+
+      <label for="user_text">Votre constat, question ou proposition</label>
+      <textarea id="user_text" name="user_text" rows="8" placeholder="Ex. Je voudrais comprendre si cette mesure s'applique aux petites communes dès la première année...">{{ user_text or '' }}</textarea>
+      <button class="button" type="submit">Générer un brouillon privé</button>
+    </form>
+  </article>
+
+  <article class="panel result-panel">
+    {% if draft %}
+      <p class="tag">{{ draft.output_label }}</p>
+      <h2>{{ draft.title }}</h2>
+      <pre class="draft">{{ draft.draft }}</pre>
+      <p class="notice">{{ draft.privacy_notice }}</p>
+      <h3>Canaux officiels possibles</h3>
+      <ul class="channels">
+        {% for channel in draft.channels %}
+          <li><a href="{{ channel.url }}">{{ channel.label }}</a><br><span>{{ channel.note }}</span></li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <h2>Résultat attendu</h2>
+      <p>
+        Après génération, la plateforme affiche un brouillon révisable et les voies officielles adaptées :
+        parlementaire, pétition, consultation ou autre canal pertinent.
+      </p>
+    {% endif %}
+  </article>
+</section>
+{% endblock %}
