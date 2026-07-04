@@ -1,0 +1,3241 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "batch_20260704T130210_0000",
+  "generated_at": "2026-07-04T15:08:00+02:00",
+  "provider": "chatgpt_conversation",
+  "notes": [
+    "Classification réalisée à partir des champs title, summary, context et current_path fournis dans classify_subject_002_input.json.",
+    "Le type de document n'est pas utilisé comme catégorie principale lorsque le thème substantiel est identifiable.",
+    "needs_review=true signale surtout un sujet institutionnel sensible, juridiquement délicat ou susceptible de demander une validation de taxonomie."
+  ],
+  "items": [
+    {
+      "id": "classify:DLR5L13N25850",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N25850",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Entreprises",
+          "Gouvernance des entreprises publiques",
+          "Cumul de fonctions et rémunérations"
+        ],
+        "tags": [
+          "entreprises publiques",
+          "secteur privé",
+          "rémunérations des dirigeants",
+          "conflits d'intérêts"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Cumul de fonctions et rémunérations",
+          "parent_path": [
+            "Entreprises",
+            "Gouvernance des entreprises publiques"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Cumul des fonctions et des rémunérations de dirigeant d'une entreprise du secteur public et d'une entreprise du secteur privé — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L13N26198",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N26198",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Formation professionnelle et apprentissage",
+          "Formations sociales",
+          "Accès aux stages"
+        ],
+        "tags": [
+          "travailleurs sociaux",
+          "étudiants",
+          "stages",
+          "formation professionnelle"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accès aux stages",
+          "parent_path": [
+            "Formation professionnelle et apprentissage",
+            "Formations sociales"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Accès aux stages des étudiants et élèves travailleurs sociaux — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L13N26300",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N26300",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Urbanisme",
+          "Urbanisme commercial",
+          "Implantations commerciales"
+        ],
+        "tags": [
+          "commerce",
+          "aménagement commercial",
+          "urbanisme"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Implantations commerciales",
+          "parent_path": [
+            "Urbanisme",
+            "Urbanisme commercial"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — urbanisme commercial — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L13N27097",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N27097",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Consommation",
+          "Protection des consommateurs",
+          "Démarchage téléphonique"
+        ],
+        "tags": [
+          "démarchage",
+          "consommateurs",
+          "téléphone",
+          "pratiques commerciales"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Démarchage téléphonique",
+          "parent_path": [
+            "Consommation",
+            "Protection des consommateurs"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Renforcer les droits des consommateurs en matière de démarchage téléphonique — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L13N27918",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N27918",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Environnement",
+          "Risques environnementaux et sanitaires",
+          "Essais nucléaires"
+        ],
+        "tags": [
+          "Polynésie française",
+          "essais nucléaires",
+          "suivi environnemental",
+          "outre-mer"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Essais nucléaires",
+          "parent_path": [
+            "Environnement",
+            "Risques environnementaux et sanitaires"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Suivi des conséquences environnementales des essais nucléaires français en Polynésie française — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L13N29140",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N29140",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Personnes âgées",
+          "Autonomie et dépendance",
+          "Financement de l'APA"
+        ],
+        "tags": [
+          "allocation personnalisée d'autonomie",
+          "départements",
+          "contribution solidarité autonomie",
+          "dépendance"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Financement de l'APA",
+          "parent_path": [
+            "Personnes âgées",
+            "Autonomie et dépendance"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Elargissement de la CSA et compensation aux départements des dépenses d'APA — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N29550",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N29550",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Élevage",
+          "Protection des troupeaux",
+          "Loup"
+        ],
+        "tags": [
+          "loup",
+          "zones de protection",
+          "éleveurs",
+          "faune sauvage"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Loup",
+          "parent_path": [
+            "Élevage",
+            "Protection des troupeaux"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Zones de protection renforcée contre le loup — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N29665",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N29665",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Justice pénale internationale",
+          "Compétence du juge français"
+        ],
+        "tags": [
+          "Cour pénale internationale",
+          "compétence territoriale",
+          "procédure pénale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Compétence du juge français",
+          "parent_path": [
+            "Justice",
+            "Justice pénale internationale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Compétence territoriale du juge français dans les infractions visées par le statut de la Cour pénale internationale — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N29698",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N29698",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Travail",
+          "Relations sociales et syndicales",
+          "Amnistie des mouvements sociaux"
+        ],
+        "tags": [
+          "mouvements sociaux",
+          "activités syndicales",
+          "amnistie",
+          "revendications"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Amnistie des mouvements sociaux",
+          "parent_path": [
+            "Travail",
+            "Relations sociales et syndicales"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.77,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Amnistie des faits commis lors de mouvements sociaux et d'activités syndicales et revendicatives — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N30332",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N30332",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Élections et référendums",
+          "Organisation des élections locales",
+          "Calendrier électoral"
+        ],
+        "tags": [
+          "élections municipales",
+          "élections départementales",
+          "conseillers communautaires",
+          "calendrier électoral"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Calendrier électoral",
+          "parent_path": [
+            "Élections et référendums",
+            "Organisation des élections locales"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Complément à la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N31233",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N31233",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Collectivités territoriales",
+          "Normes applicables aux collectivités",
+          "Évaluation des normes"
+        ],
+        "tags": [
+          "Conseil national d'évaluation des normes",
+          "projets de loi",
+          "collectivités",
+          "simplification"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Évaluation des normes",
+          "parent_path": [
+            "Collectivités territoriales",
+            "Normes applicables aux collectivités"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Joindre les avis rendus par le conseil national d'évaluation des normes aux projets de loi relatifs aux collectivités territoriales et à leurs groupements — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N31272",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N31272",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Aide aux victimes",
+          "Indemnisation des victimes",
+          "Prises d'otages"
+        ],
+        "tags": [
+          "prise d'otages",
+          "victimes",
+          "indemnisation"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Prises d'otages",
+          "parent_path": [
+            "Aide aux victimes",
+            "Indemnisation des victimes"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Indemnisation des personnes victimes de prise d'otages — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N31534",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N31534",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Catastrophes naturelles",
+          "Prévention des risques naturels",
+          "Inondations"
+        ],
+        "tags": [
+          "inondations",
+          "prévention des risques",
+          "protection"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Inondations",
+          "parent_path": [
+            "Catastrophes naturelles",
+            "Prévention des risques naturels"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Prévention des inondations et protection contre celles-ci — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33130",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33130",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Famille",
+          "Funérailles et crématoriums",
+          "Schéma régional des crématoriums"
+        ],
+        "tags": [
+          "crématoriums",
+          "funéraire",
+          "schéma régional"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Schéma régional des crématoriums",
+          "parent_path": [
+            "Famille",
+            "Funérailles et crématoriums"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Instauration d'un schéma régional des crématoriums — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33166",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33166",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité intérieure",
+          "Police municipale et territoriale",
+          "Organisation des polices territoriales"
+        ],
+        "tags": [
+          "polices territoriales",
+          "police locale",
+          "sécurité publique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Organisation des polices territoriales",
+          "parent_path": [
+            "Sécurité intérieure",
+            "Police municipale et territoriale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Création des polices territoriales — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33167",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33167",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Élections et référendums",
+          "Élections municipales",
+          "Nuance politique des candidats"
+        ],
+        "tags": [
+          "sans étiquette",
+          "communes de moins de 3500 habitants",
+          "élections municipales"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Nuance politique des candidats",
+          "parent_path": [
+            "Élections et référendums",
+            "Élections municipales"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Candidats aux élections municipales présentant la nuance« sans étiquette » dans les communes de moins de 3 500 habitants — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33168",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33168",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "État",
+          "Droit local alsacien-mosellan",
+          "Modernisation législative"
+        ],
+        "tags": [
+          "Moselle",
+          "Bas-Rhin",
+          "Haut-Rhin",
+          "droit local"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Modernisation législative",
+          "parent_path": [
+            "État",
+            "Droit local alsacien-mosellan"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.76,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Modernisation de la législation applicable dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33617",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33617",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Cérémonies publiques et fêtes légales",
+          "Funérailles civiles",
+          "Funérailles républicaines"
+        ],
+        "tags": [
+          "funérailles républicaines",
+          "cérémonie civile",
+          "citoyenneté"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Funérailles républicaines",
+          "parent_path": [
+            "Cérémonies publiques et fêtes légales",
+            "Funérailles civiles"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — funérailles républicaines — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33709",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33709",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Représentation politique",
+          "Équilibre territorial"
+        ],
+        "tags": [
+          "révision constitutionnelle",
+          "territoires",
+          "représentation politique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Équilibre territorial",
+          "parent_path": [
+            "Parlement",
+            "Représentation politique"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.74,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Représentation équilibrée des territoires — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33769",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33769",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Collectivités territoriales",
+          "Financement local",
+          "Agence France locale"
+        ],
+        "tags": [
+          "élus locaux",
+          "Agence France locale",
+          "financement des collectivités"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Agence France locale",
+          "parent_path": [
+            "Collectivités territoriales",
+            "Financement local"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Participation des élus locaux à la direction de l'Agence France locale — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33498",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33498",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Voirie",
+          "Chemins ruraux",
+          "Protection du domaine rural"
+        ],
+        "tags": [
+          "chemins ruraux",
+          "ruralité",
+          "voirie communale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Protection du domaine rural",
+          "parent_path": [
+            "Voirie",
+            "Chemins ruraux"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Protection des chemins ruraux — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33921",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33921",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Famille",
+          "État civil et citoyenneté",
+          "Parrainage républicain"
+        ],
+        "tags": [
+          "parrainage républicain",
+          "citoyenneté",
+          "famille"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Parrainage républicain",
+          "parent_path": [
+            "Famille",
+            "État civil et citoyenneté"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Parrainage républicain — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33952",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33952",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité intérieure",
+          "Police administrative locale",
+          "Pouvoirs de police à Paris"
+        ],
+        "tags": [
+          "Paris",
+          "pouvoirs de police",
+          "collectivités"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Pouvoirs de police à Paris",
+          "parent_path": [
+            "Sécurité intérieure",
+            "Police administrative locale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Pouvoirs de police à Paris — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N34468",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N34468",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Agriculture",
+          "Alimentation locale",
+          "Ancrage territorial de l'alimentation"
+        ],
+        "tags": [
+          "circuits courts",
+          "alimentation locale",
+          "territoires",
+          "agriculture"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Ancrage territorial de l'alimentation",
+          "parent_path": [
+            "Agriculture",
+            "Alimentation locale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — ancrage territorial alimentation — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N34531",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N34531",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Collectivités territoriales",
+          "Normes et simplification",
+          "Transposition des directives européennes"
+        ],
+        "tags": [
+          "simplification du droit",
+          "collectivités",
+          "directives européennes",
+          "constitution"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Transposition des directives européennes",
+          "parent_path": [
+            "Collectivités territoriales",
+            "Normes et simplification"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.76,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Simplification du droit pour les collectivités territoriales — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N34652",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N34652",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Terrorisme",
+          "Lutte antiterroriste",
+          "Outils juridiques"
+        ],
+        "tags": [
+          "antiterrorisme",
+          "sécurité intérieure",
+          "justice pénale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Outils juridiques",
+          "parent_path": [
+            "Terrorisme",
+            "Lutte antiterroriste"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Renforcement de l'efficacité de la lutte antiterroriste — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N34663",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N34663",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Relations Gouvernement-Parlement",
+          "Missions temporaires parlementaires"
+        ],
+        "tags": [
+          "missions temporaires",
+          "parlementaires",
+          "Gouvernement",
+          "loi organique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Missions temporaires parlementaires",
+          "parent_path": [
+            "Parlement",
+            "Relations Gouvernement-Parlement"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Suppression des missions temporaires parlementaires — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N35291",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N35291",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Intercommunalité",
+          "Organisation intercommunale",
+          "Mise en place et fonctionnement"
+        ],
+        "tags": [
+          "intercommunalités",
+          "communes",
+          "gouvernance locale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Mise en place et fonctionnement",
+          "parent_path": [
+            "Intercommunalité",
+            "Organisation intercommunale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Mise en place et fonctionnement des intercommunalités — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N35383",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N35383",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Transports",
+          "Transports scolaires",
+          "Délégations de compétences"
+        ],
+        "tags": [
+          "transports scolaires",
+          "compétences locales",
+          "délégation"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Délégations de compétences",
+          "parent_path": [
+            "Transports",
+            "Transports scolaires"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Conditions des délégations de compétences en matière de transports scolaires — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N35464",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N35464",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Justice pénale",
+          "Efficacité de la justice pénale"
+        ],
+        "tags": [
+          "justice pénale",
+          "procédure pénale",
+          "efficacité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Efficacité de la justice pénale",
+          "parent_path": [
+            "Justice",
+            "Justice pénale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Renforcement de l'efficacité de la justice pénale — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N35595",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N35595",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Eau et assainissement",
+          "Compétences locales de l'eau",
+          "Communautés de communes"
+        ],
+        "tags": [
+          "eau",
+          "assainissement",
+          "communautés de communes",
+          "compétences optionnelles"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Communautés de communes",
+          "parent_path": [
+            "Eau et assainissement",
+            "Compétences locales de l'eau"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Maintien des compétences « eau » et « assainissement » dans les communautés de communes — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36017",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36017",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Organisation de la justice",
+          "Moyens et programmation"
+        ],
+        "tags": [
+          "redressement de la justice",
+          "loi organique",
+          "moyens judiciaires"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Moyens et programmation",
+          "parent_path": [
+            "Justice",
+            "Organisation de la justice"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Redressement de la justice — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36018",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36018",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Organisation de la justice",
+          "Programmation judiciaire"
+        ],
+        "tags": [
+          "redressement de la justice",
+          "programmation",
+          "moyens judiciaires"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Programmation judiciaire",
+          "parent_path": [
+            "Justice",
+            "Organisation de la justice"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Loi de programmation pour le redressement de la justice — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36027",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36027",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Eau et assainissement",
+          "Service public de l'eau potable",
+          "Obligations des collectivités"
+        ],
+        "tags": [
+          "eau potable",
+          "collectivités territoriales",
+          "simplification"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Obligations des collectivités",
+          "parent_path": [
+            "Eau et assainissement",
+            "Service public de l'eau potable"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Service public d'eau potable dans les collectivités territoriales — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N36252",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N36252",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Santé",
+          "Risques liés aux pesticides",
+          "Indemnisation des victimes"
+        ],
+        "tags": [
+          "produits phytopharmaceutiques",
+          "pesticides",
+          "fonds d'indemnisation",
+          "victimes"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Indemnisation des victimes",
+          "parent_path": [
+            "Santé",
+            "Risques liés aux pesticides"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Fonds d'indemnisation des victimes des produits phytopharmaceutiques — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36391",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36391",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Travaux parlementaires",
+          "Qualité de la loi",
+          "Études d'impact"
+        ],
+        "tags": [
+          "études d'impact",
+          "projets de loi",
+          "loi organique",
+          "évaluation"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Études d'impact",
+          "parent_path": [
+            "Travaux parlementaires",
+            "Qualité de la loi"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Amélioration de la qualité des études d'impact des projets de loi — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36697",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36697",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Religions et cultes",
+          "Liberté de culte",
+          "Cadre républicain"
+        ],
+        "tags": [
+          "liberté de culte",
+          "laïcité",
+          "cadre républicain"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Cadre républicain",
+          "parent_path": [
+            "Religions et cultes",
+            "Liberté de culte"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.76,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Conditions d'exercice de la liberté de culte — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36939",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36939",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Banques et établissements financiers",
+          "Accès aux services bancaires",
+          "Territoires ruraux"
+        ],
+        "tags": [
+          "désertification bancaire",
+          "ruralité",
+          "services bancaires"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Territoires ruraux",
+          "parent_path": [
+            "Banques et établissements financiers",
+            "Accès aux services bancaires"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Lutte contre la désertification bancaire dans les territoires ruraux — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36942",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36942",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Environnement",
+          "Risques sanitaires environnementaux",
+          "Équipements sportifs recyclés"
+        ],
+        "tags": [
+          "pneumatiques usagés",
+          "terrains de sport",
+          "ANSES",
+          "rapport au Parlement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Équipements sportifs recyclés",
+          "parent_path": [
+            "Environnement",
+            "Risques sanitaires environnementaux"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Risques liés à l'emploi de pneumatiques usagés dans les terrains de sport — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37118",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37118",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Français de l'étranger",
+          "Élections des Français de l'étranger",
+          "Organisation du vote"
+        ],
+        "tags": [
+          "élections à l'étranger",
+          "vote des Français de l'étranger",
+          "loi organique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Organisation du vote",
+          "parent_path": [
+            "Français de l'étranger",
+            "Élections des Français de l'étranger"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Elections organisées à l'étranger — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37121",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37121",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Français de l'étranger",
+          "Représentation politique",
+          "Instances représentatives"
+        ],
+        "tags": [
+          "conseils consulaires",
+          "mandats électoraux",
+          "Français établis hors de France"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Instances représentatives",
+          "parent_path": [
+            "Français de l'étranger",
+            "Représentation politique"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Instances représentatives des Français de l'étranger — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37126",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37126",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Intercommunalité",
+          "Gouvernance intercommunale",
+          "Représentation des communes"
+        ],
+        "tags": [
+          "conseils communautaires",
+          "conseillers municipaux",
+          "représentativité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Représentation des communes",
+          "parent_path": [
+            "Intercommunalité",
+            "Gouvernance intercommunale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Représentativité des conseils communautaires et fonctionnement de l’intercommunalité — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37211",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37211",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Aménagement du territoire",
+          "Désenclavement territorial",
+          "Mobilités et accès"
+        ],
+        "tags": [
+          "désenclavement",
+          "territoires",
+          "mobilités"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Mobilités et accès",
+          "parent_path": [
+            "Aménagement du territoire",
+            "Désenclavement territorial"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Désenclavement des territoires — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37213",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37213",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Santé",
+          "Parcours de soins",
+          "Reconstruction mammaire"
+        ],
+        "tags": [
+          "mastectomie",
+          "information des patientes",
+          "reconstruction mammaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Reconstruction mammaire",
+          "parent_path": [
+            "Santé",
+            "Parcours de soins"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Information sur la reconstruction mammaire — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37225",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37225",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité des biens et des personnes",
+          "Protection civile",
+          "Sécurité des sapeurs-pompiers"
+        ],
+        "tags": [
+          "sapeurs-pompiers",
+          "sécurité des interventions",
+          "protection civile"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Sécurité des sapeurs-pompiers",
+          "parent_path": [
+            "Sécurité des biens et des personnes",
+            "Protection civile"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Renforcement de la sécurité des sapeurs-pompiers — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37318",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37318",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Anciens combattants et victimes de guerre",
+          "Mémoire combattante",
+          "Drapeaux associatifs"
+        ],
+        "tags": [
+          "anciens combattants",
+          "associations",
+          "drapeaux",
+          "mémoire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Drapeaux associatifs",
+          "parent_path": [
+            "Anciens combattants et victimes de guerre",
+            "Mémoire combattante"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Protection des drapeaux des associations d'anciens combattants — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37420",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37420",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Biodiversité",
+          "Espèces exotiques envahissantes",
+          "Pouvoirs du maire"
+        ],
+        "tags": [
+          "espèces exotiques envahissantes",
+          "maire",
+          "biodiversité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Pouvoirs du maire",
+          "parent_path": [
+            "Biodiversité",
+            "Espèces exotiques envahissantes"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Intervention du maire dans la lutte contre les espèces exotiques envahissantes — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37421",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37421",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Intercommunalité",
+          "Relations communes-intercommunalités",
+          "Coopération institutionnelle"
+        ],
+        "tags": [
+          "conseils municipaux",
+          "conseils communautaires",
+          "métropole de Lyon"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Coopération institutionnelle",
+          "parent_path": [
+            "Intercommunalité",
+            "Relations communes-intercommunalités"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Synergies entre conseils municipaux et communautaires — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36989",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36989",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Droits fondamentaux",
+          "Libertés publiques",
+          "Entraves à l'exercice des libertés"
+        ],
+        "tags": [
+          "libertés publiques",
+          "entraves",
+          "événements autorisés"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Entraves à l'exercice des libertés",
+          "parent_path": [
+            "Droits fondamentaux",
+            "Libertés publiques"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.76,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Répression des entraves à l'exercice des libertés — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37836",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37836",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Ordre public",
+          "Encadrement des rassemblements festifs",
+          "Rave-parties"
+        ],
+        "tags": [
+          "rave-parties",
+          "organisateurs",
+          "sanctions",
+          "ordre public"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Rave-parties",
+          "parent_path": [
+            "Ordre public",
+            "Encadrement des rassemblements festifs"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Encadrement des rave-parties et sanctions contre les organisateurs — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37844",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37844",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Impôts et taxes",
+          "Fiscalité du patrimoine",
+          "Successions et donations"
+        ],
+        "tags": [
+          "succession",
+          "donation",
+          "fiscalité patrimoniale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Successions et donations",
+          "parent_path": [
+            "Impôts et taxes",
+            "Fiscalité du patrimoine"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Fiscalité de la succession et de la donation — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37850",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37850",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Laïcité",
+          "Neutralité dans l'éducation",
+          "Service public de l'éducation"
+        ],
+        "tags": [
+          "neutralité religieuse",
+          "éducation",
+          "laïcité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Service public de l'éducation",
+          "parent_path": [
+            "Laïcité",
+            "Neutralité dans l'éducation"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.77,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — Neutralité religieuse des personnes participant au service public de l'éducation — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38169",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38169",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Administration",
+          "Relations administration-collectivités",
+          "Droit à l'erreur"
+        ],
+        "tags": [
+          "collectivités locales",
+          "droit à l'erreur",
+          "administrations",
+          "sécurité sociale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Droit à l'erreur",
+          "parent_path": [
+            "Administration",
+            "Relations administration-collectivités"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à créer un droit à l'erreur des collectivités locales dans leurs relations avec les administrations et les organismes de sécurité sociale — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38328",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38328",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Famille",
+          "État civil",
+          "Déclaration de naissance"
+        ],
+        "tags": [
+          "naissance",
+          "officier d'état civil",
+          "résidence des parents"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Déclaration de naissance",
+          "parent_path": [
+            "Famille",
+            "État civil"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — relative à la déclaration de naissance auprès de l'officier d'état civil du lieu de résidence des parents — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38344",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38344",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Transports",
+          "Droits des usagers",
+          "Continuité du service en cas de grève"
+        ],
+        "tags": [
+          "droit au transport",
+          "grève",
+          "usagers",
+          "besoins essentiels"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Continuité du service en cas de grève",
+          "parent_path": [
+            "Transports",
+            "Droits des usagers"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — tendant à assurer l'effectivité du droit au transport, à améliorer les droits des usagers et à répondre aux besoins essentiels du pays en cas de grève — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38291",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38291",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Élections et référendums",
+          "Campagnes électorales",
+          "Propagande électorale"
+        ],
+        "tags": [
+          "propagande électorale",
+          "modernisation",
+          "élections"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Propagande électorale",
+          "parent_path": [
+            "Élections et référendums",
+            "Campagnes électorales"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — relative à la simplification et à la modernisation de la propagande électorale — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N37843",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N37843",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Numérique",
+          "Droits des utilisateurs",
+          "Libre choix du consommateur"
+        ],
+        "tags": [
+          "cyberespace",
+          "consommateur",
+          "plateformes numériques"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Libre choix du consommateur",
+          "parent_path": [
+            "Numérique",
+            "Droits des utilisateurs"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à garantir le libre choix du consommateur dans le cyberespace — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38353",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38353",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Français de l'étranger",
+          "Statut et droits",
+          "Français établis hors de France"
+        ],
+        "tags": [
+          "Français de l'étranger",
+          "droits",
+          "statut"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Français établis hors de France",
+          "parent_path": [
+            "Français de l'étranger",
+            "Statut et droits"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — relative aux Français établis hors de France — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38726",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38726",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Enfants",
+          "Protection des mineurs vulnérables",
+          "Stabilité du parcours"
+        ],
+        "tags": [
+          "mineurs vulnérables",
+          "protection de l'enfance",
+          "stabilité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Stabilité du parcours",
+          "parent_path": [
+            "Enfants",
+            "Protection des mineurs vulnérables"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à apporter un cadre stable d'épanouissement et de développement aux mineurs vulnérables sur le territoire français — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38866",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38866",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Banques et établissements financiers",
+          "Frais bancaires",
+          "Plafonnement"
+        ],
+        "tags": [
+          "frais bancaires",
+          "plafonnement",
+          "protection des clients"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Plafonnement",
+          "parent_path": [
+            "Banques et établissements financiers",
+            "Frais bancaires"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à rendre effectif et à renforcer le plafonnement des frais bancaires — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N39447",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N39447",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Assurances",
+          "Crises sanitaires et économiques",
+          "Soutien aux entreprises"
+        ],
+        "tags": [
+          "assurances",
+          "solidarité nationale",
+          "entreprises",
+          "crise sanitaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Soutien aux entreprises",
+          "parent_path": [
+            "Assurances",
+            "Crises sanitaires et économiques"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — tendant à définir et à coordonner les rôles respectifs des assurances et de la solidarité nationale dans le soutien des entreprises victimes d'une menace ou d'une crise sanitaire majeure — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N39084",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N39084",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Logement",
+          "Aides au logement",
+          "Aides personnelles au logement"
+        ],
+        "tags": [
+          "APL",
+          "aides personnelles au logement",
+          "efficacité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Aides personnelles au logement",
+          "parent_path": [
+            "Logement",
+            "Aides au logement"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à garantir l'efficacité des aides personnelles au logement — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38727",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38727",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Français de l'étranger",
+          "Protection consulaire et aide d'urgence",
+          "Fonds d'urgence"
+        ],
+        "tags": [
+          "catastrophes naturelles",
+          "événements politiques majeurs",
+          "aide d'urgence"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Fonds d'urgence",
+          "parent_path": [
+            "Français de l'étranger",
+            "Protection consulaire et aide d'urgence"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — portant création d'un fonds d'urgence pour les Français de l'étranger victimes de catastrophes naturelles ou d'événements politiques majeurs — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N40251",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N40251",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Collectivités territoriales",
+          "Libertés locales",
+          "Garanties constitutionnelles"
+        ],
+        "tags": [
+          "libertés locales",
+          "révision constitutionnelle",
+          "collectivités"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Garanties constitutionnelles",
+          "parent_path": [
+            "Collectivités territoriales",
+            "Libertés locales"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.76,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — pour le plein exercice des libertés locales — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N40250",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N40250",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Collectivités territoriales",
+          "Libertés locales",
+          "Loi organique"
+        ],
+        "tags": [
+          "libertés locales",
+          "loi organique",
+          "collectivités"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Loi organique",
+          "parent_path": [
+            "Collectivités territoriales",
+            "Libertés locales"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — pour le plein exercice des libertés locales — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N40444",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N40444",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Collectivités territoriales",
+          "Dotations d'investissement local",
+          "DETR"
+        ],
+        "tags": [
+          "dotation d'équipement des territoires ruraux",
+          "procédure d'octroi",
+          "ruralité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "DETR",
+          "parent_path": [
+            "Collectivités territoriales",
+            "Dotations d'investissement local"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à réformer la procédure d’octroi de la Dotation d’équipement des territoires ruraux — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N40574",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N40574",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Mer et littoral",
+          "Ports maritimes",
+          "Gouvernance et performance"
+        ],
+        "tags": [
+          "ports maritimes",
+          "gouvernance portuaire",
+          "performance"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Gouvernance et performance",
+          "parent_path": [
+            "Mer et littoral",
+            "Ports maritimes"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — relative à la gouvernance et à la performance des ports maritimes français — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N41215",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N41215",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Travail",
+          "Santé au travail",
+          "Prévention des risques professionnels"
+        ],
+        "tags": [
+          "santé au travail",
+          "prévention",
+          "risques professionnels"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Prévention des risques professionnels",
+          "parent_path": [
+            "Travail",
+            "Santé au travail"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — Santé au travail — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N40044",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N40044",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Gens du voyage",
+          "Accueil des gens du voyage",
+          "Outils des collectivités"
+        ],
+        "tags": [
+          "gens du voyage",
+          "aires d'accueil",
+          "collectivités"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Outils des collectivités",
+          "parent_path": [
+            "Gens du voyage",
+            "Accueil des gens du voyage"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à consolider les outils des collectivités permettant d'assurer un meilleur accueil des gens du voyage — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N41449",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N41449",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sports",
+          "Accès au sport",
+          "Démocratisation"
+        ],
+        "tags": [
+          "sport",
+          "accès au sport",
+          "pratique sportive"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Démocratisation",
+          "parent_path": [
+            "Sports",
+            "Accès au sport"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — démocratiser le sport en France — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N38410",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N38410",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Urbanisme",
+          "Documents d'urbanisme",
+          "Cartes communales et PLU"
+        ],
+        "tags": [
+          "cartes communales",
+          "PLU",
+          "PLUi",
+          "abrogation"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Cartes communales et PLU",
+          "parent_path": [
+            "Urbanisme",
+            "Documents d'urbanisme"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à sécuriser la procédure d’abrogation des cartes communales dans le cadre d’une approbation d’un plan local d’urbanisme (PLU) ou d’un plan local d’urbanisme intercommunal (PLUi) et à reporter la caducité des plans d’occupation des sols (POS) — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N41031",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N41031",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Déchets",
+          "Pollution plastique",
+          "Réduction des plastiques"
+        ],
+        "tags": [
+          "plastique",
+          "pollution",
+          "déchets"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Réduction des plastiques",
+          "parent_path": [
+            "Déchets",
+            "Pollution plastique"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à lutter contre le plastique — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N41166",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N41166",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité sociale",
+          "Lutte contre la fraude sociale",
+          "Mesures de contrôle"
+        ],
+        "tags": [
+          "fraudes sociales",
+          "sécurité sociale",
+          "contrôle"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Mesures de contrôle",
+          "parent_path": [
+            "Sécurité sociale",
+            "Lutte contre la fraude sociale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — tendant à appliquer vingt-quatre mesures urgentes pour lutter contre les fraudes sociales — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N41044",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N41044",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Automobiles",
+          "Véhicules de collection",
+          "Conditions de circulation"
+        ],
+        "tags": [
+          "véhicules d'époque",
+          "vignette collection",
+          "circulation"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Conditions de circulation",
+          "parent_path": [
+            "Automobiles",
+            "Véhicules de collection"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à la création d'une vignette « collection » pour le maintien de la circulation des véhicules d'époque — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N41885",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N41885",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Énergie et carburants",
+          "Hydroélectricité",
+          "Transition énergétique"
+        ],
+        "tags": [
+          "hydroélectricité",
+          "transition énergétique",
+          "relance économique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Transition énergétique",
+          "parent_path": [
+            "Énergie et carburants",
+            "Hydroélectricité"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — tendant à inscrire l'hydroélectricité au coeur de la transition énergétique et de la relance économique — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N41727",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N41727",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Numérique",
+          "Inclusion numérique",
+          "Lutte contre l'illectronisme"
+        ],
+        "tags": [
+          "illectronisme",
+          "inclusion numérique",
+          "accès au numérique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Lutte contre l'illectronisme",
+          "parent_path": [
+            "Numérique",
+            "Inclusion numérique"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — relative à la lutte contre l'illectronisme et pour l'inclusion numérique — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N40685",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N40685",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Emploi et activité",
+          "Insertion professionnelle",
+          "Bénéficiaires du RSA"
+        ],
+        "tags": [
+          "RSA",
+          "retour à l'emploi",
+          "insertion"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Bénéficiaires du RSA",
+          "parent_path": [
+            "Emploi et activité",
+            "Insertion professionnelle"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à favoriser le retour à l'emploi des bénéficiaires du Revenu de Solidarité Active (RSA) — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N42085",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N42085",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Terrorisme",
+          "Suivi post-carcéral",
+          "Condamnés terroristes"
+        ],
+        "tags": [
+          "terrorisme",
+          "sortie de détention",
+          "suivi judiciaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Condamnés terroristes",
+          "parent_path": [
+            "Terrorisme",
+            "Suivi post-carcéral"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — renforçant le suivi des condamnés terroristes sortant de détention — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N42624",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N42624",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle de l'application des lois",
+          "Recours parlementaires"
+        ],
+        "tags": [
+          "recours pour excès de pouvoir",
+          "application des lois",
+          "contrôle parlementaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Recours parlementaires",
+          "parent_path": [
+            "Parlement",
+            "Contrôle de l'application des lois"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — tendant à reconnaitre aux membres de l'Assemblée nationale et du Sénat un intérêt à agir en matière de recours pour excès de pouvoir — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N43846",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N43846",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Égalité des sexes et parité",
+          "Parité électorale locale",
+          "Bloc communal"
+        ],
+        "tags": [
+          "parité",
+          "fonctions électives",
+          "bloc communal"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Bloc communal",
+          "parent_path": [
+            "Égalité des sexes et parité",
+            "Parité électorale locale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — parité bloc communal — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N44107",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N44107",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Anciens combattants et victimes de guerre",
+          "Mémoire de la Première Guerre mondiale",
+          "Réhabilitation des fusillés"
+        ],
+        "tags": [
+          "fusillés pour l'exemple",
+          "Première Guerre mondiale",
+          "mémoire combattante"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Réhabilitation des fusillés",
+          "parent_path": [
+            "Anciens combattants et victimes de guerre",
+            "Mémoire de la Première Guerre mondiale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — réhabilitation fusillés pour l'exemple — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N43088",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N43088",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Équilibre institutionnel",
+          "Législation par ordonnance"
+        ],
+        "tags": [
+          "ordonnances",
+          "démocratie représentative",
+          "État de droit",
+          "constitution"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Législation par ordonnance",
+          "parent_path": [
+            "Parlement",
+            "Équilibre institutionnel"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.76,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — garantissant le respect des principes de la démocratie représentative et de l'État de droit en cas de législation par ordonnance — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N40786",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N40786",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Administration",
+          "Relations avec les usagers",
+          "Simplification administrative"
+        ],
+        "tags": [
+          "usagers",
+          "administration",
+          "simplification"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Simplification administrative",
+          "parent_path": [
+            "Administration",
+            "Relations avec les usagers"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à mettre l'administration au service des usagers — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N42228",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N42228",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Ruralité",
+          "Habitat rural",
+          "Revitalisation et protection agricole"
+        ],
+        "tags": [
+          "zone rurale",
+          "habitat",
+          "activité agricole",
+          "environnement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Revitalisation et protection agricole",
+          "parent_path": [
+            "Ruralité",
+            "Habitat rural"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — tendant à favoriser l'habitat en zones de revitalisation rurale tout en protégeant l'activité agricole et l'environnement — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N43814",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N43814",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Patrimoine culturel",
+          "Collections publiques",
+          "Circulation et restitution des biens culturels"
+        ],
+        "tags": [
+          "biens culturels",
+          "collections publiques",
+          "restitution"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Circulation et restitution des biens culturels",
+          "parent_path": [
+            "Patrimoine culturel",
+            "Collections publiques"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — circulation et retour des biens culturels appartenant aux collections publiques — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N44311",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N44311",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Prestations familiales",
+          "Allocations familiales",
+          "Universalité"
+        ],
+        "tags": [
+          "allocations familiales",
+          "universalité",
+          "prestations familiales"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Universalité",
+          "parent_path": [
+            "Prestations familiales",
+            "Allocations familiales"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — tendant à redonner un caractère universel aux allocations familiales — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N44352",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N44352",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Santé",
+          "Innovation en santé",
+          "Organisation de l'innovation"
+        ],
+        "tags": [
+          "innovation en santé",
+          "système de santé"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Organisation de l'innovation",
+          "parent_path": [
+            "Santé",
+            "Innovation en santé"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — relative à l'innovation en santé — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N45009",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N45009",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Médecine",
+          "Formation médicale",
+          "Internes en médecine générale"
+        ],
+        "tags": [
+          "internes",
+          "médecine générale",
+          "formation médicale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Internes en médecine générale",
+          "parent_path": [
+            "Médecine",
+            "Formation médicale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à la consolidation et à la professionnalisation de la formation des internes en médecine générale afin de lutter contre « les déserts médicaux » — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N45886",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N45886",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Administration",
+          "Conseil privé et politiques publiques",
+          "Encadrement des cabinets de conseil"
+        ],
+        "tags": [
+          "cabinets de conseil",
+          "politiques publiques",
+          "commande publique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Encadrement des cabinets de conseil",
+          "parent_path": [
+            "Administration",
+            "Conseil privé et politiques publiques"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.8,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — encadrant l'intervention des cabinets de conseil privés dans les politiques publiques — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N45894",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N45894",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Agriculture",
+          "Agrivoltaïsme",
+          "Développement raisonné"
+        ],
+        "tags": [
+          "agrivoltaïsme",
+          "énergie solaire",
+          "agriculture"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Développement raisonné",
+          "parent_path": [
+            "Agriculture",
+            "Agrivoltaïsme"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — en faveur du développement de l'agrivoltaïsme — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N46655",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N46655",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Santé",
+          "Tabac et vapotage",
+          "Cigarettes électroniques jetables"
+        ],
+        "tags": [
+          "vapotage",
+          "puff",
+          "usage unique",
+          "santé publique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Cigarettes électroniques jetables",
+          "parent_path": [
+            "Santé",
+            "Tabac et vapotage"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — interdire les dispositifs électroniques de vapotage à usage unique — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N45446",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N45446",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Banques et établissements financiers",
+          "Protection des épargnants",
+          "Produits financiers"
+        ],
+        "tags": [
+          "épargnants",
+          "épargne",
+          "protection financière"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Produits financiers",
+          "parent_path": [
+            "Banques et établissements financiers",
+            "Protection des épargnants"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — tendant à renforcer la protection des épargnants — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N46650",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N46650",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Établissements de santé",
+          "Personnel soignant",
+          "Ratios soignants-patients"
+        ],
+        "tags": [
+          "soignants",
+          "patients hospitalisés",
+          "effectifs"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Ratios soignants-patients",
+          "parent_path": [
+            "Établissements de santé",
+            "Personnel soignant"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N47217",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N47217",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Catastrophes naturelles",
+          "Retrait-gonflement des argiles",
+          "Indemnisation immobilière"
+        ],
+        "tags": [
+          "argile",
+          "biens immobiliers",
+          "indemnisation",
+          "assurances"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Indemnisation immobilière",
+          "parent_path": [
+            "Catastrophes naturelles",
+            "Retrait-gonflement des argiles"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l’argile — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N46694",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N46694",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Eau et assainissement",
+          "Assainissement francilien",
+          "Gouvernance locale"
+        ],
+        "tags": [
+          "assainissement",
+          "Île-de-France",
+          "élus locaux",
+          "service public"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Gouvernance locale",
+          "parent_path": [
+            "Eau et assainissement",
+            "Assainissement francilien"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à renforcer la voix des élus locaux au sein du service public de l'assainissement francilien — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N46492",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N46492",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Outre-mer",
+          "Autonomie territoriale",
+          "Compétences de Saint-Barthélemy"
+        ],
+        "tags": [
+          "Saint-Barthélemy",
+          "compétences de l'État",
+          "loi organique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Compétences de Saint-Barthélemy",
+          "parent_path": [
+            "Outre-mer",
+            "Autonomie territoriale"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à permettre à Saint-Barthélemy de participer à l'exercice de compétences de l'État — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N47059",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N47059",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité des biens et des personnes",
+          "Défense extérieure contre l'incendie",
+          "Territoires ruraux"
+        ],
+        "tags": [
+          "incendie",
+          "territoires ruraux",
+          "sécurité civile"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Territoires ruraux",
+          "parent_path": [
+            "Sécurité des biens et des personnes",
+            "Défense extérieure contre l'incendie"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à adapter la défense extérieure contre l'incendie à la réalité des territoires ruraux — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N46374",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N46374",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Eau et assainissement",
+          "Compétences eau et assainissement",
+          "Gestion différenciée"
+        ],
+        "tags": [
+          "eau",
+          "assainissement",
+          "compétences locales",
+          "gestion différenciée"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Gestion différenciée",
+          "parent_path": [
+            "Eau et assainissement",
+            "Compétences eau et assainissement"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — visant à permettre une gestion différenciée de la compétence \"Eau et Assainissement\" — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N46821",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N46821",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Culture",
+          "Fraudes artistiques",
+          "Authenticité des œuvres"
+        ],
+        "tags": [
+          "fraude artistique",
+          "loi de 1895",
+          "marché de l'art"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Authenticité des œuvres",
+          "parent_path": [
+            "Culture",
+            "Fraudes artistiques"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier — portant réforme de la loi du 9 février 1895 sur les fraudes en matière artistique — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N46057",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N46057",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Français de l'étranger",
+          "Résidence et rattachement territorial",
+          "Résidence d'attache"
+        ],
+        "tags": [
+          "résidence d'attache",
+          "Français établis hors de France",
+          "rattachement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Résidence d'attache",
+          "parent_path": [
+            "Français de l'étranger",
+            "Résidence et rattachement territorial"
+          ],
+          "reason": "La taxonomie brute est surtout procédurale ; cette catégorie thématique rend la carte mentale plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.78,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier — créant une résidence d'attache pour les Français établis hors de France — plutôt que selon le seul type procédural de proposition de loi."
+      }
+    }
+  ]
+}

@@ -1,29 +1,46 @@
 const entryMap = document.querySelector("[data-entry-map]");
 
 if (entryMap) {
-  const data = JSON.parse(entryMap.querySelector("[data-entry-map-data]").textContent);
   const nodes = entryMap.querySelector("[data-map-nodes]");
   const mindMap = entryMap.querySelector("[data-mind-map]");
   const title = entryMap.querySelector("[data-map-title]");
   const search = entryMap.querySelector("[data-entry-search]");
   const searchButton = entryMap.querySelector("[data-entry-search-button]");
   const searchResults = entryMap.querySelector("[data-entry-search-results]");
-  let selectedCategory = null;
-  let selectedSubtheme = null;
+  const cache = new Map();
+  const state = {
+    rootGroups: [],
+    categoryGroup: null,
+    categories: [],
+    category: null,
+    subthemes: [],
+    subthemeGroup: null,
+    subtheme: null,
+    groups: [],
+    group: null,
+    subjects: [],
+  };
 
-  const allSubjects = data.flatMap((category) =>
-    category.subthemes.flatMap((subtheme) =>
-      subtheme.subjects.map((subject) => ({ category, subtheme, subject })),
-    ),
-  );
-
-  const getItemKey = (item) => item.id || item.title || item.label;
   const nodeMetrics = {
-    current: { width: 180, gap: 58, minRadius: 255 },
-    branch: { width: 160, gap: 64, minRadius: 385 },
+    current: { width: 150, gap: 34, minRadius: 235 },
+    branch: { width: 145, gap: 36, minRadius: 320 },
     previous: { width: 96, gap: 42, minRadius: 190 },
     branchPrevious: { width: 110, gap: 42, minRadius: 315 },
     ancestor: { width: 64, gap: 30, minRadius: 170 },
+  };
+
+  const labelFor = (item) => item.label || item.title || "Sujet";
+  const getItemKey = (item) => `${item.kind || "item"}:${item.category_id || ""}:${item.subtheme_id || ""}:${item.id || labelFor(item)}`;
+  const endpoint = (path) => `/api/entry-map${path}`;
+
+  const fetchJson = async (path) => {
+    const url = endpoint(path);
+    if (!cache.has(url)) {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error(`Chargement impossible (${response.status})`);
+      cache.set(url, await response.json());
+    }
+    return cache.get(url);
   };
 
   const getNodeMetrics = (className) => {
@@ -40,7 +57,7 @@ if (entryMap) {
     return Math.ceil(Math.max(baseRadius, minRadius, radiusForSpacing));
   };
 
-  const getAngle = (index, total, angleOffset = -90) => angleOffset + (360 / total) * index;
+  const getAngle = (index, total, angleOffset = -90) => angleOffset + (360 / Math.max(1, total)) * index;
 
   const getChildAngleOffset = (parentIndex, parentTotal, childTotal, parentAngleOffset = -90) => {
     const parentAngle = getAngle(parentIndex, parentTotal, parentAngleOffset);
@@ -79,9 +96,7 @@ if (entryMap) {
         node.style.opacity = "0";
         node.style.setProperty("--node-radius", "0px");
         window.setTimeout(() => {
-          if (node.dataset.removing === "true") {
-            node.remove();
-          }
+          if (node.dataset.removing === "true") node.remove();
         }, 520);
       }
     });
@@ -91,16 +106,14 @@ if (entryMap) {
         guide.style.opacity = "0";
         guide.style.setProperty("--ring-size", "0px");
         window.setTimeout(() => {
-          if (guide.dataset.removing === "true") {
-            guide.remove();
-          }
+          if (guide.dataset.removing === "true") guide.remove();
         }, 520);
       }
     });
   };
 
   const resizeMapFor = (rings) => {
-    const outerRadius = Math.max(...rings.map((ring) => ring.radius));
+    const outerRadius = Math.max(...rings.map((ring) => ring.radius), 250);
     const size = Math.max(660, outerRadius * 2 + 220);
     mindMap.style.minHeight = `${size}px`;
     mindMap.style.minWidth = `${size}px`;
@@ -108,7 +121,7 @@ if (entryMap) {
 
   const renderNode = ({ item, index, total, radius, angleOffset, className, selectedId, handler }) => {
     const key = getItemKey(item);
-    let button = nodes.querySelector(`[data-node-key="${key}"]`);
+    let button = nodes.querySelector(`[data-node-key="${CSS.escape(key)}"]`);
     const isSelected = selectedId === item.id;
 
     if (!button) {
@@ -124,7 +137,7 @@ if (entryMap) {
     delete button.dataset.removing;
     button.innerHTML = `
       <span>${String(index + 1).padStart(2, "0")}</span>
-      <strong>${item.label || item.title}</strong>
+      <strong>${labelFor(item)}</strong>
     `;
     button.onclick = () => handler(item);
 
@@ -145,92 +158,122 @@ if (entryMap) {
 
   const renderMap = () => {
     const rings = [];
-    const categoryIndex = selectedCategory ? data.findIndex((item) => item.id === selectedCategory.id) : -1;
-    const subthemeIndex =
-      selectedCategory && selectedSubtheme
-        ? selectedCategory.subthemes.findIndex((item) => item.id === selectedSubtheme.id)
-        : -1;
+    const rootItems = state.categories.length > 0 ? state.categories : state.rootGroups;
+    const categoryIndex = state.category ? state.categories.findIndex((item) => item.id === state.category.id) : -1;
+    const subthemeIndex = state.subtheme ? state.subthemes.findIndex((item) => item.id === state.subtheme.id) : -1;
     const subthemeAngleOffset =
-      selectedCategory && selectedCategory.subthemes.length > 0
-        ? getChildAngleOffset(categoryIndex, data.length, selectedCategory.subthemes.length)
+      state.category && state.subthemes.length > 0
+        ? getChildAngleOffset(categoryIndex, state.categories.length, state.subthemes.length)
         : -90;
-    const subjectAngleOffset =
-      selectedCategory && selectedSubtheme && selectedSubtheme.subjects.length > 0
-        ? getChildAngleOffset(subthemeIndex, selectedCategory.subthemes.length, selectedSubtheme.subjects.length, subthemeAngleOffset)
+    const detailItems = state.group ? state.subjects : state.groups.length > 0 ? state.groups : state.subjects;
+    const detailAngleOffset =
+      state.subtheme && detailItems.length > 0
+        ? getChildAngleOffset(subthemeIndex, state.subthemes.length, detailItems.length, subthemeAngleOffset)
         : -90;
 
-    if (!selectedCategory) {
+    if (!state.category && !state.categoryGroup) {
       title.textContent = "Débat public";
       rings.push({
-        items: data,
-        radius: 250,
+        items: rootItems,
+        radius: fitRadius(250, rootItems.length, "is-current"),
         className: "is-current",
         selectedId: null,
-        handler: (category) => {
-          selectedCategory = category;
-          selectedSubtheme = null;
-          renderMap();
+        handler: (item) => {
+          if (item.kind === "category_group") {
+            selectCategoryGroup(item);
+          } else {
+            selectCategory(item);
+          }
         },
       });
-    } else if (!selectedSubtheme) {
-      title.textContent = selectedCategory.label;
+    } else if (!state.category) {
+      title.textContent = state.categoryGroup.label;
+      rings.push({
+        items: rootItems,
+        radius: fitRadius(250, rootItems.length, "is-current"),
+        className: "is-current",
+        selectedId: null,
+        handler: (item) => {
+          if (item.kind === "category_group") {
+            selectCategoryGroup(item);
+          } else {
+            selectCategory(item);
+          }
+        },
+      });
+    } else if (!state.subtheme) {
+      title.textContent = state.category.label;
       rings.push(
         {
-          items: data,
-          radius: fitRadius(190, data.length, "is-previous"),
+          items: rootItems,
+          radius: fitRadius(190, rootItems.length, "is-previous"),
           className: "is-previous",
-          selectedId: selectedCategory.id,
-          handler: (category) => {
-            selectedCategory = category;
-            selectedSubtheme = null;
-            renderMap();
+          selectedId: state.categoryGroup?.id || state.category.id,
+          handler: (item) => {
+            if (item.kind === "category_group") {
+              selectCategoryGroup(item);
+            } else {
+              selectCategory(item);
+            }
           },
         },
         {
-          items: selectedCategory.subthemes,
-          radius: fitRadius(410, selectedCategory.subthemes.length, "is-current is-branch"),
+          items: state.subthemes,
+          radius: fitRadius(410, state.subthemes.length, "is-current is-branch"),
           angleOffset: subthemeAngleOffset,
           className: "is-current is-branch",
           selectedId: null,
-          handler: (subtheme) => {
-            selectedSubtheme = subtheme;
-            renderMap();
+          handler: (item) => {
+            if (item.kind === "subtheme_group") {
+              selectSubthemeGroup(item);
+            } else {
+              selectSubtheme(item);
+            }
           },
         },
       );
     } else {
-      title.textContent = selectedSubtheme.label;
+      title.textContent = state.group ? state.group.label : state.subtheme.label;
       rings.push(
         {
-          items: data,
-          radius: fitRadius(170, data.length, "is-ancestor"),
+          items: rootItems,
+          radius: fitRadius(170, rootItems.length, "is-ancestor"),
           className: "is-ancestor",
-          selectedId: selectedCategory.id,
-          handler: (category) => {
-            selectedCategory = category;
-            selectedSubtheme = null;
-            renderMap();
+          selectedId: state.categoryGroup?.id || state.category.id,
+          handler: (item) => {
+            if (item.kind === "category_group") {
+              selectCategoryGroup(item);
+            } else {
+              selectCategory(item);
+            }
           },
         },
         {
-          items: selectedCategory.subthemes,
-          radius: fitRadius(315, selectedCategory.subthemes.length, "is-previous is-branch-previous"),
+          items: state.subthemes,
+          radius: fitRadius(315, state.subthemes.length, "is-previous is-branch-previous"),
           angleOffset: subthemeAngleOffset,
           className: "is-previous is-branch-previous",
-          selectedId: selectedSubtheme.id,
-          handler: (subtheme) => {
-            selectedSubtheme = subtheme;
-            renderMap();
+          selectedId: state.subtheme.id,
+          handler: (item) => {
+            if (item.kind === "subtheme_group") {
+              selectSubthemeGroup(item);
+            } else {
+              selectSubtheme(item);
+            }
           },
         },
         {
-          items: selectedSubtheme.subjects,
-          radius: fitRadius(490, selectedSubtheme.subjects.length, "is-current"),
-          angleOffset: subjectAngleOffset,
+          items: detailItems,
+          radius: fitRadius(490, detailItems.length, "is-current"),
+          angleOffset: detailAngleOffset,
           className: "is-current",
-          selectedId: null,
-          handler: (subject) => {
-            window.location.href = `/sujets/${subject.id}`;
+          selectedId: state.group?.id,
+          handler: (item) => {
+            if (item.kind === "group") {
+              selectGroup(item);
+            } else {
+              window.location.href = `/sujets/${item.id}`;
+            }
           },
         },
       );
@@ -243,40 +286,109 @@ if (entryMap) {
     removeStaleElements(activeNodeKeys, activeRingKeys);
   };
 
-  const runSearch = () => {
-    const query = search.value.trim().toLocaleLowerCase("fr-FR");
+  const selectCategoryGroup = async (group) => {
+    state.categoryGroup = group;
+    state.category = null;
+    state.subtheme = null;
+    state.group = null;
+    state.subthemes = [];
+    state.groups = [];
+    state.subjects = [];
+    title.textContent = group.label;
+    const payload = await fetchJson(`/category-groups/${encodeURIComponent(group.id)}`);
+    if (payload.mode === "groups") {
+      state.rootGroups = payload.items;
+      state.categories = [];
+    } else {
+      state.categories = payload.items;
+    }
+    renderMap();
+  };
+
+  const selectCategory = async (category) => {
+    state.category = category;
+    state.subtheme = null;
+    state.subthemeGroup = null;
+    state.group = null;
+    state.groups = [];
+    state.subjects = [];
+    title.textContent = category.label;
+    const payload = await fetchJson(`/categories/${encodeURIComponent(category.id)}`);
+    state.subthemes = payload.items;
+    renderMap();
+  };
+
+  const selectSubthemeGroup = async (group) => {
+    state.subthemeGroup = group;
+    state.subtheme = null;
+    state.group = null;
+    state.groups = [];
+    state.subjects = [];
+    title.textContent = group.label;
+    const payload = await fetchJson(`/categories/${encodeURIComponent(state.category.id)}/subtheme-groups/${encodeURIComponent(group.id)}`);
+    state.subthemes = payload.items;
+    renderMap();
+  };
+
+  const selectSubtheme = async (subtheme) => {
+    state.subtheme = subtheme;
+    state.subthemeGroup = null;
+    state.group = null;
+    state.groups = [];
+    state.subjects = [];
+    title.textContent = subtheme.label;
+    const payload = await fetchJson(`/categories/${encodeURIComponent(state.category.id)}/subthemes/${encodeURIComponent(subtheme.id)}`);
+    if (payload.mode === "groups") {
+      state.groups = payload.items;
+    } else {
+      state.subjects = payload.items;
+    }
+    renderMap();
+  };
+
+  const selectGroup = async (group) => {
+    state.group = group;
+    title.textContent = group.label;
+    const payload = await fetchJson(
+      `/categories/${encodeURIComponent(state.category.id)}/subthemes/${encodeURIComponent(state.subtheme.id)}/groups/${encodeURIComponent(group.id)}`,
+    );
+    if (payload.mode === "groups") {
+      state.groups = payload.items;
+      state.subjects = [];
+    } else {
+      state.groups = [];
+      state.subjects = payload.items;
+    }
+    renderMap();
+  };
+
+  const runSearch = async () => {
+    const query = search.value.trim();
     searchResults.replaceChildren();
     if (query.length < 2) {
       searchResults.textContent = "Saisissez au moins deux caractères.";
       return;
     }
 
-    const matches = allSubjects.filter(({ category, subtheme, subject }) =>
-      [
-        category.label,
-        subtheme.label,
-        subject.title,
-        subject.summary,
-        subject.context,
-        ...(subject.legal_texts || []).map((text) => `${text.title} ${text.summary}`),
-      ]
-        .join(" ")
-        .toLocaleLowerCase("fr-FR")
-        .includes(query),
-    );
-
-    if (matches.length === 0) {
-      searchResults.textContent = "Aucun sujet correspondant dans la démonstration.";
+    const payload = await fetchJson(`/search?q=${encodeURIComponent(query)}`);
+    if (payload.items.length === 0) {
+      searchResults.textContent = "Aucun sujet correspondant.";
       return;
     }
 
-    matches.forEach(({ category, subtheme, subject }) => {
+    payload.items.forEach(({ category, subtheme, subject }) => {
       const link = document.createElement("a");
       link.className = "search-result";
       link.href = `/sujets/${subject.id}`;
       link.innerHTML = `<strong>${subject.title}</strong><span>${category.label} · ${subtheme.label}</span>`;
       searchResults.append(link);
     });
+    if (payload.total > payload.limit) {
+      const notice = document.createElement("p");
+      notice.className = "search-result-note";
+      notice.textContent = `${payload.total - payload.limit} résultats supplémentaires. Précisez la recherche.`;
+      searchResults.append(notice);
+    }
   };
 
   searchButton.addEventListener("click", runSearch);
@@ -287,5 +399,16 @@ if (entryMap) {
     }
   });
 
-  renderMap();
+  fetchJson("")
+    .then((payload) => {
+      if (payload.mode === "groups") {
+        state.rootGroups = payload.items;
+      } else {
+        state.categories = payload.items;
+      }
+      renderMap();
+    })
+    .catch(() => {
+      title.textContent = "Chargement impossible";
+    });
 }

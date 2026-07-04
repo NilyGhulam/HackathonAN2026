@@ -1,8 +1,9 @@
 from __future__ import annotations
 
 import json
+import re
+import unicodedata
 from collections import defaultdict
-from dataclasses import asdict
 from pathlib import Path
 from typing import Any
 
@@ -43,6 +44,65 @@ DEFAULT_CATEGORY_BY_ROLE = {
     "alerte_application": "faisabilite",
 }
 
+BROAD_CATEGORY_RULES = [
+    (
+        "institutions-vie-publique",
+        "Institutions et vie publique",
+        ("parlement", "election", "referendum", "administration", "collectivites", "communes", "intercommunalite", "gouvernement", "lois", "projet de loi", "proposition de loi", "proposition de resolution", "rapport", "elus", "etat", "fonction publique", "fonctionnaires", "services publics", "marches publics", "partis"),
+    ),
+    (
+        "sante-solidarites",
+        "Santé et solidarités",
+        ("sante", "securite sociale", "famille", "enfants", "handicap", "retraites", "assurance maladie", "assurance complementaire", "bioethique", "maladies", "medecine", "pharmacie", "medicaments", "fin de vie", "dependance", "personnes agees", "institutions sociales", "politique sociale", "pauvrete", "prestations familiales", "sang", "ivg", "interruption volontaire"),
+    ),
+    (
+        "justice-securite",
+        "Justice et sécurité",
+        ("justice", "securite", "crimes", "delits", "terrorisme", "victimes", "armes", "drogue", "police", "ordre public", "harcelement", "privation de liberte", "professions judiciaires", "decheances", "incapacites"),
+    ),
+    (
+        "economie-finances",
+        "Économie et finances",
+        ("finances", "impots", "taxes", "taxe", "tva", "banques", "assurances", "commerce", "consommation", "entreprises", "industrie", "politique economique", "pouvoir d'achat", "economie sociale", "propriete"),
+    ),
+    (
+        "travail-emploi",
+        "Travail et emploi",
+        ("travail", "emploi", "chomage", "formation professionnelle", "apprentissage", "professions et activites sociales"),
+    ),
+    (
+        "environnement-territoires",
+        "Environnement et territoires",
+        ("environnement", "biodiversite", "climat", "eau", "catastrophes", "amenagement", "territoire", "mer", "littoral", "forets", "dechets", "developpement durable", "pollution", "nuisances", "mines", "carrieres", "ruralite", "urbanisme", "voirie", "montagne", "departements", "regions"),
+    ),
+    (
+        "education-culture-numerique",
+        "Éducation, culture et numérique",
+        ("enseignement", "education", "culture", "arts", "audiovisuel", "numerique", "communication", "internet", "nouvelles technologies", "presse", "livres", "examens", "concours", "diplomes", "recherche", "innovation", "sports"),
+    ),
+    (
+        "international-defense",
+        "International et défense",
+        ("defense", "politique exterieure", "accord international", "francais de l'etranger", "organisations internationales", "ambassades", "traites", "conventions", "union europeenne", "frontaliers"),
+    ),
+    (
+        "agriculture-alimentation",
+        "Agriculture et alimentation",
+        ("agriculture", "agroalimentaire", "alimentation", "aquaculture", "peche", "chasse", "elevage", "mutualite sociale agricole", "alcools", "boissons"),
+    ),
+    (
+        "logement-transports-energie",
+        "Logement, transports et énergie",
+        ("logement", "transports", "automobiles", "ferroviaires", "aeriens", "energie", "carburants", "batiment", "taxis", "postes", "hotellerie", "tourisme"),
+    ),
+    (
+        "droits-societe",
+        "Droits et société",
+        ("droits", "discriminations", "associations", "anciens combattants", "animaux", "ceremonies", "femmes", "egalite", "laicite", "religions", "cultes", "gens du voyage", "jeunes", "nationalite", "papiers d'identite", "refugies", "apatrides", "etrangers", "immigration", "sectes"),
+    ),
+    ("outre-mer", "Outre-mer", ("outre-mer", "mayotte", "guadeloupe", "martinique", "guyane", "réunion", "reunion")),
+]
+
 
 class ProcessedRepository:
     """Lit les données publiques prétraitées dans data/curated et data/processed.
@@ -60,13 +120,16 @@ class ProcessedRepository:
         self.curated_dir = curated_dir or BASE_DIR / "data" / "curated"
         self.processed_dir = processed_dir or BASE_DIR / "data" / "processed"
         self.include_automatic = include_automatic
+        self._payload_cache: list[dict] | None = None
+        self._index_cache: dict[str, Any] | None = None
 
     def has_payloads(self) -> bool:
         return bool(self._payload_paths())
 
     def list_measures(self) -> list[Measure]:
         by_id: dict[str, dict[str, Any]] = {}
-        for payload in self._payloads():
+        index = self._index()
+        for payload in index["payloads"]:
             raw = payload["raw_source"]
             source = SourceRef(
                 label=raw.get("title", "Source officielle"),
@@ -75,6 +138,7 @@ class ProcessedRepository:
             )
             for subject in payload.get("subject_updates", []):
                 subject_id = subject["subject_id"]
+                subject_traces = index["traces_by_subject"].get(subject_id, [])
                 entry = by_id.setdefault(
                     subject_id,
                     {
@@ -94,7 +158,7 @@ class ProcessedRepository:
                 )
                 if source not in entry["sources"]:
                     entry["sources"].append(source)
-                for trace in payload.get("extracted_traces", []):
+                for trace in subject_traces:
                     entry["changes"].append(trace.get("summary", ""))
                     entry["expected_effects"].append(trace.get("summary", ""))
                     entry["audiences"].update(trace.get("affected_publics", []))
@@ -123,82 +187,64 @@ class ProcessedRepository:
         return next((m for m in self.list_measures() if m.id == measure_id), None)
 
     def list_traces(self, measure_id: str | None = None) -> list[PublicTrace]:
-        traces: list[PublicTrace] = []
-        for payload in self._payloads():
-            raw = payload["raw_source"]
-            subject_ids = [link.get("subject_id") for link in payload.get("taxonomy_links", [])]
-            if not subject_ids:
-                subject_ids = [s.get("subject_id") for s in payload.get("subject_updates", [])]
-            for trace in payload.get("extracted_traces", []):
-                evidence = (trace.get("evidence") or [{}])[0]
-                role = ROLE_MAP.get(trace.get("argument_role"), "clarification")
-                category = self._category_from_trace(trace, role)
-                for subject_id in subject_ids:
-                    if measure_id is not None and subject_id != measure_id:
-                        continue
-                    traces.append(
-                        PublicTrace(
-                            id=f"{subject_id}:{trace['id']}",
-                            measure_id=subject_id,
-                            trace_type=TRACE_TYPE_MAP.get(raw.get("type", "other"), "texte_legislatif"),
-                            institution=raw.get("institution", "institution publique"),
-                            date=raw.get("date", ""),
-                            speaker=raw.get("metadata", {}).get("speaker", raw.get("institution", "Source publique")),
-                            title=raw.get("title", "Source officielle"),
-                            excerpt=evidence.get("quote") or trace.get("summary", ""),
-                            source_url=evidence.get("source_url") or raw.get("url", "#"),
-                            argument_role=role,
-                            category=category,
-                            problem_type=self._problem_type(role),
-                            confidence=self._confidence_label(trace.get("confidence", 0)),
-                        )
-                    )
-        return traces
+        index = self._index()
+        if measure_id is not None:
+            return [
+                self._public_trace(trace, index["payload_by_trace_id"].get(trace.get("id", ""), {}), measure_id)
+                for trace in index["traces_by_subject"].get(measure_id, [])
+            ]
+        return [
+            self._public_trace(trace, index["payload_by_trace_id"].get(trace.get("id", ""), {}), subject_id)
+            for subject_id, traces in index["traces_by_subject"].items()
+            for trace in traces
+        ]
 
     def list_debate_subjects(self, measure_id: str) -> list[dict]:
         return [item for item in self.list_all_debate_subjects() if item.get("measure_id") == measure_id]
 
     def list_all_debate_subjects(self) -> list[dict]:
         grouped: dict[str, dict[str, Any]] = {}
-        for payload in self._payloads():
-            for link in payload.get("taxonomy_links", []):
-                domain_id = link.get("domain_id", "sources-officielles")
-                domain_label = link.get("domain_label", "Sources officielles")
-                subtheme_id = link.get("subtheme_id", "sujets-importes")
-                subtheme_label = link.get("subtheme_label", "Sujets importés")
-                subject_id = link.get("subject_id", "sujet-sans-id")
-                subject_update = self._subject_update(payload, subject_id)
+        index = self._index()
+        for payload in index["payloads"]:
+            for subject_update in payload.get("subject_updates", []):
+                subject_id = subject_update.get("subject_id", "sujet-sans-id")
+                link = index["taxonomy_links_by_subject"].get(subject_id, {})
+                taxonomy = self._navigation_taxonomy(subject_update, link)
                 category = grouped.setdefault(
-                    domain_id,
+                    taxonomy["domain_id"],
                     {
-                        "id": domain_id,
+                        "id": taxonomy["domain_id"],
                         "measure_id": subject_id,
-                        "label": domain_label,
+                        "label": taxonomy["domain_label"],
                         "summary": "Sujets construits depuis des sources publiques traitées.",
                         "subthemes": [],
                     },
                 )
-                subtheme = self._get_or_create_subtheme(category, subtheme_id, subtheme_label)
+                subtheme = self._get_or_create_subtheme(category, taxonomy["subtheme_id"], taxonomy["subtheme_label"])
                 if not any(s.get("id") == subject_id for s in subtheme["subjects"]):
                     subtheme["subjects"].append(self._subject_card(payload, subject_update, link))
-        return list(grouped.values())
+        for category in grouped.values():
+            category["subthemes"].sort(key=lambda item: item.get("label", ""))
+            for subtheme in category["subthemes"]:
+                subtheme["subjects"].sort(key=lambda item: item.get("title", ""))
+        return sorted(grouped.values(), key=lambda item: item.get("label", ""))
 
     def get_subject(self, subject_id: str) -> dict | None:
-        for payload in self._payloads():
-            subject_update = self._subject_update(payload, subject_id)
-            if subject_update is None:
-                continue
-            link = next(
-                (item for item in payload.get("taxonomy_links", []) if item.get("subject_id") == subject_id),
-                {},
-            )
+        index = self._index()
+        subject_update = index["subject_updates_by_id"].get(subject_id)
+        if subject_update is None:
+            return None
+        payload = index["payload_by_subject"].get(subject_id, {})
+        link = index["taxonomy_links_by_subject"].get(subject_id, {})
+        if payload:
+            taxonomy = self._navigation_taxonomy(subject_update, link)
             category = {
-                "id": link.get("domain_id", "sources-officielles"),
-                "label": link.get("domain_label", "Sources officielles"),
+                "id": taxonomy["domain_id"],
+                "label": taxonomy["domain_label"],
             }
             subtheme = {
-                "id": link.get("subtheme_id", "sujets-importes"),
-                "label": link.get("subtheme_label", "Sujets importés"),
+                "id": taxonomy["subtheme_id"],
+                "label": taxonomy["subtheme_label"],
             }
             subject = self._subject_card(payload, subject_update, link)
             subject["timeline_events"] = self._timeline_events(payload, subject_update)
@@ -218,6 +264,8 @@ class ProcessedRepository:
         return sorted({path.resolve() for path in paths})
 
     def _payloads(self) -> list[dict]:
+        if self._payload_cache is not None:
+            return self._payload_cache
         payloads = []
         for path in self._payload_paths():
             with path.open("r", encoding="utf-8") as stream:
@@ -225,7 +273,69 @@ class ProcessedRepository:
             status = payload.get("processing", {}).get("status")
             if status in {"validated", "needs_review"} or self.include_automatic:
                 payloads.append(payload)
+        self._payload_cache = payloads
         return payloads
+
+    def _index(self) -> dict[str, Any]:
+        if self._index_cache is not None:
+            return self._index_cache
+        payloads = self._payloads()
+        subject_updates_by_id: dict[str, dict] = {}
+        taxonomy_links_by_subject: dict[str, dict] = {}
+        payload_by_subject: dict[str, dict] = {}
+        payload_by_trace_id: dict[str, dict] = {}
+        traces_by_subject: dict[str, list[dict]] = defaultdict(list)
+
+        for payload in payloads:
+            for subject in payload.get("subject_updates", []):
+                subject_id = subject.get("subject_id")
+                if subject_id:
+                    subject_updates_by_id[subject_id] = subject
+                    payload_by_subject[subject_id] = payload
+            for link in payload.get("taxonomy_links", []):
+                subject_id = link.get("subject_id")
+                if subject_id and subject_id not in taxonomy_links_by_subject:
+                    taxonomy_links_by_subject[subject_id] = link
+                    payload_by_subject.setdefault(subject_id, payload)
+            fallback_subject_ids = [subject.get("subject_id") for subject in payload.get("subject_updates", []) if subject.get("subject_id")]
+            for trace in payload.get("extracted_traces", []):
+                trace_id = trace.get("id", "")
+                payload_by_trace_id[trace_id] = payload
+                subject_id = trace.get("metadata", {}).get("subject_id")
+                subject_ids = [subject_id] if subject_id else fallback_subject_ids
+                for linked_subject_id in subject_ids:
+                    traces_by_subject[linked_subject_id].append(trace)
+
+        self._index_cache = {
+            "payloads": payloads,
+            "subject_updates_by_id": subject_updates_by_id,
+            "taxonomy_links_by_subject": taxonomy_links_by_subject,
+            "payload_by_subject": payload_by_subject,
+            "payload_by_trace_id": payload_by_trace_id,
+            "traces_by_subject": dict(traces_by_subject),
+        }
+        return self._index_cache
+
+    def _public_trace(self, trace: dict, payload: dict, subject_id: str) -> PublicTrace:
+        raw = payload.get("raw_source", {})
+        evidence = (trace.get("evidence") or [{}])[0]
+        role = ROLE_MAP.get(trace.get("argument_role"), "clarification")
+        category = self._category_from_trace(trace, role)
+        return PublicTrace(
+            id=f"{subject_id}:{trace.get('id', subject_id)}",
+            measure_id=subject_id,
+            trace_type=TRACE_TYPE_MAP.get(raw.get("type", "other"), "texte_legislatif"),
+            institution=raw.get("institution", "institution publique"),
+            date=raw.get("date", ""),
+            speaker=evidence.get("speaker") or raw.get("metadata", {}).get("speaker", raw.get("institution", "Source publique")),
+            title=raw.get("title", "Source officielle"),
+            excerpt=evidence.get("quote") or trace.get("summary", ""),
+            source_url=evidence.get("source_url") or raw.get("url", "#"),
+            argument_role=role,
+            category=category,
+            problem_type=self._problem_type(role),
+            confidence=self._confidence_label(trace.get("confidence", 0)),
+        )
 
     @staticmethod
     def _status_label(payload: dict) -> str:
@@ -316,6 +426,38 @@ class ProcessedRepository:
                 }
             ],
         }
+
+    def _navigation_taxonomy(self, subject_update: dict | None, link: dict) -> dict[str, str]:
+        subject_update = subject_update or {}
+        path = subject_update.get("classification", {}).get("canonical_path") or []
+        source_domain = path[0] if path else link.get("domain_label", "Sources officielles")
+        source_subtheme = path[1] if len(path) > 1 else link.get("subtheme_label", "Sujets importés")
+        domain_id, domain_label = self._broad_category(source_domain)
+        subtheme_label = source_domain if source_domain != domain_label else source_subtheme
+        return {
+            "domain_id": domain_id,
+            "domain_label": domain_label,
+            "subtheme_id": f"{domain_id}__{self._slugify(subtheme_label) or 'sujets-importes'}",
+            "subtheme_label": subtheme_label or "Sujets importés",
+        }
+
+    @staticmethod
+    def _broad_category(label: str) -> tuple[str, str]:
+        normalized = ProcessedRepository._normalize(label)
+        for identifier, broad_label, keywords in BROAD_CATEGORY_RULES:
+            if any(keyword in normalized for keyword in keywords):
+                return identifier, broad_label
+        return "autres-politiques-publiques", "Autres politiques publiques"
+
+    @staticmethod
+    def _normalize(value: str) -> str:
+        normalized = unicodedata.normalize("NFKD", str(value).lower())
+        return "".join(char for char in normalized if not unicodedata.combining(char))
+
+    @staticmethod
+    def _slugify(value: str) -> str:
+        normalized = ProcessedRepository._normalize(value)
+        return re.sub(r"[^a-z0-9]+", "-", normalized).strip("-")
 
     @staticmethod
     def _timeline_events(payload: dict, subject_update: dict) -> list[dict]:

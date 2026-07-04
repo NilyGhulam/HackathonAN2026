@@ -1,0 +1,1809 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "batch_20260704T121053_0000",
+  "generated_at": "2026-07-04T12:19:58.430253+00:00",
+  "provider": "chatgpt-conversation",
+  "notes": [
+    "Enrichissement conversationnel par lots, sans appel API externe.",
+    "Les items marqués needs_review=true sont politiquement sensibles, ambigus, ou comportent une réponse partielle/indirecte."
+  ],
+  "items": [
+    {
+      "id": "summarize_question:QANR5L17QG1043",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1043",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député défend le vote de l’Assemblée en faveur de la nationalisation d’ArcelorMittal et présente cette mesure comme la réponse aux suppressions d’emplois, aux dividendes, aux délocalisations et à l’abandon du projet de décarbonation. Il demande si le Gouvernement inscrira la proposition de loi au Sénat puis laissera le dernier mot à l’Assemblée.",
+        "answer_summary": "Le ministre rejette la nationalisation, qu’il présente comme une réponse datée, coûteuse et économiquement inefficace. Il soutient qu’elle couperait ArcelorMittal France de ses matières premières et de ses clients, coûterait plusieurs milliards aux contribuables et reviendrait à indemniser le groupe plutôt qu’à préserver durablement la sidérurgie.",
+        "issues": [
+          "sidérurgie",
+          "nationalisation",
+          "ArcelorMittal",
+          "souveraineté industrielle",
+          "emplois industriels",
+          "décarbonation",
+          "ordre du jour parlementaire"
+        ],
+        "announced_measures": [],
+        "quotes": [
+          {
+            "speaker": "Aurélien Le Coq",
+            "text": "Allez-vous inscrire la proposition de loi visant à nationaliser ArcelorMittal à l’ordre du jour du Sénat ?"
+          },
+          {
+            "speaker": "Sébastien Martin",
+            "text": "Vous offririez un chèque de 5 milliards à ArcelorMittal."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1044",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1044",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement sur l’état des négociations concernant l’Ukraine, après la réception du président Zelensky à Paris, les discussions avec les États-Unis et les Européens, et les inquiétudes sur un plan de paix qui ne garantirait pas suffisamment la sécurité ukrainienne et européenne. Elle demande quels leviers permettraient de maintenir la pression sur la Russie en l’absence de cessez-le-feu.",
+        "answer_summary": "Le ministre réaffirme le soutien français à l’Ukraine, refuse l’idée d’une paix passant par la capitulation ukrainienne et insiste sur l’association nécessaire des Européens à toute initiative engageant leur sécurité. Il consacre aussi une partie de sa réponse au coût humain et culturel de la guerre, à la saison culturelle ukrainienne en France et à l’impunité des crimes visant notamment des journalistes.",
+        "issues": [
+          "guerre en Ukraine",
+          "négociations de paix",
+          "garanties de sécurité",
+          "pression sur la Russie",
+          "sécurité européenne",
+          "journalistes tués",
+          "diplomatie européenne"
+        ],
+        "announced_measures": [
+          "réaffirmer que la paix ne peut passer par la capitulation de l’Ukraine",
+          "associer les Européens aux initiatives engageant la sécurité européenne",
+          "dédier la saison culturelle ukrainienne aux artistes et journalistes tués",
+          "veiller à l’absence d’impunité pour les crimes évoqués"
+        ],
+        "quotes": [
+          {
+            "speaker": "Natalia Pouzyreff",
+            "text": "Quels sont les leviers envisagés par la France et par ses partenaires européens pour maintenir la pression sur le Kremlin ?"
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "La paix en Ukraine ne pouvait passer par la capitulation de l’Ukraine."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1045",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1045",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique le coût des certificats d’économie d’énergie et les présente comme une charge répercutée sur les prix de l’énergie, dans un contexte de baisse du pouvoir d’achat et de précarité énergétique. Il demande l’annulation du décret modifiant les critères et objectifs des CEE et défend une TVA réduite sur l’énergie.",
+        "answer_summary": "Le ministre conteste la qualification de taxe ou d’impôt appliquée aux CEE et accuse le groupe du député de diffuser de fausses informations. Il rappelle que les CEE financent des politiques sociales de transition énergétique, comme le leasing social, la rénovation thermique et la méthanisation agricole, tout en indiquant travailler sur les enjeux de tarification de l’électricité dans le cadre budgétaire.",
+        "issues": [
+          "certificats d’économie d’énergie",
+          "prix de l’énergie",
+          "pouvoir d’achat",
+          "précarité énergétique",
+          "TVA sur l’énergie",
+          "transition énergétique",
+          "tarification de l’électricité"
+        ],
+        "announced_measures": [
+          "poursuivre les consultations sur les décrets CEE",
+          "travailler sur les enjeux de tarification de l’électricité",
+          "échanger dans le cadre du débat budgétaire"
+        ],
+        "quotes": [
+          {
+            "speaker": "Frédéric Boccaletti",
+            "text": "Allez-vous annuler ce décret ou continuerez-vous à faire les poches des Français ?"
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "Il ne s’agit ni d’impôts, ni de taxes."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1046",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1046",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée revient sur la double évasion de la maison d’arrêt de Dijon et l’explique par la surpopulation carcérale, le sous-équipement, la vétusté et les malfaçons de plusieurs établissements. Elle demande des moyens et une stratégie cohérente entre sécurité pénitentiaire, sanction, réinsertion et préparation à la sortie.",
+        "answer_summary": "Le garde des sceaux reconnaît la vétusté de la prison de Dijon et annonce des travaux d’urgence de 6 millions d’euros pour lutter notamment contre les drones, les projections et l’introduction d’objets illicites. Il défend aussi le budget de la justice, qui prévoit 1 000 agents supplémentaires et 300 millions d’euros de plus pour les travaux et constructions pénitentiaires.",
+        "issues": [
+          "évasion de détenus",
+          "maison d’arrêt de Dijon",
+          "surpopulation carcérale",
+          "sécurité pénitentiaire",
+          "vétusté des prisons",
+          "réinsertion",
+          "budget de la justice"
+        ],
+        "announced_measures": [
+          "consacrer 6 millions d’euros de travaux d’urgence à la maison d’arrêt de Dijon",
+          "lutter contre les drones et les projections d’objets illicites",
+          "prévoir 1 000 agents supplémentaires dans le budget de la justice",
+          "augmenter de 300 millions d’euros les crédits de travaux et construction de prisons"
+        ],
+        "quotes": [
+          {
+            "speaker": "Océane Godard",
+            "text": "Rassurez les personnels pénitentiaires et les Français en nous précisant clairement quels moyens et quelles mesures vous entendez déployer."
+          },
+          {
+            "speaker": "Gérald Darmanin",
+            "text": "Six millions d’euros y seront consacrés pour le seul établissement de Dijon."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1047",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1047",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député salue l’entrée en vigueur du remboursement intégral des fauteuils roulants et interroge le Gouvernement sur la mise en œuvre concrète de cette réforme, son périmètre et son impact pour les personnes en situation de handicap.",
+        "answer_summary": "La ministre confirme la concrétisation de la réforme promise en 2023 et précise qu’elle concerne aussi bien les fauteuils manuels que les fauteuils électriques, y compris les modèles sportifs et les dispositifs spécifiques. Elle insiste sur la simplification et sur l’objectif de mettre fin au reste à charge pour les personnes concernées.",
+        "issues": [
+          "handicap",
+          "fauteuils roulants",
+          "remboursement intégral",
+          "autonomie",
+          "accès aux aides techniques",
+          "reste à charge"
+        ],
+        "announced_measures": [
+          "mettre en œuvre le remboursement intégral des fauteuils roulants",
+          "inclure les fauteuils manuels, électriques, sportifs et spécifiques",
+          "simplifier l’accès aux dispositifs pris en charge"
+        ],
+        "quotes": [
+          {
+            "speaker": "François Gernigon",
+            "text": "Une réforme de taille est entrée en vigueur hier : le remboursement intégral des fauteuils roulants."
+          },
+          {
+            "speaker": "Charlotte Parmentier-Lecocq",
+            "text": "Elle est pleinement concrétisée aujourd’hui."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1048",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1048",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député évoque des soupçons de marchés truqués et de corruption au sein de l’Agence de soutien et d’acquisition de l’OTAN, et demande des garanties sur la protection de l’argent public, le contrôle des marchés d’armement et l’attitude de la France face à cette affaire.",
+        "answer_summary": "La ministre indique que la direction de la NSPA a transmis des éléments à la justice sur la base d’enquêtes internes et que des perquisitions et arrestations ont eu lieu dans plusieurs pays. Elle affirme que tout soupçon doit donner lieu à enquête, tout en rappelant le rôle de cette agence pour les pays membres de l’OTAN.",
+        "issues": [
+          "OTAN",
+          "NSPA",
+          "marchés d’armement",
+          "corruption présumée",
+          "contrôle des dépenses publiques",
+          "industrie de défense",
+          "coopération internationale"
+        ],
+        "announced_measures": [
+          "transmettre les éléments d’enquête à la justice",
+          "laisser les procédures judiciaires suivre leur cours",
+          "soutenir des enquêtes en cas de doute sur des marchés publics"
+        ],
+        "quotes": [
+          {
+            "speaker": "Édouard Bénard",
+            "text": "Un système de marchés truqués d’armement."
+          },
+          {
+            "speaker": "Catherine Vautrin",
+            "text": "À chaque fois que le moindre doute existe, il doit bien évidemment y avoir des enquêtes."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1049",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1049",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député décrit une crise structurelle de la viticulture, marquée par des difficultés de trésorerie et des facteurs climatiques, économiques et commerciaux. Il interroge la ministre sur le plan annoncé, son enveloppe de 130 millions d’euros et les mesures permettant d’accompagner durablement les exploitations.",
+        "answer_summary": "La ministre reconnaît la crise durable de la viticulture, liée au climat, aux perturbations du commerce mondial et aux déséquilibres de marché. Elle rappelle les moyens mobilisés depuis 2019 et défend une réponse mêlant aides économiques, accompagnement des exploitants et adaptation de la filière.",
+        "issues": [
+          "viticulture",
+          "crise agricole",
+          "trésorerie des exploitations",
+          "commerce mondial",
+          "droits de douane",
+          "adaptation des filières",
+          "aides publiques"
+        ],
+        "announced_measures": [
+          "mobiliser une enveloppe de 130 millions d’euros annoncée pour la filière",
+          "poursuivre les aides engagées depuis 2019",
+          "accompagner l’adaptation de la viticulture aux crises climatique et économique"
+        ],
+        "quotes": [
+          {
+            "speaker": "David Taupiac",
+            "text": "La filière viticole française est confrontée à une situation de crise structurelle multifactorielle."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "La viticulture française est confrontée non seulement à des menaces climatiques, mais aussi à des perturbations du commerce mondial."
+          }
+        ],
+        "confidence": 0.82,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG105",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG105",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée critique les annonces du Gouvernement sur la fonction publique, qu’elle juge désastreuses pour les agents et les services publics. Elle relaie la mobilisation de défenseurs du service public et interroge le ministre sur les mesures contestées, notamment en matière d’absentéisme, de jours de carence ou de conditions de travail.",
+        "answer_summary": "Le ministre affirme défendre la fonction publique et ses agents, tout en assumant la nécessité de traiter les difficultés de conditions de travail et d’organisation. Il refuse l’idée d’une attaque contre les services publics et présente ses mesures comme un moyen de mieux répondre aux problèmes de fonctionnement.",
+        "issues": [
+          "fonction publique",
+          "agents publics",
+          "services publics",
+          "absentéisme",
+          "conditions de travail",
+          "jours de carence",
+          "mobilisation sociale"
+        ],
+        "announced_measures": [
+          "travailler sur les conditions de travail des agents",
+          "traiter les causes d’absentéisme",
+          "défendre une réforme de fonctionnement de la fonction publique"
+        ],
+        "quotes": [
+          {
+            "speaker": "Karine Lebon",
+            "text": "Des centaines de défenseurs du service public sont venus porter la colère de tout un pays."
+          },
+          {
+            "speaker": "Guillaume Kasbarian",
+            "text": "En tant que ministre de la fonction publique, je défends le service public, la fonction publique et ses agents."
+          }
+        ],
+        "confidence": 0.78,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1050",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1050",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur le nombre de morts au travail et accuse la politique gouvernementale d’avoir affaibli la prévention, l’inspection et la protection des salariés. Elle demande des moyens et des mesures pour lutter contre les accidents mortels et graves.",
+        "answer_summary": "Le ministre affirme qu’aucune mort au travail ne peut être considérée comme une fatalité. Il reconnaît la gravité du sujet, insiste sur la prévention des accidents graves et mortels, et défend une action reposant sur la mobilisation de son ministère, des services de contrôle et des acteurs de prévention.",
+        "issues": [
+          "morts au travail",
+          "accidents du travail",
+          "prévention des risques professionnels",
+          "inspection du travail",
+          "santé au travail",
+          "conditions de travail"
+        ],
+        "announced_measures": [
+          "renforcer la prévention des accidents graves et mortels",
+          "mobiliser les services du ministère du travail",
+          "continuer à traiter les morts au travail comme une priorité de santé et sécurité"
+        ],
+        "quotes": [
+          {
+            "speaker": "Ségolène Amiot",
+            "text": "Nous vivons une hécatombe invisible."
+          },
+          {
+            "speaker": "Jean-Pierre Farandou",
+            "text": "Personne dans ce gouvernement [...] n’accepte comme une fatalité qu’un salarié puisse mourir dans l’exercice de son travail."
+          }
+        ],
+        "confidence": 0.84,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1051",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1051",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le ministre sur la conférence nationale consacrée au travail, à l’emploi et aux retraites, après les débats budgétaires et la proposition d’un système de retraite plus universel et lisible. Elle demande les objectifs, le calendrier et la méthode de cette concertation.",
+        "answer_summary": "Le ministre confirme le lancement de la conférence travail, emploi, retraite le 4 novembre à la demande du premier ministre. Il indique que les partenaires sociaux doivent se réunir en séance plénière au Conseil économique, social et environnemental et présente cette démarche comme un cadre de dialogue pour avancer sur les retraites et le travail.",
+        "issues": [
+          "retraites",
+          "conférence sociale",
+          "travail",
+          "emploi",
+          "partenaires sociaux",
+          "dialogue social",
+          "réforme des retraites"
+        ],
+        "announced_measures": [
+          "lancer la conférence travail-emploi-retraite",
+          "réunir les partenaires sociaux au CESE",
+          "ouvrir un cadre de dialogue sur le travail, l’emploi et les retraites"
+        ],
+        "quotes": [
+          {
+            "speaker": "Annie Vidal",
+            "text": "Les questions du travail, de l’emploi et de la retraite ont souvent animé nos débats."
+          },
+          {
+            "speaker": "Jean-Pierre Farandou",
+            "text": "J’ai en effet lancé le 4 novembre [...] une conférence dite TER."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1052",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1052",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce des menaces et appels à la violence visant des militants écologistes, notamment à la suite de déclarations d’un responsable de la Coordination rurale. Il demande ce que la justice entend faire face à ces propos et aux agressions évoquées.",
+        "answer_summary": "Le garde des sceaux condamne les agressions et menaces visant les militants écologistes, mais rappelle qu’en vertu du principe d’indépendance de la justice il ne peut intervenir directement dans des dossiers individuels. Il explique que le Parlement a précisément limité l’intervention du ministre de la justice dans les affaires particulières.",
+        "issues": [
+          "menaces contre des militants",
+          "violences politiques",
+          "écologistes",
+          "liberté d’expression",
+          "indépendance de la justice",
+          "responsabilité syndicale"
+        ],
+        "announced_measures": [
+          "condamner publiquement les agressions et menaces",
+          "rappeler le cadre d’indépendance du parquet dans les affaires individuelles",
+          "laisser les procédures judiciaires traiter les faits signalés"
+        ],
+        "quotes": [
+          {
+            "speaker": "Benoît Biteau",
+            "text": "L’appel à la violence contre les écologistes n’a pas sa place dans notre pays."
+          },
+          {
+            "speaker": "Gérald Darmanin",
+            "text": "Je condamne évidemment toutes les agressions."
+          }
+        ],
+        "confidence": 0.85,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1053",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1053",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député revient sur la double évasion de détenus à la maison d’arrêt de Dijon et dénonce l’état des prisons, le manque de moyens et les risques pour la sécurité publique. Il demande quelles réponses concrètes sont prévues pour empêcher de nouvelles évasions.",
+        "answer_summary": "Le garde des sceaux qualifie l’évasion d’inacceptable et défend l’action menée depuis onze mois : ouverture de places de prison, changement du modèle carcéral et renforcement des moyens de sécurité. Il rappelle aussi les mesures budgétaires et les efforts de construction ou rénovation pénitentiaire.",
+        "issues": [
+          "évasion de détenus",
+          "prisons",
+          "sécurité pénitentiaire",
+          "maison d’arrêt de Dijon",
+          "places de prison",
+          "modèle carcéral",
+          "moyens de la justice"
+        ],
+        "announced_measures": [
+          "ouvrir 3 000 places de prison en onze mois",
+          "changer le modèle carcéral",
+          "poursuivre les constructions et travaux pénitentiaires",
+          "renforcer la sécurité des établissements"
+        ],
+        "quotes": [
+          {
+            "speaker": "René Lioret",
+            "text": "Double évasion surréaliste à la maison d’arrêt de Dijon."
+          },
+          {
+            "speaker": "Gérald Darmanin",
+            "text": "L’évasion évidemment inacceptable de deux détenus."
+          }
+        ],
+        "confidence": 0.83,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1054",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1054",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur la baisse de la facture d’électricité, en comparant la situation française à l’Allemagne et en soulignant le poids de l’énergie sur le pouvoir d’achat. Il demande quelles marges de baisse existent et quelles décisions fiscales ou industrielles sont envisagées.",
+        "answer_summary": "Le ministre rappelle que l’électricité française est déjà significativement moins chère que l’électricité allemande grâce aux prix de gros, à la fiscalité et au parc de production. Il insiste sur la nécessité d’un débat précis et annonce un travail sur la fiscalité, les coûts de réseau et les leviers permettant de réduire la facture.",
+        "issues": [
+          "prix de l’électricité",
+          "pouvoir d’achat",
+          "politique énergétique",
+          "fiscalité énergétique",
+          "comparaison France-Allemagne",
+          "industrie",
+          "facture énergétique"
+        ],
+        "announced_measures": [
+          "travailler sur les propositions de baisse de la facture d’électricité",
+          "examiner les composantes de prix, de fiscalité et de réseau",
+          "s’appuyer sur l’avantage compétitif du parc électrique français"
+        ],
+        "quotes": [
+          {
+            "speaker": "Raphaël Schellenberger",
+            "text": "Les factures d’énergie pèsent lourd sur le pouvoir d’achat."
+          },
+          {
+            "speaker": "Sébastien Martin",
+            "text": "En France, l’électricité est de 20 à 30 % moins chère qu’en Allemagne."
+          }
+        ],
+        "confidence": 0.83,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1055",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1055",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée relaie les conclusions de la Convention citoyenne sur les temps de l’enfant, qui pointe la fragmentation des rythmes scolaires, familiaux et sociaux. Elle demande comment le Gouvernement entend tenir compte de ces recommandations pour mieux organiser les temps de vie des enfants.",
+        "answer_summary": "Le ministre salue le travail de la convention citoyenne et reconnaît que plusieurs constats sont intéressants, notamment la mauvaise articulation des temps de l’enfant. Il indique que les conclusions doivent être examinées avec les collectivités, l’école et les acteurs concernés, en veillant aux contraintes pédagogiques et territoriales.",
+        "issues": [
+          "temps de l’enfant",
+          "rythmes scolaires",
+          "école primaire",
+          "Convention citoyenne",
+          "collectivités territoriales",
+          "bien-être des enfants",
+          "organisation scolaire"
+        ],
+        "announced_measures": [
+          "examiner les conclusions de la Convention citoyenne",
+          "travailler avec les collectivités et les acteurs éducatifs",
+          "tenir compte de la fragmentation des temps de l’enfant"
+        ],
+        "quotes": [
+          {
+            "speaker": "Florence Herouin-Léautey",
+            "text": "Nous sommes une génération pleine d’envie, mais qui manque de temps."
+          },
+          {
+            "speaker": "Édouard Geffray",
+            "text": "Elle a dénoncé à juste titre la fragmentation des temps de l’enfant."
+          }
+        ],
+        "confidence": 0.8,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1056",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1056",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député accuse l’Élysée de vouloir instaurer un label officiel de fiabilité des médias, qu’il présente comme une menace pour la liberté de la presse et le pluralisme. Il demande au premier ministre de renoncer à ce projet et de retirer une communication visant une chaîne privée.",
+        "answer_summary": "La ministre nie catégoriquement tout projet présidentiel ou gouvernemental de labellisation des médias. Elle distingue cette polémique de la question des contenus diffusés sur les réseaux sociaux, notamment ceux affectant la santé mentale des jeunes ou résultant d’ingérences étrangères, et évoque seulement des initiatives de certification portées par certains groupes de presse pour garantir une déontologie.",
+        "issues": [
+          "liberté de la presse",
+          "pluralisme des médias",
+          "label de fiabilité",
+          "réseaux sociaux",
+          "déontologie journalistique",
+          "ingérences étrangères",
+          "protection de la jeunesse"
+        ],
+        "announced_measures": [
+          "nier tout projet étatique de labellisation des médias",
+          "défendre la lutte contre les contenus dangereux pour la jeunesse",
+          "soutenir la déontologie journalistique sans labellisation par l’État"
+        ],
+        "quotes": [
+          {
+            "speaker": "Matthieu Bloch",
+            "text": "Allez-vous renoncer à ce nouveau nutri-score macronien, dangereux pour la liberté et le pluralisme ?"
+          },
+          {
+            "speaker": "Rachida Dati",
+            "text": "Jamais le président de la République ou le gouvernement n’ont eu le projet, ou l’idée, de labelliser un média."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1057",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1057",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte de nouveau sur la crise de la viticulture, en insistant sur l’urgence économique pour les exploitants et les territoires viticoles. Il demande si les aides annoncées seront suffisantes et comment le Gouvernement entend répondre à la concurrence, aux charges et à la baisse de consommation.",
+        "answer_summary": "La ministre reconnaît la profondeur de la crise viticole et renvoie aux aides déjà mobilisées ainsi qu’au nouveau plan annoncé. Elle insiste sur la combinaison de réponses de court terme pour la trésorerie et de transformations plus structurelles de la filière face au climat, aux marchés et aux habitudes de consommation.",
+        "issues": [
+          "viticulture",
+          "agriculture",
+          "aides aux exploitants",
+          "crise économique agricole",
+          "baisse de consommation",
+          "compétitivité",
+          "territoires viticoles"
+        ],
+        "announced_measures": [
+          "mobiliser les aides annoncées pour la filière viticole",
+          "accompagner la restructuration et l’adaptation du vignoble",
+          "travailler sur les marchés et les difficultés de trésorerie"
+        ],
+        "quotes": [],
+        "confidence": 0.75,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1058",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1058",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée demande où en est le projet de loi issu des États généraux de l’information, face à la concentration des médias, aux pressions d’actionnaires, aux ingérences sur les réseaux sociaux, à l’affaiblissement de l’audiovisuel public et aux risques liés à une éventuelle labellisation des médias.",
+        "answer_summary": "La ministre indique que les conclusions des États généraux de l’information ont été reprises dans un projet de loi transmis au Conseil d’État puis retourné au Gouvernement. Elle annonce une présentation prochaine en Conseil des ministres et précise que le texte traitera à la fois du contrôle des concentrations et des difficultés financières du secteur des médias et de la presse.",
+        "issues": [
+          "liberté de la presse",
+          "États généraux de l’information",
+          "concentration des médias",
+          "indépendance éditoriale",
+          "audiovisuel public",
+          "déontologie journalistique",
+          "financement de la presse"
+        ],
+        "announced_measures": [
+          "présenter prochainement un projet de loi en Conseil des ministres",
+          "traiter le contrôle des concentrations dans les médias",
+          "traiter les difficultés financières de la presse et des médias",
+          "soumettre le texte au débat parlementaire"
+        ],
+        "quotes": [
+          {
+            "speaker": "Sophie Taillé-Polian",
+            "text": "Où en est le projet de loi issu des États généraux de l’information ?"
+          },
+          {
+            "speaker": "Rachida Dati",
+            "text": "Ce texte sera présenté très prochainement en Conseil des ministres."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1059",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1059",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement sur l’accessibilité des établissements recevant du public, vingt ans après la loi de 2005. Elle demande comment accélérer la mise en conformité et garantir aux personnes handicapées l’accès effectif aux services, commerces et lieux publics.",
+        "answer_summary": "La ministre reconnaît que l’accessibilité universelle reste inachevée et rappelle les dispositifs existants pour accompagner les établissements recevant du public. Elle met en avant l’objectif d’accélérer les travaux, de soutenir les gestionnaires et de mieux suivre les obligations d’accessibilité.",
+        "issues": [
+          "accessibilité",
+          "établissements recevant du public",
+          "handicap",
+          "loi de 2005",
+          "mise en conformité",
+          "autonomie",
+          "droits des personnes handicapées"
+        ],
+        "announced_measures": [
+          "accompagner les ERP dans leurs travaux d’accessibilité",
+          "poursuivre le suivi des obligations issues de la loi de 2005",
+          "soutenir l’accélération des mises en conformité"
+        ],
+        "quotes": [],
+        "confidence": 0.72,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG106",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG106",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député aborde l’absentéisme dans la fonction publique et cite des initiatives locales de prévention, d’ergonomie et de qualité de vie au travail. Il demande comment généraliser les bonnes pratiques tout en améliorant l’efficacité du service public.",
+        "answer_summary": "Le ministre prend l’exemple de la ville de Poissy pour défendre des dispositifs de prévention et d’amélioration des conditions de travail : ergonomie, sport, exosquelettes et adaptation des postes. Il présente ces mesures comme une réponse concrète à l’absentéisme et aux accidents du travail dans la fonction publique.",
+        "issues": [
+          "fonction publique",
+          "absentéisme",
+          "conditions de travail",
+          "prévention des accidents",
+          "ergonomie",
+          "qualité de vie au travail",
+          "collectivités territoriales"
+        ],
+        "announced_measures": [
+          "développer des dispositifs d’ergonomie des postes",
+          "encourager le sport et la prévention au travail",
+          "diffuser des équipements comme les exosquelettes pour les tâches physiques",
+          "valoriser les bonnes pratiques locales"
+        ],
+        "quotes": [
+          {
+            "speaker": "Karl Olive",
+            "text": "L’absentéisme dans la fonction publique est devenu une urgence absolue."
+          },
+          {
+            "speaker": "Guillaume Kasbarian",
+            "text": "Elle a en effet créé de beaux dispositifs."
+          }
+        ],
+        "confidence": 0.83,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1060",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1060",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur sa stratégie pour l’avenir institutionnel, économique et social de la Kanaky Nouvelle-Calédonie, dans un contexte de recul du PIB, de finances locales critiques, de crise du nickel et de consultations politiques contestées.",
+        "answer_summary": "La ministre réfute l’idée d’un passage en force et défend la consultation des Calédoniens comme un exercice démocratique. Elle affirme avoir relancé le dialogue entre forces politiques locales et soutient que la démarche ne vient pas d’une volonté unilatérale de l’État, mais d’un besoin de sortie de crise et de clarification de l’avenir institutionnel.",
+        "issues": [
+          "Nouvelle-Calédonie",
+          "outre-mer",
+          "avenir institutionnel",
+          "consultation locale",
+          "crise économique",
+          "dialogue politique",
+          "Kanaky"
+        ],
+        "announced_measures": [
+          "relancer le dialogue entre forces politiques calédoniennes",
+          "organiser une consultation sur l’avenir institutionnel",
+          "accompagner la sortie de crise économique et politique"
+        ],
+        "quotes": [
+          {
+            "speaker": "Emmanuel Tjibaou",
+            "text": "Je voudrais comprendre la stratégie du gouvernement pour notre pays, la Kanaky Nouvelle-Calédonie."
+          },
+          {
+            "speaker": "Naïma Moutchou",
+            "text": "Demander aux Calédoniens de se prononcer sur leur avenir relève plutôt de l’exercice de la démocratie."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1061",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1061",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique la décision de relier Bordeaux à Lyon via Paris, qu’il voit comme un nouvel abandon du centre de la France et du Massif central. Il demande une politique ferroviaire qui desserve mieux les territoires ruraux et renforce leur attractivité.",
+        "answer_summary": "Le ministre explique que la nouvelle offre Ouigo Bordeaux-Lyon via Massy relève d’une organisation libre de la SNCF et s’appuie sur l’infrastructure existante. Il indique que le profil des voies ne permet pas actuellement de faire circuler des TGV ou intercités dans de bonnes conditions via le Massif central, tout en rappelant les contraintes techniques du réseau.",
+        "issues": [
+          "transports ferroviaires",
+          "Bordeaux-Lyon",
+          "Massif central",
+          "aménagement du territoire",
+          "SNCF",
+          "désenclavement",
+          "territoires ruraux"
+        ],
+        "announced_measures": [
+          "mettre en service une offre TGV Ouigo via Massy mi-2027",
+          "rappeler les contraintes techniques des lignes du Massif central",
+          "examiner les conditions de desserte ferroviaire des territoires concernés"
+        ],
+        "quotes": [
+          {
+            "speaker": "Bartolomé Lenoir",
+            "text": "Le centre de la France se retrouve une nouvelle fois oublié par les politiques publiques."
+          },
+          {
+            "speaker": "Philippe Tabarot",
+            "text": "Cette nouvelle offre TGV Ouigo [...] sera mise en service mi-2027."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1062",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1062",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce l’agression de Jordan Bardella et d’agriculteurs à Vesoul, qu’il attribue à un climat de violence politique, et interroge le Gouvernement sur la neutralité de l’école ou l’attitude d’agents publics dans ce contexte.",
+        "answer_summary": "Le ministre rappelle que le principe de neutralité s’applique aux fonctionnaires, avec des aménagements liés au droit syndical. Il indique que les faits décrits dans la question ne correspondent pas exactement au courrier reçu et qu’ils doivent être établis précisément avant d’en tirer des conclusions disciplinaires ou administratives.",
+        "issues": [
+          "violence politique",
+          "neutralité des fonctionnaires",
+          "éducation nationale",
+          "agression alléguée",
+          "droit syndical",
+          "militantisme politique"
+        ],
+        "announced_measures": [
+          "rappeler le principe de neutralité des fonctionnaires",
+          "vérifier précisément les faits signalés",
+          "distinguer exercice syndical et manquement à la neutralité"
+        ],
+        "quotes": [
+          {
+            "speaker": "Emeric Salmon",
+            "text": "Cette agression s’inscrit dans un climat devenu hélas familier."
+          },
+          {
+            "speaker": "Édouard Geffray",
+            "text": "Le principe de neutralité s’applique à tous les fonctionnaires dans l’exercice de leur fonction."
+          }
+        ],
+        "confidence": 0.82,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1063",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1063",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur un professeur de l’université Lyon 2 soupçonné d’antisémitisme après la diffusion d’une liste de personnalités qualifiées de génocidaires à boycotter. Elle demande une réaction de l’État face à ce qu’elle présente comme une mise en danger et une banalisation de l’antisémitisme.",
+        "answer_summary": "La ministre condamne fermement la constitution de listes visant des personnalités et rappelle qu’on ne désigne pas des personnes à la vindicte. Elle insiste sur la gravité d’un tel acte dans le contexte français, sur la protection des personnes visées et sur la lutte contre l’antisémitisme et les discriminations.",
+        "issues": [
+          "antisémitisme",
+          "discriminations",
+          "université",
+          "liberté d’expression",
+          "mise en danger",
+          "boycott",
+          "haine en ligne ou publique"
+        ],
+        "announced_measures": [
+          "condamner la constitution de listes visant des personnalités",
+          "protéger les personnes désignées à la vindicte",
+          "réaffirmer la lutte contre l’antisémitisme et les discriminations"
+        ],
+        "quotes": [
+          {
+            "speaker": "Caroline Yadan",
+            "text": "Nous ne sommes pas à Berlin en 1933, mais à Lyon en 2025."
+          },
+          {
+            "speaker": "Aurore Bergé",
+            "text": "On ne dresse pas de liste."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1064",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1064",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interpelle le Gouvernement à l’occasion de la Journée mondiale de lutte contre le sida et dénonce les insuffisances de prévention et d’éducation à la sexualité. Il demande comment l’État compte renforcer l’information des jeunes et la lutte contre le VIH.",
+        "answer_summary": "Le ministre répond que l’État a été condamné pour une carence passée mais que le tribunal n’a pas prononcé d’injonction, estimant que des mesures avaient été prises pour le présent et l’avenir. Il met en avant le programme d’éducation à la vie affective, relationnelle et sexuelle, issu d’un long travail de préparation.",
+        "issues": [
+          "VIH",
+          "sida",
+          "prévention",
+          "éducation à la sexualité",
+          "éducation nationale",
+          "santé publique",
+          "jeunes"
+        ],
+        "announced_measures": [
+          "déployer le programme d’éducation à la vie affective, relationnelle et sexuelle",
+          "tenir compte de la décision du tribunal administratif",
+          "renforcer la prévention et l’information en milieu scolaire"
+        ],
+        "quotes": [
+          {
+            "speaker": "Andy Kerbrat",
+            "text": "Dans cette lutte, la connaissance est une arme."
+          },
+          {
+            "speaker": "Édouard Geffray",
+            "text": "L’État avait pris toutes les mesures pour le présent et pour l’avenir."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1065",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1065",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député cite un rapport du Conseil des prélèvements obligatoires sur la concentration du patrimoine et défend une fiscalité plus juste, notamment contre l’optimisation des plus hauts patrimoines. Il demande au Gouvernement comment il entend corriger les inégalités patrimoniales.",
+        "answer_summary": "La ministre estime que le rapport confirme les débats engagés dans le projet de loi de finances pour 2026. Elle présente trois objectifs : moderniser la fiscalité patrimoniale, lutter contre la suroptimisation et préserver la compétitivité des entreprises, avec l’idée d’orienter l’épargne vers des usages plus productifs.",
+        "issues": [
+          "imposition du patrimoine",
+          "inégalités de richesse",
+          "fiscalité patrimoniale",
+          "optimisation fiscale",
+          "épargne productive",
+          "compétitivité",
+          "budget 2026"
+        ],
+        "announced_measures": [
+          "moderniser la fiscalité patrimoniale",
+          "lutter contre la suroptimisation",
+          "soutenir la compétitivité des entreprises",
+          "orienter l’épargne vers des usages productifs"
+        ],
+        "quotes": [
+          {
+            "speaker": "Gérard Leseul",
+            "text": "60 % de la richesse nationale est détenue par les 10 % les plus favorisés."
+          },
+          {
+            "speaker": "Amélie de Montchalin",
+            "text": "Comment moderniser la fiscalité patrimoniale ?"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1066",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1066",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député rappelle l’adoption unanime d’une réforme visant à améliorer les retraites des non-salariés agricoles et dénonce l’absence de décret d’application à quelques semaines de l’entrée en vigueur prévue. Il demande au Gouvernement de garantir la publication des textes et l’application effective de la réforme.",
+        "answer_summary": "Le ministre reconnaît l’importance de garantir une retraite digne aux agriculteurs et rappelle les avancées prévues par la loi de financement de la sécurité sociale pour 2025 : fusion des composantes de pension, unification des cotisations et meilleure prise en compte des carrières. Il présente la réforme comme une avancée majeure pour les agriculteurs ayant cotisé toute leur vie.",
+        "issues": [
+          "retraites agricoles",
+          "non-salariés agricoles",
+          "décrets d’application",
+          "pensions agricoles",
+          "sécurité sociale agricole",
+          "justice sociale"
+        ],
+        "announced_measures": [
+          "mettre en œuvre les dispositions de l’article 87 de la LFSS 2025",
+          "fusionner les composantes forfaitaire et proportionnelle",
+          "unifier les cotisations",
+          "améliorer les droits à retraite des agriculteurs"
+        ],
+        "quotes": [
+          {
+            "speaker": "Julien Dive",
+            "text": "Trois ans après, aucun décret n’a paru au Journal officiel."
+          },
+          {
+            "speaker": "Jean-Pierre Farandou",
+            "text": "Il s’agit d’une question essentielle pour les agriculteurs qui souhaitent une retraite digne."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1067",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1067",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée critique la directive omnibus, qu’elle présente comme un recul européen sur le devoir de vigilance, la durabilité des entreprises et les obligations sociales et environnementales. Elle demande si la France soutiendra l’affaiblissement ou la préservation des exigences CSRD et CS3D.",
+        "answer_summary": "La ministre défend la directive omnibus comme un effort de simplification face au poids réglementaire pesant sur les entreprises européennes, en se référant au rapport Draghi. Elle indique que la France souhaite un accord équilibré, susceptible d’être voté au Parlement européen, tout en maintenant certains objectifs de durabilité.",
+        "issues": [
+          "directive omnibus",
+          "devoir de vigilance",
+          "CSRD",
+          "CS3D",
+          "simplification administrative",
+          "compétitivité européenne",
+          "durabilité des entreprises"
+        ],
+        "announced_measures": [
+          "soutenir une simplification des directives CSRD et CS3D",
+          "rechercher un accord européen majoritaire",
+          "réduire la complexité réglementaire pesant sur les entreprises"
+        ],
+        "quotes": [
+          {
+            "speaker": "Marie Pochon",
+            "text": "Être souverain, c’est pouvoir décider par soi-même et pour soi-même de son avenir."
+          },
+          {
+            "speaker": "Anne Le Hénanff",
+            "text": "L’Union européenne perd 10 % de son potentiel de croissance du fait de la complexité réglementaire."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1068",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1068",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur la vente en ligne de drogues de synthèse, après une affaire néerlandaise liée à plusieurs décès, et souligne l’apparition constante de nouvelles molécules artificielles. Elle demande comment l’État lutte contre ces produits, leur diffusion en ligne et leur livraison à domicile.",
+        "answer_summary": "Le ministre reconnaît la diversification rapide du trafic de stupéfiants, avec une forte hausse des saisies de comprimés de drogues de synthèse. Il décrit l’évolution vers des centrales d’appel et des livraisons à domicile, et indique que la police judiciaire mobilise des groupes d’enquête dédiés et des techniques adaptées au trafic numérique.",
+        "issues": [
+          "drogues de synthèse",
+          "trafic en ligne",
+          "stupéfiants",
+          "livraison à domicile",
+          "cybercriminalité",
+          "police judiciaire",
+          "santé publique"
+        ],
+        "announced_measures": [
+          "mobiliser des groupes d’enquête dédiés",
+          "adapter la police judiciaire aux trafics en ligne",
+          "lutter contre les centrales d’appel et livraisons de stupéfiants",
+          "renforcer les saisies de drogues de synthèse"
+        ],
+        "quotes": [
+          {
+            "speaker": "Anne Bergantz",
+            "text": "Chaque mois, 80 à 120 nouvelles molécules artificielles sont ainsi mises sur le marché."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "9 millions de comprimés saisis en 2024, contre 4 millions en 2023."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1069",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1069",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée rappelle le rôle essentiel des AESH dans l’inclusion scolaire des élèves en situation de handicap et interroge le Gouvernement sur leur statut, leurs conditions de travail et la capacité de l’État à assurer l’accompagnement auquel les élèves ont droit.",
+        "answer_summary": "Le ministre affirme que l’école inclusive est devenue un véritable service public et souligne que les AESH constituent désormais le deuxième métier de l’éducation nationale, avec 149 000 personnes. Il met en avant la hausse annuelle des notifications et indique vouloir poursuivre la structuration du métier et la prise en charge des élèves concernés.",
+        "issues": [
+          "AESH",
+          "école inclusive",
+          "handicap",
+          "inclusion scolaire",
+          "conditions de travail",
+          "accompagnement des élèves",
+          "éducation nationale"
+        ],
+        "announced_measures": [
+          "poursuivre le développement du service public de l’école inclusive",
+          "structurer le métier d’AESH",
+          "accompagner la hausse des notifications d’aide humaine",
+          "améliorer la prise en charge des élèves en situation de handicap"
+        ],
+        "quotes": [
+          {
+            "speaker": "Audrey Abadie-Amiel",
+            "text": "Les AESH sont depuis devenus des acteurs essentiels."
+          },
+          {
+            "speaker": "Édouard Geffray",
+            "text": "Le métier d’AESH est devenu le deuxième métier de l’éducation nationale."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG107",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG107",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la progression des déserts médicaux, les départs de soignants, les fermetures de lits et l’insécurité médicale ressentie dans les territoires. Il demande comment le Gouvernement compte restaurer l’accès aux soins de proximité.",
+        "answer_summary": "La ministre reconnaît les difficultés d’accès aux soins dans les territoires sous-dotés et présente l’organisation territoriale de la santé comme une priorité. Elle cite les CPTS, les contrats locaux de santé et les initiatives territoriales comme leviers déjà mobilisés, tout en soulignant que la démographie médicale ne se rétablit pas immédiatement.",
+        "issues": [
+          "déserts médicaux",
+          "accès aux soins",
+          "santé territoriale",
+          "CPTS",
+          "contrats locaux de santé",
+          "démographie médicale",
+          "hôpitaux de proximité"
+        ],
+        "announced_measures": [
+          "développer les communautés professionnelles territoriales de santé",
+          "soutenir les contrats locaux de santé",
+          "organiser territorialement l’accès aux soins",
+          "agir sur la démographie médicale"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christophe Bentz",
+            "text": "Toujours plus de patients, toujours moins de soignants !"
+          },
+          {
+            "speaker": "Geneviève Darrieussecq",
+            "text": "Cet état de fait constitue l’une de mes préoccupations majeures et quotidiennes."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1070",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1070",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement sur la protection des mineurs et des citoyens dans l’espace numérique, après une mission sur l’intelligence artificielle et les ingérences étrangères. Elle demande l’application rapide de la majorité numérique et des outils contre la haine en ligne.",
+        "answer_summary": "La ministre souligne que lutter contre les ingérences et protéger les mineurs en ligne revient à défendre les valeurs démocratiques. Elle soutient l’instauration rapide d’une majorité numérique, rappelle un texte déjà adopté sur le sujet et indique vouloir tirer parti des conclusions du rapport présenté par la députée.",
+        "issues": [
+          "majorité numérique",
+          "haine en ligne",
+          "mineurs",
+          "intelligence artificielle",
+          "ingérences étrangères",
+          "protection numérique",
+          "réseaux sociaux"
+        ],
+        "announced_measures": [
+          "instaurer rapidement une majorité numérique",
+          "tenir compte du rapport sur les ingérences par IA",
+          "protéger les mineurs et les publics fragiles en ligne",
+          "lutter contre les ingérences étrangères numériques"
+        ],
+        "quotes": [
+          {
+            "speaker": "Laetitia Saint-Paul",
+            "text": "Nous devons concevoir un État protecteur du bien commun numérique."
+          },
+          {
+            "speaker": "Anne Le Hénanff",
+            "text": "L’instauration rapide d’une majorité numérique constitue une réponse concrète."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1071",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1071",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique la politique fiscale du Gouvernement, qu’il accuse d’augmenter les impôts directs ou indirects des Français, notamment via les débats budgétaires. Il oppose cette politique aux positions du Rassemblement national et demande l’arrêt de ce qu’il décrit comme une hausse généralisée de la fiscalité.",
+        "answer_summary": "Le ministre renvoie l’accusation au groupe du député en affirmant qu’il a lui-même voté ou proposé des hausses d’impôts dans le cadre budgétaire. Il conteste l’idée d’une hausse gouvernementale déguisée et accuse l’opposition de répéter chaque semaine les mêmes critiques sans tenir compte des votes intervenus.",
+        "issues": [
+          "politique fiscale",
+          "impôts",
+          "budget",
+          "pouvoir d’achat",
+          "taxes",
+          "opposition parlementaire",
+          "débat budgétaire"
+        ],
+        "announced_measures": [
+          "défendre la trajectoire fiscale du Gouvernement",
+          "contester les accusations de hausses d’impôts déguisées",
+          "rappeler les votes budgétaires de l’opposition"
+        ],
+        "quotes": [
+          {
+            "speaker": "Kévin Mauvieux",
+            "text": "Faire les poches des Français était déjà un métier."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "Toutes les semaines, vous me reprochez d’augmenter des impôts qui n’en sont pas."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1072",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1072",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur les négociations européennes de quotas de pêche pour 2026, notamment sur le maquereau, et accuse certains États tiers de capter unilatéralement des ressources au détriment des flottilles françaises. Elle demande comment la France défendra les pêcheurs et la durabilité des stocks.",
+        "answer_summary": "La ministre affirme sa détermination à porter la voix des pêcheurs français lors des négociations à Bruxelles. Elle souligne l’importance économique, territoriale et alimentaire de la pêche, rappelle la trajectoire alarmante du stock de maquereau et insiste sur la nécessité d’un accord équilibré avec les États tiers.",
+        "issues": [
+          "quotas de pêche",
+          "maquereau",
+          "flottilles françaises",
+          "souveraineté alimentaire",
+          "négociations européennes",
+          "pêche durable",
+          "États tiers"
+        ],
+        "announced_measures": [
+          "défendre la position française lors des négociations TAC et quotas",
+          "porter la voix des pêcheurs à Bruxelles",
+          "chercher un accord sur le maquereau avec les États tiers",
+          "préserver les stocks et la filière pêche"
+        ],
+        "quotes": [
+          {
+            "speaker": "Liliana Tanguy",
+            "text": "Les inquiétudes de la filière sont immenses."
+          },
+          {
+            "speaker": "Catherine Chabaud",
+            "text": "Je souhaite ici réaffirmer ma détermination à faire porter leur voix et celle de la France."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1073",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1073",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée accuse l’entourage du premier ministre d’avoir exercé un chantage politique sur des acteurs des énergies renouvelables en liant les objectifs de la programmation pluriannuelle de l’énergie au vote des écologistes sur le budget de la sécurité sociale. Elle demande des explications sur cette intervention et sur l’avenir des objectifs énergétiques.",
+        "answer_summary": "Le premier ministre affirme avoir mené une enquête interne après la saisine de la députée et indique qu’un groupe d’intérêt aurait tenté de s’immiscer dans les discussions politiques. Il annonce saisir la justice, dément tout moratoire sur les énergies renouvelables et affirme vouloir préserver le débat énergétique de tout soupçon d’intérêt particulier.",
+        "issues": [
+          "transition énergétique",
+          "énergies renouvelables",
+          "programmation pluriannuelle de l’énergie",
+          "lobbying",
+          "débat budgétaire",
+          "saisine de la justice",
+          "intérêt général"
+        ],
+        "announced_measures": [
+          "mener une enquête interne",
+          "saisir la justice",
+          "démentir tout moratoire sur les énergies renouvelables",
+          "préserver le débat énergétique de soupçons d’intérêts privés"
+        ],
+        "quotes": [
+          {
+            "speaker": "Cyrielle Chatelain",
+            "text": "Nous avons assisté à ce que la politique peut donner de pire : un chantage au vote."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "J’ai décidé de saisir la justice."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1074",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1074",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique l’article 24 du PLFSS, qu’il juge menaçant pour la médecine de ville, les pharmacies, les laboratoires, les radiologues et les professionnels libéraux. Il demande comment préserver l’équilibre entre hôpital et médecine de ville sans désorganiser l’offre de soins.",
+        "answer_summary": "La ministre conteste l’idée d’une attaque contre la médecine libérale et rappelle que le texte a évolué grâce au travail parlementaire. Elle explique que la nouvelle version de l’article 24 prévoit une concertation entre représentants professionnels et assurance maladie pour cibler certains actes et proposer des baisses tarifaires, avec une seconde délibération prévue.",
+        "issues": [
+          "PLFSS",
+          "médecine de ville",
+          "tarifs médicaux",
+          "professionnels de santé libéraux",
+          "assurance maladie",
+          "virage ambulatoire",
+          "article 24"
+        ],
+        "announced_measures": [
+          "organiser une seconde délibération sur l’article 24",
+          "associer représentants professionnels et assurance maladie",
+          "cibler les actes médicaux concernés par les baisses tarifaires",
+          "préserver le rôle de la médecine de ville"
+        ],
+        "quotes": [
+          {
+            "speaker": "Yannick Neuder",
+            "text": "Notre système de santé marche sur deux jambes, l’hôpital et la médecine de ville."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Nous avons besoin de toutes les bonnes volontés médicales."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1075",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1075",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le ministre de l’intérieur sur l’annulation ou la déprogrammation du concert du 31 décembre sur les Champs-Élysées, en demandant s’il existe un lien avec un match de football ou des risques de troubles à l’ordre public. Il présente cette décision comme un possible recul de l’État face à l’insécurité.",
+        "answer_summary": "Le ministre réfute les inexactitudes évoquées et affirme que le 31 décembre 2024 s’est bien déroulé malgré des mouvements de foule ayant nécessité des extractions. Il défend le savoir-faire français en matière de sécurisation des grands événements, rappelle l’expérience des Jeux olympiques et explique la décision au regard de la gestion des flux et de la sécurité.",
+        "issues": [
+          "sécurité publique",
+          "Champs-Élysées",
+          "événements festifs",
+          "ordre public",
+          "mouvements de foule",
+          "concert du 31 décembre",
+          "préfecture de police"
+        ],
+        "announced_measures": [
+          "rectifier les informations sur les incidents du 31 décembre 2024",
+          "sécuriser les grands événements populaires",
+          "adapter l’organisation aux risques de mouvements de foule",
+          "s’appuyer sur l’expérience des Jeux olympiques"
+        ],
+        "quotes": [
+          {
+            "speaker": "Olivier Fayssat",
+            "text": "Le concert prévu le 31 décembre sur les Champs-Élysées a été annulé, ou déprogrammé."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Je n’ai pas constaté d’incidents le 31 décembre 2024 sur les Champs-Élysées."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1076",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1076",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur le coût de la vie en Corse, les écarts de prix avec le continent, la faiblesse des revenus et la possible cartellisation de l’économie locale. Il demande une analyse par les services de l’État et des mesures pour identifier les bénéficiaires d’allégements fiscaux et réduire les surcoûts.",
+        "answer_summary": "Le ministre reconnaît des écarts de prix inacceptables en Corse, en particulier sur le carburant et certains produits alimentaires, avec une différence moyenne de prix d’environ 7 %. Il indique vouloir avancer avec les élus locaux, analyser les causes économiques et travailler sur les mesures susceptibles de réduire ces écarts.",
+        "issues": [
+          "économie corse",
+          "coût de la vie",
+          "prix des carburants",
+          "prix alimentaires",
+          "allégements fiscaux",
+          "concurrence",
+          "pouvoir d’achat"
+        ],
+        "announced_measures": [
+          "analyser les écarts de prix en Corse",
+          "travailler avec les élus locaux et la collectivité de Corse",
+          "identifier les causes des surcoûts",
+          "préparer des améliorations pour réduire les écarts avec le continent"
+        ],
+        "quotes": [
+          {
+            "speaker": "Michel Castellani",
+            "text": "Le coût de la vie y est aussi plus élevé."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "La Corse connaît [...] des écarts de prix inacceptables."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1077",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1077",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député célèbre les 120 ans de la loi de 1905 en rappelant la liberté de conscience, la neutralité de l’État et le libre exercice des cultes. Il interroge le Gouvernement sur la défense d’une laïcité républicaine qui protège les différences sans devenir un instrument d’exclusion.",
+        "answer_summary": "Le ministre rappelle les principes de la loi de 1905 et affirme que la laïcité est un fondement intangible de la cohésion nationale. Il indique que les attaques contre ce principe ont évolué et cite la loi de 2021, le déféré laïcité et le délit de séparatisme comme outils permettant de défendre la neutralité des services publics et les principes républicains.",
+        "issues": [
+          "laïcité",
+          "loi de 1905",
+          "liberté de conscience",
+          "neutralité de l’État",
+          "libre exercice des cultes",
+          "séparatisme",
+          "cohésion nationale"
+        ],
+        "announced_measures": [
+          "utiliser le déféré laïcité contre les atteintes à la neutralité",
+          "appliquer la loi de 2021 confortant les principes de la République",
+          "mobiliser le délit de séparatisme",
+          "protéger la liberté de culte et de conscience"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jérôme Guedj",
+            "text": "La laïcité n’est pas l’ennemie des différences, elle en est l’hospitalité."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Ce principe est intangible et n’a pas varié depuis 1905."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1078",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1078",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur la laïcité à l’école, à l’occasion des 120 ans de la loi de 1905, en demandant comment protéger les élèves des pressions religieuses ou idéologiques et garantir la neutralité dans l’espace scolaire.",
+        "answer_summary": "Le ministre rappelle que la laïcité scolaire est encadrée par la loi de 2004 : les élèves doivent être protégés de toute pression et de tout prosélytisme, et les enseignants doivent incarner la neutralité républicaine. Il indique que certaines atteintes perdurent mais qu’elles sont en baisse, tout en réaffirmant que ces principes ne sont pas négociables.",
+        "issues": [
+          "laïcité à l’école",
+          "loi de 2004",
+          "neutralité scolaire",
+          "prosélytisme",
+          "éducation nationale",
+          "élèves",
+          "valeurs républicaines"
+        ],
+        "announced_measures": [
+          "protéger les élèves de toute pression et de tout prosélytisme",
+          "réaffirmer la neutralité des enseignants et de l’école",
+          "suivre les atteintes à la laïcité en milieu scolaire"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jérémie Patrier-Leitus",
+            "text": "Il est toujours essentiel d’en revenir aux principes."
+          },
+          {
+            "speaker": "Édouard Geffray",
+            "text": "Ce n’est pas négociable."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1079",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1079",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la précarité énergétique, en citant la hausse des ménages ayant des difficultés à payer leurs factures d’électricité. Il demande des mesures immédiates pour protéger les foyers, réduire les factures et répondre aux enjeux de long terme du logement et de l’énergie.",
+        "answer_summary": "Le ministre reconnaît les difficultés de paiement des factures mais explique qu’il faut articuler des réponses de court, moyen et long terme. Il rappelle que l’électricité française est parmi les moins chères d’Europe et renvoie aux politiques de tarification, de rénovation et de soutien au pouvoir d’achat pour traiter la précarité énergétique.",
+        "issues": [
+          "précarité énergétique",
+          "factures d’électricité",
+          "pouvoir d’achat",
+          "prix de l’énergie",
+          "rénovation énergétique",
+          "tarification",
+          "ménages modestes"
+        ],
+        "announced_measures": [
+          "traiter les enjeux de court, moyen et long terme",
+          "travailler sur la tarification de l’électricité",
+          "poursuivre les politiques de rénovation et de soutien aux ménages",
+          "tenir compte des difficultés de paiement des factures"
+        ],
+        "quotes": [
+          {
+            "speaker": "Julien Brugerolles",
+            "text": "Un Français sur dix est aujourd’hui en situation de précarité énergétique."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "Je ne nierai pas les difficultés que des Français rencontrent pour payer leurs factures."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG108",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG108",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le ministre du budget sur la baisse prévue des crédits du fonds de soutien à l’expression radiophonique locale, qui finance les radios associatives. Elle souligne leur rôle de proximité, de pluralisme et de cohésion territoriale.",
+        "answer_summary": "Le ministre replace la baisse envisagée dans l’effort général de réduction de la dépense publique, tout en affirmant ne pas vouloir procéder à des coupes aveugles. Il reconnaît le rôle des radios associatives locales et indique que le sujet devra être examiné dans le cadre de la discussion budgétaire sur les crédits de la culture.",
+        "issues": [
+          "radios associatives",
+          "FSER",
+          "audiovisuel local",
+          "budget de la culture",
+          "pluralisme",
+          "dépense publique",
+          "territoires"
+        ],
+        "announced_measures": [
+          "examiner les crédits du FSER dans la discussion budgétaire",
+          "éviter une logique de rabot aveugle",
+          "tenir compte du rôle local des radios associatives"
+        ],
+        "quotes": [
+          {
+            "speaker": "Béatrice Bellamy",
+            "text": "La réduction des crédits consacrés au fonds de soutien à l’expression radiophonique locale."
+          },
+          {
+            "speaker": "Laurent Saint-Martin",
+            "text": "Le Gouvernement assume de diminuer la dépense publique."
+          }
+        ],
+        "confidence": 0.85,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1080",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1080",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée lie le débat sur ArcelorMittal à la santé des salariés, en dénonçant l’exposition à l’amiante et les conditions d’hygiène et de sécurité. Elle demande comment protéger les travailleurs et prendre en compte les risques sanitaires dans l’avenir de la sidérurgie.",
+        "answer_summary": "Le ministre répond sur deux volets : la défense de l’emploi sidérurgique face aux importations massives d’acier, qu’il renvoie au niveau européen, et la prévention des risques liés à l’amiante, qu’il qualifie de sujet sérieux. Il indique que la protection des salariés et la prévention doivent rester au cœur de l’action publique.",
+        "issues": [
+          "amiante",
+          "ArcelorMittal",
+          "santé au travail",
+          "sidérurgie",
+          "risques professionnels",
+          "emploi industriel",
+          "prévention"
+        ],
+        "announced_measures": [
+          "défendre l’emploi sidérurgique au niveau européen",
+          "poursuivre la prévention des risques liés à l’amiante",
+          "traiter l’exposition des salariés comme un sujet de santé au travail"
+        ],
+        "quotes": [
+          {
+            "speaker": "Alma Dufour",
+            "text": "Leur emploi et leur santé sont en danger."
+          },
+          {
+            "speaker": "Jean-Pierre Farandou",
+            "text": "C’est un sujet sérieux, un sujet que je connais bien."
+          }
+        ],
+        "confidence": 0.85,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1081",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1081",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement sur la nouvelle revue stratégique américaine, qu’elle décrit comme une ingérence inquiétante contre l’Union européenne et ses États membres. Elle demande comment la France et l’Europe doivent réagir à ce durcissement de la doctrine américaine.",
+        "answer_summary": "La ministre qualifie la stratégie américaine de clarification brutale d’une posture privilégiant les intérêts nationaux américains. Elle indique avoir échangé au Pentagone avec les responsables américains et insiste sur la nécessité pour l’Europe de renforcer sa souveraineté, sa lucidité stratégique et sa capacité à défendre ses propres intérêts.",
+        "issues": [
+          "revue stratégique américaine",
+          "relations transatlantiques",
+          "souveraineté européenne",
+          "défense européenne",
+          "politique extérieure",
+          "ingérence",
+          "intérêts nationaux américains"
+        ],
+        "announced_measures": [
+          "échanger avec les responsables américains au Pentagone",
+          "renforcer la lucidité stratégique européenne",
+          "défendre les intérêts et la souveraineté de l’Europe",
+          "poursuivre le dialogue transatlantique sans naïveté"
+        ],
+        "quotes": [
+          {
+            "speaker": "Sabine Thillaye",
+            "text": "C’est un texte choquant, une notification d’ingérence contre l’Union européenne."
+          },
+          {
+            "speaker": "Alice Rufo",
+            "text": "La nouvelle stratégie de sécurité américaine est une clarification, extrêmement brutale."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1082",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1082",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la fragilité des hôpitaux ruraux et de proximité, pénalisés par la pénurie de médecins, leur taille et la tarification à l’acte. Il demande une politique de financement et d’accès aux soins adaptée aux territoires ruraux.",
+        "answer_summary": "La ministre reconnaît les difficultés des petits hôpitaux, en particulier en zone rurale, et défend le rôle des hôpitaux de proximité. Elle rappelle que le PLFSS prévoit une hausse des moyens de santé, avec 3,8 milliards d’euros supplémentaires, et insiste sur la nécessité de graduer les soins et d’organiser l’offre hospitalière.",
+        "issues": [
+          "hôpitaux ruraux",
+          "accès aux soins",
+          "tarification à l’acte",
+          "hôpitaux de proximité",
+          "PLFSS",
+          "financement hospitalier",
+          "déserts médicaux"
+        ],
+        "announced_measures": [
+          "augmenter les moyens de santé de 3,8 milliards d’euros dans le PLFSS",
+          "défendre les hôpitaux de proximité",
+          "graduer les soins sur les territoires",
+          "adapter l’offre hospitalière aux zones rurales"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jean-Claude Raux",
+            "text": "Dans ma circonscription rurale, je ne connais que des hôpitaux fragiles."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Nous savons les difficultés que connaissent les hôpitaux, particulièrement les plus petits d’entre eux."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1083",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1083",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce les fraudes sociales, en particulier les pensions de retraite versées à l’étranger, qu’il présente comme un scandale financier au regard du déficit de la branche vieillesse. Il demande des contrôles renforcés et des outils pour empêcher les versements indus.",
+        "answer_summary": "Le ministre reconnaît l’existence de la fraude sociale et indique que le projet de loi en préparation vise à mieux la combattre. Il estime la fraude sociale à 13 milliards d’euros, au-delà du cas des pensions à l’étranger, et annonce le besoin de moyens supplémentaires, d’accès amélioré aux fichiers et de capacités d’intervention renforcées.",
+        "issues": [
+          "fraudes sociales",
+          "pensions à l’étranger",
+          "retraites",
+          "contrôle des prestations",
+          "sécurité sociale",
+          "accès aux fichiers",
+          "finances sociales"
+        ],
+        "announced_measures": [
+          "renforcer les moyens de lutte contre la fraude sociale",
+          "améliorer l’accès aux fichiers",
+          "accroître les capacités d’intervention",
+          "porter un projet de loi contre la fraude sociale"
+        ],
+        "quotes": [
+          {
+            "speaker": "Romain Tonussi",
+            "text": "La fraude massive aux pensions de retraite versées à l’étranger."
+          },
+          {
+            "speaker": "Jean-Pierre Farandou",
+            "text": "La fraude sociale est importante : [...] elle est évaluée à 13 milliards d’euros."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1084",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1084",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée dénonce les abattages administratifs totaux de troupeaux dans le cadre de la gestion sanitaire, qu’elle présente comme violents pour les éleveurs et parfois disproportionnés. Elle demande des explications sur les décisions prises et sur les alternatives possibles.",
+        "answer_summary": "La ministre affirme agir pour protéger les éleveurs et l’élevage bovin français face au virus. Elle justifie les abattages par le risque de contamination des élevages voisins, évoque des mouvements illégaux à l’origine de contaminations et présente la maladie comme l’ennemi principal, nécessitant des décisions sanitaires difficiles.",
+        "issues": [
+          "abattage administratif",
+          "élevage bovin",
+          "crise sanitaire animale",
+          "éleveurs",
+          "virus",
+          "biosécurité",
+          "protection des troupeaux"
+        ],
+        "announced_measures": [
+          "protéger les élevages voisins contre la contamination",
+          "empêcher les mouvements illégaux d’animaux",
+          "prendre des décisions sanitaires pour limiter la propagation du virus"
+        ],
+        "quotes": [
+          {
+            "speaker": "Manon Meunier",
+            "text": "Où étiez-vous cet été, quand [...] tant d’autres encore ont subi par vos ordres l’abattage total de leurs troupeaux ?"
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "L’ennemi, c’est le virus."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1085",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1085",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la cessation totale d’activité annoncée de Maison Colibri à Pons, qui menace des dizaines d’emplois et fragilise un territoire industriel. Il demande l’intervention de l’État pour accompagner les salariés et rechercher des solutions industrielles.",
+        "answer_summary": "Le ministre qualifie la situation de drame industriel et attribue les difficultés au contexte du marché de la pâtisserie industrielle et aux choix stratégiques du groupe propriétaire. Il annonce vouloir assurer un traitement social exemplaire pour les 68 salariés concernés et travailler, avec le ministre chargé du dossier, à l’accompagnement du site.",
+        "issues": [
+          "fermeture d’entreprise",
+          "Maison Colibri",
+          "emploi industriel",
+          "Pons",
+          "agroalimentaire",
+          "accompagnement social",
+          "reprise industrielle"
+        ],
+        "announced_measures": [
+          "assurer un traitement social exemplaire pour les 68 salariés",
+          "accompagner le dossier avec le ministre chargé de l’industrie",
+          "rechercher des solutions pour le site et le territoire"
+        ],
+        "quotes": [
+          {
+            "speaker": "Fabrice Barusseau",
+            "text": "Ce choix brutal [...] plonge des dizaines de familles dans l’inquiétude."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "C’est un véritable drame industriel."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1086",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1086",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la situation du centre hospitalier de Digne-les-Bains, où des suppressions de postes pourraient être décidées pour réduire la dette. Il dénonce une logique d’économie au détriment des soignants et de l’accès aux soins dans les Alpes-de-Haute-Provence.",
+        "answer_summary": "La ministre répond plus largement sur les hôpitaux de taille comparable, en reconnaissant les difficultés de démographie médicale. Elle cite la fin du numerus clausus, l’arrivée future de nouveaux médecins et docteurs juniors, ainsi que la création du réseau France Santé dans le PLFSS 2026 pour améliorer l’accès aux soins et organiser les parcours.",
+        "issues": [
+          "centre hospitalier de Digne-les-Bains",
+          "hôpital public",
+          "suppressions de postes",
+          "dette hospitalière",
+          "démographie médicale",
+          "France Santé",
+          "accès aux soins"
+        ],
+        "announced_measures": [
+          "former davantage de médecins après la fin du numerus clausus",
+          "mobiliser 3 700 docteurs juniors",
+          "créer le réseau France Santé dans le PLFSS 2026",
+          "organiser la gradation des soins dans les hôpitaux de taille comparable"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christian Girard",
+            "text": "À quoi bon avoir un hôpital sans soignants ?"
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Le problème de la démographie médicale ne se résout pas d’un coup de baguette magique."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1087",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1087",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement sur l’accord européen encadrant les nouvelles techniques génomiques, présenté comme un outil potentiel de souveraineté alimentaire, d’adaptation climatique et de compétitivité pour les filières agricoles.",
+        "answer_summary": "La ministre défend l’accord européen sur les NTG comme un cadre ouvrant l’accès à de nouvelles technologies de sélection. Elle estime que ces innovations peuvent rendre les variétés plus résistantes au changement climatique, aux sécheresses et aux inondations, tout en réduisant certains intrants et en renforçant la compétitivité agricole.",
+        "issues": [
+          "nouvelles techniques génomiques",
+          "agriculture",
+          "souveraineté alimentaire",
+          "innovation variétale",
+          "changement climatique",
+          "compétitivité agricole",
+          "Union européenne"
+        ],
+        "announced_measures": [
+          "appliquer le cadre européen issu du trilogue du 4 décembre",
+          "ouvrir l’accès à de nouvelles technologies de sélection",
+          "développer des variétés plus résistantes au climat",
+          "réduire certains intrants grâce à l’innovation"
+        ],
+        "quotes": [
+          {
+            "speaker": "Françoise Buffet",
+            "text": "Nos producteurs ont besoin d’outils nouveaux pour reconquérir la souveraineté alimentaire."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "L’innovation est indispensable pour lui permettre de se projeter dans l’avenir."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1088",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1088",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député accuse le Gouvernement de conditionner la politique énergétique et la programmation pluriannuelle de l’énergie à des arrangements parlementaires, après des votes sur le budget de la sécurité sociale. Il demande de clarifier la ligne énergétique, notamment sur le nucléaire, les renouvelables et les coûts pour les Français.",
+        "answer_summary": "Le ministre refuse que la programmation pluriannuelle de l’énergie soit prise en otage par des considérations politiques et appelle à dépasser les guerres de religion entre sources d’énergie. Il défend une approche équilibrée fondée sur les avantages et inconvénients de chaque source, en insistant sur l’échange entre groupes de bonne volonté.",
+        "issues": [
+          "politique énergétique",
+          "programmation pluriannuelle de l’énergie",
+          "nucléaire",
+          "énergies renouvelables",
+          "débat parlementaire",
+          "coût de l’énergie",
+          "sécurité sociale"
+        ],
+        "announced_measures": [
+          "poursuivre les échanges sur la programmation pluriannuelle de l’énergie",
+          "refuser les caricatures entre sources d’énergie",
+          "tenir compte des avantages et inconvénients de chaque énergie",
+          "rechercher des compromis parlementaires sur l’énergie"
+        ],
+        "quotes": [
+          {
+            "speaker": "Alexandre Allegret-Pilot",
+            "text": "Nous avons assisté hier à un vote étonnant."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "La programmation pluriannuelle de l’énergie est un sujet trop sérieux."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    }
+  ]
+}

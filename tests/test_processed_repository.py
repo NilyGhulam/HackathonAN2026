@@ -79,3 +79,102 @@ def test_processed_repository_maps_payload(tmp_path: Path) -> None:
     assert traces[0].category == "calendrier"
     assert subject is not None
     assert subject["subject"]["title"] == "Aide à mourir"
+
+
+def test_processed_repository_does_not_cross_join_traces_and_subjects(tmp_path: Path) -> None:
+    payload = {
+        "schema_version": "0.1.0",
+        "processing": {"status": "validated"},
+        "raw_source": {
+            "id": "source_1",
+            "type": "written_question",
+            "institution": "assemblee_nationale",
+            "date": "2026-07-03",
+            "title": "Questions officielles",
+            "url": "https://example.test/source",
+            "metadata": {},
+        },
+        "extracted_traces": [
+            {
+                "id": "trace_a_1",
+                "summary": "Première trace du sujet A.",
+                "argument_role": "clarification",
+                "affected_publics": ["public A"],
+                "issues": [],
+                "evidence": [{"quote": "A1"}],
+                "confidence": 0.8,
+                "metadata": {"subject_id": "sujet-a"},
+            },
+            {
+                "id": "trace_a_2",
+                "summary": "Deuxième trace du sujet A.",
+                "argument_role": "support",
+                "affected_publics": ["public A"],
+                "issues": [],
+                "evidence": [{"quote": "A2"}],
+                "confidence": 0.8,
+                "metadata": {"subject_id": "sujet-a"},
+            },
+            {
+                "id": "trace_b_1",
+                "summary": "Trace du sujet B.",
+                "argument_role": "opposition",
+                "affected_publics": ["public B"],
+                "issues": [],
+                "evidence": [{"quote": "B1"}],
+                "confidence": 0.8,
+                "metadata": {"subject_id": "sujet-b"},
+            },
+        ],
+        "taxonomy_links": [
+            {
+                "domain_id": "sante",
+                "domain_label": "Santé",
+                "subtheme_id": "sub-a",
+                "subtheme_label": "Sous-thème A",
+                "subject_id": "sujet-a",
+                "subject_title": "Sujet A",
+            },
+            {
+                "domain_id": "justice",
+                "domain_label": "Justice",
+                "subtheme_id": "sub-b",
+                "subtheme_label": "Sous-thème B",
+                "subject_id": "sujet-b",
+                "subject_title": "Sujet B",
+            },
+        ],
+        "subject_updates": [
+            {
+                "subject_id": "sujet-a",
+                "subject_title": "Sujet A",
+                "summary": "Résumé A.",
+                "context_update": "Contexte A.",
+                "timeline_events": [],
+                "actors": [],
+                "argument_clusters": [],
+            },
+            {
+                "subject_id": "sujet-b",
+                "subject_title": "Sujet B",
+                "summary": "Résumé B.",
+                "context_update": "Contexte B.",
+                "timeline_events": [],
+                "actors": [],
+                "argument_clusters": [],
+            },
+        ],
+    }
+    (tmp_path / "payload.json").write_text(json.dumps(payload), encoding="utf-8")
+
+    repo = ProcessedRepository(curated_dir=tmp_path)
+    all_traces = repo.list_traces()
+    subject_a_traces = repo.list_traces("sujet-a")
+    subject_b_traces = repo.list_traces("sujet-b")
+    measures = {measure.id: measure for measure in repo.list_measures()}
+
+    assert len(all_traces) == 3
+    assert [trace.id for trace in subject_a_traces] == ["sujet-a:trace_a_1", "sujet-a:trace_a_2"]
+    assert [trace.id for trace in subject_b_traces] == ["sujet-b:trace_b_1"]
+    assert measures["sujet-a"].changes == ["Première trace du sujet A.", "Deuxième trace du sujet A."]
+    assert measures["sujet-b"].changes == ["Trace du sujet B."]

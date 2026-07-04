@@ -1,0 +1,1793 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "batch_20260704T123336_0000",
+  "generated_at": "2026-07-04T12:41:12.246509+00:00",
+  "provider": "chatgpt-conversation",
+  "notes": [
+    "Enrichissement conversationnel par lots, sans appel API externe.",
+    "Les items marqués needs_review=true sont politiquement sensibles, ambigus, comportent une réponse indirecte ou demandent une vérification humaine avant consolidation taxonomique.",
+    "Les résumés, mesures et citations utilisent uniquement les champs fournis dans le batch d'entrée."
+  ],
+  "items": [
+    {
+      "id": "summarize_question:QANR5L17QG1133",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1133",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur les difficultés d’accès aux soins en Guyane : faible densité médicale hors littoral, évacuations sanitaires jugées défaillantes, instabilité de l’ARS et insuffisance de la trajectoire vers le CHU. Il demande des décisions sur le recrutement, les Padhue, les évacuations sanitaires, la gouvernance et les infrastructures hospitalières.",
+        "answer_summary": "La ministre reconnaît les difficultés guyanaises mais met en avant une hausse du nombre de médecins, la création du CHU et le développement d’une formation médicale locale. Elle annonce un travail sur les évacuations sanitaires, notamment un guichet unique et l’examen du dossier Air Caraïbes, ainsi que la nomination d’un nouveau directeur de l’ARS.",
+        "issues": [
+          "accès aux soins",
+          "Guyane",
+          "évacuations sanitaires",
+          "CHU",
+          "ARS",
+          "déserts médicaux",
+          "outre-mer"
+        ],
+        "announced_measures": [
+          "structurer la formation médicale localement en Guyane",
+          "travailler à l’ouverture d’un guichet unique dédié aux Evasan",
+          "examiner le dossier d’Air Caraïbes",
+          "installer un nouveau directeur de l’ARS"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jean-Victor Castor",
+            "text": "En Guyane, les patients meurent à l'hôpital et la santé n'est plus un droit garanti."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Nous travaillons à l'ouverture d'un guichet unique dédié aux Evasan."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1134",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1134",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député accuse le Gouvernement d’avoir sous-doté la prévention des maladies animales et d’avoir agi trop tard face à la dermatose nodulaire contagieuse. Il interroge la ministre sur l’absence de commande préventive de vaccins et sur la confiance des agriculteurs.",
+        "answer_summary": "La ministre conteste l’accusation de gestion uniquement défensive. Elle rappelle les crédits mobilisés lors des crises FCO, MHE et dermatose, affirme que les vaccins ont été commandés rapidement et que l’État finance indemnisation, vétérinaires, pertes d’activité et désinfection, tout en réservant une vaccination généralisée à une nécessité avérée.",
+        "issues": [
+          "épizooties",
+          "dermatose nodulaire contagieuse",
+          "vaccination animale",
+          "élevage",
+          "budget agricole",
+          "indemnisation agricole"
+        ],
+        "announced_measures": [
+          "mobiliser des budgets pour les vaccins contre la dermatose",
+          "financer l’indemnisation des animaux perdus et des pertes d’activité",
+          "financer les vétérinaires et la désinfection des bâtiments",
+          "ne recourir à la vaccination généralisée que si nécessaire"
+        ],
+        "quotes": [
+          {
+            "speaker": "Vincent Trébuchet",
+            "text": "Pourquoi n'avez-vous pas passé cette commande préventive ?"
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "La vaccination a commencé dans les meilleurs délais."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1135",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1135",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée ne pose pas de question de politique publique précise : elle appelle à une trêve de Noël et demande au Premier ministre de transmettre des remerciements aux personnes mobilisées pendant les fêtes pour la sécurité, les soins, l’accompagnement et les transports.",
+        "answer_summary": "Le Premier ministre s’associe au message de reconnaissance envers les agents publics et personnels mobilisés pendant les fêtes. Il lie cette trêve souhaitée à la nécessité d’un climat favorable aux travaux parlementaires et au vote d’un budget.",
+        "issues": [
+          "trêve de Noël",
+          "services publics",
+          "agents mobilisés",
+          "continuité de l’État",
+          "budget"
+        ],
+        "announced_measures": [
+          "saluer les agents publics et personnels mobilisés pendant les fêtes",
+          "appeler à un climat parlementaire favorable à la reprise des travaux",
+          "rappeler le besoin d’un budget pour les services publics"
+        ],
+        "quotes": [
+          {
+            "speaker": "Marine Le Pen",
+            "text": "Je propose une pause dans le combat politique."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "Je m'associe naturellement à vos propos."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1136",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1136",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur les inquiétudes des médecins face au PLFSS 2026, aux dépassements d’honoraires, au secteur 3 et à la révision de la nomenclature des actes. Il demande comment concilier responsabilité financière, équité d’accès aux soins et dialogue avec les professionnels.",
+        "answer_summary": "La ministre affirme que le PLFSS est un texte de compromis, que plusieurs mesures contestées ont été retirées, et qu’il n’est pas question de revenir sur la nomenclature avant la concertation. Elle annonce vouloir rebâtir la confiance par le dialogue conventionnel, poursuivre la révision de la nomenclature, traiter les dépassements excessifs et travailler avec les complémentaires.",
+        "issues": [
+          "PLFSS",
+          "médecins libéraux",
+          "dépassements d’honoraires",
+          "nomenclature médicale",
+          "accès aux soins",
+          "assurance maladie"
+        ],
+        "announced_measures": [
+          "maintenir la révision de la nomenclature en concertation",
+          "rebâtir la confiance par le dialogue conventionnel",
+          "travailler sur les dépassements d’honoraires excessifs",
+          "lancer une réflexion sur la coordination assurance maladie et complémentaires"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jean-François Rousset",
+            "text": "Les dépassements d'honoraires représentent 4,5 milliards d'euros par an."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Il n'est pas question de revenir sur la nomenclature."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1137",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1137",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce le déficit commercial agroalimentaire français et l’accord avec le Mercosur, qu’il présente comme une menace pour les agriculteurs et la souveraineté alimentaire. Il demande que la France refuse l’accord sans report ni aménagement.",
+        "answer_summary": "Le ministre affirme que la France a empêché la signature de l’accord et obtenu des concessions européennes : clauses miroirs, contrôles douaniers renforcés et clause de sauvegarde. Il soutient que le Gouvernement s’oppose à l’accord en l’état tout en travaillant à des garanties pour les agriculteurs.",
+        "issues": [
+          "Mercosur",
+          "crise agricole",
+          "souveraineté alimentaire",
+          "commerce extérieur",
+          "clauses miroirs",
+          "contrôles douaniers"
+        ],
+        "announced_measures": [
+          "obtenir des clauses miroirs au niveau européen",
+          "renforcer les contrôles douaniers",
+          "défendre une clause de sauvegarde pour protéger les filières agricoles",
+          "maintenir l’opposition française à l’accord en l’état"
+        ],
+        "quotes": [
+          {
+            "speaker": "René Pilato",
+            "text": "L'accord avec le Mercosur doit être rejeté sans report ni aménagement."
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "Cet accord n'a été signé ni au printemps, ni à l'été, ni à l'automne."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1138",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1138",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée condamne l’intervention militaire américaine au Venezuela, qualifiée de violation du droit international, et critique la réaction jugée trop faible de la France et de l’Union européenne. Elle demande une condamnation claire et une défense du multilatéralisme face aux logiques impériales.",
+        "answer_summary": "Le Premier ministre affirme que l’opération américaine contrevient à la Charte des Nations unies, tout en qualifiant aussi le régime de Nicolás Maduro et le cycle électoral vénézuélien d’illégaux. Il insiste sur la défense du droit international et sur la nécessité de préserver les relations avec les États-Unis sans renoncer aux principes français.",
+        "issues": [
+          "Venezuela",
+          "États-Unis",
+          "droit international",
+          "Charte des Nations unies",
+          "multilatéralisme",
+          "politique extérieure"
+        ],
+        "announced_measures": [
+          "affirmer que l’opération américaine contrevient à la Charte des Nations unies",
+          "défendre le droit international malgré le contexte géopolitique",
+          "rendre hommage aux agents de l’ambassade de France au Venezuela"
+        ],
+        "quotes": [
+          {
+            "speaker": "Cyrielle Chatelain",
+            "text": "Le groupe Écologiste et social condamne fermement cette violation manifeste du droit international."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "Tout est illégal dans cette affaire."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1139",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1139",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député relaie la grève des médecins libéraux et présente le PLFSS comme le symptôme d’un modèle devenu trop comptable et sans vision. Il demande ce que le Gouvernement dit aux médecins, aux cliniques, aux patients et aux Français face aux fermetures de cabinets et au ralentissement des blocs.",
+        "answer_summary": "La ministre affirme que la continuité des soins est assurée malgré la grève et dit avoir échangé avec les médecins. Elle dément plusieurs craintes autour du PLFSS, rappelle le rôle de la négociation conventionnelle et met en avant une enveloppe de 340 millions d’euros pour revaloriser les médecins.",
+        "issues": [
+          "grève des médecins",
+          "médecins libéraux",
+          "PLFSS",
+          "continuité des soins",
+          "négociation conventionnelle",
+          "rémunération médicale"
+        ],
+        "announced_measures": [
+          "assurer la continuité des soins pendant la grève",
+          "démentir les mesures redoutées dans le PLFSS",
+          "recréer la confiance avec les médecins",
+          "mobiliser 340 millions d’euros pour revaloriser la rémunération des médecins"
+        ],
+        "quotes": [
+          {
+            "speaker": "Yannick Neuder",
+            "text": "C'est le signal d'alarme qui indique qu'un système est à bout de souffle."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Les patients pourront donc être soignés malgré la grève."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG114",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG114",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député prend l’exemple du hérisson devenu espèce menacée pour alerter sur l’effondrement de la biodiversité, l’artificialisation des sols, la déforestation, les pollutions et l’insuffisance des moyens. Il interroge le Gouvernement sur la cohérence entre ambition écologique et politiques nationales.",
+        "answer_summary": "La ministre déléguée répond au nom de la ministre de la transition écologique, présente à la COP16. Elle rappelle l’engagement international de protéger 30 % des espaces terrestres et maritimes d’ici 2030, l’abondement du fonds mondial pour la biodiversité et le maintien de politiques nationales comme le ZAN.",
+        "issues": [
+          "biodiversité",
+          "espèces menacées",
+          "COP16",
+          "artificialisation des sols",
+          "financement international",
+          "ZAN"
+        ],
+        "announced_measures": [
+          "participer à l’abondement du fonds mondial pour la biodiversité",
+          "défendre l’objectif de protection de 30 % des espaces d’ici 2030",
+          "maintenir l’ambition de la réglementation ZAN"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nicolas Bonnet",
+            "text": "Le hérisson vient d’être ajouté à l’interminable liste des espèces menacées."
+          },
+          {
+            "speaker": "Maud Bregeon",
+            "text": "La COP qui se tient à Cali doit apporter des réponses globales."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1140",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1140",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député condamne l’intervention américaine au Venezuela, critique la Commission européenne et reproche au président de la République une réaction insuffisante. Il demande une condamnation explicite de l’illégalité de l’opération et un positionnement européen ferme.",
+        "answer_summary": "La ministre déléguée répond que l’intervention était illégale et contraire à la Charte des Nations unies, comme l’a rappelé l’exécutif. Elle replace aussi le sujet dans la crise politique vénézuélienne et insiste sur la nécessité de rendre aux Vénézuéliens le résultat de l’élection de 2024.",
+        "issues": [
+          "Venezuela",
+          "États-Unis",
+          "droit international",
+          "Union européenne",
+          "Charte des Nations unies",
+          "transition démocratique"
+        ],
+        "announced_measures": [
+          "qualifier l’intervention d’illégale",
+          "rappeler la confiscation du résultat électoral de 2024",
+          "défendre une solution politique venant du Venezuela"
+        ],
+        "quotes": [
+          {
+            "speaker": "Olivier Faure",
+            "text": "L'enlèvement d'un président sur son propre territoire est une rupture sans précédent."
+          },
+          {
+            "speaker": "Eléonore Caroit",
+            "text": "Elle était illégale et contrevenait à la Charte des Nations unies."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1141",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1141",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce l’intervention américaine au Venezuela comme une réactivation de la doctrine Monroe et une violation de la souveraineté d’un État. Il critique la déclaration du président de la République et demande si la France défend encore clairement la Charte des Nations unies et le droit international.",
+        "answer_summary": "Le Premier ministre répond que la France est du côté de la Charte des Nations unies et du droit international. Il affirme que la position du Quai d’Orsay engage l’exécutif, évoque aussi les tensions autour du Groenland et appelle l’Europe à assurer sa sécurité et à renforcer ses bases stratégiques.",
+        "issues": [
+          "Venezuela",
+          "doctrine Monroe",
+          "droit international",
+          "Groenland",
+          "Union européenne",
+          "sécurité européenne"
+        ],
+        "announced_measures": [
+          "réaffirmer l’attachement français à la Charte des Nations unies",
+          "soutenir une déclaration commune européenne sur le Groenland",
+          "travailler à la sécurité et aux bases stratégiques européennes"
+        ],
+        "quotes": [
+          {
+            "speaker": "Stéphane Peu",
+            "text": "Une action menée en violation absolue du droit international."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "La France est-elle du côté de la Charte des Nations unies ? La réponse est oui."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1142",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1142",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce la hausse de la facture d’électricité et critique la baisse annoncée comme marginale, selon lui annulée par d’autres coûts liés aux certificats d’économie d’énergie. Il accuse le Gouvernement de ne pas améliorer réellement le pouvoir d’achat.",
+        "answer_summary": "Le ministre défend une baisse immédiate de la facture énergétique, même limitée, et la présente comme un premier geste concret pour les ménages et certains professionnels, notamment les boulangers. Il reproche au député de contester à la fois les hausses budgétaires et les baisses de facture.",
+        "issues": [
+          "prix de l’énergie",
+          "électricité",
+          "pouvoir d’achat",
+          "certificats d’économie d’énergie",
+          "fiscalité énergétique"
+        ],
+        "announced_measures": [
+          "appliquer par décret une baisse de facture énergétique",
+          "présenter cette baisse comme une première étape d’amélioration des factures"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jean-Philippe Tanguy",
+            "text": "La facture d’électricité a augmenté de 50 % en dix ans."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "Ce sont quelques euros de moins sur les factures."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1143",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1143",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée dénonce l’intervention américaine au Venezuela, qu’elle relie à une logique impérialiste et pétrolière. Elle refuse les justifications démocratiques avancées pour l’opération et reproche à la France son alignement atlantiste.",
+        "answer_summary": "Le Premier ministre affirme avoir été clair sur l’agression américaine, mais refuse la lecture de la députée sur le régime de Nicolás Maduro. Il qualifie ce régime de dictature, rappelle les atteintes aux libertés et défend une position française sans double standard : condamner l’opération américaine tout en ne blanchissant pas Maduro.",
+        "issues": [
+          "Venezuela",
+          "États-Unis",
+          "Maduro",
+          "droit international",
+          "dictature",
+          "politique extérieure"
+        ],
+        "announced_measures": [
+          "condamner l’opération militaire américaine",
+          "qualifier le régime de Maduro de dictature",
+          "défendre une position française sans double standard"
+        ],
+        "quotes": [
+          {
+            "speaker": "Mathilde Panot",
+            "text": "Donald Trump vient d’agresser le Venezuela en toute illégalité."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "La position de la France, c'est la parole équitable, sans double standard."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1144",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1144",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique le PLFSS et la gestion de la grève des médecins libéraux, qu’il décrit comme une réaction à des mesures ressenties comme coercitives. Il demande si le Gouvernement compte renoncer aux dispositions contestées et adopter une approche plus favorable aux soignants.",
+        "answer_summary": "La ministre défend le budget de la sécurité sociale, rappelle l’augmentation de l’Ondam, la stabilité des tarifs hospitaliers et les crédits de revalorisation pour les médecins. Elle oppose le compromis budgétaire aux critiques et affirme vouloir écouter les médecins tout en maîtrisant les dépenses de santé.",
+        "issues": [
+          "grève des médecins",
+          "PLFSS",
+          "Ondam",
+          "dépenses de santé",
+          "rémunération médicale",
+          "accès aux soins"
+        ],
+        "announced_measures": [
+          "porter l’Ondam à 3,1 %",
+          "maintenir des tarifs hospitaliers stables au 1er janvier",
+          "prévoir 340 millions d’euros de revalorisation des médecins",
+          "maîtriser les dépenses d’assurance maladie"
+        ],
+        "quotes": [
+          {
+            "speaker": "Olivier Fayssat",
+            "text": "Votre PLFSS est une défaite pour les patients."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Ce budget prévoit 340 millions d'euros de crédits."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1145",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1145",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur le sommet de la coalition des volontaires pour l’Ukraine. Il défend une paix juste, des garanties de sécurité robustes, le renforcement de l’armée ukrainienne et la mobilisation des avoirs russes gelés.",
+        "answer_summary": "La ministre déléguée présente le sommet comme une étape majeure réunissant vingt-sept chefs d’État. Elle rappelle les objectifs de la coalition : soutenir l’Ukraine dans les négociations, garantir la robustesse d’un cessez-le-feu ou d’une paix, éviter que la sécurité européenne soit discutée sans les Européens et renforcer l’armée ukrainienne.",
+        "issues": [
+          "Ukraine",
+          "coalition des volontaires",
+          "sécurité européenne",
+          "garanties de sécurité",
+          "avoirs russes gelés",
+          "défense"
+        ],
+        "announced_measures": [
+          "renforcer l’armée ukrainienne",
+          "participer à la coalition des volontaires",
+          "soutenir des garanties de sécurité robustes",
+          "immobiliser les avoirs gelés pour soutenir l’Ukraine"
+        ],
+        "quotes": [
+          {
+            "speaker": "Pieyre-Alexandre Anglade",
+            "text": "Nous voulons une paix juste et durable en Ukraine."
+          },
+          {
+            "speaker": "Alice Rufo",
+            "text": "La première garantie de sécurité sera évidemment le renforcement de l'armée ukrainienne."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1146",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1146",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée accuse le Gouvernement de masquer l’imminence de l’accord avec le Mercosur malgré son opposition affichée. Elle présente cet accord comme mortel pour plusieurs filières agricoles et doute de l’efficacité des clauses de sauvegarde.",
+        "answer_summary": "La ministre réaffirme que l’accord signé à Montevideo est inacceptable en l’état, notamment pour les filières bœuf, volaille, sucre, éthanol et miel. Elle défend la clause de sauvegarde comme un outil de protection puissant et indique que la France cherche à rallier d’autres États européens à sa position.",
+        "issues": [
+          "Mercosur",
+          "agriculture",
+          "clauses de sauvegarde",
+          "concurrence agricole",
+          "filières sensibles",
+          "Union européenne"
+        ],
+        "announced_measures": [
+          "défendre une clause de sauvegarde au Parlement européen",
+          "agréger d’autres États membres à la position française",
+          "maintenir l’opposition française à l’accord en l’état"
+        ],
+        "quotes": [
+          {
+            "speaker": "Marine Hamelet",
+            "text": "La signature de l’accord avec le Mercosur n’est malheureusement plus qu’une question de temps."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Le projet d'accord signé à Montevideo est inacceptable."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1147",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1147",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député évoque le drame de Crans-Montana pour interroger le Gouvernement sur la sécurité des établissements recevant du public, notamment les lieux qui se transforment en établissements dansants sans être adaptés. Il demande un renforcement des contrôles et de la prévention.",
+        "answer_summary": "Le ministre de l’intérieur rend hommage aux victimes et rappelle que la France a déclenché le mécanisme européen de protection civile. Il estime que les règles françaises sont déjà strictes, mais indique avoir rappelé aux préfets la nécessité des contrôles, notamment pour les bars qui deviennent ponctuellement des lieux dansants.",
+        "issues": [
+          "sécurité des établissements recevant du public",
+          "Crans-Montana",
+          "discothèques",
+          "contrôles de sécurité",
+          "protection civile"
+        ],
+        "announced_measures": [
+          "rappeler aux préfets les règles applicables aux ERP",
+          "poursuivre les contrôles par les commissions de sécurité",
+          "détecter les bars se transformant en établissements dansants",
+          "mobiliser le mécanisme européen de protection civile"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christophe Blanchet",
+            "text": "Ce n'est donc pas un événement accidentel : c'est criminel."
+          },
+          {
+            "speaker": "Laurent Nunez",
+            "text": "J'ai rappelé à tous les préfets de la République les règles applicables."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1148",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1148",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur la nouvelle stratégie nationale bas-carbone, saluée mais jugée tardive et insuffisamment cohérente avec les politiques publiques, notamment dans les transports, l’industrie, le logement et l’agriculture.",
+        "answer_summary": "Le ministre délégué défend l’ambition de la SNBC et rappelle l’objectif de neutralité carbone en 2050 ainsi que la baisse des émissions depuis 2017. Il insiste surtout sur la nécessité d’un budget pour financer les outils de transition écologique, comme le fonds Vert et le fonds Chaleur.",
+        "issues": [
+          "stratégie nationale bas-carbone",
+          "transition écologique",
+          "neutralité carbone",
+          "fonds Vert",
+          "fonds Chaleur",
+          "émissions de gaz à effet de serre"
+        ],
+        "announced_measures": [
+          "déployer la troisième stratégie nationale bas-carbone",
+          "investir dans la transition écologique via le budget",
+          "financer le fonds Vert et le fonds Chaleur",
+          "viser la neutralité carbone en 2050"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nicolas Bonnet",
+            "text": "On ne peut que déplorer qu’elle arrive avec trois ans de retard."
+          },
+          {
+            "speaker": "Mathieu Lefèvre",
+            "text": "Notre pays est exemplaire en la matière."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1149",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1149",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député relaie la colère agricole, notamment face au Mercosur, aux contraintes administratives, aux normes, aux revenus et aux crises sanitaires ou climatiques. Il demande la vision du Gouvernement pour restaurer la confiance et assurer l’avenir des exploitations.",
+        "answer_summary": "La ministre affirme partager le constat d’une accumulation de règles et présente plusieurs décisions : allègement des contrôles, simplification de la PAC, fin des sanctions automatiques, reconnaissance de la bonne foi, fonds d’urgence et accompagnement bancaire et social. Elle annonce une phase plus offensive contre les importations déloyales.",
+        "issues": [
+          "crise agricole",
+          "simplification administrative",
+          "Mercosur",
+          "revenus agricoles",
+          "importations déloyales",
+          "PAC"
+        ],
+        "announced_measures": [
+          "alléger les contrôles agricoles",
+          "réduire les charges administratives liées à la PAC",
+          "mettre fin aux sanctions automatiques disproportionnées",
+          "développer une action contre les importations ne respectant pas les standards européens"
+        ],
+        "quotes": [
+          {
+            "speaker": "François Gernigon",
+            "text": "La colère de nos agriculteurs ne faiblit pas."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Nous entrons donc dans une phase plus ferme et plus offensive."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG115",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG115",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député aborde le PLFSS sous l’angle de l’emploi et du modèle social. Il met en avant les petites retraites, les agriculteurs, l’apprentissage, l’emploi des seniors et l’accompagnement des personnes éloignées de l’emploi.",
+        "answer_summary": "La ministre salue l’esprit constructif du groupe et rappelle les priorités de la politique de plein emploi : poursuivre l’apprentissage, demander aux partenaires sociaux un accord sur l’emploi des seniors, généraliser l’accompagnement rénové des bénéficiaires du RSA et renforcer France Travail Pro.",
+        "issues": [
+          "emploi",
+          "PLFSS",
+          "apprentissage",
+          "emploi des seniors",
+          "RSA",
+          "France Travail",
+          "plein emploi"
+        ],
+        "announced_measures": [
+          "poursuivre le développement de l’apprentissage",
+          "demander un accord aux partenaires sociaux sur les seniors",
+          "généraliser les expérimentations d’accompagnement des bénéficiaires du RSA",
+          "déployer France Travail Pro"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nicolas Turquois",
+            "text": "Le PLFSS marque un moment de vérité pour les finances sociales."
+          },
+          {
+            "speaker": "Astrid Panosyan-Bouvet",
+            "text": "La bataille du plein emploi se trouve toujours devant nous."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1150",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1150",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur la crise viticole, aggravée selon elle par les tensions commerciales internationales, les droits de douane et la pression américaine sur les vins et spiritueux français. Elle interroge le Gouvernement sur les soutiens à la filière.",
+        "answer_summary": "La ministre reconnaît une crise profonde de la viticulture, liée à la surproduction, à la déconsommation, aux droits de douane et aux crises sanitaires. Elle confirme 130 millions d’euros pour l’arrachage de vignes, la prolongation de prêts de consolidation garantis par BPIFrance et la nécessité d’un budget pour déployer ces mesures.",
+        "issues": [
+          "viticulture",
+          "droits de douane",
+          "surproduction",
+          "arrachage de vignes",
+          "crise agricole",
+          "BPIFrance"
+        ],
+        "announced_measures": [
+          "consacrer 130 millions d’euros à l’arrachage de vignes",
+          "prolonger en 2026 les prêts de consolidation garantis par BPIFrance",
+          "étendre ces prêts aux coopératives",
+          "attendre l’adoption du paquet vin à Bruxelles"
+        ],
+        "quotes": [
+          {
+            "speaker": "Stella Dupont",
+            "text": "Les États-Unis figurent parmi les tout premiers acheteurs de vins et spiritueux français."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Le gouvernement a bien décidé de consacrer une enveloppe de 130 millions d'euros."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1151",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1151",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député demande la publication du décret accordant des trimestres supplémentaires de retraite aux sapeurs-pompiers volontaires, voté à l’unanimité mais toujours attendu. Il dénonce une succession de promesses non tenues et l’impatience des pompiers.",
+        "answer_summary": "Le ministre affirme que le décret sera publié et que son entrée en vigueur interviendra bien le 1er juillet 2026. Il explique le retard par les consultations et l’avis du Conseil d’État, qui conduit à attribuer le premier trimestre supplémentaire au bout de dix ans d’activité.",
+        "issues": [
+          "sapeurs-pompiers volontaires",
+          "retraite",
+          "décret d’application",
+          "trimestres supplémentaires",
+          "sécurité civile"
+        ],
+        "announced_measures": [
+          "publier le décret sur les trimestres supplémentaires",
+          "maintenir une entrée en vigueur au 1er juillet 2026",
+          "prévoir l’attribution du premier trimestre au bout de dix ans d’activité"
+        ],
+        "quotes": [
+          {
+            "speaker": "Julien Rancoule",
+            "text": "Le Parlement a voté à l’unanimité la bonification des trimestres."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Son entrée en vigueur interviendra bien le 1er juillet 2026."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1152",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1152",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce l’insuffisance de la réponse de l’État face aux sans-abri pendant la vague de froid, citant des décès dans la rue et demandant l’arrêt du déclenchement tardif des plans Grand Froid ainsi que davantage de places et de réquisitions.",
+        "answer_summary": "Le ministre du logement remercie les acteurs de terrain et affirme qu’un plan Grand Froid sans précédent a été activé, avec 4 500 places supplémentaires dans 75 départements. Il reconnaît que ce n’est jamais suffisant et lie la poursuite de l’effort d’hébergement d’urgence au vote du budget, qui prévoyait 110 millions d’euros supplémentaires.",
+        "issues": [
+          "sans-abri",
+          "hébergement d’urgence",
+          "plan Grand Froid",
+          "logement",
+          "maraudes",
+          "budget"
+        ],
+        "announced_measures": [
+          "ouvrir 4 500 places supplémentaires pendant le plan Grand Froid",
+          "mobiliser les préfets de 75 départements",
+          "prévoir 110 millions d’euros supplémentaires pour l’hébergement d’urgence"
+        ],
+        "quotes": [
+          {
+            "speaker": "Emmanuel Fernandes",
+            "text": "Selon la Fondation, la France compte environ 350 000 personnes sans domicile."
+          },
+          {
+            "speaker": "Vincent Jeanbrun",
+            "text": "Nous avons activé un plan Grand Froid sans précédent."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1153",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1153",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge la ministre sur la dermatose nodulaire contagieuse dans le Sud-Ouest, l’abattage intégral des troupeaux dès le premier cas, la vaccination et les difficultés plus larges de l’élevage, notamment en Occitanie.",
+        "answer_summary": "La ministre reconnaît la gravité de la situation et affirme qu’aucun éleveur ne sera laissé de côté. Elle insiste sur la vaccination rapide, annonce que la question de l’abattage total est examinée par une cellule scientifique associant éleveurs et scientifiques, et évoque aussi la protection du revenu des éleveurs.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "élevage",
+          "vaccination animale",
+          "abattage sanitaire",
+          "Occitanie",
+          "revenu des éleveurs"
+        ],
+        "announced_measures": [
+          "poursuivre la campagne de vaccination contre la dermatose",
+          "examiner le protocole d’abattage avec une cellule scientifique",
+          "associer éleveurs et scientifiques à la réflexion",
+          "protéger les cheptels et le revenu des éleveurs"
+        ],
+        "quotes": [
+          {
+            "speaker": "David Taupiac",
+            "text": "Le maintien du protocole d'abattage intégral suscite toujours une forte incompréhension."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Il faut vacciner, vacciner le plus vite possible."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1154",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1154",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur la crise agricole dans son ensemble : DNC, Mercosur, PAC, revenus agricoles, souveraineté alimentaire et accès à l’eau. Il demande comment redonner une perspective de long terme aux agriculteurs.",
+        "answer_summary": "La ministre répond en centrant sa réponse sur la lutte contre la concurrence déloyale et la souveraineté alimentaire. Elle rappelle l’arrêté interdisant l’introduction de productions utilisant des substances interdites dans l’UE, les conférences de la souveraineté alimentaire et la construction de feuilles de route par territoire et filière.",
+        "issues": [
+          "crise agricole",
+          "souveraineté alimentaire",
+          "importations agricoles",
+          "substances interdites",
+          "PAC",
+          "eau"
+        ],
+        "announced_measures": [
+          "prendre un arrêté contre les productions utilisant des substances interdites dans l’UE",
+          "lancer des conférences de la souveraineté alimentaire",
+          "élaborer des feuilles de route sur dix ans par territoire et filière"
+        ],
+        "quotes": [
+          {
+            "speaker": "Didier Le Gac",
+            "text": "Les inquiétudes du monde agricole se renforcent."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Les conférences de la souveraineté alimentaire ont vocation à reconquérir cette souveraineté."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1155",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1155",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur les violences dans les foyers de l’aide sociale à l’enfance, après le viol d’une enfant de 10 ans par un autre enfant. Elle demande une réaction gouvernementale globale face aux défaillances de la protection de l’enfance.",
+        "answer_summary": "La ministre reconnaît la gravité des drames récurrents et la nécessité d’un engagement commun. Elle rappelle la refondation de la protection de l’enfance engagée par Catherine Vautrin, annonce un projet de loi porté avec le garde des sceaux et la généralisation de parcours de soins coordonnés pour les enfants protégés.",
+        "issues": [
+          "protection de l’enfance",
+          "aide sociale à l’enfance",
+          "violences sexuelles",
+          "foyers",
+          "parcours de soins",
+          "enfants protégés"
+        ],
+        "announced_measures": [
+          "défendre un projet de loi de refondation de la protection de l’enfance",
+          "généraliser les parcours de soins coordonnés des enfants protégés",
+          "tenir un débat parlementaire sur la protection de l’enfance"
+        ],
+        "quotes": [
+          {
+            "speaker": "Ayda Hadizadeh",
+            "text": "Le sujet est grave."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Les chiffres que je découvre chaque jour m'affolent."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1156",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1156",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député s’oppose à l’accord avec le Mercosur, rappelant la mobilisation des agriculteurs, l’opposition d’une large partie de l’opinion et le vote unanime d’une résolution à l’Assemblée. Il demande le rejet de l’accord.",
+        "answer_summary": "Le ministre délégué réaffirme que la France n’accepte pas l’accord en l’état, en raison des risques pour certaines filières agricoles. Il détaille les exigences françaises : clause de sauvegarde opérationnelle, clauses miroirs et contrôles renforcés.",
+        "issues": [
+          "Mercosur",
+          "commerce extérieur",
+          "agriculture",
+          "clause de sauvegarde",
+          "clauses miroirs",
+          "filière bovine"
+        ],
+        "announced_measures": [
+          "exiger une clause de sauvegarde opérationnelle",
+          "défendre des clauses miroirs",
+          "renforcer les contrôles",
+          "maintenir la position française contre l’accord en l’état"
+        ],
+        "quotes": [
+          {
+            "speaker": "Sylvain Carrière",
+            "text": "L’Assemblée nationale a adopté, à l'unanimité, notre résolution."
+          },
+          {
+            "speaker": "Nicolas Forissier",
+            "text": "Nous ne pouvons pas accepter l'accord avec le Mercosur tel qu'il est présenté."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1157",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1157",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur la stratégie française face aux cyberattaques après deux attaques contre La Poste et des attaques contre hôpitaux, entreprises et collectivités. Il demande un calendrier pour renforcer la cybersécurité et transposer la directive NIS 2.",
+        "answer_summary": "Le ministre salue la résilience de La Poste et affirme que les données des clients ont été préservées. Il présente la cybersécurité comme un enjeu régalien, économique, financier et démocratique, alerte sur des attaques européennes contre des partis politiques et reconnaît l’importance de transposer la directive NIS 2.",
+        "issues": [
+          "cybersécurité",
+          "La Poste",
+          "cyberattaques",
+          "NIS 2",
+          "données personnelles",
+          "services essentiels"
+        ],
+        "announced_measures": [
+          "travailler à la transposition de la directive NIS 2",
+          "renforcer la sécurité des services essentiels",
+          "saluer la préservation des données des clients de La Poste"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jacques Oberti",
+            "text": "Ces cyberattaques poussent à s'interroger sur l’opérabilité de la stratégie française."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "La cybersécurité, c'est à la fois un enjeu régalien, économique et financier."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1158",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1158",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur l’absence de budget au 7 janvier, qu’il juge préjudiciable pour l’action publique, l’économie, les armées, les forces de sécurité, les agriculteurs et les collectivités. Il demande la méthode du Gouvernement pour sortir de l’impasse budgétaire.",
+        "answer_summary": "La ministre partage l’urgence d’un budget et l’objectif de ramener le déficit à 5 %. Elle indique que les discussions reprennent entre groupes politiques puis en commission des finances, insiste sur la recherche de convergences et rappelle l’engagement gouvernemental à réaliser des économies.",
+        "issues": [
+          "budget 2026",
+          "projet de loi de finances",
+          "déficit public",
+          "commission des finances",
+          "compromis budgétaire",
+          "dépenses publiques"
+        ],
+        "announced_measures": [
+          "reprendre les discussions entre groupes politiques",
+          "reprendre l’examen en commission des finances",
+          "chercher des convergences et solutions budgétaires",
+          "viser un déficit ramené à 5 %"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nicolas Ray",
+            "text": "La France n'a toujours pas de budget."
+          },
+          {
+            "speaker": "Amélie de Montchalin",
+            "text": "Nous cherchions non pas des combines, mais des convergences."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1159",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1159",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement sur la situation internationale, dénonçant la vassalisation, l’intervention américaine au Venezuela, l’affaiblissement du droit international et le recul de l’Europe face aux impérialismes.",
+        "answer_summary": "Le ministre délégué répond sur trois axes : le Venezuela, où il affirme que la France défend le droit international et le droit des peuples ; l’Ukraine, où il met en avant la coalition des volontaires ; et le rôle de l’Europe dans un monde de tensions, en appelant à défendre ses intérêts et sa sécurité.",
+        "issues": [
+          "situation internationale",
+          "Venezuela",
+          "Ukraine",
+          "droit international",
+          "Union européenne",
+          "multilatéralisme"
+        ],
+        "announced_measures": [
+          "réaffirmer le droit international au Conseil de sécurité",
+          "accompagner une transition démocratique au Venezuela",
+          "soutenir la coalition des volontaires pour l’Ukraine",
+          "renforcer le rôle européen dans les crises internationales"
+        ],
+        "quotes": [
+          {
+            "speaker": "Clémentine Autain",
+            "text": "La loi du plus fort ne peut remplacer le droit international."
+          },
+          {
+            "speaker": "Nicolas Forissier",
+            "text": "La priorité absolue était de respecter le droit international."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG116",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG116",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député demande l’application de la mesure de retraite pour les sapeurs-pompiers volontaires ayant au moins dix années de service, prévue par la réforme de 2023 mais toujours sans décret. Il sollicite une date et des garanties.",
+        "answer_summary": "Le ministre délégué rend hommage aux sapeurs-pompiers et confirme que le dossier a été repris par le ministère de l’intérieur. Il se dit favorable à une attribution progressive de trimestres supplémentaires, mais souligne que la concertation est encore nécessaire pour éviter un blocage.",
+        "issues": [
+          "sapeurs-pompiers volontaires",
+          "retraite",
+          "sécurité civile",
+          "décret d’application",
+          "concertation"
+        ],
+        "announced_measures": [
+          "reprendre le dossier au ministère de l’intérieur",
+          "travailler à une attribution progressive de trimestres supplémentaires",
+          "mener la concertation nécessaire avant décret"
+        ],
+        "quotes": [
+          {
+            "speaker": "Yannick Favennec-Bécot",
+            "text": "Où en est le décret d'application ?"
+          },
+          {
+            "speaker": "Nicolas Daragon",
+            "text": "Je suis favorable à une attribution progressive de trimestres supplémentaires."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1160",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1160",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée critique la contribution dite taxe émeutes, qui rendrait obligatoire une garantie émeutes dans les contrats d’assurance de dommages et serait financée par une surprime nationale. Elle conteste l’équité et l’efficacité d’un financement supporté par tous les assurés.",
+        "answer_summary": "Le ministre corrige le terme de taxe et parle de solidarité entre assureurs pour éviter que certaines collectivités ou commerces ne deviennent inassurables, notamment outre-mer. Il explique qu’un fonds anti-émeutes garanti par l’État permettrait de maintenir l’assurabilité sans dédouaner l’État de ses responsabilités de sécurité et de sanction.",
+        "issues": [
+          "assurance",
+          "émeutes",
+          "collectivités territoriales",
+          "commerces",
+          "assurabilité",
+          "fonds garanti par l’État"
+        ],
+        "announced_measures": [
+          "créer un fonds anti-émeutes alimenté par les assureurs",
+          "garantir ce fonds par l’État",
+          "maintenir l’assurabilité des collectivités et commerces exposés",
+          "poursuivre la prévention et la sanction des émeutes"
+        ],
+        "quotes": [
+          {
+            "speaker": "Maud Petit",
+            "text": "Les habitants ni les acteurs économiques ne comprennent pourquoi devrait être financée via les contrats d'assurance."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "Il ne s'agit évidemment pas de créer une nouvelle taxe."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1161",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1161",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur l’annonce permettant de débloquer jusqu’à 2 000 euros d’épargne salariale sans imposition. Il demande les conditions, le périmètre, la rapidité d’accès et l’ambition réelle de la mesure pour le pouvoir d’achat.",
+        "answer_summary": "Le ministre défend le partage de la valeur et présente la mesure comme une première étape face à une consommation atone et à un taux d’épargne élevé. Il propose un déblocage de 2 000 euros pour les salariés gagnant moins de deux smics, soit 60 % des salariés, et renvoie au débat parlementaire pour définir les bons critères.",
+        "issues": [
+          "épargne salariale",
+          "pouvoir d’achat",
+          "partage de la valeur",
+          "consommation",
+          "salariés modestes"
+        ],
+        "announced_measures": [
+          "permettre un déblocage d’épargne salariale jusqu’à 2 000 euros",
+          "cibler les revenus inférieurs à deux smics",
+          "débattre des critères dans une proposition de loi"
+        ],
+        "quotes": [
+          {
+            "speaker": "Stéphane Viry",
+            "text": "Que recouvre réellement cette annonce ?"
+          },
+          {
+            "speaker": "Serge Papin",
+            "text": "Les salariés qui en ont le plus besoin doivent avoir la liberté d'obtenir immédiatement du cash."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1162",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1162",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député relie les crises internationales — Ukraine, Taïwan, Venezuela, Groenland — à la nécessité pour l’Europe et la France de défendre le droit international et d’assumer un effort budgétaire, notamment pour la défense.",
+        "answer_summary": "Le ministre délégué partage le diagnostic d’un monde en tension et insiste sur la défense du droit international, de la souveraineté des peuples et de la sécurité européenne. Il évoque la coalition des volontaires et la nécessité de renforcer la solidarité et les capacités de défense européennes.",
+        "issues": [
+          "situation internationale",
+          "budget",
+          "défense européenne",
+          "Ukraine",
+          "Taïwan",
+          "Venezuela",
+          "Groenland"
+        ],
+        "announced_measures": [
+          "renforcer la solidarité européenne",
+          "participer à l’effort de réassurance en Ukraine",
+          "construire une capacité de défense européenne",
+          "soutenir la coalition des volontaires"
+        ],
+        "quotes": [
+          {
+            "speaker": "Sylvain Berrios",
+            "text": "Trois membres éminents du Conseil de sécurité de l’ONU piétinent le droit international."
+          },
+          {
+            "speaker": "Nicolas Forissier",
+            "text": "Nous sommes dans un monde en pleine tension."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1163",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1163",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique la baisse annoncée du tarif d’abonnement de l’électricité, jugée inférieure à un euro par mois, et demande une baisse de TVA sur l’abonnement et la consommation pour répondre réellement au pouvoir d’achat.",
+        "answer_summary": "Le ministre rappelle que l’électricité française est décarbonée et parmi les moins chères d’Europe grâce au parc nucléaire. Il défend la programmation pluriannuelle de l’énergie et un grand plan d’électrification, tout en présentant la baisse de l’abonnement comme une mesure limitée mais réelle.",
+        "issues": [
+          "tarif de l’électricité",
+          "TVA",
+          "pouvoir d’achat",
+          "nucléaire",
+          "électrification",
+          "programmation pluriannuelle de l’énergie"
+        ],
+        "announced_measures": [
+          "préparer la programmation pluriannuelle de l’énergie",
+          "travailler à un grand plan d’électrification",
+          "appliquer une baisse du tarif d’abonnement d’électricité"
+        ],
+        "quotes": [
+          {
+            "speaker": "Julien Brugerolles",
+            "text": "Cette baisse devrait représenter moins de 1 euro par mois."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "L'électricité française est l'une des moins chères d'Europe."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1164",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1164",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député lie le risque terroriste à la réunification familiale, notamment pour des ressortissants afghans, et demande à la France de suspendre ce mécanisme comme l’Allemagne afin d’éviter l’arrivée de personnes potentiellement affiliées à l’État islamique.",
+        "answer_summary": "Le ministre refuse le lien direct établi entre flux migratoires et menace terroriste. Il rappelle le renforcement des services de renseignement, des moyens de criblage, du suivi et de la coopération internationale depuis 2015, ainsi que le nombre d’attentats déjoués.",
+        "issues": [
+          "terrorisme",
+          "réunification familiale",
+          "Afghanistan",
+          "renseignement",
+          "criblage",
+          "immigration"
+        ],
+        "announced_measures": [
+          "renforcer les moyens des services de renseignement",
+          "poursuivre le criblage et le suivi des menaces",
+          "améliorer la coopération internationale en matière de renseignement",
+          "maintenir la lutte contre le terrorisme sans lien automatique avec les flux migratoires"
+        ],
+        "quotes": [
+          {
+            "speaker": "Bartolomé Lenoir",
+            "text": "L'Allemagne a adopté la suspension de la réunification familiale."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Nous avons déjoué quatre-vingt-treize attentats depuis 2012."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1165",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1165",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce l’accumulation de contraintes et de coûts pour les automobilistes en 2026 : malus écologique, carburant, assurance, péages, ZFE et contrôles. Il accuse le Gouvernement de faire des automobilistes des contribuables captifs.",
+        "answer_summary": "Le ministre met en avant l’opposition française à un contrôle technique annuel obligatoire pour les véhicules de plus de dix ans, finalement écarté au niveau européen. Il assume les rappels liés aux airbags Takata, évoque les aides aux véhicules propres et renvoie le débat sur les ZFE à la commission mixte paritaire du projet de loi de simplification.",
+        "issues": [
+          "automobilistes",
+          "contrôle technique",
+          "ZFE",
+          "airbags Takata",
+          "transition automobile",
+          "péages"
+        ],
+        "announced_measures": [
+          "obtenir l’abandon du contrôle technique annuel obligatoire pour les véhicules de plus de dix ans",
+          "maintenir les rappels pour airbags Takata défectueux",
+          "accompagner l’achat de véhicules propres",
+          "renvoyer le débat ZFE au projet de loi de simplification"
+        ],
+        "quotes": [
+          {
+            "speaker": "Pierre Meurin",
+            "text": "Les automobilistes sont les vaches à lait de votre écologie punitive."
+          },
+          {
+            "speaker": "Philippe Tabarot",
+            "text": "Les véhicules de plus de dix ans ne feront pas l'objet d'un contrôle technique annuel obligatoire."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1166",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1166",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député revient sur le drame de Crans-Montana, qui a causé de nombreuses victimes dont des Français, et interroge le Gouvernement sur la coopération franco-suisse, le rapatriement des blessés, l’accompagnement des familles et le volet judiciaire.",
+        "answer_summary": "La ministre exprime la solidarité du Gouvernement et détaille la mobilisation interministérielle : identification de lits et moyens de transfert, transfert de dix-neuf blessés graves vers la France, coordination par la délégation interministérielle à l’aide aux victimes et ouverture d’une enquête miroir par le parquet de Paris.",
+        "issues": [
+          "Crans-Montana",
+          "victimes françaises",
+          "coopération franco-suisse",
+          "rapatriement sanitaire",
+          "aide aux victimes",
+          "enquête judiciaire"
+        ],
+        "announced_measures": [
+          "transférer dix-neuf blessés graves vers la France",
+          "maintenir la coopération avec la Suisse",
+          "mobiliser la délégation interministérielle à l’aide aux victimes",
+          "ouvrir une enquête miroir par le parquet de Paris"
+        ],
+        "quotes": [
+          {
+            "speaker": "Marc Ferracci",
+            "text": "La nuit du 31 décembre devait être une nuit de fête."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Dix-neuf blessés graves ont ainsi été transférés vers la France."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1167",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1167",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge la ministre sur les distorsions de concurrence subies par les agriculteurs, notamment liées aux produits importés ne respectant pas les interdits européens, et demande des protections concrètes contre les pratiques déloyales.",
+        "answer_summary": "La ministre annonce une action contre les résidus de substances interdites dans les produits importés. Elle affirme que la France a obtenu un progrès européen sur plusieurs substances et annonce la création d’une brigade de contrôle, avec plusieurs dizaines de douaniers, chargée des importations et du territoire national.",
+        "issues": [
+          "crise agricole",
+          "importations agricoles",
+          "substances interdites",
+          "contrôles douaniers",
+          "concurrence déloyale",
+          "Union européenne"
+        ],
+        "announced_measures": [
+          "interdire cinq substances dans les produits importés",
+          "constituer une brigade de contrôle spécialisée",
+          "mobiliser plusieurs dizaines de douaniers",
+          "contrôler les importations venant des ports du nord de l’Europe"
+        ],
+        "quotes": [
+          {
+            "speaker": "Philippe Fait",
+            "text": "Les insupportables distorsions de concurrence entre pays."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "J'ai donc décidé de constituer une brigade de contrôle."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1168",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1168",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur la crise de l’eau à Mayotte, les coupures, les risques sanitaires et l’absence de plan Orsec eau potable. Elle demande une mobilisation générale et des mesures avant que les investissements du plan Eau Mayotte ne produisent des effets.",
+        "answer_summary": "La ministre des outre-mer rappelle l’avancée du chantier de l’usine d’Ironi Bé, reconnaît des maladies liées aux déficits hydriques et met en avant les actions de l’ARS : prise en charge, vaccination, prévention, aller-vers et rampes d’eau. Elle annonce qu’un plan Eau sera finalisé avant la fin du premier semestre 2026.",
+        "issues": [
+          "Mayotte",
+          "eau potable",
+          "crise de l’eau",
+          "Orsec",
+          "ARS",
+          "santé publique",
+          "outre-mer"
+        ],
+        "announced_measures": [
+          "finaliser un plan Eau avant la fin du premier semestre 2026",
+          "installer des rampes d’eau",
+          "poursuivre le chantier de l’usine d’Ironi Bé",
+          "mener des actions de vaccination, prévention et aller-vers"
+        ],
+        "quotes": [
+          {
+            "speaker": "Anchya Bamana",
+            "text": "Mayotte traverse une crise de l'eau d'une gravité exceptionnelle."
+          },
+          {
+            "speaker": "Naïma Moutchou",
+            "text": "Un plan Eau est en cours de finalisation."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1169",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1169",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée dénonce l’insuffisance des plans Grand Froid face aux sans-abri et accuse l’État de laisser des familles, enfants et mineurs isolés sans solution digne. Elle demande davantage de places, de réquisitions et une réponse pérenne.",
+        "answer_summary": "Le ministre de l’intérieur, répondant pour le ministre du logement, insiste sur le caractère exceptionnel de la vague de froid. Il indique que 85 départements ont activé le plan Grand Froid, avec près de 8 000 places temporaires supplémentaires, des maraudes élargies, le renforcement du 115 et l’extension des horaires d’accueil de jour.",
+        "issues": [
+          "sans-abri",
+          "hébergement d’urgence",
+          "plan Grand Froid",
+          "115",
+          "maraudes",
+          "réquisitions"
+        ],
+        "announced_measures": [
+          "ouvrir près de 8 000 places temporaires pendant le pic de froid",
+          "activer le plan Grand Froid dans 85 départements",
+          "élargir les maraudes",
+          "renforcer le 115 et l’accueil de jour"
+        ],
+        "quotes": [
+          {
+            "speaker": "Anaïs Belouassa-Cherifi",
+            "text": "Des plans Grand Froid ont été déclenchés dans l'urgence."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Quatre-vingt-cinq départements ont activé le plan Grand Froid."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG117",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG117",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique l’accord de libre-échange entre l’Union européenne et le Mercosur, incompatible selon lui avec les standards européens en matière environnementale, sociale, sanitaire et de bien-être animal. Il demande une pression forte de la France dans la négociation.",
+        "answer_summary": "La ministre déléguée affirme que le Président de la République et le Gouvernement s’opposent à la ratification de l’accord en l’état. Elle appelle à une mobilisation de tous les groupes politiques, syndicats et ONG pour convaincre les partenaires européens que l’accord ne convient pas à l’agriculture ni à l’environnement.",
+        "issues": [
+          "Mercosur",
+          "commerce extérieur",
+          "agriculture",
+          "normes environnementales",
+          "bien-être animal",
+          "Union européenne"
+        ],
+        "announced_measures": [
+          "s’opposer à la ratification de l’accord en l’état",
+          "mobiliser les groupes politiques, syndicats et ONG",
+          "convaincre les partenaires européens de refuser l’accord actuel"
+        ],
+        "quotes": [
+          {
+            "speaker": "Thierry Benoit",
+            "text": "Il est inacceptable que l'Union européenne conclue des accords avec des partenaires qui n'empruntent pas la même trajectoire."
+          },
+          {
+            "speaker": "Sophie Primas",
+            "text": "Je me bats tous les jours contre la signature, en l'état, de cet accord."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1170",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1170",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée dénonce la répression meurtrière menée par le régime iranien contre son peuple et demande que la France aille au-delà des condamnations diplomatiques. Elle évoque des milliers de victimes et appelle à des sanctions contre les responsables.",
+        "answer_summary": "Le ministre des affaires étrangères condamne fermement la violence d’État en Iran, dit avoir signifié cette condamnation à son homologue iranien et annonce la convocation de l’ambassadeur d’Iran en France. Il évoque aussi des désignations européennes contre des organisations ou responsables de la répression.",
+        "issues": [
+          "Iran",
+          "répression",
+          "droits humains",
+          "sanctions européennes",
+          "ambassadeur",
+          "pasdaran"
+        ],
+        "announced_measures": [
+          "convoquer l’ambassadeur d’Iran en France",
+          "signifier la condamnation au ministre iranien des affaires étrangères",
+          "soutenir des désignations européennes contre les responsables de la répression",
+          "se tenir aux côtés du peuple iranien"
+        ],
+        "quotes": [
+          {
+            "speaker": "Constance Le Grip",
+            "text": "Un massacre, un bain de sang."
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "Il ne saurait y avoir aucune impunité."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1171",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1171",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député s’oppose au traité avec le Mercosur, en y voyant une menace pour les fermes familiales, la santé publique, l’environnement et surtout la démocratie, alors que syndicats agricoles, associations et partis politiques s’y opposent. Il demande notamment une saisine de la justice européenne.",
+        "answer_summary": "Le ministre répond en élargissant au combat français pour la préférence européenne et la protection des filières industrielles et agricoles. Il met en avant les concessions obtenues : clause de sauvegarde, clauses miroirs et renforcement des contrôles, mais ne répond pas directement à la demande de saisine par la France.",
+        "issues": [
+          "Mercosur",
+          "agriculture",
+          "préférence européenne",
+          "Cour de justice de l’Union européenne",
+          "clauses miroirs",
+          "contrôles"
+        ],
+        "announced_measures": [
+          "défendre une clause de sauvegarde protectrice",
+          "promouvoir des clauses miroirs",
+          "renforcer les contrôles sur les importations",
+          "porter le débat au Parlement européen"
+        ],
+        "quotes": [
+          {
+            "speaker": "François Ruffin",
+            "text": "Je ne veux pas voir mon pays se vider de ses fermes."
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "C'est la préférence européenne que nous parvenons enfin à imposer."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1172",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1172",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce la répression sanglante en Iran, le silence imposé aux réseaux et les informations sur des morts, arrestations et personnes condamnées. Il demande une position française ferme et des sanctions européennes.",
+        "answer_summary": "Le ministre condamne la violence d’État contre les manifestants pacifiques, annonce que l’ambassadeur d’Iran en France sera convoqué et rappelle que la France agira contre l’impunité, notamment par des sanctions européennes contre les responsables de la répression.",
+        "issues": [
+          "Iran",
+          "répression",
+          "manifestations",
+          "sanctions européennes",
+          "droits fondamentaux",
+          "ambassadeur"
+        ],
+        "announced_measures": [
+          "convoquer l’ambassadeur d’Iran en France",
+          "porter une condamnation officielle auprès des autorités iraniennes",
+          "soutenir de nouvelles sanctions européennes ciblées"
+        ],
+        "quotes": [
+          {
+            "speaker": "Philippe Gosselin",
+            "text": "Le peuple iranien offre au monde un exemple de courage inouï."
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "Cette condamnation sera signifiée à l'ambassadeur d'Iran en France."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1173",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1173",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée qualifie la répression en Iran de massacre et juge insuffisantes les condamnations diplomatiques. Elle demande des actes, notamment des sanctions, la saisine de la justice internationale et une pression plus forte sur le régime iranien.",
+        "answer_summary": "Le ministre rappelle les sanctions déjà obtenues contre les otages d’État, les transferts militaires à la Russie et le rétablissement des embargos liés au programme nucléaire. Il annonce que la Commission européenne désignera des auteurs de la répression en cours et qu’un message ferme sera adressé à l’ambassadeur d’Iran.",
+        "issues": [
+          "Iran",
+          "répression",
+          "sanctions",
+          "programme nucléaire iranien",
+          "otages d’État",
+          "Cour pénale internationale"
+        ],
+        "announced_measures": [
+          "soutenir la désignation européenne de responsables de la répression",
+          "adresser un message ferme à l’ambassadeur d’Iran",
+          "maintenir les embargos onusiens rétablis",
+          "poursuivre les sanctions liées aux otages d’État et aux transferts militaires"
+        ],
+        "quotes": [
+          {
+            "speaker": "Pascale Got",
+            "text": "Quand un régime tire sur son peuple, appeler à la retenue ne protège personne."
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "La Commission européenne va désigner des auteurs de la répression en cours."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1174",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1174",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député évoque un homicide à Grasse et demande davantage de moyens pour les forces de l’ordre, ainsi qu’un classement de la ville en zone de sécurité prioritaire, face aux violences et aux trafics.",
+        "answer_summary": "Le ministre rappelle que l’enquête doit établir le contexte de l’homicide, mais souligne l’action des policiers de Grasse contre les points de deal. Il explique que les zones de sécurité prioritaires n’existent plus et que la méthode actuelle consiste à cibler les points de trafic avec des effectifs locaux et départementaux mutualisés.",
+        "issues": [
+          "sécurité publique",
+          "Grasse",
+          "trafic de stupéfiants",
+          "forces de l’ordre",
+          "homicide",
+          "points de deal"
+        ],
+        "announced_measures": [
+          "cibler les points de deal à Grasse",
+          "mobiliser les effectifs locaux et départementaux",
+          "poursuivre les opérations contre les trafics de stupéfiants"
+        ],
+        "quotes": [
+          {
+            "speaker": "Lionel Tivoli",
+            "text": "La violence s'installe partout."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Nous ciblons des points de deal."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1175",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1175",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur l’exemption des multinationales américaines de l’impôt minimum mondial, dans un contexte de concurrence fiscale internationale. Il demande si les entreprises françaises seront pénalisées par rapport aux entreprises américaines.",
+        "answer_summary": "Le ministre rappelle que l’accord OCDE sur le pilier 2 a été signé par 147 États sous impulsion française. Il explique que les États-Unis souhaitent sortir du dispositif initial mais doivent appliquer sur leur territoire un dispositif similaire, et que les filiales américaines en France resteront soumises à l’impôt minimal.",
+        "issues": [
+          "impôt minimum mondial",
+          "OCDE",
+          "multinationales américaines",
+          "fiscalité internationale",
+          "G7",
+          "pilier 2"
+        ],
+        "announced_measures": [
+          "faire appliquer un dispositif similaire aux États-Unis",
+          "maintenir l’impôt minimal sur les filiales américaines établies en France",
+          "relancer les discussions multilatérales sur le pilier 1"
+        ],
+        "quotes": [
+          {
+            "speaker": "Denis Masséglia",
+            "text": "La France a été parmi les initiateurs de l'impôt minimal mondial."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "Les filiales des entreprises américaines établies en France devront y payer cet impôt minimal."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1176",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1176",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur les besoins d’investissement dans les Ehpad, l’état des bâtiments, la dignité des résidents, les conditions de travail des professionnels et la pression démographique liée au vieillissement.",
+        "answer_summary": "Le Premier ministre rappelle la création de la branche autonomie, les moyens du Ségur et le coût des salaires et infrastructures. Il souligne l’ampleur de la dette bâtimentaire, annonce que les dossiers d’Ehpad seront examinés après le vote du PLFSS et met en avant 1,5 milliard d’euros supplémentaires pour la branche autonomie.",
+        "issues": [
+          "Ehpad",
+          "grand âge",
+          "autonomie",
+          "investissements médico-sociaux",
+          "PLFSS",
+          "dépendance"
+        ],
+        "announced_measures": [
+          "examiner les dossiers d’investissement en Ehpad après le PLFSS",
+          "affecter 1,5 milliard d’euros supplémentaires à la branche autonomie",
+          "clarifier la gouvernance territoriale de l’autonomie",
+          "exécuter les crédits dédiés au grand âge"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christophe Naegelen",
+            "text": "Les Ehpad sont des lieux de vie."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "Notre dette bâtimentaire est absolument colossale."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1177",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1177",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le garde des sceaux sur le narcotrafic et la surpopulation carcérale à La Réunion. Elle souligne le manque de moyens ultramarins, la surcharge des juges d’instruction et la situation pénitentiaire.",
+        "answer_summary": "Le ministre reconnaît la pression du narcotrafic dans les outre-mer et présente les moyens nouveaux issus de la loi contre le narcotrafic. Il annonce que le parquet national traitera aussi des dossiers ultramarins, que les JIRS sont renforcées, que le nombre de magistrats augmentera à La Réunion, et qu’il se rendra sur place pour annoncer des mesures immobilières et pénitentiaires.",
+        "issues": [
+          "narcotrafic",
+          "La Réunion",
+          "surpopulation carcérale",
+          "justice ultramarine",
+          "parquet national anti-criminalité organisée",
+          "magistrats"
+        ],
+        "announced_measures": [
+          "renforcer les juridictions interrégionales spécialisées",
+          "faire traiter des dossiers ultramarins par le parquet national",
+          "augmenter le nombre de magistrats à La Réunion",
+          "annoncer des mesures immobilières et pénitentiaires",
+          "créer un tribunal de proximité à Saint-Benoît"
+        ],
+        "quotes": [
+          {
+            "speaker": "Émeline K/Bidi",
+            "text": "Les prisons, quant à elles, débordent."
+          },
+          {
+            "speaker": "Gérald Darmanin",
+            "text": "Le parquet national traitera environ 200 dossiers provenant de tout le territoire."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1178",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1178",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la santé mentale en Guadeloupe après l’assassinat du docteur Jean-Michel Gal par un patient. Il évoque la prévalence de la dépression, la hausse des troubles psychiques, l’isolement et le manque de moyens psychiatriques.",
+        "answer_summary": "La ministre exprime ses condoléances et reconnaît une pression forte et durable sur les urgences et la psychiatrie en Guadeloupe. Elle annonce des travaux sous l’autorité du préfet et de l’ARS pour améliorer la coordination, sécuriser les prises en charge, optimiser les transports sanitaires, développer les équipes mobiles psychiatrie-précarité et préparer le nouveau CHU.",
+        "issues": [
+          "santé mentale",
+          "Guadeloupe",
+          "psychiatrie",
+          "urgences",
+          "ARS",
+          "équipes mobiles",
+          "CHU"
+        ],
+        "announced_measures": [
+          "améliorer la coordination des acteurs de santé mentale",
+          "sécuriser les procédures de prise en charge",
+          "optimiser le transport sanitaire d’urgence",
+          "déployer des équipes mobiles psychiatrie-précarité",
+          "préparer l’organisation des urgences du nouveau CHU"
+        ],
+        "quotes": [
+          {
+            "speaker": "Elie Califer",
+            "text": "La situation de la santé mentale est très préoccupante en Guadeloupe."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Nous agissons avec détermination pour renforcer l’organisation de la prise en charge."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": true
+      }
+    }
+  ]
+}

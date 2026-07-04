@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AgorIA LLM batch input",
+  "type": "object",
+  "required": ["schema_version", "batch_id", "items"],
+  "properties": {
+    "schema_version": {"type": "string"},
+    "batch_id": {"type": "string"},
+    "generated_at": {"type": "string"},
+    "source_queue": {"type": "string"},
+    "taxonomy": {"type": "object"},
+    "instructions": {"type": "array", "items": {"type": "string"}},
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "task", "source_id", "input"],
+        "properties": {
+          "id": {"type": "string"},
+          "task": {"type": "string", "enum": ["classify_subject", "summarize_question_and_answer"]},
+          "source_id": {"type": "string"},
+          "input": {"type": "object"},
+          "expected_output": {"type": "object"}
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

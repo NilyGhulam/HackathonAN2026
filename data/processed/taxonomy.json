@@ -1,0 +1,4196 @@
+{
+  "schema_version": "0.1.0",
+  "version": "raw_extraction_v1",
+  "generated_at": "2026-07-04T11:43:04+00:00",
+  "nodes": [
+    {
+      "id": "accidents-du-travail-et-maladies-professionnelles",
+      "label": "Accidents du travail et maladies professionnelles",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "accord-international",
+      "label": "Accord international",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 2,
+      "needs_consolidation": false
+    },
+    {
+      "id": "administration",
+      "label": "Administration",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "agriculture",
+      "label": "Agriculture",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "agroalimentaire",
+      "label": "Agroalimentaire",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "aide-aux-victimes",
+      "label": "Aide aux victimes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "alcools-et-boissons-alcoolisees",
+      "label": "Alcools et boissons alcoolisées",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "allocution",
+      "label": "Allocution",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 2,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ambassades-et-consulats",
+      "label": "Ambassades et consulats",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "amenagement-du-territoire",
+      "label": "Aménagement du territoire",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "anciens-combattants-et-victimes-de-guerre",
+      "label": "Anciens combattants et victimes de guerre",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "animaux",
+      "label": "Animaux",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "aquaculture-et-peche-professionnelle",
+      "label": "Aquaculture et pêche professionnelle",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "armes",
+      "label": "Armes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "arts-et-spectacles",
+      "label": "Arts et spectacles",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "associations-et-fondations",
+      "label": "Associations et fondations",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "assurance-complementaire",
+      "label": "Assurance complémentaire",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "assurance-maladie-maternite",
+      "label": "Assurance maladie maternité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "assurances",
+      "label": "Assurances",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "audiovisuel-et-communication",
+      "label": "Audiovisuel et communication",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "automobiles",
+      "label": "Automobiles",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "avis",
+      "label": "Avis",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "avis-du-conseil-d-etat",
+      "label": "Avis du Conseil d'Etat",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 5,
+      "needs_consolidation": false
+    },
+    {
+      "id": "banques-et-etablissements-financiers",
+      "label": "Banques et établissements financiers",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "biodiversite",
+      "label": "Biodiversité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "bioethique",
+      "label": "Bioéthique",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "bois-et-forets",
+      "label": "Bois et forêts",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "batiment-et-travaux-publics",
+      "label": "Bâtiment et travaux publics",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "catastrophes-naturelles",
+      "label": "Catastrophes naturelles",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "chambres-consulaires",
+      "label": "Chambres consulaires",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "chasse-et-peche",
+      "label": "Chasse et pêche",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "chomage",
+      "label": "Chômage",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "climat",
+      "label": "Climat",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "collectivites-territoriales",
+      "label": "Collectivités territoriales",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "commerce-et-artisanat",
+      "label": "Commerce et artisanat",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "commerce-exterieur",
+      "label": "Commerce extérieur",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "communes",
+      "label": "Communes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "consommation",
+      "label": "Consommation",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "cours-d-eau-etangs-et-lacs",
+      "label": "Cours d'eau, étangs et lacs",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "crimes-delits-et-contraventions",
+      "label": "Crimes, délits et contraventions",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ceremonies-publiques-et-fetes-legales",
+      "label": "Cérémonies publiques et fêtes légales",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "discriminations",
+      "label": "Discriminations",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "drogue",
+      "label": "Drogue",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "droits-fondamentaux",
+      "label": "Droits fondamentaux",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "dechets",
+      "label": "Déchets",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "decheances-et-incapacites",
+      "label": "Déchéances et incapacités",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "declaration",
+      "label": "Déclaration",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "decorations-insignes-et-emblemes",
+      "label": "Décorations, insignes et emblèmes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "defense",
+      "label": "Défense",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "demographie",
+      "label": "Démographie",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "departements",
+      "label": "Départements",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "dependance",
+      "label": "Dépendance",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "developpement-durable",
+      "label": "Développement durable",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "eau-et-assainissement",
+      "label": "Eau et assainissement",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "emploi-et-activite",
+      "label": "Emploi et activité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enfants",
+      "label": "Enfants",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement",
+      "label": "Enseignement",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-agricole",
+      "label": "Enseignement agricole",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-maternel-et-primaire",
+      "label": "Enseignement maternel et primaire",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-prive",
+      "label": "Enseignement privé",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-secondaire",
+      "label": "Enseignement secondaire",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-superieur",
+      "label": "Enseignement supérieur",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-technique-et-professionnel",
+      "label": "Enseignement technique et professionnel",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignements-artistiques",
+      "label": "Enseignements artistiques",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "entreprises",
+      "label": "Entreprises",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "environnement",
+      "label": "Environnement",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "espace-et-politique-spatiale",
+      "label": "Espace et politique spatiale",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "etude-d-impact",
+      "label": "Etude d'impact",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "examens-concours-et-diplomes",
+      "label": "Examens, concours et diplômes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "famille",
+      "label": "Famille",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "femmes",
+      "label": "Femmes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fin-de-vie-et-soins-palliatifs",
+      "label": "Fin de vie et soins palliatifs",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "finances-publiques",
+      "label": "Finances publiques",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fonction-publique-de-l-etat",
+      "label": "Fonction publique de l'État",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fonction-publique-hospitaliere",
+      "label": "Fonction publique hospitalière",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fonction-publique-territoriale",
+      "label": "Fonction publique territoriale",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fonctionnaires-et-agents-publics",
+      "label": "Fonctionnaires et agents publics",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "formation-professionnelle-et-apprentissage",
+      "label": "Formation professionnelle et apprentissage",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "francais-de-l-etranger",
+      "label": "Français de l'étranger",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "frontaliers",
+      "label": "Frontaliers",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "gens-du-voyage",
+      "label": "Gens du voyage",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "gouvernement",
+      "label": "Gouvernement",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "handicapes",
+      "label": "Handicapés",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "harcelement",
+      "label": "Harcèlement",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "hotellerie-et-restauration",
+      "label": "Hôtellerie et restauration",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "immigration",
+      "label": "Immigration",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impot-de-solidarite-sur-la-fortune",
+      "label": "Impôt de solidarité sur la fortune",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impot-sur-le-revenu",
+      "label": "Impôt sur le revenu",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impot-sur-les-societes",
+      "label": "Impôt sur les sociétés",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impots-et-taxes",
+      "label": "Impôts et taxes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impots-locaux",
+      "label": "Impôts locaux",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "industrie",
+      "label": "Industrie",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "institutions-sociales-et-medico-sociales",
+      "label": "Institutions sociales et médico sociales",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "intercommunalite",
+      "label": "Intercommunalité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "internet",
+      "label": "Internet",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "interruption-volontaire-de-grossesse",
+      "label": "Interruption volontaire de grossesse",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "jeunes",
+      "label": "Jeunes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "justice",
+      "label": "Justice",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "laicite",
+      "label": "Laïcité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "lieux-de-privation-de-liberte",
+      "label": "Lieux de privation de liberté",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "logement",
+      "label": "Logement",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "logement-aides-et-prets",
+      "label": "Logement : aides et prêts",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "lois",
+      "label": "Lois",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "maladies",
+      "label": "Maladies",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "marches-publics",
+      "label": "Marchés publics",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "mer-et-littoral",
+      "label": "Mer et littoral",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "mines-et-carrieres",
+      "label": "Mines et carrières",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "montagne",
+      "label": "Montagne",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "motion",
+      "label": "Motion",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "mutualite-sociale-agricole",
+      "label": "Mutualité sociale agricole",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "medecine",
+      "label": "Médecine",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "medecines-alternatives",
+      "label": "Médecines alternatives",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "nationalite",
+      "label": "Nationalité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "nouvelles-technologies",
+      "label": "Nouvelles technologies",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "nuisances",
+      "label": "Nuisances",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "numerique",
+      "label": "Numérique",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ordre-public",
+      "label": "Ordre public",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "organisations-internationales",
+      "label": "Organisations internationales",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "outre-mer",
+      "label": "Outre-mer",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "papiers-d-identite",
+      "label": "Papiers d'identité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "parlement",
+      "label": "Parlement",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "partis-et-mouvements-politiques",
+      "label": "Partis et mouvements politiques",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "patrimoine-culturel",
+      "label": "Patrimoine culturel",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "pauvrete",
+      "label": "Pauvreté",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "personnes-handicapees",
+      "label": "Personnes handicapées",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "personnes-agees",
+      "label": "Personnes âgées",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "pharmacie-et-medicaments",
+      "label": "Pharmacie et médicaments",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "police",
+      "label": "Police",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "politique-exterieure",
+      "label": "Politique extérieure",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "politique-sociale",
+      "label": "Politique sociale",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "politique-economique",
+      "label": "Politique économique",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "pollution",
+      "label": "Pollution",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "postes",
+      "label": "Postes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "pouvoir-d-achat",
+      "label": "Pouvoir d'achat",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "presse-et-livres",
+      "label": "Presse et livres",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "prestations-familiales",
+      "label": "Prestations familiales",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "produits-dangereux",
+      "label": "Produits dangereux",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "professions-de-sante",
+      "label": "Professions de santé",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "professions-et-activites-sociales",
+      "label": "Professions et activités sociales",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "professions-judiciaires-et-juridiques",
+      "label": "Professions judiciaires et juridiques",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "projet-de-loi",
+      "label": "Projet de loi",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 6,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-loi",
+      "label": "Proposition de loi",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 4,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-resolution",
+      "label": "Proposition de résolution",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 5,
+      "needs_consolidation": false
+    },
+    {
+      "id": "propriete",
+      "label": "Propriété",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "questions-parlementaires",
+      "label": "Questions parlementaires",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport",
+      "label": "Rapport",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 4,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport-d-information",
+      "label": "Rapport d'information",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 7,
+      "needs_consolidation": false
+    },
+    {
+      "id": "recherche-et-innovation",
+      "label": "Recherche et innovation",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "religions-et-cultes",
+      "label": "Religions et cultes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-fonctionnaires-civils-et-militaires",
+      "label": "Retraites : fonctionnaires civils et militaires",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-generalites",
+      "label": "Retraites : généralités",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-regime-agricole",
+      "label": "Retraites : régime agricole",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-regime-general",
+      "label": "Retraites : régime général",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-regimes-autonomes-et-speciaux",
+      "label": "Retraites : régimes autonomes et spéciaux",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ruralite",
+      "label": "Ruralité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "refugies-et-apatrides",
+      "label": "Réfugiés et apatrides",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "regions",
+      "label": "Régions",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "sang-et-organes-humains",
+      "label": "Sang et organes humains",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "sante",
+      "label": "Santé",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "sectes-et-societes-secretes",
+      "label": "Sectes et sociétés secrètes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "services-publics",
+      "label": "Services publics",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "services-a-la-personne",
+      "label": "Services à la personne",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "sports",
+      "label": "Sports",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "securite-des-biens-et-des-personnes",
+      "label": "Sécurité des biens et des personnes",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "securite-interieure",
+      "label": "Sécurité intérieure",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "securite-routiere",
+      "label": "Sécurité routière",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "securite-sociale",
+      "label": "Sécurité sociale",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "taxe-sur-la-valeur-ajoutee",
+      "label": "Taxe sur la valeur ajoutée",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "taxis",
+      "label": "Taxis",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "terrorisme",
+      "label": "Terrorisme",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "tourisme-et-loisirs",
+      "label": "Tourisme et loisirs",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "traites-et-conventions",
+      "label": "Traités et conventions",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports",
+      "label": "Transports",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-aeriens",
+      "label": "Transports aériens",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-ferroviaires",
+      "label": "Transports ferroviaires",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-par-eau",
+      "label": "Transports par eau",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-routiers",
+      "label": "Transports routiers",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-urbains",
+      "label": "Transports urbains",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "travail",
+      "label": "Travail",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "travailleurs-independants-et-autoentrepreneurs",
+      "label": "Travailleurs indépendants et autoentrepreneurs",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "travaux-parlementaires",
+      "label": "Travaux parlementaires",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 2,
+      "needs_consolidation": false
+    },
+    {
+      "id": "union-europeenne",
+      "label": "Union européenne",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "urbanisme",
+      "label": "Urbanisme",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ventes-et-commerce-electronique",
+      "label": "Ventes et commerce électronique",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "voirie",
+      "label": "Voirie",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "economie-sociale-et-solidaire",
+      "label": "Économie sociale et solidaire",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "egalite-des-sexes-et-parite",
+      "label": "Égalité des sexes et parité",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "elections-et-referendums",
+      "label": "Élections et référendums",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "elevage",
+      "label": "Élevage",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "elus",
+      "label": "Élus",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "energie-et-carburants",
+      "label": "Énergie et carburants",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "etablissements-de-sante",
+      "label": "Établissements de santé",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "etat",
+      "label": "État",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "etrangers",
+      "label": "Étrangers",
+      "level": 1,
+      "parent_id": null,
+      "description": "Grand domaine issu des champs officiels ou d'une classification à consolider.",
+      "aliases": [],
+      "children_count": 1,
+      "needs_consolidation": false
+    },
+    {
+      "id": "accidents-du-travail-et-maladies-professionnelles__accidents-du-travail-et-maladies-professionnelles",
+      "label": "Accidents du travail et maladies professionnelles",
+      "level": 2,
+      "parent_id": "accidents-du-travail-et-maladies-professionnelles",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "administration__administration",
+      "label": "Administration",
+      "level": 2,
+      "parent_id": "administration",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "agriculture__agriculture",
+      "label": "Agriculture",
+      "level": 2,
+      "parent_id": "agriculture",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "agroalimentaire__agroalimentaire",
+      "label": "Agroalimentaire",
+      "level": 2,
+      "parent_id": "agroalimentaire",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "aide-aux-victimes__aide-aux-victimes",
+      "label": "Aide aux victimes",
+      "level": 2,
+      "parent_id": "aide-aux-victimes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "alcools-et-boissons-alcoolisees__alcools-et-boissons-alcoolisees",
+      "label": "Alcools et boissons alcoolisées",
+      "level": 2,
+      "parent_id": "alcools-et-boissons-alcoolisees",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ambassades-et-consulats__ambassades-et-consulats",
+      "label": "Ambassades et consulats",
+      "level": 2,
+      "parent_id": "ambassades-et-consulats",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "amenagement-du-territoire__amenagement-du-territoire",
+      "label": "Aménagement du territoire",
+      "level": 2,
+      "parent_id": "amenagement-du-territoire",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "anciens-combattants-et-victimes-de-guerre__anciens-combattants-et-victimes-de-guerre",
+      "label": "Anciens combattants et victimes de guerre",
+      "level": 2,
+      "parent_id": "anciens-combattants-et-victimes-de-guerre",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "animaux__animaux",
+      "label": "Animaux",
+      "level": 2,
+      "parent_id": "animaux",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "aquaculture-et-peche-professionnelle__aquaculture-et-peche-professionnelle",
+      "label": "Aquaculture et pêche professionnelle",
+      "level": 2,
+      "parent_id": "aquaculture-et-peche-professionnelle",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "armes__armes",
+      "label": "Armes",
+      "level": 2,
+      "parent_id": "armes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "arts-et-spectacles__arts-et-spectacles",
+      "label": "Arts et spectacles",
+      "level": 2,
+      "parent_id": "arts-et-spectacles",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "associations-et-fondations__associations-et-fondations",
+      "label": "Associations et fondations",
+      "level": 2,
+      "parent_id": "associations-et-fondations",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "assurance-complementaire__assurance-complementaire",
+      "label": "Assurance complémentaire",
+      "level": 2,
+      "parent_id": "assurance-complementaire",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "assurance-maladie-maternite__assurance-maladie-maternite",
+      "label": "Assurance maladie maternité",
+      "level": 2,
+      "parent_id": "assurance-maladie-maternite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "assurances__assurances",
+      "label": "Assurances",
+      "level": 2,
+      "parent_id": "assurances",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "audiovisuel-et-communication__audiovisuel-et-communication",
+      "label": "Audiovisuel et communication",
+      "level": 2,
+      "parent_id": "audiovisuel-et-communication",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "automobiles__automobiles",
+      "label": "Automobiles",
+      "level": 2,
+      "parent_id": "automobiles",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "accord-international__autorisant-la-ratification-d-une-convention",
+      "label": "Autorisant la ratification d'une convention",
+      "level": 2,
+      "parent_id": "accord-international",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "projet-de-loi__autorisant-la-ratification-d-une-convention",
+      "label": "Autorisant la ratification d'une convention",
+      "level": 2,
+      "parent_id": "projet-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "avis__avis",
+      "label": "Avis",
+      "level": 2,
+      "parent_id": "avis",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "banques-et-etablissements-financiers__banques-et-etablissements-financiers",
+      "label": "Banques et établissements financiers",
+      "level": 2,
+      "parent_id": "banques-et-etablissements-financiers",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "biodiversite__biodiversite",
+      "label": "Biodiversité",
+      "level": 2,
+      "parent_id": "biodiversite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "bioethique__bioethique",
+      "label": "Bioéthique",
+      "level": 2,
+      "parent_id": "bioethique",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "bois-et-forets__bois-et-forets",
+      "label": "Bois et forêts",
+      "level": 2,
+      "parent_id": "bois-et-forets",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "batiment-et-travaux-publics__batiment-et-travaux-publics",
+      "label": "Bâtiment et travaux publics",
+      "level": 2,
+      "parent_id": "batiment-et-travaux-publics",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "catastrophes-naturelles__catastrophes-naturelles",
+      "label": "Catastrophes naturelles",
+      "level": 2,
+      "parent_id": "catastrophes-naturelles",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "chambres-consulaires__chambres-consulaires",
+      "label": "Chambres consulaires",
+      "level": 2,
+      "parent_id": "chambres-consulaires",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "chasse-et-peche__chasse-et-peche",
+      "label": "Chasse et pêche",
+      "level": 2,
+      "parent_id": "chasse-et-peche",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "chomage__chomage",
+      "label": "Chômage",
+      "level": 2,
+      "parent_id": "chomage",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "climat__climat",
+      "label": "Climat",
+      "level": 2,
+      "parent_id": "climat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "collectivites-territoriales__collectivites-territoriales",
+      "label": "Collectivités territoriales",
+      "level": 2,
+      "parent_id": "collectivites-territoriales",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "commerce-et-artisanat__commerce-et-artisanat",
+      "label": "Commerce et artisanat",
+      "level": 2,
+      "parent_id": "commerce-et-artisanat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "commerce-exterieur__commerce-exterieur",
+      "label": "Commerce extérieur",
+      "level": 2,
+      "parent_id": "commerce-exterieur",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "travaux-parlementaires__commission-d-enquete",
+      "label": "Commission d'enquête",
+      "level": 2,
+      "parent_id": "travaux-parlementaires",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "communes__communes",
+      "label": "Communes",
+      "level": 2,
+      "parent_id": "communes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "consommation__consommation",
+      "label": "Consommation",
+      "level": 2,
+      "parent_id": "consommation",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "avis-du-conseil-d-etat__constitutionnelle",
+      "label": "Constitutionnelle",
+      "level": 2,
+      "parent_id": "avis-du-conseil-d-etat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-loi__constitutionnelle",
+      "label": "Constitutionnelle",
+      "level": 2,
+      "parent_id": "proposition-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "projet-de-loi__constitutionnelle",
+      "label": "Constitutionnelle",
+      "level": 2,
+      "parent_id": "projet-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "cours-d-eau-etangs-et-lacs__cours-d-eau-etangs-et-lacs",
+      "label": "Cours d'eau, étangs et lacs",
+      "level": 2,
+      "parent_id": "cours-d-eau-etangs-et-lacs",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "crimes-delits-et-contraventions__crimes-delits-et-contraventions",
+      "label": "Crimes, délits et contraventions",
+      "level": 2,
+      "parent_id": "crimes-delits-et-contraventions",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "culture__culture",
+      "label": "Culture",
+      "level": 2,
+      "parent_id": "culture",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ceremonies-publiques-et-fetes-legales__ceremonies-publiques-et-fetes-legales",
+      "label": "Cérémonies publiques et fêtes légales",
+      "level": 2,
+      "parent_id": "ceremonies-publiques-et-fetes-legales",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport__d-enquete",
+      "label": "D'enquête",
+      "level": 2,
+      "parent_id": "rapport",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport-d-information__d-une-mission-d-information-constituee-au-sein-d-une-commission-permanente",
+      "label": "D'une mission d'information constituée au sein d'une commission permanente",
+      "level": 2,
+      "parent_id": "rapport-d-information",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "motion__de-censure-de-l-article-49-2-de-la-constitution",
+      "label": "De censure de l'article 49-2 de la Constitution",
+      "level": 2,
+      "parent_id": "motion",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport-d-information__de-controle-budgetaire-de-la-commission-des-finances",
+      "label": "De contrôle budgétaire de la commission des finances",
+      "level": 2,
+      "parent_id": "rapport-d-information",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "projet-de-loi__de-finances-de-fin-de-gestion",
+      "label": "De finances de fin de gestion",
+      "level": 2,
+      "parent_id": "projet-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport__des-offices-parlementaires",
+      "label": "Des offices parlementaires",
+      "level": 2,
+      "parent_id": "rapport",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "discriminations__discriminations",
+      "label": "Discriminations",
+      "level": 2,
+      "parent_id": "discriminations",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport__divers",
+      "label": "Divers",
+      "level": 2,
+      "parent_id": "rapport",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "drogue__drogue",
+      "label": "Drogue",
+      "level": 2,
+      "parent_id": "drogue",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "droits-fondamentaux__droits-fondamentaux",
+      "label": "Droits fondamentaux",
+      "level": 2,
+      "parent_id": "droits-fondamentaux",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "allocution__du-president-d-age",
+      "label": "Du Président d'âge",
+      "level": 2,
+      "parent_id": "allocution",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "allocution__du-president-de-l-assemblee",
+      "label": "Du Président de l'Assemblée",
+      "level": 2,
+      "parent_id": "allocution",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "dechets__dechets",
+      "label": "Déchets",
+      "level": 2,
+      "parent_id": "dechets",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "decheances-et-incapacites__decheances-et-incapacites",
+      "label": "Déchéances et incapacités",
+      "level": 2,
+      "parent_id": "decheances-et-incapacites",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "decorations-insignes-et-emblemes__decorations-insignes-et-emblemes",
+      "label": "Décorations, insignes et emblèmes",
+      "level": 2,
+      "parent_id": "decorations-insignes-et-emblemes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "defense__defense",
+      "label": "Défense",
+      "level": 2,
+      "parent_id": "defense",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "demographie__demographie",
+      "label": "Démographie",
+      "level": 2,
+      "parent_id": "demographie",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "departements__departements",
+      "label": "Départements",
+      "level": 2,
+      "parent_id": "departements",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "dependance__dependance",
+      "label": "Dépendance",
+      "level": 2,
+      "parent_id": "dependance",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "developpement-durable__developpement-durable",
+      "label": "Développement durable",
+      "level": 2,
+      "parent_id": "developpement-durable",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "eau-et-assainissement__eau-et-assainissement",
+      "label": "Eau et assainissement",
+      "level": 2,
+      "parent_id": "eau-et-assainissement",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "emploi-et-activite__emploi-et-activite",
+      "label": "Emploi et activité",
+      "level": 2,
+      "parent_id": "emploi-et-activite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-resolution__en-application-de-article-34-1-de-la-constitution",
+      "label": "En application de Article 34-1 de la Constitution",
+      "level": 2,
+      "parent_id": "proposition-de-resolution",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enfants__enfants",
+      "label": "Enfants",
+      "level": 2,
+      "parent_id": "enfants",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "declaration__engageant-la-responsabilite-du-gouvernement-devant-l-assemblee-nationale-sur-le-vote-d-un-",
+      "label": "Engageant la responsabilité du Gouvernement devant l'Assemblée nationale sur le vote d'un texte",
+      "level": 2,
+      "parent_id": "declaration",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement__enseignement",
+      "label": "Enseignement",
+      "level": 2,
+      "parent_id": "enseignement",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-agricole__enseignement-agricole",
+      "label": "Enseignement agricole",
+      "level": 2,
+      "parent_id": "enseignement-agricole",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-maternel-et-primaire__enseignement-maternel-et-primaire",
+      "label": "Enseignement maternel et primaire",
+      "level": 2,
+      "parent_id": "enseignement-maternel-et-primaire",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-prive__enseignement-prive",
+      "label": "Enseignement privé",
+      "level": 2,
+      "parent_id": "enseignement-prive",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-secondaire__enseignement-secondaire",
+      "label": "Enseignement secondaire",
+      "level": 2,
+      "parent_id": "enseignement-secondaire",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-superieur__enseignement-superieur",
+      "label": "Enseignement supérieur",
+      "level": 2,
+      "parent_id": "enseignement-superieur",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignement-technique-et-professionnel__enseignement-technique-et-professionnel",
+      "label": "Enseignement technique et professionnel",
+      "level": 2,
+      "parent_id": "enseignement-technique-et-professionnel",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "enseignements-artistiques__enseignements-artistiques",
+      "label": "Enseignements artistiques",
+      "level": 2,
+      "parent_id": "enseignements-artistiques",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "entreprises__entreprises",
+      "label": "Entreprises",
+      "level": 2,
+      "parent_id": "entreprises",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "environnement__environnement",
+      "label": "Environnement",
+      "level": 2,
+      "parent_id": "environnement",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "espace-et-politique-spatiale__espace-et-politique-spatiale",
+      "label": "Espace et politique spatiale",
+      "level": 2,
+      "parent_id": "espace-et-politique-spatiale",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "examens-concours-et-diplomes__examens-concours-et-diplomes",
+      "label": "Examens, concours et diplômes",
+      "level": 2,
+      "parent_id": "examens-concours-et-diplomes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "famille__famille",
+      "label": "Famille",
+      "level": 2,
+      "parent_id": "famille",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "femmes__femmes",
+      "label": "Femmes",
+      "level": 2,
+      "parent_id": "femmes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fin-de-vie-et-soins-palliatifs__fin-de-vie-et-soins-palliatifs",
+      "label": "Fin de vie et soins palliatifs",
+      "level": 2,
+      "parent_id": "fin-de-vie-et-soins-palliatifs",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "finances-publiques__finances-publiques",
+      "label": "Finances publiques",
+      "level": 2,
+      "parent_id": "finances-publiques",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fonction-publique-de-l-etat__fonction-publique-de-l-etat",
+      "label": "Fonction publique de l'État",
+      "level": 2,
+      "parent_id": "fonction-publique-de-l-etat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fonction-publique-hospitaliere__fonction-publique-hospitaliere",
+      "label": "Fonction publique hospitalière",
+      "level": 2,
+      "parent_id": "fonction-publique-hospitaliere",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fonction-publique-territoriale__fonction-publique-territoriale",
+      "label": "Fonction publique territoriale",
+      "level": 2,
+      "parent_id": "fonction-publique-territoriale",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "fonctionnaires-et-agents-publics__fonctionnaires-et-agents-publics",
+      "label": "Fonctionnaires et agents publics",
+      "level": 2,
+      "parent_id": "fonctionnaires-et-agents-publics",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "formation-professionnelle-et-apprentissage__formation-professionnelle-et-apprentissage",
+      "label": "Formation professionnelle et apprentissage",
+      "level": 2,
+      "parent_id": "formation-professionnelle-et-apprentissage",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "francais-de-l-etranger__francais-de-l-etranger",
+      "label": "Français de l'étranger",
+      "level": 2,
+      "parent_id": "francais-de-l-etranger",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "frontaliers__frontaliers",
+      "label": "Frontaliers",
+      "level": 2,
+      "parent_id": "frontaliers",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "gens-du-voyage__gens-du-voyage",
+      "label": "Gens du voyage",
+      "level": 2,
+      "parent_id": "gens-du-voyage",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "gouvernement__gouvernement",
+      "label": "Gouvernement",
+      "level": 2,
+      "parent_id": "gouvernement",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "handicapes__handicapes",
+      "label": "Handicapés",
+      "level": 2,
+      "parent_id": "handicapes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "harcelement__harcelement",
+      "label": "Harcèlement",
+      "level": 2,
+      "parent_id": "harcelement",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "hotellerie-et-restauration__hotellerie-et-restauration",
+      "label": "Hôtellerie et restauration",
+      "level": 2,
+      "parent_id": "hotellerie-et-restauration",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "immigration__immigration",
+      "label": "Immigration",
+      "level": 2,
+      "parent_id": "immigration",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impot-de-solidarite-sur-la-fortune__impot-de-solidarite-sur-la-fortune",
+      "label": "Impôt de solidarité sur la fortune",
+      "level": 2,
+      "parent_id": "impot-de-solidarite-sur-la-fortune",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impot-sur-le-revenu__impot-sur-le-revenu",
+      "label": "Impôt sur le revenu",
+      "level": 2,
+      "parent_id": "impot-sur-le-revenu",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impot-sur-les-societes__impot-sur-les-societes",
+      "label": "Impôt sur les sociétés",
+      "level": 2,
+      "parent_id": "impot-sur-les-societes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impots-et-taxes__impots-et-taxes",
+      "label": "Impôts et taxes",
+      "level": 2,
+      "parent_id": "impots-et-taxes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "impots-locaux__impots-locaux",
+      "label": "Impôts locaux",
+      "level": 2,
+      "parent_id": "impots-locaux",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "industrie__industrie",
+      "label": "Industrie",
+      "level": 2,
+      "parent_id": "industrie",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "institutions-sociales-et-medico-sociales__institutions-sociales-et-medico-sociales",
+      "label": "Institutions sociales et médico sociales",
+      "level": 2,
+      "parent_id": "institutions-sociales-et-medico-sociales",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "intercommunalite__intercommunalite",
+      "label": "Intercommunalité",
+      "level": 2,
+      "parent_id": "intercommunalite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "internet__internet",
+      "label": "Internet",
+      "level": 2,
+      "parent_id": "internet",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "interruption-volontaire-de-grossesse__interruption-volontaire-de-grossesse",
+      "label": "Interruption volontaire de grossesse",
+      "level": 2,
+      "parent_id": "interruption-volontaire-de-grossesse",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "jeunes__jeunes",
+      "label": "Jeunes",
+      "level": 2,
+      "parent_id": "jeunes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "justice__justice",
+      "label": "Justice",
+      "level": 2,
+      "parent_id": "justice",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "laicite__laicite",
+      "label": "Laïcité",
+      "level": 2,
+      "parent_id": "laicite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "lieux-de-privation-de-liberte__lieux-de-privation-de-liberte",
+      "label": "Lieux de privation de liberté",
+      "level": 2,
+      "parent_id": "lieux-de-privation-de-liberte",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "logement__logement",
+      "label": "Logement",
+      "level": 2,
+      "parent_id": "logement",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "logement-aides-et-prets__logement-aides-et-prets",
+      "label": "Logement : aides et prêts",
+      "level": 2,
+      "parent_id": "logement-aides-et-prets",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "lois__lois",
+      "label": "Lois",
+      "level": 2,
+      "parent_id": "lois",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "maladies__maladies",
+      "label": "Maladies",
+      "level": 2,
+      "parent_id": "maladies",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "marches-publics__marches-publics",
+      "label": "Marchés publics",
+      "level": 2,
+      "parent_id": "marches-publics",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "mer-et-littoral__mer-et-littoral",
+      "label": "Mer et littoral",
+      "level": 2,
+      "parent_id": "mer-et-littoral",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "mines-et-carrieres__mines-et-carrieres",
+      "label": "Mines et carrières",
+      "level": 2,
+      "parent_id": "mines-et-carrieres",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "travaux-parlementaires__mission-d-information",
+      "label": "Mission d'information",
+      "level": 2,
+      "parent_id": "travaux-parlementaires",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-resolution__modifiant-le-reglement-de-l-assemblee-nationale",
+      "label": "Modifiant le Règlement de l'Assemblée nationale",
+      "level": 2,
+      "parent_id": "proposition-de-resolution",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "montagne__montagne",
+      "label": "Montagne",
+      "level": 2,
+      "parent_id": "montagne",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "mutualite-sociale-agricole__mutualite-sociale-agricole",
+      "label": "Mutualité sociale agricole",
+      "level": 2,
+      "parent_id": "mutualite-sociale-agricole",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "medecine__medecine",
+      "label": "Médecine",
+      "level": 2,
+      "parent_id": "medecine",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "medecines-alternatives__medecines-alternatives",
+      "label": "Médecines alternatives",
+      "level": 2,
+      "parent_id": "medecines-alternatives",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "nationalite__nationalite",
+      "label": "Nationalité",
+      "level": 2,
+      "parent_id": "nationalite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport-d-information__note-scientifique-de-l-opecst",
+      "label": "Note scientifique de l'OPECST",
+      "level": 2,
+      "parent_id": "rapport-d-information",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "nouvelles-technologies__nouvelles-technologies",
+      "label": "Nouvelles technologies",
+      "level": 2,
+      "parent_id": "nouvelles-technologies",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "nuisances__nuisances",
+      "label": "Nuisances",
+      "level": 2,
+      "parent_id": "nuisances",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "numerique__numerique",
+      "label": "Numérique",
+      "level": 2,
+      "parent_id": "numerique",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ordre-public__ordre-public",
+      "label": "Ordre public",
+      "level": 2,
+      "parent_id": "ordre-public",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "avis-du-conseil-d-etat__organique",
+      "label": "Organique",
+      "level": 2,
+      "parent_id": "avis-du-conseil-d-etat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-loi__organique",
+      "label": "Organique",
+      "level": 2,
+      "parent_id": "proposition-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "projet-de-loi__organique",
+      "label": "Organique",
+      "level": 2,
+      "parent_id": "projet-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "organisations-internationales__organisations-internationales",
+      "label": "Organisations internationales",
+      "level": 2,
+      "parent_id": "organisations-internationales",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "outre-mer__outre-mer",
+      "label": "Outre-mer",
+      "level": 2,
+      "parent_id": "outre-mer",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "papiers-d-identite__papiers-d-identite",
+      "label": "Papiers d'identité",
+      "level": 2,
+      "parent_id": "papiers-d-identite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "parlement__parlement",
+      "label": "Parlement",
+      "level": 2,
+      "parent_id": "parlement",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "partis-et-mouvements-politiques__partis-et-mouvements-politiques",
+      "label": "Partis et mouvements politiques",
+      "level": 2,
+      "parent_id": "partis-et-mouvements-politiques",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "patrimoine-culturel__patrimoine-culturel",
+      "label": "Patrimoine culturel",
+      "level": 2,
+      "parent_id": "patrimoine-culturel",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "pauvrete__pauvrete",
+      "label": "Pauvreté",
+      "level": 2,
+      "parent_id": "pauvrete",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "personnes-handicapees__personnes-handicapees",
+      "label": "Personnes handicapées",
+      "level": 2,
+      "parent_id": "personnes-handicapees",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "personnes-agees__personnes-agees",
+      "label": "Personnes âgées",
+      "level": 2,
+      "parent_id": "personnes-agees",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "pharmacie-et-medicaments__pharmacie-et-medicaments",
+      "label": "Pharmacie et médicaments",
+      "level": 2,
+      "parent_id": "pharmacie-et-medicaments",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "police__police",
+      "label": "Police",
+      "level": 2,
+      "parent_id": "police",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "politique-exterieure__politique-exterieure",
+      "label": "Politique extérieure",
+      "level": 2,
+      "parent_id": "politique-exterieure",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "politique-sociale__politique-sociale",
+      "label": "Politique sociale",
+      "level": 2,
+      "parent_id": "politique-sociale",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "politique-economique__politique-economique",
+      "label": "Politique économique",
+      "level": 2,
+      "parent_id": "politique-economique",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "pollution__pollution",
+      "label": "Pollution",
+      "level": 2,
+      "parent_id": "pollution",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-resolution__portant-mise-en-accusation-du-president-de-la-republique-devant-la-haute-cour-de-justice",
+      "label": "Portant mise en accusation du Président de la République devant la Haute Cour de justice",
+      "level": 2,
+      "parent_id": "proposition-de-resolution",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "postes__postes",
+      "label": "Postes",
+      "level": 2,
+      "parent_id": "postes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "pouvoir-d-achat__pouvoir-d-achat",
+      "label": "Pouvoir d'achat",
+      "level": 2,
+      "parent_id": "pouvoir-d-achat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "presse-et-livres__presse-et-livres",
+      "label": "Presse et livres",
+      "level": 2,
+      "parent_id": "presse-et-livres",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "prestations-familiales__prestations-familiales",
+      "label": "Prestations familiales",
+      "level": 2,
+      "parent_id": "prestations-familiales",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "produits-dangereux__produits-dangereux",
+      "label": "Produits dangereux",
+      "level": 2,
+      "parent_id": "produits-dangereux",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "professions-de-sante__professions-de-sante",
+      "label": "Professions de santé",
+      "level": 2,
+      "parent_id": "professions-de-sante",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "professions-et-activites-sociales__professions-et-activites-sociales",
+      "label": "Professions et activités sociales",
+      "level": 2,
+      "parent_id": "professions-et-activites-sociales",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "professions-judiciaires-et-juridiques__professions-judiciaires-et-juridiques",
+      "label": "Professions judiciaires et juridiques",
+      "level": 2,
+      "parent_id": "professions-judiciaires-et-juridiques",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "accord-international__projet-de-loi",
+      "label": "Projet de loi",
+      "level": 2,
+      "parent_id": "accord-international",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "avis-du-conseil-d-etat__projet-de-loi",
+      "label": "Projet de loi",
+      "level": 2,
+      "parent_id": "avis-du-conseil-d-etat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "etude-d-impact__projet-de-loi",
+      "label": "Projet de loi",
+      "level": 2,
+      "parent_id": "etude-d-impact",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "projet-de-loi__projet-de-loi",
+      "label": "Projet de loi",
+      "level": 2,
+      "parent_id": "projet-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "avis-du-conseil-d-etat__proposition-de-loi",
+      "label": "Proposition de loi",
+      "level": 2,
+      "parent_id": "avis-du-conseil-d-etat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-loi__proposition-de-loi",
+      "label": "Proposition de loi",
+      "level": 2,
+      "parent_id": "proposition-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "propriete__propriete",
+      "label": "Propriété",
+      "level": 2,
+      "parent_id": "propriete",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-loi__presentee-en-application-de-l-article-11-de-la-constitution",
+      "label": "Présentée en application de l'article 11 de la Constitution",
+      "level": 2,
+      "parent_id": "proposition-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "questions-parlementaires__questions-parlementaires",
+      "label": "Questions parlementaires",
+      "level": 2,
+      "parent_id": "questions-parlementaires",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "recherche-et-innovation__recherche-et-innovation",
+      "label": "Recherche et innovation",
+      "level": 2,
+      "parent_id": "recherche-et-innovation",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "avis-du-conseil-d-etat__rectificative",
+      "label": "Rectificative",
+      "level": 2,
+      "parent_id": "avis-du-conseil-d-etat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "projet-de-loi__relative-aux-resultats-de-la-gestion-et-portant-approbation-des-comptes",
+      "label": "Relative aux résultats de la gestion et portant approbation des comptes",
+      "level": 2,
+      "parent_id": "projet-de-loi",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "religions-et-cultes__religions-et-cultes",
+      "label": "Religions et cultes",
+      "level": 2,
+      "parent_id": "religions-et-cultes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-fonctionnaires-civils-et-militaires__retraites-fonctionnaires-civils-et-militaires",
+      "label": "Retraites : fonctionnaires civils et militaires",
+      "level": 2,
+      "parent_id": "retraites-fonctionnaires-civils-et-militaires",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-generalites__retraites-generalites",
+      "label": "Retraites : généralités",
+      "level": 2,
+      "parent_id": "retraites-generalites",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-regime-agricole__retraites-regime-agricole",
+      "label": "Retraites : régime agricole",
+      "level": 2,
+      "parent_id": "retraites-regime-agricole",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-regime-general__retraites-regime-general",
+      "label": "Retraites : régime général",
+      "level": 2,
+      "parent_id": "retraites-regime-general",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "retraites-regimes-autonomes-et-speciaux__retraites-regimes-autonomes-et-speciaux",
+      "label": "Retraites : régimes autonomes et spéciaux",
+      "level": 2,
+      "parent_id": "retraites-regimes-autonomes-et-speciaux",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ruralite__ruralite",
+      "label": "Ruralité",
+      "level": 2,
+      "parent_id": "ruralite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "refugies-et-apatrides__refugies-et-apatrides",
+      "label": "Réfugiés et apatrides",
+      "level": 2,
+      "parent_id": "refugies-et-apatrides",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "regions__regions",
+      "label": "Régions",
+      "level": 2,
+      "parent_id": "regions",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "sang-et-organes-humains__sang-et-organes-humains",
+      "label": "Sang et organes humains",
+      "level": 2,
+      "parent_id": "sang-et-organes-humains",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "sante__sante",
+      "label": "Santé",
+      "level": 2,
+      "parent_id": "sante",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "sectes-et-societes-secretes__sectes-et-societes-secretes",
+      "label": "Sectes et sociétés secrètes",
+      "level": 2,
+      "parent_id": "sectes-et-societes-secretes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "services-publics__services-publics",
+      "label": "Services publics",
+      "level": 2,
+      "parent_id": "services-publics",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "services-a-la-personne__services-a-la-personne",
+      "label": "Services à la personne",
+      "level": 2,
+      "parent_id": "services-a-la-personne",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "sports__sports",
+      "label": "Sports",
+      "level": 2,
+      "parent_id": "sports",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport-d-information__sur-des-actes-de-l-union-europeenne",
+      "label": "Sur des actes de l'Union européenne",
+      "level": 2,
+      "parent_id": "rapport-d-information",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport-d-information__sur-l-application-des-lois",
+      "label": "Sur l'application des lois",
+      "level": 2,
+      "parent_id": "rapport-d-information",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-resolution__sur-les-travaux-conduits-par-les-institutions-europeennes",
+      "label": "Sur les travaux conduits par les institutions européennes",
+      "level": 2,
+      "parent_id": "proposition-de-resolution",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport-d-information__sur-l-impact-d-une-loi-en-application-de-l-article-145-7-alinea-3",
+      "label": "Sur l’impact d’une loi en application de l’article 145-7 alinéa 3",
+      "level": 2,
+      "parent_id": "rapport-d-information",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport__sur-petition",
+      "label": "Sur pétition",
+      "level": 2,
+      "parent_id": "rapport",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "securite-des-biens-et-des-personnes__securite-des-biens-et-des-personnes",
+      "label": "Sécurité des biens et des personnes",
+      "level": 2,
+      "parent_id": "securite-des-biens-et-des-personnes",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "securite-interieure__securite-interieure",
+      "label": "Sécurité intérieure",
+      "level": 2,
+      "parent_id": "securite-interieure",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "securite-routiere__securite-routiere",
+      "label": "Sécurité routière",
+      "level": 2,
+      "parent_id": "securite-routiere",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "securite-sociale__securite-sociale",
+      "label": "Sécurité sociale",
+      "level": 2,
+      "parent_id": "securite-sociale",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "taxe-sur-la-valeur-ajoutee__taxe-sur-la-valeur-ajoutee",
+      "label": "Taxe sur la valeur ajoutée",
+      "level": 2,
+      "parent_id": "taxe-sur-la-valeur-ajoutee",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "taxis__taxis",
+      "label": "Taxis",
+      "level": 2,
+      "parent_id": "taxis",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "rapport-d-information__tel-quel",
+      "label": "Tel quel",
+      "level": 2,
+      "parent_id": "rapport-d-information",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "proposition-de-resolution__tendant-a-la-creation-d-une-commission-d-enquete",
+      "label": "Tendant à la création d'une commission d'enquête",
+      "level": 2,
+      "parent_id": "proposition-de-resolution",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "terrorisme__terrorisme",
+      "label": "Terrorisme",
+      "level": 2,
+      "parent_id": "terrorisme",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "tourisme-et-loisirs__tourisme-et-loisirs",
+      "label": "Tourisme et loisirs",
+      "level": 2,
+      "parent_id": "tourisme-et-loisirs",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "traites-et-conventions__traites-et-conventions",
+      "label": "Traités et conventions",
+      "level": 2,
+      "parent_id": "traites-et-conventions",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports__transports",
+      "label": "Transports",
+      "level": 2,
+      "parent_id": "transports",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-aeriens__transports-aeriens",
+      "label": "Transports aériens",
+      "level": 2,
+      "parent_id": "transports-aeriens",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-ferroviaires__transports-ferroviaires",
+      "label": "Transports ferroviaires",
+      "level": 2,
+      "parent_id": "transports-ferroviaires",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-par-eau__transports-par-eau",
+      "label": "Transports par eau",
+      "level": 2,
+      "parent_id": "transports-par-eau",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-routiers__transports-routiers",
+      "label": "Transports routiers",
+      "level": 2,
+      "parent_id": "transports-routiers",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "transports-urbains__transports-urbains",
+      "label": "Transports urbains",
+      "level": 2,
+      "parent_id": "transports-urbains",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "travail__travail",
+      "label": "Travail",
+      "level": 2,
+      "parent_id": "travail",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "travailleurs-independants-et-autoentrepreneurs__travailleurs-independants-et-autoentrepreneurs",
+      "label": "Travailleurs indépendants et autoentrepreneurs",
+      "level": 2,
+      "parent_id": "travailleurs-independants-et-autoentrepreneurs",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "union-europeenne__union-europeenne",
+      "label": "Union européenne",
+      "level": 2,
+      "parent_id": "union-europeenne",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "urbanisme__urbanisme",
+      "label": "Urbanisme",
+      "level": 2,
+      "parent_id": "urbanisme",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "ventes-et-commerce-electronique__ventes-et-commerce-electronique",
+      "label": "Ventes et commerce électronique",
+      "level": 2,
+      "parent_id": "ventes-et-commerce-electronique",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "voirie__voirie",
+      "label": "Voirie",
+      "level": 2,
+      "parent_id": "voirie",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "economie-sociale-et-solidaire__economie-sociale-et-solidaire",
+      "label": "Économie sociale et solidaire",
+      "level": 2,
+      "parent_id": "economie-sociale-et-solidaire",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "egalite-des-sexes-et-parite__egalite-des-sexes-et-parite",
+      "label": "Égalité des sexes et parité",
+      "level": 2,
+      "parent_id": "egalite-des-sexes-et-parite",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "elections-et-referendums__elections-et-referendums",
+      "label": "Élections et référendums",
+      "level": 2,
+      "parent_id": "elections-et-referendums",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "elevage__elevage",
+      "label": "Élevage",
+      "level": 2,
+      "parent_id": "elevage",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "elus__elus",
+      "label": "Élus",
+      "level": 2,
+      "parent_id": "elus",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "energie-et-carburants__energie-et-carburants",
+      "label": "Énergie et carburants",
+      "level": 2,
+      "parent_id": "energie-et-carburants",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "etablissements-de-sante__etablissements-de-sante",
+      "label": "Établissements de santé",
+      "level": 2,
+      "parent_id": "etablissements-de-sante",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "etat__etat",
+      "label": "État",
+      "level": 2,
+      "parent_id": "etat",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    },
+    {
+      "id": "etrangers__etrangers",
+      "label": "Étrangers",
+      "level": 2,
+      "parent_id": "etrangers",
+      "description": "Catégorie intermédiaire issue des données brutes. À réévaluer lors de la consolidation taxonomique.",
+      "aliases": [],
+      "children_count": 0,
+      "needs_consolidation": false
+    }
+  ],
+  "constraints": {
+    "max_visible_children": 8,
+    "preferred_depth": 3,
+    "max_depth": 4
+  },
+  "notes": [
+    "Taxonomie déterministe provisoire : les catégories viennent des champs officiels.",
+    "Les résumés fins et les catégories intermédiaires doivent être produits par enrichissement LLM ciblé puis relus."
+  ]
+}

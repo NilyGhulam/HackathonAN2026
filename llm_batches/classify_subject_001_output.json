@@ -1,0 +1,3189 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "batch_20260704T125019_0000",
+  "generated_at": "2026-07-04T12:58:00+02:00",
+  "provider": "chatgpt_conversation",
+  "notes": [
+    "Enrichissement classify_subject réalisé à partir des champs fournis dans classify_subject_001_input.json.",
+    "Les chemins canoniques privilégient le thème substantiel du dossier plutôt que le seul type procédural brut."
+  ],
+  "items": [
+    {
+      "id": "classify:DLR5L16N49392",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N49392",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Coopération internationale de défense",
+          "Accords de défense"
+        ],
+        "tags": [
+          "accord international",
+          "coopération de défense",
+          "statut des forces"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords de défense",
+          "parent_path": [
+            "Défense",
+            "Coopération internationale de défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N49273",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N49273",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Impôts et taxes",
+          "Fiscalité internationale",
+          "Conventions fiscales"
+        ],
+        "tags": [
+          "accord international",
+          "double imposition",
+          "fraude fiscale",
+          "fiscalité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Conventions fiscales",
+          "parent_path": [
+            "Impôts et taxes",
+            "Fiscalité internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N49541",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N49541",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Coopération judiciaire internationale",
+          "Extradition"
+        ],
+        "tags": [
+          "accord international",
+          "extradition",
+          "coopération judiciaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Extradition",
+          "parent_path": [
+            "Justice",
+            "Coopération judiciaire internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N49957",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N49957",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Environnement",
+          "Protection du milieu marin",
+          "Accords internationaux"
+        ],
+        "tags": [
+          "accord international",
+          "droit de la mer",
+          "biodiversité marine",
+          "pollution marine"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords internationaux",
+          "parent_path": [
+            "Environnement",
+            "Protection du milieu marin"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N49615",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N49615",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Formation professionnelle et apprentissage",
+          "Apprentissage transfrontalier"
+        ],
+        "tags": [
+          "accord international",
+          "apprentissage",
+          "france-allemagne",
+          "transfrontalier"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Apprentissage transfrontalier",
+          "parent_path": [
+            "Formation professionnelle et apprentissage"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N49807",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N49807",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Transports aériens",
+          "Accords internationaux de transport aérien"
+        ],
+        "tags": [
+          "accord international",
+          "transport aérien",
+          "services aériens"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Accords internationaux de transport aérien",
+          "parent_path": [
+            "Transports aériens"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N49806",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N49806",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Coopération internationale de défense",
+          "Accords de défense"
+        ],
+        "tags": [
+          "accord international",
+          "coopération de défense",
+          "statut des forces"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords de défense",
+          "parent_path": [
+            "Défense",
+            "Coopération internationale de défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50946",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50946",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Coopération internationale de défense",
+          "Accords de défense"
+        ],
+        "tags": [
+          "accord international",
+          "coopération de défense",
+          "statut des forces"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords de défense",
+          "parent_path": [
+            "Défense",
+            "Coopération internationale de défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51352",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51352",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Transports ferroviaires",
+          "Coopération transfrontalière"
+        ],
+        "tags": [
+          "accord international",
+          "transport ferroviaire",
+          "frontière",
+          "contrôles"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Coopération transfrontalière",
+          "parent_path": [
+            "Transports ferroviaires"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51362",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51362",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Environnement",
+          "Protection du milieu marin",
+          "Accords internationaux"
+        ],
+        "tags": [
+          "accord international",
+          "droit de la mer",
+          "biodiversité marine",
+          "pollution marine"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords internationaux",
+          "parent_path": [
+            "Environnement",
+            "Protection du milieu marin"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50957",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50957",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Numérique",
+          "Cybersécurité",
+          "Coopération internationale"
+        ],
+        "tags": [
+          "accord international",
+          "cybersécurité",
+          "balkans occidentaux"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Coopération internationale",
+          "parent_path": [
+            "Numérique",
+            "Cybersécurité"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N50115",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N50115",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Travail",
+          "Santé et sécurité au travail",
+          "Conventions internationales"
+        ],
+        "tags": [
+          "oit",
+          "sécurité au travail",
+          "santé des travailleurs"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Conventions internationales",
+          "parent_path": [
+            "Travail",
+            "Santé et sécurité au travail"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51599",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51599",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Coopération judiciaire internationale",
+          "Entraide et extradition"
+        ],
+        "tags": [
+          "accord international",
+          "entraide judiciaire",
+          "extradition",
+          "panama"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Entraide et extradition",
+          "parent_path": [
+            "Justice",
+            "Coopération judiciaire internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50794",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50794",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Recherche et innovation",
+          "Coopération scientifique internationale",
+          "Astronomie"
+        ],
+        "tags": [
+          "skao",
+          "astronomie",
+          "recherche scientifique",
+          "accord international"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Astronomie",
+          "parent_path": [
+            "Recherche et innovation",
+            "Coopération scientifique internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51237",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51237",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Politique extérieure",
+          "Aide au développement",
+          "Institutions financières internationales"
+        ],
+        "tags": [
+          "accord international",
+          "développement",
+          "institution financière"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Institutions financières internationales",
+          "parent_path": [
+            "Politique extérieure",
+            "Aide au développement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51729",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51729",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Organisations internationales",
+          "Nations unies",
+          "Privilèges et immunités"
+        ],
+        "tags": [
+          "nations unies",
+          "privilèges et immunités",
+          "accord international"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Privilèges et immunités",
+          "parent_path": [
+            "Organisations internationales",
+            "Nations unies"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51783",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51783",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Impôts et taxes",
+          "Fiscalité internationale",
+          "Conventions fiscales"
+        ],
+        "tags": [
+          "accord international",
+          "double imposition",
+          "fraude fiscale",
+          "fiscalité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Conventions fiscales",
+          "parent_path": [
+            "Impôts et taxes",
+            "Fiscalité internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52099",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52099",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Politique extérieure",
+          "Aide au développement",
+          "Institutions financières internationales"
+        ],
+        "tags": [
+          "accord international",
+          "développement",
+          "institution financière"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Institutions financières internationales",
+          "parent_path": [
+            "Politique extérieure",
+            "Aide au développement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51789",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51789",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Coopération internationale de défense",
+          "Accords de défense"
+        ],
+        "tags": [
+          "accord international",
+          "coopération de défense",
+          "statut des forces"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords de défense",
+          "parent_path": [
+            "Défense",
+            "Coopération internationale de défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52226",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52226",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Coopération internationale de défense",
+          "Accords de défense"
+        ],
+        "tags": [
+          "accord international",
+          "coopération de défense",
+          "statut des forces"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords de défense",
+          "parent_path": [
+            "Défense",
+            "Coopération internationale de défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52103",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52103",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Coopération judiciaire internationale",
+          "Entraide pénale"
+        ],
+        "tags": [
+          "accord international",
+          "entraide judiciaire",
+          "matière pénale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Entraide pénale",
+          "parent_path": [
+            "Justice",
+            "Coopération judiciaire internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51519",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51519",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Politique extérieure",
+          "Gestion des crises internationales",
+          "Évacuation de ressortissants"
+        ],
+        "tags": [
+          "accord international",
+          "chypre",
+          "moyen-orient",
+          "évacuation"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Évacuation de ressortissants",
+          "parent_path": [
+            "Politique extérieure",
+            "Gestion des crises internationales"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52000",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52000",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Coopération judiciaire internationale",
+          "Entraide pénale"
+        ],
+        "tags": [
+          "accord international",
+          "entraide judiciaire",
+          "matière pénale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Entraide pénale",
+          "parent_path": [
+            "Justice",
+            "Coopération judiciaire internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52429",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52429",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Coopération judiciaire internationale",
+          "Entraide pénale"
+        ],
+        "tags": [
+          "accord international",
+          "entraide judiciaire",
+          "matière pénale"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Entraide pénale",
+          "parent_path": [
+            "Justice",
+            "Coopération judiciaire internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53075",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53075",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Coopération internationale de défense",
+          "Accords de défense"
+        ],
+        "tags": [
+          "accord international",
+          "coopération de défense",
+          "statut des forces"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords de défense",
+          "parent_path": [
+            "Défense",
+            "Coopération internationale de défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52354",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52354",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Transports routiers",
+          "Permis de conduire",
+          "Reconnaissance internationale"
+        ],
+        "tags": [
+          "permis de conduire",
+          "moldavie",
+          "accord international"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Reconnaissance internationale",
+          "parent_path": [
+            "Transports routiers",
+            "Permis de conduire"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52549",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52549",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Impôts et taxes",
+          "Fiscalité internationale",
+          "Conventions fiscales"
+        ],
+        "tags": [
+          "accord international",
+          "double imposition",
+          "fraude fiscale",
+          "fiscalité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Conventions fiscales",
+          "parent_path": [
+            "Impôts et taxes",
+            "Fiscalité internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53259",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53259",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Espace et politique spatiale",
+          "Agence spatiale européenne",
+          "Installations en France"
+        ],
+        "tags": [
+          "esa",
+          "agence spatiale européenne",
+          "installations",
+          "accord international"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Installations en France",
+          "parent_path": [
+            "Espace et politique spatiale",
+            "Agence spatiale européenne"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52561",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52561",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Coopération internationale de défense",
+          "Accords de défense"
+        ],
+        "tags": [
+          "accord international",
+          "coopération de défense",
+          "statut des forces"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords de défense",
+          "parent_path": [
+            "Défense",
+            "Coopération internationale de défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53235",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53235",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Organisations internationales",
+          "Privilèges et immunités"
+        ],
+        "tags": [
+          "privilèges et immunités",
+          "accord international"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Privilèges et immunités",
+          "parent_path": [
+            "Organisations internationales"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53388",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53388",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Immigration",
+          "Réadmission des personnes",
+          "Accords internationaux"
+        ],
+        "tags": [
+          "réadmission",
+          "kazakhstan",
+          "accord international",
+          "étrangers"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Accords internationaux",
+          "parent_path": [
+            "Immigration",
+            "Réadmission des personnes"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53743",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53743",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité sociale",
+          "Coordination internationale des droits sociaux"
+        ],
+        "tags": [
+          "sécurité sociale",
+          "moldavie",
+          "accord international"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Coordination internationale des droits sociaux",
+          "parent_path": [
+            "Sécurité sociale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53095",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53095",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Coopération judiciaire internationale",
+          "Extradition"
+        ],
+        "tags": [
+          "accord international",
+          "extradition",
+          "coopération judiciaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Extradition",
+          "parent_path": [
+            "Justice",
+            "Coopération judiciaire internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53730",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53730",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Transports ferroviaires",
+          "Coopération transfrontalière"
+        ],
+        "tags": [
+          "accord international",
+          "transport ferroviaire",
+          "frontière",
+          "contrôles"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Coopération transfrontalière",
+          "parent_path": [
+            "Transports ferroviaires"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53706",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53706",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Impôts et taxes",
+          "Fiscalité internationale",
+          "Conventions fiscales"
+        ],
+        "tags": [
+          "accord international",
+          "double imposition",
+          "fraude fiscale",
+          "fiscalité"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Conventions fiscales",
+          "parent_path": [
+            "Impôts et taxes",
+            "Fiscalité internationale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53844",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53844",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Politique extérieure",
+          "Accords de partenariat",
+          "Union européenne"
+        ],
+        "tags": [
+          "accord international",
+          "union européenne",
+          "kirghizistan",
+          "partenariat"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Union européenne",
+          "parent_path": [
+            "Politique extérieure",
+            "Accords de partenariat"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54168",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54168",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Transports aériens",
+          "Accords internationaux de transport aérien"
+        ],
+        "tags": [
+          "accord international",
+          "transport aérien",
+          "services aériens"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Accords internationaux de transport aérien",
+          "parent_path": [
+            "Transports aériens"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54169",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54169",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Transports aériens",
+          "Accords internationaux de transport aérien"
+        ],
+        "tags": [
+          "accord international",
+          "transport aérien",
+          "services aériens"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Accords internationaux de transport aérien",
+          "parent_path": [
+            "Transports aériens"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50155",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50155",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Organisation de l'Assemblée nationale",
+          "Allocutions d'ouverture"
+        ],
+        "tags": [
+          "allocution",
+          "président d'âge",
+          "assemblée nationale"
+        ],
+        "new_category_proposal": {
+          "needed": false,
+          "level": null,
+          "label": "",
+          "parent_path": [],
+          "reason": ""
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50157",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50157",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Organisation de l'Assemblée nationale",
+          "Allocutions d'ouverture"
+        ],
+        "tags": [
+          "allocution",
+          "président de l'assemblée",
+          "assemblée nationale"
+        ],
+        "new_category_proposal": {
+          "needed": false,
+          "level": null,
+          "label": "",
+          "parent_path": [],
+          "reason": ""
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N46888",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N46888",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Actions de groupe"
+        ],
+        "tags": [
+          "action de groupe",
+          "procédure civile",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Actions de groupe",
+          "parent_path": [
+            "Justice"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N47509",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N47509",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Programmation militaire"
+        ],
+        "tags": [
+          "loi de programmation militaire",
+          "défense",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Programmation militaire",
+          "parent_path": [
+            "Défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L16N49726",
+      "task": "classify_subject",
+      "source_id": "DLR5L16N49726",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Agriculture",
+          "Souveraineté agricole",
+          "Renouvellement des générations"
+        ],
+        "tags": [
+          "souveraineté alimentaire",
+          "installation agricole",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Renouvellement des générations",
+          "parent_path": [
+            "Agriculture",
+            "Souveraineté agricole"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50906",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50906",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Droits fondamentaux",
+          "Lutte contre les discriminations",
+          "Antisémitisme"
+        ],
+        "tags": [
+          "antisémitisme",
+          "discriminations",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Antisémitisme",
+          "parent_path": [
+            "Droits fondamentaux",
+            "Lutte contre les discriminations"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51079",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51079",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Finances publiques",
+          "Budget de l'État",
+          "Loi spéciale"
+        ],
+        "tags": [
+          "loi spéciale",
+          "loi de finances",
+          "continuité de l'état",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Loi spéciale",
+          "parent_path": [
+            "Finances publiques",
+            "Budget de l'État"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51222",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51222",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Outre-mer",
+          "Mayotte",
+          "Mesures d'urgence"
+        ],
+        "tags": [
+          "mayotte",
+          "urgence",
+          "outre-mer",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Mesures d'urgence",
+          "parent_path": [
+            "Outre-mer",
+            "Mayotte"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51349",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51349",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Justice",
+          "Infractions sexuelles",
+          "Définition du viol"
+        ],
+        "tags": [
+          "viol",
+          "agressions sexuelles",
+          "droit pénal",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Définition du viol",
+          "parent_path": [
+            "Justice",
+            "Infractions sexuelles"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52596",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52596",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Enseignement supérieur",
+          "Enseignement supérieur privé",
+          "Régulation"
+        ],
+        "tags": [
+          "enseignement supérieur privé",
+          "régulation",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Régulation",
+          "parent_path": [
+            "Enseignement supérieur",
+            "Enseignement supérieur privé"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.91,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53187",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53187",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Numérique",
+          "Protection des mineurs",
+          "Réseaux sociaux"
+        ],
+        "tags": [
+          "réseaux sociaux",
+          "mineurs",
+          "protection de l'enfance",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Réseaux sociaux",
+          "parent_path": [
+            "Numérique",
+            "Protection des mineurs"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53329",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53329",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Audiovisuel et communication",
+          "Médias",
+          "Concentration économique"
+        ],
+        "tags": [
+          "médias",
+          "monopoles",
+          "pluralisme",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Concentration économique",
+          "parent_path": [
+            "Audiovisuel et communication",
+            "Médias"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.85,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53878",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53878",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Transparence législative",
+          "Avis du Conseil d'État"
+        ],
+        "tags": [
+          "avis du conseil d'état",
+          "transparence",
+          "procédure législative"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Avis du Conseil d'État",
+          "parent_path": [
+            "Parlement",
+            "Transparence législative"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53879",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53879",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Transparence législative",
+          "Avis du Conseil d'État"
+        ],
+        "tags": [
+          "avis du conseil d'état",
+          "projet de loi",
+          "procédure parlementaire",
+          "loi organique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Avis du Conseil d'État",
+          "parent_path": [
+            "Parlement",
+            "Transparence législative"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54083",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54083",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Défense",
+          "Programmation militaire"
+        ],
+        "tags": [
+          "programmation militaire",
+          "défense",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Programmation militaire",
+          "parent_path": [
+            "Défense"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.93,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54085",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54085",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Agriculture",
+          "Souveraineté agricole"
+        ],
+        "tags": [
+          "protection agricole",
+          "souveraineté agricole",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Souveraineté agricole",
+          "parent_path": [
+            "Agriculture"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.91,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54218",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54218",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Collectivités territoriales",
+          "Statut des territoires",
+          "Autonomie de la Corse"
+        ],
+        "tags": [
+          "corse",
+          "autonomie",
+          "révision constitutionnelle",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Autonomie de la Corse",
+          "parent_path": [
+            "Collectivités territoriales",
+            "Statut des territoires"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54566",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54566",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Logement",
+          "Politique du logement",
+          "Décentralisation"
+        ],
+        "tags": [
+          "logement",
+          "décentralisation",
+          "relance",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Décentralisation",
+          "parent_path": [
+            "Logement",
+            "Politique du logement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54372",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54372",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Enfants",
+          "Protection de l'enfance"
+        ],
+        "tags": [
+          "protection des enfants",
+          "lettre rectificative",
+          "avis du conseil d'état"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Protection de l'enfance",
+          "parent_path": [
+            "Enfants"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50173",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50173",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité sociale",
+          "Comptes sociaux",
+          "Approbation des comptes"
+        ],
+        "tags": [
+          "sécurité sociale",
+          "approbation des comptes",
+          "avis parlementaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Approbation des comptes",
+          "parent_path": [
+            "Sécurité sociale",
+            "Comptes sociaux"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50198",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50198",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Finances publiques",
+          "Budget de l'État",
+          "Projet de loi de finances"
+        ],
+        "tags": [
+          "plf",
+          "budget",
+          "finances publiques",
+          "avis parlementaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Projet de loi de finances",
+          "parent_path": [
+            "Finances publiques",
+            "Budget de l'État"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50588",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50588",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité sociale",
+          "Financement de la sécurité sociale",
+          "PLFSS"
+        ],
+        "tags": [
+          "plfss",
+          "sécurité sociale",
+          "avis parlementaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "PLFSS",
+          "parent_path": [
+            "Sécurité sociale",
+            "Financement de la sécurité sociale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52133",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52133",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité sociale",
+          "Comptes sociaux",
+          "Approbation des comptes"
+        ],
+        "tags": [
+          "sécurité sociale",
+          "comptes sociaux",
+          "2024",
+          "avis parlementaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Approbation des comptes",
+          "parent_path": [
+            "Sécurité sociale",
+            "Comptes sociaux"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52428",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52428",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Finances publiques",
+          "Budget de l'État",
+          "Projet de loi de finances"
+        ],
+        "tags": [
+          "plf 2026",
+          "budget",
+          "finances publiques",
+          "avis parlementaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Projet de loi de finances",
+          "parent_path": [
+            "Finances publiques",
+            "Budget de l'État"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52922",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52922",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité sociale",
+          "Financement de la sécurité sociale",
+          "PLFSS"
+        ],
+        "tags": [
+          "plfss 2026",
+          "sécurité sociale",
+          "avis parlementaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "PLFSS",
+          "parent_path": [
+            "Sécurité sociale",
+            "Financement de la sécurité sociale"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54373",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54373",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Sécurité sociale",
+          "Comptes sociaux",
+          "Approbation des comptes"
+        ],
+        "tags": [
+          "sécurité sociale",
+          "comptes sociaux",
+          "2025",
+          "avis parlementaire"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Approbation des comptes",
+          "parent_path": [
+            "Sécurité sociale",
+            "Comptes sociaux"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L13N27135",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N27135",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Catastrophes naturelles",
+          "Risques littoraux",
+          "Submersion marine"
+        ],
+        "tags": [
+          "submersion marine",
+          "risques naturels",
+          "littoral"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Submersion marine",
+          "parent_path": [
+            "Catastrophes naturelles",
+            "Risques littoraux"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.85,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L14N33128",
+      "task": "classify_subject",
+      "source_id": "DLR5L14N33128",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Environnement",
+          "Principes constitutionnels",
+          "Charte de l'environnement"
+        ],
+        "tags": [
+          "charte de l'environnement",
+          "constitution",
+          "précaution"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Charte de l'environnement",
+          "parent_path": [
+            "Environnement",
+            "Principes constitutionnels"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.83,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36236",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36236",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Mer et littoral",
+          "Aménagement du littoral",
+          "Développement durable"
+        ],
+        "tags": [
+          "littoral",
+          "développement durable",
+          "territoires littoraux"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Développement durable",
+          "parent_path": [
+            "Mer et littoral",
+            "Aménagement du littoral"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36686",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36686",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Entreprises",
+          "Transmission d'entreprise"
+        ],
+        "tags": [
+          "transmission d'entreprise",
+          "entreprises"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 2,
+          "label": "Transmission d'entreprise",
+          "parent_path": [
+            "Entreprises"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L15N36689",
+      "task": "classify_subject",
+      "source_id": "DLR5L15N36689",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Collectivités territoriales",
+          "Aménagement du territoire",
+          "Équilibre territorial"
+        ],
+        "tags": [
+          "équilibre territorial",
+          "collectivités",
+          "vitalité démocratique"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Équilibre territorial",
+          "parent_path": [
+            "Collectivités territoriales",
+            "Aménagement du territoire"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51427",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51427",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Responsabilité du Gouvernement",
+          "Article 49.3"
+        ],
+        "tags": [
+          "article 49.3",
+          "plfss",
+          "responsabilité du gouvernement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Article 49.3",
+          "parent_path": [
+            "Parlement",
+            "Responsabilité du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51462",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51462",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Responsabilité du Gouvernement",
+          "Article 49.3"
+        ],
+        "tags": [
+          "article 49.3",
+          "plfss",
+          "responsabilité du gouvernement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Article 49.3",
+          "parent_path": [
+            "Parlement",
+            "Responsabilité du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51475",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51475",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Responsabilité du Gouvernement",
+          "Article 49.3"
+        ],
+        "tags": [
+          "article 49.3",
+          "plfss",
+          "responsabilité du gouvernement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Article 49.3",
+          "parent_path": [
+            "Parlement",
+            "Responsabilité du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50975",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50975",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Responsabilité du Gouvernement",
+          "Article 49.3"
+        ],
+        "tags": [
+          "article 49.3",
+          "plfss 2025",
+          "responsabilité du gouvernement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Article 49.3",
+          "parent_path": [
+            "Parlement",
+            "Responsabilité du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51425",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51425",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Responsabilité du Gouvernement",
+          "Article 49.3"
+        ],
+        "tags": [
+          "article 49.3",
+          "plf 2025",
+          "responsabilité du gouvernement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Article 49.3",
+          "parent_path": [
+            "Parlement",
+            "Responsabilité du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53597",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53597",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Responsabilité du Gouvernement",
+          "Article 49.3"
+        ],
+        "tags": [
+          "article 49.3",
+          "responsabilité du gouvernement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Article 49.3",
+          "parent_path": [
+            "Parlement",
+            "Responsabilité du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53619",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53619",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Responsabilité du Gouvernement",
+          "Article 49.3"
+        ],
+        "tags": [
+          "article 49.3",
+          "plf 2026",
+          "responsabilité du gouvernement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Article 49.3",
+          "parent_path": [
+            "Parlement",
+            "Responsabilité du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53689",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53689",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Responsabilité du Gouvernement",
+          "Article 49.3"
+        ],
+        "tags": [
+          "article 49.3",
+          "responsabilité du gouvernement"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Article 49.3",
+          "parent_path": [
+            "Parlement",
+            "Responsabilité du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.82,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50796",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50796",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Union européenne",
+          "Adaptation du droit national",
+          "DDADUE"
+        ],
+        "tags": [
+          "ddadue",
+          "droit européen",
+          "étude d'impact"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "DDADUE",
+          "parent_path": [
+            "Union européenne",
+            "Adaptation du droit national"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N50557",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N50557",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52167",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52167",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52408",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52408",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52918",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52918",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N52919",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N52919",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53516",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53516",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53517",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53517",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53821",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53821",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N53822",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N53822",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N54613",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N54613",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51256",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51256",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L17N51540",
+      "task": "classify_subject",
+      "source_id": "DLR5L17N51540",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle du Gouvernement",
+          "Motion de censure"
+        ],
+        "tags": [
+          "motion de censure",
+          "article 49.2"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Motion de censure",
+          "parent_path": [
+            "Parlement",
+            "Contrôle du Gouvernement"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.92,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L11N19503",
+      "task": "classify_subject",
+      "source_id": "DLR5L11N19503",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Élections et référendums",
+          "Droit de vote",
+          "Étrangers résidents"
+        ],
+        "tags": [
+          "droit de vote des étrangers",
+          "élections locales",
+          "constitution"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Étrangers résidents",
+          "parent_path": [
+            "Élections et référendums",
+            "Droit de vote"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L11N19506",
+      "task": "classify_subject",
+      "source_id": "DLR5L11N19506",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Élections et référendums",
+          "Droit électoral",
+          "Code électoral"
+        ],
+        "tags": [
+          "code électoral",
+          "élections"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Code électoral",
+          "parent_path": [
+            "Élections et référendums",
+            "Droit électoral"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L11N19508",
+      "task": "classify_subject",
+      "source_id": "DLR5L11N19508",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Organisation des travaux parlementaires",
+          "Transposition du droit européen"
+        ],
+        "tags": [
+          "transposition des directives",
+          "conventions internationales",
+          "constitution"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Transposition du droit européen",
+          "parent_path": [
+            "Parlement",
+            "Organisation des travaux parlementaires"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.84,
+        "needs_review": true,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L11N19541",
+      "task": "classify_subject",
+      "source_id": "DLR5L11N19541",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Parlement",
+          "Contrôle parlementaire",
+          "Transposition du droit européen"
+        ],
+        "tags": [
+          "transposition des directives",
+          "contrôle parlementaire",
+          "union européenne"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Transposition du droit européen",
+          "parent_path": [
+            "Parlement",
+            "Contrôle parlementaire"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L11N19545",
+      "task": "classify_subject",
+      "source_id": "DLR5L11N19545",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Droits fondamentaux",
+          "Peine de mort",
+          "Abolition"
+        ],
+        "tags": [
+          "abolition de la peine de mort",
+          "journée nationale",
+          "droits humains"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Abolition",
+          "parent_path": [
+            "Droits fondamentaux",
+            "Peine de mort"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.9,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L8N11566",
+      "task": "classify_subject",
+      "source_id": "DLR5L8N11566",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Anciens combattants et victimes de guerre",
+          "Pensions d'invalidité",
+          "Prisonniers de guerre"
+        ],
+        "tags": [
+          "pensions d'invalidité",
+          "prisonniers de guerre",
+          "rawa-ruska"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Prisonniers de guerre",
+          "parent_path": [
+            "Anciens combattants et victimes de guerre",
+            "Pensions d'invalidité"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L12N22636",
+      "task": "classify_subject",
+      "source_id": "DLR5L12N22636",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Catastrophes naturelles",
+          "Assurance des catastrophes naturelles",
+          "Mouvements de terrain"
+        ],
+        "tags": [
+          "mouvements de terrain",
+          "assurance",
+          "catastrophes naturelles"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Mouvements de terrain",
+          "parent_path": [
+            "Catastrophes naturelles",
+            "Assurance des catastrophes naturelles"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L12N22585",
+      "task": "classify_subject",
+      "source_id": "DLR5L12N22585",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Famille",
+          "Pension alimentaire",
+          "Fiscalité familiale"
+        ],
+        "tags": [
+          "pension alimentaire",
+          "parent séparé",
+          "impôt sur le revenu"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Fiscalité familiale",
+          "parent_path": [
+            "Famille",
+            "Pension alimentaire"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.86,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L13N24957",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N24957",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Internet",
+          "Infractions en ligne",
+          "Diffamation et injures"
+        ],
+        "tags": [
+          "diffamation",
+          "injure",
+          "prescription",
+          "internet"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Diffamation et injures",
+          "parent_path": [
+            "Internet",
+            "Infractions en ligne"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    },
+    {
+      "id": "classify:DLR5L13N25282",
+      "task": "classify_subject",
+      "source_id": "DLR5L13N25282",
+      "status": "ok",
+      "output": {
+        "canonical_path": [
+          "Réfugiés et apatrides",
+          "Droit d'asile",
+          "Contentieux de l'asile"
+        ],
+        "tags": [
+          "asile",
+          "contentieux",
+          "juridictions"
+        ],
+        "new_category_proposal": {
+          "needed": true,
+          "level": 3,
+          "label": "Contentieux de l'asile",
+          "parent_path": [
+            "Réfugiés et apatrides",
+            "Droit d'asile"
+          ],
+          "reason": "La taxonomie brute contient surtout des catégories procédurales ; ce libellé permet un regroupement thématique plus lisible."
+        },
+        "alternative_paths": [],
+        "confidence": 0.88,
+        "needs_review": false,
+        "rationale": "Classement selon le thème substantiel du dossier plutôt que selon son seul type procédural."
+      }
+    }
+  ]
+}

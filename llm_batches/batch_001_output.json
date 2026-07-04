@@ -1,0 +1,805 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "batch_20260704T115135_0000",
+  "generated_at": "2026-07-04T14:05:00+02:00",
+  "provider": "chatgpt_conversation",
+  "notes": [
+    "Enrichissement réalisé à partir des champs fournis dans batch_001_input.json, en privilégiant transcript_text lorsqu’il est présent.",
+    "Les résumés et mesures ne reprennent que les éléments explicitement visibles dans le lot fourni.",
+    "needs_review=true signale surtout une donnée source à vérifier, comme un auteur non résolu ou une réponse qui ne traite pas directement la question posée."
+  ],
+  "items": [
+    {
+      "id": "summarize_question:QANR5L17QG1",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur la situation à Mayotte, qu’elle décrit comme une urgence vitale cumulant immigration irrégulière, insécurité, prison surpeuplée, services publics et hôpital saturés, difficultés diplomatiques et baisse du pouvoir d’achat. Elle demande si le Gouvernement est prêt à mobiliser la marine nationale pour renforcer le contrôle maritime des frontières.",
+        "answer_summary": "Le ministre de l’intérieur reconnaît une situation d’urgence et présente des réponses de court et de long terme : maintien de renforts policiers et gendarmes, accords de sécurité bilatéraux, vols groupés de reconduite vers la RDC et évaluation d’un dispositif de contrôle maritime.",
+        "issues": [
+          "Mayotte",
+          "immigration irrégulière",
+          "sécurité publique",
+          "services publics",
+          "santé",
+          "reconduites à la frontière",
+          "contrôle maritime",
+          "pouvoir d'achat"
+        ],
+        "announced_measures": [
+          "confirmer les 1 150 gendarmes et policiers déployés",
+          "ajouter quatre escadrons de gendarmerie mobile",
+          "mobiliser 300 gendarmes spécialisés dans le maintien de l'ordre",
+          "passer des accords de sécurité bilatéraux avec des pays voisins",
+          "organiser des vols groupés de reconduite vers la République démocratique du Congo",
+          "évaluer l'efficacité du « rideau de fer » maritime"
+        ],
+        "quotes": [
+          {
+            "speaker": "Anchya Bamana",
+            "text": "Mayotte est aujourd'hui en situation d'urgence vitale."
+          },
+          {
+            "speaker": "Bruno Retailleau",
+            "text": "Nous ne resterons pas les bras croisés."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG10",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG10",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député salue l’abandon du projet de loi constitutionnelle sur le dégel du corps électoral et demande une reprise des discussions institutionnelles en Nouvelle-Calédonie dans le cadre du processus de décolonisation prévu par l’accord de Nouméa. Il interroge aussi la prise en compte du plan de relance et de reconstruction économique formulé localement.",
+        "answer_summary": "Le Premier ministre dit vouloir retrouver le chemin de l’apaisement, consulter les élus et retravailler la question du corps électoral. Il annonce une implication du ministre chargé des outre-mer, une mission des présidents de l’Assemblée nationale et du Sénat auprès des élus néo-calédoniens, puis une mission permanente de haut niveau placée auprès de lui pour accompagner le travail institutionnel et la reconstruction économique et sociale.",
+        "issues": [
+          "Nouvelle-Calédonie",
+          "décolonisation",
+          "corps électoral",
+          "réforme institutionnelle",
+          "reconstruction économique",
+          "apaisement politique",
+          "accord de Nouméa"
+        ],
+        "announced_measures": [
+          "confier le suivi du dossier au ministre chargé des outre-mer",
+          "prendre le temps de retravailler la question du corps électoral",
+          "soutenir une mission de la présidente de l'Assemblée nationale et du président du Sénat en Nouvelle-Calédonie",
+          "créer une mission permanente de haut niveau auprès du Premier ministre",
+          "travailler à la reconstruction économique et sociale"
+        ],
+        "quotes": [
+          {
+            "speaker": "Emmanuel Tjibaou",
+            "text": "Comment la France s'inscrit-elle dans la poursuite du processus de décolonisation ?"
+          },
+          {
+            "speaker": "Michel Barnier",
+            "text": "Je souhaite que nous retrouvions le chemin de l'apaisement."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG100",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG100",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce une situation explosive dans les outre-mer, marquée par la vie chère, les coupures d’eau, le blackout électrique en Guadeloupe et les inquiétudes liées aux coupes budgétaires. Il interroge le Gouvernement sur la compensation de la TVA en Martinique et sur la prise en charge par l’État des coûts de transport des produits de première nécessité.",
+        "answer_summary": "Le ministre conteste l’idée d’un désengagement de l’État. Il cite l’apaisement en Nouvelle-Calédonie, le retour à l’ordre en Guadeloupe et l’accord contre la vie chère signé en Martinique, avec baisse de l’octroi de mer, modulation de TVA sur les produits de première nécessité, mécanisme de compensation des frais d’approche et objectif de baisse de 20 % des prix au 1er janvier.",
+        "issues": [
+          "outre-mer",
+          "vie chère",
+          "eau",
+          "électricité",
+          "Guadeloupe",
+          "Martinique",
+          "Nouvelle-Calédonie",
+          "TVA",
+          "continuité territoriale"
+        ],
+        "announced_measures": [
+          "appliquer l'accord contre la vie chère signé en Martinique",
+          "baisser l'octroi de mer",
+          "moduler les taux de TVA sur les produits de première nécessité",
+          "mettre en place un mécanisme de compensation pour réduire les frais d'approche",
+          "apporter un appui technique de l'État",
+          "viser une baisse de 20 % des prix sur les produits concernés au 1er janvier"
+        ],
+        "quotes": [
+          {
+            "speaker": "Olivier Serva",
+            "text": "Dans tous nos territoires d'outre-mer, la situation est explosive."
+          },
+          {
+            "speaker": "François-Noël Buffet",
+            "text": "Je ne vois donc pas comment vous pouvez affirmer que l'État ne s'occupe de rien."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1000",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1000",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le ministre du logement sur la crise du logement, la chute de la production de logements neufs, les difficultés d’attribution, la rénovation du bâti ancien, l’accès à la propriété et la tranquillité publique. Il demande comment redonner aux élus locaux des moyens d’agir pour construire, rénover et peser sur les attributions.",
+        "answer_summary": "Le ministre affirme vouloir permettre à chaque Français de trouver un logement adapté, donner aux maires plus de poids dans les attributions de logements sociaux et favoriser des quartiers sûrs, mixtes et rénovés. Il annonce un choc de simplification pour débloquer la production et la rénovation, et défend une politique du logement décidée au plus près des élus locaux.",
+        "issues": [
+          "logement",
+          "logement social",
+          "maires",
+          "attributions de logements",
+          "rénovation",
+          "construction",
+          "mixité sociale",
+          "tranquillité publique",
+          "simplification administrative"
+        ],
+        "announced_measures": [
+          "produire un choc de simplification dans le logement",
+          "donner aux maires un véritable pouvoir d'attribution dans les logements sociaux",
+          "décider la politique du logement et de l'habitat au plus près des élus locaux",
+          "soutenir des quartiers sûrs, mixtes et rénovés",
+          "agir contre les comportements qui menacent la sécurité des habitants"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nicolas Tryzna",
+            "text": "Les maires sont aujourd’hui trop souvent impuissants."
+          },
+          {
+            "speaker": "Vincent Jeanbrun",
+            "text": "Nous pousserons les feux pour produire un véritable choc de simplification."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1001",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1001",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique les coupes budgétaires prévues pour les collectivités locales, qu’il juge incompatibles avec le discours gouvernemental sur la décentralisation et les libertés locales. Il demande des financements stables et garantis, ainsi qu’un État partenaire plutôt qu’un État qui réduirait les compensations fiscales ou mettrait les collectivités à contribution.",
+        "answer_summary": "La ministre défend la démarche gouvernementale de décentralisation et justifie l’effort demandé aux collectivités par la situation des finances publiques. Elle affirme que les dotations de fonctionnement n’ont pas baissé, que la DGF est maintenue, et cite des hausses de dotations de solidarité rurale et urbaine ainsi qu’un relèvement de la DSEC.",
+        "issues": [
+          "collectivités territoriales",
+          "dotations",
+          "décentralisation",
+          "finances locales",
+          "services publics de proximité",
+          "investissement local",
+          "DGF",
+          "dette publique"
+        ],
+        "announced_measures": [
+          "ouvrir un nouveau chemin de décentralisation avec les parlementaires",
+          "maintenir la dotation globale de fonctionnement",
+          "augmenter la dotation de solidarité rurale de 150 millions d'euros",
+          "augmenter la dotation de solidarité urbaine de 140 millions d'euros",
+          "relever la dotation de soutien aux communes pour les aménités rurales ou charges spécifiques mentionnée dans la réponse"
+        ],
+        "quotes": [
+          {
+            "speaker": "Stéphane Delautrette",
+            "text": "La liberté n'est rien sans moyens pour agir."
+          },
+          {
+            "speaker": "Françoise Gatel",
+            "text": "La DGF est maintenue."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1002",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1002",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député demande des garanties sur la publication du décret accordant des trimestres supplémentaires de retraite aux sapeurs-pompiers volontaires ayant servi au moins quinze ans. Il présente cette mesure comme une reconnaissance de leur engagement et un levier de fidélisation du volontariat.",
+        "answer_summary": "Le ministre de l’intérieur confirme que la mesure prévue par la loi de 2023 sera honorée. Il indique que le décret a été présenté aux caisses de retraite et envoyé au Conseil d’État, et précise le mécanisme : un trimestre supplémentaire à quinze ans de service, un autre à vingt ans et un troisième à vingt-cinq ans.",
+        "issues": [
+          "sapeurs-pompiers volontaires",
+          "retraites",
+          "sécurité civile",
+          "volontariat",
+          "fidélisation",
+          "décret d'application",
+          "reconnaissance de l'engagement"
+        ],
+        "announced_measures": [
+          "honorer la mesure prévue par la loi de 2023",
+          "publier un décret après avis des caisses de retraite et du Conseil d'État",
+          "attribuer un trimestre supplémentaire à partir de quinze ans de service",
+          "attribuer un deuxième trimestre à partir de vingt ans de service",
+          "attribuer un troisième trimestre à partir de vingt-cinq ans de service"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jean-Marie Fiévet",
+            "text": "Les sapeurs-pompiers volontaires ont besoin d’être rassurés."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "La mesure prévue par la loi de 2023 sera bien évidemment honorée."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1003",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1003",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la violence liée au narcotrafic et au trafic d’armes en Guadeloupe et à Saint-Martin, citant quarante-sept morts depuis le début de l’année. Il demande où en sont les moyens promis : personnels, drones, radars, bateaux, laboratoire balistique et laboratoire mobile ADN.",
+        "answer_summary": "Le ministre de l’intérieur confirme que la sécurité aux Antilles, particulièrement en Guadeloupe, est une priorité. Il annonce la création de trois brigades de gendarmerie, dont une brigade nautique, un groupe police-gendarmerie contre le trafic d’armes, une unité balistique, le développement de la coopération régionale et rappelle la pérennisation d’un deuxième escadron de gendarmerie mobile.",
+        "issues": [
+          "Guadeloupe",
+          "Saint-Martin",
+          "narcotrafic",
+          "trafic d'armes",
+          "homicides",
+          "sécurité publique",
+          "douanes",
+          "moyens d'enquête",
+          "coopération régionale"
+        ],
+        "announced_measures": [
+          "créer trois nouvelles brigades de gendarmerie en Guadeloupe",
+          "installer une brigade à Goyave",
+          "créer une brigade nautique à Gourbeyre sous réserve du PLF",
+          "créer une brigade mobile à Capesterre-de-Marie-Galante",
+          "créer un groupe police-gendarmerie contre le trafic d'armes à feu",
+          "mettre en place une unité balistique",
+          "développer la coopération régionale",
+          "pérenniser un deuxième escadron de gendarmerie mobile"
+        ],
+        "quotes": [
+          {
+            "speaker": "Max Mathiasin",
+            "text": "Où sont les moyens supplémentaires pour lutter contre le narcotrafic et le trafic d'armes ?"
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "La situation sécuritaire des Antilles est inquiétante, particulièrement en Guadeloupe."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1004",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1004",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement sur la crise structurelle de la protection de l’enfance et de l’aide sociale à l’enfance : hausse du nombre d’enfants confiés, manque de moyens humains et financiers, coordination insuffisante, retards d’évaluation, contrôle des établissements et suivi individualisé.",
+        "answer_summary": "La ministre reconnaît que le système de protection de l’enfance n’est pas à la hauteur malgré l’implication des professionnels et les moyens départementaux. Elle annonce dans le PLF 2026 une hausse de 55 millions d’euros des moyens de l’État, avec 35 millions pour le décret « pouponnières », 10 millions pour la contractualisation État-départements, 5 millions pour la Caisse des dépôts, et la généralisation des parcours de soins coordonnés pour les enfants de l’ASE.",
+        "issues": [
+          "droits de l'enfant",
+          "aide sociale à l'enfance",
+          "protection de l'enfance",
+          "ASE",
+          "moyens humains et financiers",
+          "santé mentale",
+          "scolarisation",
+          "établissements d'accueil"
+        ],
+        "announced_measures": [
+          "augmenter de 55 millions d'euros les moyens de l'État en 2026",
+          "consacrer 35 millions d'euros au décret « pouponnières »",
+          "prévoir 10 millions d'euros pour la contractualisation État-départements",
+          "mobiliser 5 millions d'euros pour la bonification du prêt de la Caisse des dépôts",
+          "généraliser le parcours de soins coordonnés des enfants protégés"
+        ],
+        "quotes": [
+          {
+            "speaker": "Béatrice Piron",
+            "text": "La protection de l’enfance traverse une crise structurelle sans précédent."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Nous ne sommes collectivement toujours pas à la hauteur."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1005",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1005",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique l’accord commercial conclu entre l’Union européenne et les États-Unis, qu’il présente comme défavorable à l’industrie et à l’agriculture européennes : droits de douane de 15 %, achats massifs d’énergie américaine, investissements outre-Atlantique et affaiblissement des instruments de défense commerciale. Il demande si la France entend défendre ses intérêts industriels et agricoles.",
+        "answer_summary": "Le ministre affirme que le Gouvernement français a gardé une posture ferme pendant la négociation et que l’accord du 21 août n’est qu’une étape. Il annonce la poursuite des demandes d’exemption de certains produits, notamment les vins et spiritueux, le renforcement des mécanismes de suspension automatique, l’introduction d’une clause d’expiration des concessions, et cite des mesures européennes récentes de protection sur l’acier et les ferroalliages.",
+        "issues": [
+          "commerce extérieur",
+          "Union européenne",
+          "États-Unis",
+          "droits de douane",
+          "industrie européenne",
+          "souveraineté industrielle",
+          "agriculture",
+          "vins et spiritueux",
+          "acier",
+          "ferroalliages"
+        ],
+        "announced_measures": [
+          "défendre l'exemption de certains produits, notamment les vins et spiritueux",
+          "demander le renforcement des mécanismes de suspension automatique des concessions tarifaires",
+          "introduire une clause d'expiration des concessions",
+          "soutenir les mesures européennes de protection sur l'acier",
+          "soutenir les mesures de sauvegarde sur les ferroalliages"
+        ],
+        "quotes": [
+          {
+            "speaker": "Emmanuel Maurel",
+            "text": "La coupe est pleine !"
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "Personne ne sort gagnant d'une guerre commerciale."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1006",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1006",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député met en cause l’audiovisuel public après l’assignation de CNews, Europe 1 et Le JDD par France Télévisions et Radio France pour dénigrement. Il dénonce une action judiciaire financée selon lui par le contribuable et demande à la ministre si elle en a été informée, consultée ou si elle a donné son accord.",
+        "answer_summary": "La ministre rappelle que toutes les chaînes sont soumises au pluralisme et que l’audiovisuel public a en plus une exigence d’impartialité. Elle indique que les présidentes de France Télévisions et Radio France étaient libres juridiquement d’assigner les médias du groupe Bolloré, mais que cette démarche n’a été ni concertée ni approuvée par les tutelles, qui auraient dû être informées par respect pour les deniers publics.",
+        "issues": [
+          "audiovisuel public",
+          "pluralisme",
+          "impartialité",
+          "France Télévisions",
+          "Radio France",
+          "CNews",
+          "Europe 1",
+          "Le JDD",
+          "action en justice",
+          "dépenses publiques"
+        ],
+        "announced_measures": [
+          "porter une réforme de l'audiovisuel public",
+          "ouvrir un débat sur le sens de l'impartialité du service public audiovisuel",
+          "rappeler l'obligation d'information des tutelles pour les procédures engageant des deniers publics"
+        ],
+        "quotes": [
+          {
+            "speaker": "Maxime Michelet",
+            "text": "Avez-vous été informée de cette action en justice ?"
+          },
+          {
+            "speaker": "Rachida Dati",
+            "text": "En aucun cas celle-ci n'a été concertée, et encore moins approuvée, par les tutelles."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1007",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1007",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique le mécanisme européen de fixation des prix de l’électricité, qu’il juge défavorable aux ménages, aux entreprises et à l’industrie française malgré l’avantage compétitif du nucléaire. Il défend une sortie du mécanisme européen et une baisse de TVA sur l’énergie.",
+        "answer_summary": "Le ministre conteste l’idée que l’Allemagne sortirait du marché européen et défend l’avantage du nucléaire français. Il explique que le Gouvernement travaille à la programmation pluriannuelle de l’énergie, avec une approche pragmatique mêlant nucléaire, électrification des usages et développement d’énergies renouvelables selon les besoins des territoires, notamment outre-mer.",
+        "issues": [
+          "prix de l'électricité",
+          "marché européen de l'énergie",
+          "nucléaire",
+          "industrie",
+          "compétitivité",
+          "pouvoir d'achat",
+          "TVA sur l'énergie",
+          "programmation pluriannuelle de l'énergie",
+          "énergies renouvelables"
+        ],
+        "announced_measures": [
+          "engager un travail sur la programmation pluriannuelle de l'énergie",
+          "consulter les groupes parlementaires, dont le RN",
+          "développer une offre électrique efficace pour soutenir l'industrialisation",
+          "soutenir l'électrification des usages",
+          "adapter le développement des énergies renouvelables aux besoins des territoires"
+        ],
+        "quotes": [
+          {
+            "speaker": "Kévin Mauvieux",
+            "text": "La France produit l’électricité la plus propre et la moins chère grâce à son parc nucléaire."
+          },
+          {
+            "speaker": "Roland Lescure",
+            "text": "L'Allemagne ne sort en rien du marché européen de l'énergie."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1008",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1008",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement pendant la Semaine européenne de l’emploi des personnes handicapées. Elle souligne les progrès, mais aussi un taux de chômage encore deux fois supérieur à la moyenne, les discriminations et l’inquiétude provoquée par les crédits consacrés aux Esat, aux entreprises adaptées et au service public de l’emploi.",
+        "answer_summary": "La ministre affirme que le Gouvernement reste pleinement mobilisé sur l’emploi des personnes handicapées. Elle met en avant le DuoDay pour changer le regard des employeurs, la transformation du service public de l’emploi, l’emploi accompagné pour les handicaps invisibles, le maintien des aides aux postes pour les Esat et entreprises adaptées, ainsi que le développement de financements de solutions pour les personnes en situation de handicap.",
+        "issues": [
+          "personnes handicapées",
+          "emploi",
+          "Esat",
+          "entreprises adaptées",
+          "service public de l'emploi",
+          "discriminations",
+          "emploi accompagné",
+          "DuoDay",
+          "handicaps invisibles"
+        ],
+        "announced_measures": [
+          "valoriser le DuoDay pour changer le regard des employeurs",
+          "transformer le service public de l'emploi",
+          "développer l'emploi accompagné",
+          "maintenir les aides aux postes pour les Esat et les entreprises adaptées",
+          "développer des financements de solutions destinées aux personnes en situation de handicap"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christine Le Nabour",
+            "text": "Le taux de chômage des personnes handicapées, bien qu'à son niveau le plus bas, demeure deux fois supérieur à celui de l’ensemble de la population."
+          },
+          {
+            "speaker": "Charlotte Parmentier-Lecocq",
+            "text": "Le gouvernement est pleinement mobilisé sur cette question."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1009",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1009",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interpelle le Gouvernement à l’approche de la Journée internationale pour l’élimination des violences à l’égard des femmes. Elle dénonce les violences sexistes et sexuelles, les baisses de financement associatif, les violences sexuelles imputées à des policiers ou gendarmes, et réclame des moyens structurels, notamment 3 milliards d’euros.",
+        "answer_summary": "Le ministre de l’intérieur défend la réaction de l’institution face aux faits impliquant des policiers, qu’il présente comme rares mais traités avec fermeté. Il réaffirme la priorité donnée aux violences sexuelles, cite la mobilisation de la police et de la gendarmerie, l’amélioration de l’accueil des femmes, les dispositifs d’accueil discret et le dépôt de plainte hors les murs pour les faits graves.",
+        "issues": [
+          "violences sexistes et sexuelles",
+          "violences faites aux femmes",
+          "police et gendarmerie",
+          "accueil des victimes",
+          "financement des associations",
+          "plaintes pour viol",
+          "impunité",
+          "Journée internationale du 25 novembre"
+        ],
+        "announced_measures": [
+          "mobiliser police et gendarmerie pour les investigations",
+          "mieux accueillir les femmes dans commissariats et brigades",
+          "instaurer des dispositifs d'accueil discret",
+          "développer le dépôt de plainte hors les murs pour les faits les plus graves",
+          "suspendre et sanctionner les agents mis en cause dans les cas graves cités"
+        ],
+        "quotes": [
+          {
+            "speaker": "Danièle Obono",
+            "text": "Il manque toujours 3 milliards à la lutte contre ces violences !"
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Nous serons toujours intraitables avec ceux qui commettent des violences sexuelles alors qu'ils portent l'uniforme."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG101",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG101",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée critique l’accord commercial UE-Mercosur, qu’elle juge dangereux pour les agriculteurs français en raison de contingents de bœuf, volaille, sucre et éthanol, de normes divergentes et du risque de division de l’accord pour contourner l’unanimité. Elle demande comment le Gouvernement compte bloquer le traité et agir sur les surtranspositions.",
+        "answer_summary": "Le ministre délégué affirme que l’accord avec le Mercosur n’est pas acceptable en l’état, car il ne respecterait pas les exigences françaises d’équité commerciale et de durabilité. Il indique que la France se mobilise auprès de ses partenaires et du Brésil, tout en rappelant qu’elle n’est pas opposée par principe aux accords commerciaux respectant des clauses environnementales.",
+        "issues": [
+          "Mercosur",
+          "commerce extérieur",
+          "agriculture",
+          "normes environnementales",
+          "concurrence internationale",
+          "surtransposition",
+          "élevage",
+          "accords commerciaux"
+        ],
+        "announced_measures": [
+          "réaffirmer que l'accord n'est pas acceptable en l'état",
+          "mobiliser le Gouvernement auprès des partenaires européens et brésiliens",
+          "défendre les intérêts des agriculteurs et des entreprises françaises",
+          "conditionner les accords commerciaux au respect d'exigences environnementales et de durabilité"
+        ],
+        "quotes": [
+          {
+            "speaker": "Hélène Laporte",
+            "text": "Qu'allez-vous faire pour bloquer la conclusion de ce traité ?"
+          },
+          {
+            "speaker": "Benjamin Haddad",
+            "text": "Cet accord n'est pas acceptable en l'état."
+          }
+        ],
+        "confidence": 0.84,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1010",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1010",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée demande un deuxième plan Avenir montagnes pour accompagner les collectivités de montagne face au dérèglement climatique, à la fragilité des modèles économiques de pluriactivité et au besoin de transition écologique, de diversification et de tourisme durable.",
+        "answer_summary": "La ministre répond que l’État reste présent aux côtés des collectivités de montagne. Elle évoque la mise à disposition de soixante-deux chefs de projet pour accompagner les élus dans la définition de leur avenir en intégrant la transition écologique, ainsi qu’une prochaine réunion du Conseil national de la montagne.",
+        "issues": [
+          "montagne",
+          "aménagement du territoire",
+          "transition écologique",
+          "tourisme durable",
+          "collectivités locales",
+          "services publics",
+          "pluriactivité",
+          "fonds de transition"
+        ],
+        "announced_measures": [
+          "mettre à disposition soixante-deux chefs de projet",
+          "accompagner les élus de la montagne dans la transition écologique",
+          "réunir prochainement le Conseil national de la montagne",
+          "coopérer avec les collectivités pour une montagne vivante"
+        ],
+        "quotes": [
+          {
+            "speaker": "Marie-Noëlle Battistel",
+            "text": "Un véritable fonds de transition dédié aux zones de montagne devient indispensable."
+          },
+          {
+            "speaker": "Françoise Gatel",
+            "text": "L'État reste donc présent aux côtés des collectivités de montagne."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1011",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1011",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur l’avenir de l’industrie française, la souveraineté économique, la préférence européenne et la nécessité de protéger les filières industrielles face à la concurrence internationale, aux subventions étrangères, aux normes plus faibles et à la pression fiscale.",
+        "answer_summary": "Le ministre défend une stratégie de protection industrielle européenne : clauses de sauvegarde, préférence européenne, contenu local, valeur ajoutée européenne, accès favorisé aux soutiens publics et trajectoire budgétaire et fiscale lisible. Il cite aussi la reprise de la baisse de la cotisation sur la valeur ajoutée des entreprises.",
+        "issues": [
+          "industrie",
+          "souveraineté économique",
+          "préférence européenne",
+          "contenu local",
+          "fiscalité des entreprises",
+          "compétitivité",
+          "subventions publiques",
+          "emplois industriels",
+          "acier",
+          "ferroalliages"
+        ],
+        "announced_measures": [
+          "défendre des clauses de sauvegarde pour protéger l'industrie européenne",
+          "instaurer une préférence européenne",
+          "défendre une part de contenu local",
+          "favoriser l'accès au soutien public et aux subventions",
+          "assurer une trajectoire budgétaire et fiscale lisible",
+          "reprendre la baisse de la cotisation sur la valeur ajoutée des entreprises"
+        ],
+        "quotes": [
+          {
+            "speaker": "Lionel Duparay",
+            "text": "Il s'agissait d'une perte de souveraineté française et européenne."
+          },
+          {
+            "speaker": "Sébastien Martin",
+            "text": "Il faut se protéger ; il faut aussi faire ce que font les autres continents."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1012",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1012",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée dénonce la situation des enfants sans abri et demande une augmentation des capacités d’hébergement d’urgence. Elle rappelle que les besoins explosent, que les associations réclament des moyens prévisibles, et demande si le Gouvernement maintiendra les 200 millions d’euros ajoutés en commission au budget 2026.",
+        "answer_summary": "La ministre reconnaît la gravité du sujet et rappelle que le budget de l’hébergement d’urgence a été doublé depuis 2017 pour dépasser 3 milliards d’euros en 2025. Elle indique que 27 696 personnes, dont 13 353 enfants, ont été prises en charge l’an dernier, et annonce pour 2026 un plan de 1,2 million d’euros pour renforcer les équipes d’intervention sociale et recruter des coordinateurs dédiés aux mineurs. Elle ne répond pas explicitement sur le maintien des 200 millions d’euros.",
+        "issues": [
+          "enfants à la rue",
+          "hébergement d'urgence",
+          "sans-abrisme",
+          "logement social",
+          "protection de l'enfance",
+          "associations",
+          "budget 2026",
+          "mineurs"
+        ],
+        "announced_measures": [
+          "doubler le budget de l'hébergement d'urgence depuis 2017",
+          "atteindre plus de 3 milliards d'euros en 2025 pour l'hébergement d'urgence",
+          "déployer en 2026 un plan de 1,2 million d'euros",
+          "renforcer les équipes d'intervention sociale",
+          "recruter des coordinateurs dédiés au suivi des mineurs"
+        ],
+        "quotes": [
+          {
+            "speaker": "Marie-Charlotte Garin",
+            "text": "En France, en 2025, au moins 3 000 enfants dorment dehors."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Aucun enfant ne doit dormir à la rue dans notre pays."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1013",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1013",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée interroge le Gouvernement sur l’accord UE-Mercosur, en relayant l’inquiétude des agriculteurs et en demandant si la France continuera de s’y opposer en l’état. Elle insiste sur les clauses de sauvegarde, les contrôles, les mesures miroirs, la réciprocité des normes et la mobilisation d’autres États membres.",
+        "answer_summary": "La ministre de l’agriculture affirme que l’accord UE-Mercosur est inacceptable en l’état et que la France n’est pas isolée. Elle indique que la France se bat sur trois points : une clause de sauvegarde agricole spécifique pour les filières exposées, des mesures miroirs et la réciprocité des normes, ainsi que des contrôles effectifs sur le terrain.",
+        "issues": [
+          "Mercosur",
+          "agriculture",
+          "clauses de sauvegarde",
+          "mesures miroirs",
+          "réciprocité des normes",
+          "contrôles",
+          "élevage",
+          "volaille",
+          "sucre",
+          "éthanol"
+        ],
+        "announced_measures": [
+          "défendre une clause de sauvegarde agricole spécifique",
+          "vérifier l'applicabilité de la clause de sauvegarde",
+          "défendre les mesures miroirs",
+          "exiger la réciprocité des normes",
+          "renforcer les contrôles sur le terrain"
+        ],
+        "quotes": [
+          {
+            "speaker": "Géraldine Bannier",
+            "text": "Nos agriculteurs sont vent debout contre le traité de libre-échange avec le Mercosur."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "L'accord est inacceptable en l'état."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1014",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1014",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée présente une proposition de loi transpartisane contre les violences sexistes et sexuelles faites aux femmes et aux enfants. Elle met en avant la prévention, le signalement, l’accueil, l’accompagnement, l’enquête, le jugement et la répression, et demande au Gouvernement de se saisir du texte intégral.",
+        "answer_summary": "La ministre déléguée remercie les parlementaires signataires et défend un travail commun avec l’Assemblée et le Sénat. Elle affirme que ces violences ne sont pas des faits divers mais des faits de société et politiques, évoque une loi à construire collectivement, et affirme que le budget consacré à cette politique a plus que triplé depuis 2017 et continuera d’augmenter en 2026.",
+        "issues": [
+          "violences sexistes et sexuelles",
+          "violences faites aux femmes",
+          "violences faites aux enfants",
+          "proposition de loi",
+          "Ciivise",
+          "impunité",
+          "protection des victimes",
+          "budget"
+        ],
+        "announced_measures": [
+          "travailler avec les parlementaires des deux assemblées",
+          "élaborer une loi sur le respect de chacune et chacun",
+          "continuer à augmenter les moyens consacrés à cette politique",
+          "maintenir une trajectoire budgétaire en hausse en 2026 selon la ministre"
+        ],
+        "quotes": [
+          {
+            "speaker": "Céline Thiébault-Martinez",
+            "text": "Notre objectif est simple et essentiel : mettre un terme à l’impunité des agresseurs."
+          },
+          {
+            "speaker": "Aurore Bergé",
+            "text": "Ce ne sont pas des faits divers."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1015",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1015",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée critique une hausse de taxe foncière qui toucherait selon elle des millions de propriétaires et demande au Premier ministre de l’annuler. Elle conteste l’argument selon lequel cette mesure aurait été demandée par les maires et affirme qu’elle pèserait aussi sur les locataires.",
+        "answer_summary": "La ministre défend la mise à jour des bases fiscales comme une question de justice, en rappelant que la taxe va aux communes et intercommunalités et que la loi prévoit que la révision des bases est demandée par les élus locaux. Elle annonce une réunion avec les associations d’élus et les présidents des délégations aux collectivités pour faire le point, puis rappelle que les taux relèvent des élus locaux.",
+        "issues": [
+          "taxe foncière",
+          "impôts locaux",
+          "propriétaires",
+          "fiscalité locale",
+          "bases fiscales",
+          "collectivités territoriales",
+          "associations d'élus",
+          "communes"
+        ],
+        "announced_measures": [
+          "mettre à jour les bases fiscales",
+          "réunir les associations d'élus",
+          "associer les présidents des délégations aux collectivités territoriales et à la décentralisation",
+          "faire le point sur la révision des bases fiscales",
+          "rappeler que les taux sont fixés localement"
+        ],
+        "quotes": [
+          {
+            "speaker": "Laure Lavalette",
+            "text": "Nous vous demandons solennellement d’annuler cette hausse inacceptable."
+          },
+          {
+            "speaker": "Françoise Gatel",
+            "text": "Leur révision est une question de justice."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": false
+      }
+    }
+  ]
+}

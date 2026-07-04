@@ -1,0 +1,1772 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "batch_20260704T122344_0000",
+  "generated_at": "2026-07-04T12:30:45.873771+00:00",
+  "provider": "chatgpt-conversation",
+  "notes": [
+    "Enrichissement conversationnel par lots, sans appel API externe.",
+    "Les items marqués needs_review=true sont politiquement sensibles, ambigus, comportent une réponse indirecte ou demandent une vérification humaine avant consolidation taxonomique.",
+    "Les résumés, mesures et citations utilisent uniquement les champs fournis dans le batch d'entrée."
+  ],
+  "items": [
+    {
+      "id": "summarize_question:QANR5L17QG1089",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1089",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce les modalités de contrôle de l’enseignement privé catholique sous contrat, qu’il présente comme excessives et politisées. Il demande si le Gouvernement entend mettre fin à ces pratiques et accuse le ministère de s’en prendre à la liberté d’enseignement.",
+        "answer_summary": "Le ministre répond que l’enseignement privé sous contrat relève d’un cadre constitutionnel, législatif et réglementaire que l’État doit faire respecter. Il assume le passage à un plan de contrôles systématiques, tout en annonçant qu’il rappellera aux recteurs et inspecteurs l’exigence de neutralité, d’objectivité et de respect du droit.",
+        "issues": [
+          "enseignement privé",
+          "contrôle des établissements",
+          "liberté d’enseignement",
+          "laïcité",
+          "enseignement catholique",
+          "neutralité administrative"
+        ],
+        "announced_measures": [
+          "poursuivre un plan de contrôle systématique de l’enseignement privé sous contrat",
+          "contrôler 40 % des établissements d’ici 2027",
+          "rappeler aux recteurs et inspecteurs le cadre réglementaire et les exigences de neutralité"
+        ],
+        "quotes": [
+          {
+            "speaker": "Roger Chudeau",
+            "text": "Ces pratiques doivent cesser car elles constituent une instrumentalisation politique des corps d’inspection."
+          },
+          {
+            "speaker": "Édouard Geffray",
+            "text": "1 000 établissements auront été contrôlés cette année."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG109",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG109",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la présence de mercure dans des conserves de thon, qu’il juge dangereuse notamment pour les enfants et les femmes enceintes. Il demande si le Gouvernement abaissera la norme réglementaire et prendra des mesures de prévention, par exemple dans les cantines scolaires.",
+        "answer_summary": "La ministre reconnaît que le rapport d’ONG doit alerter et indique que les pouvoirs publics doivent écouter, vérifier et contrôler. Elle rappelle les responsabilités des exploitants alimentaires et les plans de contrôle nationaux, évoque le retrait ou rappel des produits non conformes, et renvoie l’évolution des normes à un travail avec la DGAL et au niveau européen.",
+        "issues": [
+          "sécurité alimentaire",
+          "mercure",
+          "conserves de thon",
+          "normes sanitaires",
+          "cantines scolaires",
+          "populations vulnérables"
+        ],
+        "announced_measures": [
+          "examiner la question des normes avec la DGAL et au niveau européen",
+          "travailler avec le ministère de l’agriculture sur la consommation de thon dans les cantines",
+          "procéder à des retraits ou rappels en cas de dépassement des seuils réglementaires"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nicolas Thierry",
+            "text": "Envisagez-vous d'abaisser la norme réglementaire relative à la présence de mercure dans le thon ?"
+          },
+          {
+            "speaker": "Geneviève Darrieussecq",
+            "text": "Ce rapport doit nous alerter."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1090",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1090",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée défend le réseau des lycées français à l’étranger comme outil d’influence et de service public pour les Français établis hors de France. Elle alerte sur les baisses de subventions, le poids des cotisations de retraite et le risque de hausse des frais de scolarité, puis demande une réforme concertée de l’AEFE.",
+        "answer_summary": "Le ministre reconnaît que l’enseignement français à l’étranger est un levier d’influence et un service public. Il justifie la baisse de dotation par les contraintes budgétaires, annonce des efforts des services centraux de l’AEFE et des établissements, évoque un possible ressaut des bourses, et défend une réforme de gouvernance, de ciblage des missions et de répartition du financement.",
+        "issues": [
+          "lycées français à l’étranger",
+          "AEFE",
+          "diplomatie d’influence",
+          "frais de scolarité",
+          "bourses scolaires",
+          "financement public"
+        ],
+        "announced_measures": [
+          "réduire certains coûts des services centraux de l’AEFE",
+          "réinjecter des économies dans les bourses si possible",
+          "réformer la gouvernance et le ciblage des missions du réseau",
+          "augmenter la part de financement supportée par les élèves et familles étrangères",
+          "mettre progressivement fin à certaines exemptions et exonérations"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nathalie Coggia",
+            "text": "Quelle réforme comptez-vous conduire de manière concertée ?"
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "L'enseignement français à l'étranger est un trésor."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1091",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1091",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée accuse la France de fermer les yeux sur la pollution industrielle à Gabès, en Tunisie, et sur l’implication alléguée d’un groupe français dans la filière du phosphate. Elle demande si le Gouvernement agira pour que la France cesse d’être complice des atteintes aux sols, aux eaux et aux habitants.",
+        "answer_summary": "Le ministre conteste la mise en cause d’une entreprise française et juge les accusations irresponsables. Il affirme que les manifestations à Gabès relèvent d’une affaire tunisienne, tout en rappelant qu’elles doivent se dérouler librement et dans le respect de l’État de droit, puis dénonce des propos qu’il qualifie de diffamatoires contre le groupe Roullier.",
+        "issues": [
+          "pollution industrielle",
+          "Tunisie",
+          "phosphate",
+          "responsabilité des entreprises",
+          "politique extérieure",
+          "mouvements sociaux"
+        ],
+        "announced_measures": [
+          "rappeler que les manifestations doivent se tenir en liberté et dans le respect de l’État de droit",
+          "contester publiquement les accusations visant le groupe Roullier"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nathalie Oziol",
+            "text": "Pourquoi la France ferme-t-elle les yeux sur l'implication du groupe Roullier à Gabès ?"
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "Les manifestations et le mouvement social qui ont lieu à Gabès sont une affaire tunisienne."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1092",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1092",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce la suppression du replay d’un documentaire de France Télévisions consacré à des mères luttant contre l’inceste, après une mise en demeure d’avocat. Il demande si le Gouvernement va intervenir pour que la parole des victimes ne soit pas effacée sans décision de justice.",
+        "answer_summary": "La ministre affirme que la protection de l’enfance et la lutte contre l’inceste sont des sujets graves qui ne doivent pas être polémiques. Elle reconnaît qu’une mise en demeure n’est pas une décision de justice et invite le député et les collectifs à rencontrer France Télévisions afin que l’entreprise explique les motifs du retrait du replay.",
+        "issues": [
+          "inceste",
+          "protection de l’enfance",
+          "France Télévisions",
+          "service public audiovisuel",
+          "liberté éditoriale",
+          "replay"
+        ],
+        "announced_measures": [
+          "organiser une rencontre avec France Télévisions et les collectifs concernés",
+          "demander des explications sur les motivations du retrait du replay"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christian Baptiste",
+            "text": "Le replay a été supprimé."
+          },
+          {
+            "speaker": "Rachida Dati",
+            "text": "Il s’agit en effet d’une mise en demeure, non d’une décision de justice."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1093",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1093",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur les effets du décret encadrant les contrats de motif 2 et l’intérim médical, qui risquent selon elle de fragiliser les hôpitaux de proximité et l’accès aux soins dans les territoires ruraux. Elle demande un report ou une adaptation de son application.",
+        "answer_summary": "La ministre déléguée apporte une réponse partielle au nom de la ministre de la santé. Elle rappelle l’importance des hôpitaux de proximité, souhaite les intégrer au réseau France Santé et indique qu’ils pourront bénéficier de subventions après labellisation, tout en renvoyant les questions précises de calendrier à une réponse ultérieure.",
+        "issues": [
+          "intérim médical",
+          "hôpitaux de proximité",
+          "accès aux soins",
+          "territoires ruraux",
+          "contrats de motif 2",
+          "France Santé"
+        ],
+        "announced_measures": [
+          "intégrer les hôpitaux de proximité au réseau France Santé",
+          "prévoir des subventions France Santé après labellisation",
+          "transmettre les questions spécifiques à la ministre de la santé"
+        ],
+        "quotes": [
+          {
+            "speaker": "Valérie Bazin-Malgras",
+            "text": "Des hôpitaux essentiels à la continuité du service public se retrouvent, faute de praticiens, à la veille de fermer des services."
+          },
+          {
+            "speaker": "Charlotte Parmentier-Lecocq",
+            "text": "Cette réponse sera partielle."
+          }
+        ],
+        "confidence": 0.82,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1094",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1094",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la pollution de l’eau aux PFAS et sur les inquiétudes des familles concernant l’eau du robinet, les potagers ou les biberons. Il demande des mesures plus fortes face à une contamination qu’il présente comme généralisée.",
+        "answer_summary": "Le ministre conteste l’idée d’une contamination généralisée de l’eau traitée et s’appuie sur les données de l’Anses, selon lesquelles 98 % des échantillons ne dépassent pas les seuils français. Il confirme l’application de la loi sur les PFAS, y compris la redevance attendue, tout en évoquant un débat parlementaire sur son entrée en vigueur.",
+        "issues": [
+          "PFAS",
+          "eau potable",
+          "pollution chimique",
+          "Anses",
+          "redevance environnementale",
+          "santé publique"
+        ],
+        "announced_measures": [
+          "appliquer la loi sur les PFAS",
+          "mettre en œuvre une redevance dont le produit attendu est de 15 millions d’euros",
+          "discuter de la date d’entrée en vigueur des dispositions adoptées"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nicolas Thierry",
+            "text": "La pollution généralisée aux PFAS n'est plus une dystopie."
+          },
+          {
+            "speaker": "Mathieu Lefèvre",
+            "text": "98 % des 1 274 échantillons traités ne dépassent pas les seuils français."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1095",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1095",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député plaide pour une protection plus forte de l’espace aérien ukrainien, notamment via l’initiative Sky Shield, et demande quand la France annoncera une fermeture du ciel ukrainien ou un dispositif équivalent de protection à distance des civils.",
+        "answer_summary": "Le ministre salue l’engagement du député et l’initiative Sky Shield, qu’il dit intégrée à la réflexion française. Il rappelle que le soutien militaire se poursuit avant un éventuel cessez-le-feu, avec l’annonce de nouveaux avions Mirage et de missiles Aster destinés à défendre le ciel ukrainien.",
+        "issues": [
+          "Ukraine",
+          "défense antiaérienne",
+          "Sky Shield",
+          "aide militaire",
+          "espace aérien",
+          "solidarité internationale"
+        ],
+        "announced_measures": [
+          "transférer de nouveaux avions Mirage à l’Ukraine",
+          "transférer de nouveaux missiles Aster à l’Ukraine",
+          "intégrer l’initiative Sky Shield à la réflexion française sur le soutien militaire"
+        ],
+        "quotes": [
+          {
+            "speaker": "Frédéric Petit",
+            "text": "Quand allons-nous enfin annoncer la fermeture du ciel ukrainien ?"
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "De nouveaux avions Mirage ainsi que de nouveaux missiles Aster seraient transférés à l'Ukraine."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1096",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1096",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée décrit l’attente de la reconstruction de Mayotte un an après les cyclones Chido et Dikeledi, en dénonçant l’insuffisance des aides aux familles, aux collectivités et aux entreprises. Elle demande un calendrier concret et des crédits effectifs.",
+        "answer_summary": "La ministre rend hommage aux victimes et rappelle les premières interventions de l’État, ainsi que l’engagement de 4 milliards d’euros jusqu’en 2031. Elle annonce le lancement d’un comité de suivi à Mayotte le 15 décembre et détaille une programmation 2026 de plusieurs centaines de millions d’euros en autorisations d’engagement et crédits de paiement.",
+        "issues": [
+          "Mayotte",
+          "cyclone Chido",
+          "reconstruction",
+          "outre-mer",
+          "programmation budgétaire",
+          "infrastructures"
+        ],
+        "announced_measures": [
+          "lancer un comité de suivi à Mayotte le 15 décembre",
+          "programmer 674 millions d’euros en autorisations d’engagement pour 2026",
+          "programmer 434 millions d’euros en crédits de paiement pour 2026",
+          "inscrire l’effort de reconstruction dans une enveloppe de 4 milliards d’euros jusqu’en 2031"
+        ],
+        "quotes": [
+          {
+            "speaker": "Estelle Youssouffa",
+            "text": "Cette année de souffrance est celle d'une interminable et douloureuse attente."
+          },
+          {
+            "speaker": "Naïma Moutchou",
+            "text": "Je vais lancer à Mayotte dès le 15 décembre un comité de suivi."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1097",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1097",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge le Gouvernement sur la stratégie de sécurité nationale publiée par l’administration américaine, qu’il juge critique envers l’Europe et favorablement accueillie par le Kremlin. Il demande quelle ligne la France et l’Europe doivent adopter face à ce positionnement.",
+        "answer_summary": "Le ministre présente ce document américain comme une clarification qui confirme la nécessité d’accélérer l’autonomie stratégique européenne. Il défend les réponses européennes déjà engagées sur les frontières, la concurrence, le numérique et la souveraineté, et affirme que l’Europe ne doit pas se laisser intimider.",
+        "issues": [
+          "États-Unis",
+          "stratégie de sécurité nationale",
+          "autonomie stratégique européenne",
+          "Union européenne",
+          "Ukraine",
+          "souveraineté"
+        ],
+        "announced_measures": [
+          "accélérer l’autonomie stratégique européenne",
+          "maintenir les règles européennes applicables aux plateformes numériques",
+          "défendre une souveraineté européenne face aux pressions extérieures"
+        ],
+        "quotes": [
+          {
+            "speaker": "Michel Criaud",
+            "text": "Washington s’en prend directement à l’Europe."
+          },
+          {
+            "speaker": "Jean-Noël Barrot",
+            "text": "Nous avons eu raison, depuis 2017, d'appeler l'Europe à l'autonomie stratégique."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1098",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1098",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur le sous-effectif et les tensions au centre de contrôle aérien de Tahiti-Faa’a, qu’elle présente comme stratégique pour la souveraineté et la continuité territoriale dans le Pacifique. Elle demande des garanties sur les recrutements, la formation et le maintien du service public.",
+        "answer_summary": "Le ministre reconnaît les spécificités de Tahiti-Faa’a et salue la reprise du dialogue social. Il annonce une mission de l’Inspection générale de l’environnement et du développement durable et la reprise de la formation de douze contrôleurs stagiaires déjà affectés, tout en rappelant l’action de la DGAC.",
+        "issues": [
+          "contrôle aérien",
+          "Tahiti-Faa’a",
+          "Polynésie française",
+          "continuité territoriale",
+          "souveraineté",
+          "effectifs"
+        ],
+        "announced_measures": [
+          "lancer une mission de l’Inspection générale de l’environnement et du développement durable",
+          "reprendre la formation de douze contrôleurs stagiaires déjà affectés",
+          "poursuivre le dialogue avec les syndicats"
+        ],
+        "quotes": [
+          {
+            "speaker": "Mereana Reid Arbelot",
+            "text": "Ce centre est unique par son étendue, son environnement international et ses contraintes opérationnelles."
+          },
+          {
+            "speaker": "Philippe Tabarot",
+            "text": "La réunion du 5 décembre a permis deux avancées concrètes."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1099",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1099",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique la gestion de la dermatose nodulaire contagieuse en Occitanie, notamment l’abattage systématique, l’usage de la force et un dialogue jugé insuffisant avec les éleveurs. Il demande une stratégie plus humaine et concertée.",
+        "answer_summary": "La ministre répond que la situation est grave et qu’elle s’est rendue en Haute-Garonne pour accompagner les éleveurs. Elle insiste sur la maîtrise des foyers, la vaccination et la nécessité d’agir pour éviter l’extension de la maladie, tout en reprochant au député de privilégier la critique politique.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "élevage bovin",
+          "Occitanie",
+          "abattage sanitaire",
+          "vaccination",
+          "dialogue avec les éleveurs"
+        ],
+        "announced_measures": [
+          "poursuivre la vaccination contre la dermatose nodulaire contagieuse",
+          "organiser la réponse sanitaire en Haute-Garonne et en Occitanie",
+          "maîtriser les foyers identifiés"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christophe Bex",
+            "text": "Vous avez maintenu votre stratégie d'abattage systématique et total."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "La situation est grave."
+          }
+        ],
+        "confidence": 0.84,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG11",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG11",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée évoque le meurtre de Philippine et met en cause les défaillances de la justice et de la politique migratoire. Elle demande des mesures fermes sur l’expulsion des étrangers dangereux, la rétention et la protection des Français.",
+        "answer_summary": "Le ministre de l’intérieur exprime son soutien à la famille de Philippine et affirme qu’il faut changer les règles lorsque le droit ne protège pas. Il annonce travailler sur des accords bilatéraux, l’allongement de la durée maximale de rétention, une meilleure prise en compte de la dangerosité par le juge et la directive retour.",
+        "issues": [
+          "justice pénale",
+          "immigration",
+          "expulsions",
+          "rétention administrative",
+          "dangerosité",
+          "faits divers criminels"
+        ],
+        "announced_measures": [
+          "conclure ou renforcer des accords bilatéraux, notamment avec le Maroc",
+          "allonger la durée maximale de rétention administrative",
+          "travailler avec le ministère de la justice sur la prise en compte de la dangerosité",
+          "agir dans le cadre de la directive retour"
+        ],
+        "quotes": [
+          {
+            "speaker": "Hanane Mansouri",
+            "text": "Dans un pays d’ordre, Philippine serait encore en vie."
+          },
+          {
+            "speaker": "Bruno Retailleau",
+            "text": "Quand la règle de droit ne protège pas les Français, il faut changer la règle de droit."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG110",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG110",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur l’impact des efforts budgétaires demandés aux collectivités dans le Dunkerquois, bassin industriel en pleine transformation. Il demande comment l’État compte préserver l’investissement local, l’emploi industriel et les projets structurants.",
+        "answer_summary": "La ministre répond que l’État est fortement engagé aux côtés du Dunkerquois, avec 20 000 emplois visés, 8 milliards d’euros d’investissements d’entreprises soutenus par l’État et la région, le maintien des moyens de Territoires d’industrie et plusieurs projets industriels, portuaires, routiers et énergétiques.",
+        "issues": [
+          "Dunkerquois",
+          "collectivités territoriales",
+          "réindustrialisation",
+          "investissements publics",
+          "Territoires d’industrie",
+          "emploi"
+        ],
+        "announced_measures": [
+          "préserver les budgets de Territoires d’industrie et de l’ANCT",
+          "soutenir les investissements industriels du Dunkerquois",
+          "accompagner les projets du port, des infrastructures routières et de l’EPR de Gravelines"
+        ],
+        "quotes": [
+          {
+            "speaker": "Julien Gokel",
+            "text": "Votre budget impose brutalement un effort de 5 milliards d'euros aux collectivités."
+          },
+          {
+            "speaker": "Catherine Vautrin",
+            "text": "L'État est présent et le Gouvernement est engagé à vos côtés."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1100",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1100",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député décrit une crise agricole très large, touchant de nombreuses filières et régions, et demande des réponses sur les normes, les coûts, la concurrence internationale et la crise de l’élevage.",
+        "answer_summary": "La ministre reconnaît la souffrance du monde agricole et l’angoisse particulière des éleveurs face à la dermatose nodulaire contagieuse. Elle évoque le poids des normes, la hausse des engrais, la défiance envers la profession et présente la vaccination en Occitanie comme un soulagement.",
+        "issues": [
+          "crise agricole",
+          "élevage",
+          "dermatose nodulaire contagieuse",
+          "normes agricoles",
+          "prix des engrais",
+          "revenus agricoles"
+        ],
+        "announced_measures": [
+          "déployer la vaccination des troupeaux en Occitanie",
+          "poursuivre l’accompagnement du monde agricole face aux crises sanitaires et économiques"
+        ],
+        "quotes": [
+          {
+            "speaker": "Nicolas Turquois",
+            "text": "Je n’ai pas le souvenir d’une crise aussi large et profonde."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "La vaccination des troupeaux constituait un immense soulagement."
+          }
+        ],
+        "confidence": 0.85,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1101",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1101",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce une gestion jugée froide et bureaucratique de la dermatose nodulaire contagieuse, avec des abattages traumatisants et une rupture de confiance entre l’État et les agriculteurs. Il demande une stratégie plus respectueuse des éleveurs et de la cohésion nationale.",
+        "answer_summary": "La ministre affirme que la situation sanitaire ne s’échappe pas, la France ne comptant plus aucun foyer actif au moment de sa réponse. Elle défend la vaccination massive, organisée et territorialisée comme principal garde-fou contre la maladie, et veut donner des perspectives aux éleveurs.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "élevage bovin",
+          "abattage sanitaire",
+          "vaccination",
+          "agriculture",
+          "confiance envers l’État"
+        ],
+        "announced_measures": [
+          "déclencher une campagne de vaccination massive, organisée, territorialisée et rapide",
+          "donner des perspectives aux éleveurs touchés",
+          "tirer les enseignements des zones où la maladie a été éradiquée"
+        ],
+        "quotes": [
+          {
+            "speaker": "Patrice Martin",
+            "text": "Contenir ne signifie pas écraser."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Au moment où je vous parle, elle ne compte plus aucun foyer de dermatose nodulaire contagieuse bovine."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1102",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1102",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée relaie la détresse des éleveurs ariégeois après l’abattage de 207 vaches et demande une indemnisation rapide, un protocole alternatif et une concertation réelle avec les représentants du monde agricole.",
+        "answer_summary": "La ministre assure qu’aucun éleveur ne sera laissé seul et annonce des indemnisations pour la valeur marchande des animaux, les pertes économiques et la désinfection des bâtiments. Elle propose aussi une réunion associant les représentants de l’élevage occitan et des experts indépendants pour discuter d’un protocole alternatif.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "Ariège",
+          "indemnisation agricole",
+          "abattage sanitaire",
+          "désinfection",
+          "protocole sanitaire"
+        ],
+        "announced_measures": [
+          "indemniser les animaux à hauteur de leur valeur marchande",
+          "indemniser les pertes économiques liées à la perte du troupeau",
+          "prendre en charge la désinfection des bâtiments d’élevage",
+          "réunir représentants de l’élevage occitan et experts indépendants autour d’un protocole alternatif"
+        ],
+        "quotes": [
+          {
+            "speaker": "Martine Froger",
+            "text": "L'État a procédé à l'abattage de 207 vaches."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Aucun éleveur ne sera laissé au bord du chemin."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1103",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1103",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député relaie le désarroi des agriculteurs du Gers et demande une solution humaine face à la dermatose nodulaire contagieuse, en saluant le cordon sanitaire et l’accélération de la vaccination mais en appelant au dialogue.",
+        "answer_summary": "La ministre répond que le périmètre vaccinal a été débattu avec les éleveurs et annonce que le cordon sanitaire entourera toute la zone réglementée. Elle se dit ouverte à l’extension de la zone vaccinale à d’autres départements, tout en soulignant les conséquences économiques sur le commerce et l’exportation.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "cordon sanitaire",
+          "vaccination",
+          "Gers",
+          "Occitanie",
+          "commerce agricole"
+        ],
+        "announced_measures": [
+          "étendre le cordon sanitaire à toute la zone réglementée",
+          "examiner les demandes d’extension de la zone vaccinale",
+          "tenir compte des conséquences économiques sur le commerce et l’exportation"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jean-René Cazeneuve",
+            "text": "Nous appelons à continuer le dialogue pour trouver une solution humaine."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Nous avons donc décidé que le cordon sanitaire enserrerait toute la zone réglementée."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1104",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1104",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député, lui-même éleveur, accuse le Gouvernement d’avoir répondu à la crise de la dermatose nodulaire contagieuse par des moyens coercitifs plutôt que par la présence et l’écoute. Il met en cause le retard supposé de la vaccination et la perte de souveraineté alimentaire.",
+        "answer_summary": "La ministre dit comprendre l’émotion des éleveurs et rappelle les traumatismes des grandes épizooties passées. Elle affirme que le monde de l’élevage s’est toujours relevé, conteste l’idée d’un retard à la vaccination et assure que celle-ci était déjà en cours un mois auparavant.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "élevage bovin",
+          "vaccination",
+          "épizooties",
+          "souveraineté alimentaire",
+          "maintien de l’ordre"
+        ],
+        "announced_measures": [
+          "poursuivre la vaccination engagée contre la dermatose nodulaire contagieuse",
+          "accompagner les éleveurs dans la sortie de crise sanitaire"
+        ],
+        "quotes": [
+          {
+            "speaker": "Pierre-Henri Carbonnel",
+            "text": "C'est le travail d'une vie qui part en fumée."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Nous vaccinions !"
+          }
+        ],
+        "confidence": 0.84,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1105",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1105",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député élargit la crise agricole au-delà des abattages sanitaires : revenus insuffisants, conditions de travail, Mercosur, PAC, taxes et sentiment de mépris. Il demande au Premier ministre une réponse globale et un respect concret des agriculteurs.",
+        "answer_summary": "Le Premier ministre défend la mobilisation de la ministre de l’agriculture et des services de l’État depuis le mois de juin. Il reconnaît que certaines images d’intervention ont pu choquer, dément des contrevérités sur l’usage de projectiles par hélicoptère et distingue les éleveurs des militants qu’il accuse d’instrumentaliser la crise.",
+        "issues": [
+          "crise agricole",
+          "dermatose nodulaire contagieuse",
+          "maintien de l’ordre",
+          "Mercosur",
+          "PAC",
+          "revenus agricoles"
+        ],
+        "announced_measures": [
+          "poursuivre la mobilisation des services de l’État contre l’épizootie",
+          "rappeler les faits sur les opérations de maintien de l’ordre",
+          "distinguer les éleveurs des groupes militants impliqués dans les blocages"
+        ],
+        "quotes": [
+          {
+            "speaker": "Paul Christophe",
+            "text": "Nos agriculteurs méritent mieux."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "Les images ont pu choquer parce qu'elles étaient tout simplement choquantes."
+          }
+        ],
+        "confidence": 0.82,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1106",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1106",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée exprime son soutien aux éleveurs touchés par la dermatose nodulaire contagieuse et dénonce les abattages, la répression et le manque de préparation vaccinale. Elle demande si la France dispose des vaccins et si la stratégie sera revue.",
+        "answer_summary": "La ministre insiste sur la solidarité nationale envers les éleveurs et rappelle que 3 300 bovins ont été abattus depuis le 29 juin. Elle justifie ces abattages par l’objectif de protéger l’ensemble du cheptel français, estimé à 16 millions de bêtes, et défend la logique sanitaire de la réponse.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "vaccins",
+          "abattage sanitaire",
+          "élevage bovin",
+          "solidarité nationale",
+          "cheptel français"
+        ],
+        "announced_measures": [
+          "protéger l’ensemble du cheptel français contre la maladie",
+          "maintenir l’effort de solidarité envers les éleveurs touchés"
+        ],
+        "quotes": [
+          {
+            "speaker": "Marie Pochon",
+            "text": "Nous ne faisons pas face à une simple crise sanitaire, mais à des drames humains, sociaux, économiques."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "3 300 bêtes ont perdu la vie, mais pour en sauver 16 millions."
+          }
+        ],
+        "confidence": 0.84,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1107",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1107",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député apporte son soutien aux éleveurs confrontés à la dermatose nodulaire contagieuse et demande des garanties sur l’accompagnement humain, financier et fiscal des exploitations touchées par les abattages.",
+        "answer_summary": "La ministre affirme que l’État est aux côtés des éleveurs et qu’aucun éleveur touché ne sera laissé seul. Elle annonce que les indemnisations pour perte d’élevage seront défiscalisées et insiste sur le caractère sanitaire et humain, et non politique, de la crise.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "indemnisation agricole",
+          "défiscalisation",
+          "élevage bovin",
+          "crise sanitaire",
+          "accompagnement des exploitants"
+        ],
+        "announced_measures": [
+          "défiscaliser les indemnisations pour perte d’élevage",
+          "accompagner financièrement et humainement les éleveurs touchés"
+        ],
+        "quotes": [
+          {
+            "speaker": "Eric Liégeon",
+            "text": "Le dépeuplement des troupeaux touchés par la maladie est un événement dramatique pour un éleveur."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Les indemnisations pour perte d'élevage seront défiscalisées."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1108",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1108",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la situation de la Fonderie de Sougland et accuse le groupe ACI d’avoir mis en danger un patrimoine industriel ancien. Il demande au Gouvernement comment il compte sauver l’entreprise, protéger l’emploi et corriger les faiblesses de la politique industrielle.",
+        "answer_summary": "Le ministre reconnaît la mauvaise gestion d’ACI Group et les risques que son redressement judiciaire fait peser sur ses entreprises. Il affirme que les services de Bercy suivent chaque société et travaillent à des projets de reprise ou de développement pour les entités viables, tout en liant une partie des difficultés industrielles à la hausse des prix de l’énergie après l’invasion de l’Ukraine.",
+        "issues": [
+          "industrie",
+          "fonderie",
+          "ACI Group",
+          "redressement judiciaire",
+          "reprise d’entreprise",
+          "prix de l’énergie"
+        ],
+        "announced_measures": [
+          "suivre chaque entreprise du groupe ACI par les services de Bercy",
+          "travailler à des projets de reprise pour les entreprises viables",
+          "travailler à des projets de développement lorsque cela est possible"
+        ],
+        "quotes": [
+          {
+            "speaker": "Eddy Casterman",
+            "text": "La Fonderie de Sougland est aujourd'hui menacée."
+          },
+          {
+            "speaker": "Sébastien Martin",
+            "text": "Chacune d'entre elles fait l'objet d'un suivi méticuleux par les services de Bercy."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1109",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1109",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée évoque l’abattage total d’un troupeau de 208 bovins en Ariège et demande un accompagnement humain, sanitaire et financier des éleveurs, ainsi qu’une stratégie de prévention plus forte face aux épizooties.",
+        "answer_summary": "La ministre dit avoir appelé la famille touchée et insiste sur l’accompagnement psychologique des éleveurs par les chambres d’agriculture, la MSA et les services du ministère. Elle relie la multiplication des épizooties au changement climatique et défend une politique de prévention fondée sur vaccination, biosécurité, surveillance et intervention rapide.",
+        "issues": [
+          "dermatose nodulaire contagieuse",
+          "Ariège",
+          "accompagnement psychologique",
+          "vaccination",
+          "biosécurité",
+          "changement climatique"
+        ],
+        "announced_measures": [
+          "accompagner psychologiquement les éleveurs touchés avec les chambres d’agriculture et la MSA",
+          "renforcer la prévention par la vaccination",
+          "renforcer la biosécurité et la surveillance des cheptels",
+          "intervenir rapidement dès la détection de la maladie"
+        ],
+        "quotes": [
+          {
+            "speaker": "Audrey Abadie-Amiel",
+            "text": "L’abattage total d’un troupeau de 208 bêtes."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "Ce qui importe d'abord, c'est l'accompagnement humain."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG111",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG111",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interpelle le Gouvernement sur plusieurs crises ultramarines : couvre-feux en Nouvelle-Calédonie et en Martinique, vie chère, énergie, budgets et sentiment de mépris. Il demande des réponses politiques et budgétaires pour les outre-mer.",
+        "answer_summary": "Le ministre reconnaît une baisse significative du budget des outre-mer et indique vouloir le reprendre lors de l’examen de la seconde partie du budget. Il rappelle que l’ensemble des dépenses en faveur des outre-mer représente environ 25 milliards d’euros, dont sa mission ne constitue qu’une part, et promet de travailler pour remonter les crédits amputés.",
+        "issues": [
+          "outre-mer",
+          "budget des outre-mer",
+          "Nouvelle-Calédonie",
+          "Martinique",
+          "couvre-feu",
+          "vie chère"
+        ],
+        "announced_measures": [
+          "défendre une remontée du budget des outre-mer pendant le débat budgétaire",
+          "travailler à corriger le coup de rabot sur la mission outre-mer"
+        ],
+        "quotes": [
+          {
+            "speaker": "Perceval Gaillard",
+            "text": "Jusqu'à quand durera le couvre-feu en Nouvelle-Calédonie-Kanaky ?"
+          },
+          {
+            "speaker": "François-Noël Buffet",
+            "text": "Je travaille déjà à reprendre ce budget."
+          }
+        ],
+        "confidence": 0.84,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1110",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1110",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce la poursuite des morts à Gaza, l’insuffisance de l’aide humanitaire et la colonisation en Cisjordanie. Il interroge la France sur d’éventuelles livraisons ou composants militaires à Israël et demande une position plus ferme.",
+        "answer_summary": "La ministre déléguée affirme que la France veut le respect du droit international et du cessez-le-feu. Elle rappelle la doctrine française : aucune arme ne doit être livrée à l’armée israélienne ni aucun composant utilisé pour viser des civils, avec des exceptions pour les systèmes défensifs et les réexportations, et évoque le blocage conservatoire de certaines livraisons le temps d’une enquête douanière.",
+        "issues": [
+          "Gaza",
+          "Israël",
+          "exportations d’armement",
+          "droit international",
+          "cessez-le-feu",
+          "aide humanitaire"
+        ],
+        "announced_measures": [
+          "maintenir la doctrine de non-livraison d’armes françaises à l’armée israélienne",
+          "bloquer à titre conservatoire certaines livraisons pendant une enquête douanière",
+          "prendre des responsabilités si des entreprises enfreignent le droit"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jean-Paul Lecoq",
+            "text": "Face à ces violations répétées du droit international."
+          },
+          {
+            "speaker": "Alice Rufo",
+            "text": "Aucune arme française ne doit être livrée à l'armée israélienne."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1111",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1111",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député évoque d’abord la situation des éleveurs, puis interpelle la ministre sur un scandale dans l’aide sociale à l’enfance, où un enfant aurait été tondu comme sanction. Il demande des mesures concrètes de contrôle des établissements et de protection des enfants placés.",
+        "answer_summary": "La ministre qualifie l’incident d’inacceptable, indique avoir saisi la procureure de la République et travailler avec l’IGAS sur les contrôles et la formation des professionnels. Elle rappelle aussi le numéro 119 pour les signalements de violences envers les enfants.",
+        "issues": [
+          "aide sociale à l’enfance",
+          "protection de l’enfance",
+          "contrôle des établissements",
+          "formation des professionnels",
+          "signalement",
+          "violences envers les enfants"
+        ],
+        "announced_measures": [
+          "saisir la procureure de la République",
+          "travailler avec l’IGAS sur le contrôle des établissements",
+          "améliorer la formation des professionnels encadrants",
+          "rappeler l’existence du 119 pour les signalements"
+        ],
+        "quotes": [
+          {
+            "speaker": "Joël Aviragnet",
+            "text": "Eliott, un garçon de 8 ans, s’est fait raser la tête."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Dès que j'en ai eu connaissance, j'ai bien évidemment saisi la procureure de la République."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1112",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1112",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur la liquidation de Brandt, ses 750 salariés et l’échec des offres de reprise, malgré la mobilisation des salariés et élus. Il demande si l’État peut encore soutenir une reprise, notamment sous forme de Scop, pour préserver les emplois et le savoir-faire.",
+        "answer_summary": "Le ministre exprime sa solidarité avec les salariés et rappelle sa venue sur place pour soutenir le projet de Scop. Il explique que l’État, la région, la métropole et d’autres partenaires ont tenté de réunir des financements en urgence pour améliorer l’offre portée par Revive et la Scop.",
+        "issues": [
+          "Brandt",
+          "liquidation judiciaire",
+          "reprise d’entreprise",
+          "Scop",
+          "emplois industriels",
+          "électroménager"
+        ],
+        "announced_measures": [
+          "soutenir le projet de Scop",
+          "mobiliser les collectivités et partenaires financiers autour de l’offre de reprise",
+          "accompagner les salariés et les élus locaux dans la procédure"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christophe Marion",
+            "text": "La liquidation du groupe Brandt est vécue comme un traumatisme national."
+          },
+          {
+            "speaker": "Sébastien Martin",
+            "text": "Je me suis rendu sur place le 1er décembre afin d'apporter le soutien de l'État au projet de société coopérative et participative."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1113",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1113",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce les pressions exercées contre la commission locale de l’eau en Ille-et-Vilaine lors de la révision du Sage, notamment au sujet de restrictions sur certains herbicides. Il demande que l’État protège la gouvernance locale de l’eau et la qualité des cours d’eau.",
+        "answer_summary": "Le ministre rappelle l’importance de la préservation de l’eau et de la gouvernance locale, tout en appelant à ne pas opposer agriculteurs et défenseurs de l’environnement. Il estime que le Sage est techniquement mûr mais qu’il nécessite encore de la concertation et de l’accompagnement.",
+        "issues": [
+          "gestion de l’eau",
+          "Sage",
+          "pesticides",
+          "agriculture",
+          "Vilaine",
+          "gouvernance locale"
+        ],
+        "announced_measures": [
+          "poursuivre la concertation autour du Sage",
+          "prévoir davantage d’accompagnement des parties prenantes",
+          "maintenir une gouvernance locale sur la ressource en eau"
+        ],
+        "quotes": [
+          {
+            "speaker": "Tristan Lahais",
+            "text": "Seulement 8 % des cours d’eau de ce territoire sont en bon état."
+          },
+          {
+            "speaker": "Mathieu Lefèvre",
+            "text": "Ce Sage est-il techniquement mûr ? La réponse est oui."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1114",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1114",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur les drames, les agressions sexuelles signalées, les sous-effectifs et la précarité dans le secteur périscolaire. Elle demande une intervention nationale sur l’encadrement, les contrôles et les moyens.",
+        "answer_summary": "La ministre répond d’abord à un autre cas relevant de la protection de l’enfance, avant d’indiquer que les contrôles et signalements du périscolaire relèvent des collectivités territoriales. La réponse apparaît largement indirecte par rapport à la question posée sur le secteur périscolaire.",
+        "issues": [
+          "périscolaire",
+          "protection des enfants",
+          "animateurs",
+          "agressions sexuelles",
+          "contrôles",
+          "collectivités territoriales"
+        ],
+        "announced_measures": [
+          "rappeler la compétence des collectivités en matière de contrôles et signalements périscolaires"
+        ],
+        "quotes": [
+          {
+            "speaker": "Sophia Chikirou",
+            "text": "On parle du périscolaire !"
+          },
+          {
+            "speaker": "Aurore Bergé",
+            "text": "S'agissant du périscolaire, vous savez, là encore, que les contrôles et les signalements relèvent de la compétence des collectivités."
+          }
+        ],
+        "confidence": 0.78,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1115",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1115",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député partage l’objectif de lutte contre la fast fashion mais alerte sur les effets de bord possibles pour des entreprises textiles françaises comme Dim à Autun. Il demande une protection des acteurs industriels nationaux engagés dans la qualité et la durabilité.",
+        "answer_summary": "Le ministre dit partager cette préoccupation et annonce travailler avec la direction générale des entreprises à un dispositif de bonus pour préserver les entreprises françaises lors de l’application de la loi contre la fast fashion. Il promet une proposition en début d’année 2026.",
+        "issues": [
+          "fast fashion",
+          "industrie textile",
+          "emploi industriel",
+          "entreprises françaises",
+          "bonus environnemental",
+          "Autun"
+        ],
+        "announced_measures": [
+          "étudier un dispositif de bonus pour les entreprises françaises",
+          "présenter une proposition en début d’année 2026"
+        ],
+        "quotes": [
+          {
+            "speaker": "Aurélien Dutremble",
+            "text": "Les nouvelles contraintes imposées par cette loi risquent de fragiliser gravement les acteurs historiques du textile français."
+          },
+          {
+            "speaker": "Serge Papin",
+            "text": "Je ferai une proposition en ce sens en début d'année 2026."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1116",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1116",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique le mécanisme européen de relocalisation des demandeurs d’asile et ses exemptions pour certains États membres. Il demande si la France refusera ce dispositif ou devra payer une contribution financière si elle n’accueille pas les personnes concernées.",
+        "answer_summary": "Le ministre replace le sujet dans le pacte européen sur la migration et l’asile et rappelle les discussions du conseil JAI. Il insiste surtout sur les avancées obtenues par la France dans le règlement retour, notamment l’inversion du principe entre départ volontaire et départ contraint et des outils plus intrusifs contre les personnes en situation irrégulière récalcitrantes.",
+        "issues": [
+          "immigration",
+          "pacte européen sur la migration et l’asile",
+          "relocalisation",
+          "règlement retour",
+          "OQTF",
+          "solidarité européenne"
+        ],
+        "announced_measures": [
+          "faire du départ contraint la règle et du départ volontaire l’exception dans le règlement retour",
+          "autoriser certaines techniques intrusives contre les étrangers en situation irrégulière les plus récalcitrants",
+          "poursuivre les négociations européennes en trilogue"
+        ],
+        "quotes": [
+          {
+            "speaker": "Michaël Taverne",
+            "text": "Ce mécanisme vise à relocaliser 30 000 demandeurs d'asile tous les ans en Europe."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Le départ volontaire deviendra l'exception et le départ contraint, la règle."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1117",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1117",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée met en avant les succès récents de l’animation, du jeu vidéo et des industries créatives françaises, notamment Clair Obscur : Expedition 33. Elle demande comment le Gouvernement compte soutenir cette filière et renforcer son impact économique et culturel.",
+        "answer_summary": "La ministre souligne l’excellence française dans l’animation et le jeu vidéo et cite les chiffres du secteur : chiffre d’affaires, studios, emplois et formations. Elle annonce des priorités autour de la compétitivité, du crédit d’impôt jeux vidéo, de l’innovation et du rayonnement de la filière.",
+        "issues": [
+          "industries culturelles et créatives",
+          "jeu vidéo",
+          "animation",
+          "crédit d’impôt",
+          "innovation",
+          "formation"
+        ],
+        "announced_measures": [
+          "maintenir l’accompagnement de la compétitivité de la filière",
+          "soutenir le crédit d’impôt jeux vidéo",
+          "soutenir l’innovation dans les industries créatives",
+          "valoriser les formations françaises du secteur"
+        ],
+        "quotes": [
+          {
+            "speaker": "Céline Calvez",
+            "text": "Le prix du meilleur jeu vidéo au monde vient d'être décerné à Clair Obscur : Expedition 33."
+          },
+          {
+            "speaker": "Anne Le Hénanff",
+            "text": "5,7 milliards d'euros de chiffre d'affaires, 600 studios répartis sur tout le territoire."
+          }
+        ],
+        "confidence": 0.91,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1118",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1118",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée accuse le Gouvernement de fragiliser MaPrimeRénov’ par des baisses de budget, des changements de règles et une instabilité qui pénaliserait ménages précaires et artisans. Elle demande de sécuriser le dispositif.",
+        "answer_summary": "Le ministre affirme que le budget de MaPrimeRénov’ est maintenu à plus de 4 milliards d’euros et présente le dispositif comme central pour le climat, le pouvoir d’achat et l’activité des artisans. Il appelle les députés à voter le budget pour garantir le fonctionnement du guichet.",
+        "issues": [
+          "MaPrimeRénov’",
+          "rénovation énergétique",
+          "précarité énergétique",
+          "artisans",
+          "budget",
+          "logement"
+        ],
+        "announced_measures": [
+          "maintenir un budget de plus de 4 milliards d’euros pour MaPrimeRénov’",
+          "conditionner la continuité du dispositif au vote du budget"
+        ],
+        "quotes": [
+          {
+            "speaker": "Karen Erodi",
+            "text": "Ce que vous avez fait de MaPrimeRénov', ce n'est pas une réforme, c'est du sabotage."
+          },
+          {
+            "speaker": "Vincent Jeanbrun",
+            "text": "Le budget est maintenu à plus de 4 milliards d'euros."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1119",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1119",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député alerte sur les plateformes chinoises d’achat en ligne, après la découverte de produits illégaux ou dangereux et la croissance massive des colis importés. Il demande un renforcement des contrôles, une responsabilisation des plateformes et une réponse européenne et nationale.",
+        "answer_summary": "Le ministre soutient les recommandations de la mission parlementaire et partage l’objectif de protéger les consommateurs, les entreprises et l’environnement. Il souligne le caractère systémique du non-respect des normes par ces plateformes et appelle à inverser la charge de la preuve, notamment à l’égard de Shein.",
+        "issues": [
+          "commerce en ligne",
+          "plateformes chinoises",
+          "produits dangereux",
+          "contrôle des importations",
+          "concurrence déloyale",
+          "protection des consommateurs"
+        ],
+        "announced_measures": [
+          "organiser un échange avec les parlementaires à partir de leurs recommandations",
+          "travailler à l’inversion de la charge de la preuve pour les plateformes",
+          "renforcer la protection des consommateurs et entreprises face aux produits non conformes"
+        ],
+        "quotes": [
+          {
+            "speaker": "Romain Eskenazi",
+            "text": "Le caractère systémique du non-respect des normes et du code de la consommation constitue le business model de ces plateformes."
+          },
+          {
+            "speaker": "Serge Papin",
+            "text": "Il faut donc maintenant inverser la charge de la preuve."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG112",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG112",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député estime que la politique d’intégration ne fonctionne plus et demande un renforcement des exigences de langue française, de valeurs républicaines et d’assimilation pour les personnes étrangères appelées à s’installer durablement en France.",
+        "answer_summary": "Le secrétaire d’État partage le diagnostic d’un moteur de l’intégration en panne et défend le principe d’« accueillir moins pour accueillir mieux ». Il annonce la mise en place de tests de français et de tests civiques pour les personnes ayant vocation à s’installer durablement sur le territoire.",
+        "issues": [
+          "intégration",
+          "immigration",
+          "langue française",
+          "valeurs de la République",
+          "citoyenneté",
+          "assimilation"
+        ],
+        "announced_measures": [
+          "mettre en place des tests de français pour les étrangers ayant vocation à s’installer durablement",
+          "mettre en place des tests civiques",
+          "conditionner l’installation durable à la réussite de ces tests"
+        ],
+        "quotes": [
+          {
+            "speaker": "Éric Pauget",
+            "text": "Le moteur de l'intégration est malheureusement cassé."
+          },
+          {
+            "speaker": "Othman Nasrou",
+            "text": "Pour accueillir mieux, il faut accueillir moins."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1120",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1120",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée relaie les inquiétudes des agriculteurs des zones intermédiaires face à la faiblesse des aides et à la baisse annoncée du budget de la PAC. Elle demande une reconnaissance et un soutien mieux adaptés aux exploitations situées dans ces zones à faible potentiel.",
+        "answer_summary": "La ministre juge insuffisante la proposition de la Commission européenne sur la PAC et affirme que la France refuse une baisse de 20 % du budget garanti. Elle demande le maintien des montants en euros courants, une PAC autonome et commune, une clarification du Posei et le rapatriement des règles agricoles dans le cadre de la PAC.",
+        "issues": [
+          "PAC",
+          "zones intermédiaires",
+          "aides agricoles",
+          "budget européen",
+          "agriculture",
+          "revenus agricoles"
+        ],
+        "announced_measures": [
+          "refuser la baisse de 20 % du budget garanti de la PAC",
+          "demander le maintien des aides en euros courants",
+          "demander une PAC autonome et un budget garanti",
+          "clarifier le traitement du Posei",
+          "défendre une recommunautarisation de la PAC"
+        ],
+        "quotes": [
+          {
+            "speaker": "Alix Fruchon",
+            "text": "Les agriculteurs des zones intermédiaires verraient les aides tirées de la PAC diminuer drastiquement."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "La France ne peut pas accepter la baisse de 20 % du montant garanti dédié à la PAC."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1121",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1121",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée appelle à mobiliser les avoirs russes gelés pour financer le soutien à l’Ukraine, en soulignant les besoins de financement de Kiev en 2026 et 2027. Elle demande que la France défende une solution européenne ambitieuse au sommet à venir.",
+        "answer_summary": "La ministre rappelle que plus de 200 milliards d’euros d’avoirs souverains russes sont immobilisés dans l’Union européenne et salue la décision de les immobiliser jusqu’à la fin de l’agression russe. Elle indique que la France souhaite un accord au Conseil européen pour renforcer la pression sur la Russie et soutenir l’Ukraine.",
+        "issues": [
+          "Ukraine",
+          "avoirs russes gelés",
+          "Union européenne",
+          "soutien financier",
+          "sanctions",
+          "Conseil européen"
+        ],
+        "announced_measures": [
+          "immobiliser les avoirs russes jusqu’à la fin de l’agression",
+          "rechercher un accord au Conseil européen",
+          "continuer le soutien civil et militaire à l’Ukraine",
+          "accroître la pression sur la Russie dans les négociations"
+        ],
+        "quotes": [
+          {
+            "speaker": "Léa Balage El Mariky",
+            "text": "Poutine doit payer pour la guerre qu’il a déclenchée."
+          },
+          {
+            "speaker": "Eléonore Caroit",
+            "text": "Plus de 200 milliards d'euros immobilisés dans les juridictions de l'Union européenne constituent un atout."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1122",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1122",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge la ministre sur la présence de TFA, un PFAS très mobile, dans l’eau potable et certains aliments. Il demande si l’eau du robinet peut être considérée comme saine et quelles mesures de contrôle et de protection seront prises.",
+        "answer_summary": "La ministre indique que le Gouvernement coordonne son action sur les PFAS et retient provisoirement une valeur sanitaire allemande de 60 microgrammes par litre, avec une cible plus protectrice à 10. Elle précise qu’aucune eau traitée ne dépasse 60, que deux sites dépassent la cible de 10, et annonce l’ajout du TFA et du 6:2 FTS à la liste des PFAS contrôlés dans l’eau potable.",
+        "issues": [
+          "PFAS",
+          "TFA",
+          "eau potable",
+          "Anses",
+          "normes sanitaires",
+          "contrôle de l’eau"
+        ],
+        "announced_measures": [
+          "retenir provisoirement la valeur sanitaire indicative de 60 microgrammes par litre",
+          "viser un objectif plus protecteur à 10 microgrammes par litre",
+          "ajouter le TFA et le 6:2 FTS à la liste des PFAS contrôlés dans l’eau potable",
+          "s’aligner sur les standards européens les plus exigeants après expertise"
+        ],
+        "quotes": [
+          {
+            "speaker": "Cyrille Isaac-Sibille",
+            "text": "Pouvons-nous affirmer aux Français que l'eau du robinet qu'ils boivent est saine ?"
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "Aucune eau traitée ne dépasse toutefois la valeur des 60 microgrammes par litre."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1123",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1123",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée relie la baisse des naissances aux obstacles matériels à la parentalité, notamment la durée des congés et les modes de garde. Elle demande une amélioration des congés parentaux et des conditions permettant aux familles de réaliser leur désir d’enfant.",
+        "answer_summary": "La ministre reconnaît la baisse des naissances mais refuse de l’interpréter uniquement comme un recul du désir d’enfant. Elle affirme que l’action publique doit lever les obstacles à la parentalité, en citant l’infertilité, le logement, les conditions de vie et l’équilibre entre vie professionnelle et vie familiale.",
+        "issues": [
+          "natalité",
+          "congés parentaux",
+          "modes de garde",
+          "infertilité",
+          "logement",
+          "conciliation vie familiale-vie professionnelle"
+        ],
+        "announced_measures": [
+          "étudier les obstacles liés à l’infertilité",
+          "travailler sur l’accès aux soins et la prévention en matière d’infertilité",
+          "prendre en compte les difficultés de logement et de conciliation dans la politique familiale"
+        ],
+        "quotes": [
+          {
+            "speaker": "Constance de Pélichy",
+            "text": "Les deux tiers nous indiquent que de meilleurs congés et modes de garde les inciteraient à faire un enfant de plus."
+          },
+          {
+            "speaker": "Stéphanie Rist",
+            "text": "L'action publique n'a pas vocation à faire peser des injonctions, mais à lever les obstacles."
+          }
+        ],
+        "confidence": 0.84,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1124",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1124",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée défend la modernisation de l’État mais demande des garanties de cybersécurité après une intrusion dans les systèmes du ministère de l’intérieur. Elle interroge le Gouvernement sur les données consultées, les remédiations et la protection des citoyens.",
+        "answer_summary": "Le ministre qualifie l’intrusion de très grave et indique qu’un pirate a exploité le système de messagerie pour collecter des mots de passe et consulter plusieurs fichiers, dont quelques dizaines de fiches auraient été extraites. Il annonce des mesures immédiates : double authentification, fermeture de comptes, gestion plus stricte des messageries, saisine de l’Anssi, enquête judiciaire et enquête administrative.",
+        "issues": [
+          "cybersécurité",
+          "ministère de l’intérieur",
+          "données personnelles",
+          "piratage",
+          "Anssi",
+          "modernisation de l’État"
+        ],
+        "announced_measures": [
+          "systématiser la double authentification",
+          "fermer plusieurs comptes compromis",
+          "renforcer la gestion des messageries",
+          "saisir l’Anssi",
+          "ouvrir une enquête judiciaire",
+          "diligenter une enquête administrative"
+        ],
+        "quotes": [
+          {
+            "speaker": "Marie-Agnès Poussier-Winsback",
+            "text": "Cette modernisation ne peut se concevoir sans garanties particulièrement fortes."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Ce qui s'est produit est très grave."
+          }
+        ],
+        "confidence": 0.92,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1125",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1125",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député s’inquiète du projet de décret Rivage, qui pourrait restreindre l’accès à l’appel dans certains litiges civils, notamment familiaux ou de faible montant. Il demande que le droit au recours et l’accès à la justice soient préservés.",
+        "answer_summary": "Le garde des sceaux présente Rivage comme une mesure ciblée de justice civile, soumise à concertation, qui concernerait 12 500 dossiers par an et viserait surtout les procédures manifestement irrégulières. Il se dit disposé à exclure les prud’hommes du champ du décret, conformément aux remarques des avocats.",
+        "issues": [
+          "justice civile",
+          "appel",
+          "décret Rivage",
+          "accès au juge",
+          "prud’hommes",
+          "modes amiables"
+        ],
+        "announced_measures": [
+          "soumettre le projet de décret à concertation",
+          "envisager d’exclure les prud’hommes du champ du décret",
+          "développer les modes amiables de règlement des différends",
+          "cibler les dossiers présentant une irrégularité manifeste"
+        ],
+        "quotes": [
+          {
+            "speaker": "Yannick Monnet",
+            "text": "Vous envisagez de relever le seuil d'appel d'une décision de première instance de 5 000 à 10 000 euros."
+          },
+          {
+            "speaker": "Gérald Darmanin",
+            "text": "Ce décret concernerait chaque année 12 500 dossiers."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1126",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1126",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député dénonce les effets du pacte vert européen et de l’interdiction du thermique sur la filière automobile française. Il demande de défendre les salariés, les sous-traitants et la souveraineté industrielle face aux normes européennes.",
+        "answer_summary": "La ministre déléguée défend le paquet automobile européen comme un compromis équilibré entre transition écologique et protection de l’industrie. Elle souligne l’introduction d’une préférence européenne, notamment via le critère « fabriqué en Europe », et le conditionnement des aides publiques à partir de 2028 pour soutenir l’électrification et les batteries européennes.",
+        "issues": [
+          "industrie automobile",
+          "transition écologique",
+          "Union européenne",
+          "véhicules électriques",
+          "préférence européenne",
+          "emploi industriel"
+        ],
+        "announced_measures": [
+          "mettre en œuvre le critère « fabriqué en Europe »",
+          "conditionner certaines aides publiques à partir de 2028",
+          "favoriser l’électrification des flottes, des petits véhicules et des batteries",
+          "poursuivre la négociation européenne pour concilier industrie et climat"
+        ],
+        "quotes": [
+          {
+            "speaker": "Eric Michoux",
+            "text": "Je veux porter ici la colère des 330 000 salariés de la filière automobile française."
+          },
+          {
+            "speaker": "Anne Le Hénanff",
+            "text": "Son but est de nous permettre de mener à bien la transition écologique sans sacrifier l'industrie européenne."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1127",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1127",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique l’échec de la commission mixte paritaire budgétaire et l’adoption d’une loi spéciale, qu’il présente comme le symptôme d’une absence de majorité claire. Il demande au Premier ministre comment éviter l’instabilité et garantir un vrai budget.",
+        "answer_summary": "Le Premier ministre rappelle qu’une loi spéciale n’est pas un budget mais un texte transitoire permettant de lever l’impôt, d’engager la dette et de faire fonctionner les services publics. Il insiste sur les conséquences concrètes d’un retard budgétaire, notamment pour les mesures agricoles, et rend hommage au travail du rapporteur général.",
+        "issues": [
+          "loi spéciale",
+          "budget",
+          "commission mixte paritaire",
+          "services publics",
+          "déficit public",
+          "stabilité institutionnelle"
+        ],
+        "announced_measures": [
+          "utiliser la loi spéciale comme solution transitoire au 1er janvier",
+          "protéger la capacité à lever l’impôt et à engager la dette",
+          "poursuivre le travail parlementaire pour adopter un vrai budget"
+        ],
+        "quotes": [
+          {
+            "speaker": "Boris Vallaud",
+            "text": "La conséquence de son inconséquence est le vote, cet après-midi, d'une loi spéciale."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "La loi spéciale n'est pas un budget."
+          }
+        ],
+        "confidence": 0.87,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1128",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1128",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député affirme vouloir éviter le blocage institutionnel tout en refusant toute hausse d’impôts. Il demande au Gouvernement d’assumer une vraie baisse de la dépense publique et de rééquilibrer l’effort budgétaire en faveur des économies.",
+        "answer_summary": "La ministre salue la volonté d’éviter le blocage et rappelle que l’objectif de déficit à 5,4 % a été tenu grâce à 23 milliards d’euros d’économies de l’État. Elle défend une trajectoire initiale composée de deux tiers de baisses de dépenses et d’un tiers de recettes, et appelle à prolonger le travail budgétaire.",
+        "issues": [
+          "dépense publique",
+          "déficit",
+          "budget",
+          "économies de l’État",
+          "fiscalité",
+          "loi spéciale"
+        ],
+        "announced_measures": [
+          "viser une loi spéciale de la plus courte durée possible",
+          "poursuivre l’effort de réduction des dépenses",
+          "maintenir une trajectoire de réduction du déficit fondée prioritairement sur les économies"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jean-Didier Berger",
+            "text": "Éviter le blocage institutionnel, mais refuser toute augmentation d'impôts."
+          },
+          {
+            "speaker": "Amélie de Montchalin",
+            "text": "L'État a fait 23 milliards d'euros d'économies."
+          }
+        ],
+        "confidence": 0.89,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1129",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1129",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée dénonce la chute des régularisations depuis la circulaire Retailleau, les OQTF visant des personnes insérées ou employées dans des métiers en tension, et les effets humains de cette politique. Elle demande au Gouvernement de revenir sur cette ligne.",
+        "answer_summary": "Le ministre répond que le droit au séjour doit être justifié et que les OQTF continueront d’être notifiées aux étrangers en situation irrégulière. Il maintient la circulaire Retailleau, rappelle que les régularisations restent exceptionnelles et discrétionnaires, et affirme que le Gouvernement n’envisage pas de revenir dessus.",
+        "issues": [
+          "immigration",
+          "régularisations",
+          "OQTF",
+          "circulaire Retailleau",
+          "métiers en tension",
+          "admission exceptionnelle au séjour"
+        ],
+        "announced_measures": [
+          "maintenir l’application de la circulaire du 23 janvier 2025",
+          "poursuivre les OQTF pour les situations irrégulières",
+          "maintenir le caractère exceptionnel et discrétionnaire des régularisations"
+        ],
+        "quotes": [
+          {
+            "speaker": "Sandrine Rousseau",
+            "text": "Les régularisations de personnes étrangères se sont effondrées de 42 % en neuf mois."
+          },
+          {
+            "speaker": "Laurent Nuñez",
+            "text": "Le gouvernement n'envisage pas de revenir dessus."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG113",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG113",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député critique le projet d’installation de la Maison des mondes africains à l’hôtel de la Monnaie, qu’il juge incohérent avec l’identité et les missions de la Monnaie de Paris. Il demande si le Gouvernement compte maintenir ce choix.",
+        "answer_summary": "La porte-parole du Gouvernement appelle à sortir des caricatures et rappelle que la Maison des mondes africains doit être un lieu dédié aux pensées et créativités africaines. Elle précise que l’installation à l’hôtel de la Monnaie n’est qu’une hypothèse non confirmée et qu’elle fera l’objet d’une concertation.",
+        "issues": [
+          "culture",
+          "Maison des mondes africains",
+          "Monnaie de Paris",
+          "patrimoine",
+          "Afrique-France",
+          "implantation culturelle"
+        ],
+        "announced_measures": [
+          "préciser ultérieurement l’implantation de la Maison des mondes africains",
+          "organiser une concertation sur le projet",
+          "ne pas remettre en cause le travail de la Monnaie de Paris"
+        ],
+        "quotes": [
+          {
+            "speaker": "Jérôme Buisson",
+            "text": "La future Maison des mondes africains doit s'installer à l'hôtel de la Monnaie."
+          },
+          {
+            "speaker": "Maud Bregeon",
+            "text": "Son installation dans l'hôtel de la Monnaie est une hypothèse à ce jour non confirmée."
+          }
+        ],
+        "confidence": 0.86,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1130",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1130",
+      "status": "ok",
+      "output": {
+        "question_summary": "La députée alerte sur les conséquences qu’une loi spéciale aurait pour Mayotte un an après le cyclone Chido, en particulier sur la reconstruction, les infrastructures, le centre hospitalier de Mamoudzou et les mesures sociales.",
+        "answer_summary": "La ministre affirme que le vote du PLFSS permet déjà d’avancer sur la Lodeom à Mayotte et de financer 122 millions d’euros pour la rénovation du centre hospitalier de Mamoudzou. Elle assure que les urgences et la sécurité ne seront pas gelées, mais souligne qu’un vrai budget est nécessaire pour rendre actifs les 4 milliards d’euros du programme d’investissement territorial.",
+        "issues": [
+          "Mayotte",
+          "loi spéciale",
+          "cyclone Chido",
+          "reconstruction",
+          "centre hospitalier de Mamoudzou",
+          "budget"
+        ],
+        "announced_measures": [
+          "avancer au 1er juillet l’application de la Lodeom à Mayotte",
+          "investir 122 millions d’euros dans la rénovation du centre hospitalier de Mamoudzou",
+          "créer le programme d’investissement territorial de l’État doté de 4 milliards d’euros jusqu’en 2031",
+          "inscrire 675 millions d’euros d’autorisations d’engagement dès 2026"
+        ],
+        "quotes": [
+          {
+            "speaker": "Maud Petit",
+            "text": "Un an après, chacun, à Mayotte, vit encore avec les traces de cette catastrophe."
+          },
+          {
+            "speaker": "Amélie de Montchalin",
+            "text": "Cet argent ne sera visible, tangible et actif à Mayotte que lorsque nous aurons un vrai budget."
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": true
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1131",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1131",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député évoque les salariés d’Asteelflash Lorraine, la perte d’un marché militaire par l’entreprise de Buyer et la nécessité de mieux protéger les entreprises françaises dans les marchés publics. Il demande des mesures pour préserver l’emploi et les savoir-faire.",
+        "answer_summary": "Le Premier ministre s’associe aux préoccupations pour les salariés et indique que l’État suit le plan de sauvegarde de l’emploi d’Asteelflash. Il reconnaît que les marchés publics posent des questions juridiques et économiques et annonce la pérennisation du seuil de 100 000 euros pour les marchés publics de travaux, ainsi qu’un relèvement à venir du seuil pour les fournitures.",
+        "issues": [
+          "entreprises françaises",
+          "marchés publics",
+          "Asteelflash",
+          "de Buyer",
+          "emploi industriel",
+          "commande publique"
+        ],
+        "announced_measures": [
+          "accompagner le plan de sauvegarde de l’emploi d’Asteelflash",
+          "demander au ministre de l’industrie de suivre le dossier avec le député",
+          "pérenniser le seuil de 100 000 euros pour les marchés publics de travaux",
+          "rehausser le seuil pour les marchés publics de fournitures"
+        ],
+        "quotes": [
+          {
+            "speaker": "Christophe Naegelen",
+            "text": "Les entreprises ne sont riches que des hommes et des femmes qui les composent."
+          },
+          {
+            "speaker": "Sébastien Lecornu",
+            "text": "Je signerai avant la fin de l'année le décret pérennisant le seuil de 100 000 euros pour les marchés publics de travaux."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    },
+    {
+      "id": "summarize_question:QANR5L17QG1132",
+      "task": "summarize_question_and_answer",
+      "source_id": "QANR5L17QG1132",
+      "status": "ok",
+      "output": {
+        "question_summary": "Le député interroge la ministre sur la place de l’agriculture française dans le commerce mondial, face aux tensions douanières américaines et chinoises, aux exigences de standards élevés et aux inquiétudes liées au Mercosur et à la PAC.",
+        "answer_summary": "La ministre concentre sa réponse sur la PAC, qu’elle présente comme centrale pour l’agriculture européenne. Elle défend le maintien du budget en euros courants, le caractère communautaire de cette politique et s’inquiète d’une proposition européenne qui décommunautariserait certaines règles et mettrait les pays en concurrence.",
+        "issues": [
+          "agriculture",
+          "PAC",
+          "commerce international",
+          "Mercosur",
+          "droits de douane",
+          "standards agricoles"
+        ],
+        "announced_measures": [
+          "défendre le maintien du budget de la PAC en euros courants",
+          "préserver le caractère communautaire de la PAC",
+          "s’opposer à la décommunautarisation de certaines règles agricoles",
+          "défendre des règles communes sur les définitions agricoles et la conditionnalité environnementale"
+        ],
+        "quotes": [
+          {
+            "speaker": "Thierry Benoit",
+            "text": "La France et l'Union européenne exportent dans le monde des produits agricoles respectant des standards de production très exigeants."
+          },
+          {
+            "speaker": "Annie Genevard",
+            "text": "La première exigence est, à tout le moins, de conserver ce budget en euros courants."
+          }
+        ],
+        "confidence": 0.88,
+        "needs_review": false
+      }
+    }
+  ]
+}

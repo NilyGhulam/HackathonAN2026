@@ -1,0 +1,216 @@
+{% extends "base.html" %}
+{% block title %}Sources & données · AgorIA{% endblock %}
+{% block content %}
+<section class="sources-hero">
+  <p class="eyebrow">Transparence des données</p>
+  <h1>Sources utilisées par AgorIA</h1>
+  <p>
+    Cette page expose ce qui est présent dans le projet : données brutes, fichiers
+    normalisés, enrichissements LLM et payloads consolidés utilisés par l'application.
+  </p>
+</section>
+
+<section class="sources-kpis" aria-label="Indicateurs principaux">
+  <article class="source-kpi">
+    <span>Raw</span>
+    <strong>{{ inventory.summary.raw_files }}</strong>
+    <p>fichiers bruts · {{ inventory.sections[0].total_size_label }}</p>
+  </article>
+  <article class="source-kpi">
+    <span>Processed</span>
+    <strong>{{ inventory.summary.processed_files }}</strong>
+    <p>fichiers intermédiaires · {{ inventory.summary.processed_records }} entrées repérées</p>
+  </article>
+  <article class="source-kpi">
+    <span>Curated</span>
+    <strong>{{ inventory.summary.curated_payloads }}</strong>
+    <p>payloads consolidés · {{ inventory.summary.curated_subjects }} sujets</p>
+  </article>
+  <article class="source-kpi">
+    <span>LLM</span>
+    <strong>{{ inventory.summary.llm_done_total }}</strong>
+    <p>enrichissements enregistrés / {{ inventory.summary.llm_queue_total }} tâches possibles</p>
+  </article>
+</section>
+
+<section class="sources-layout">
+  <div class="sources-main">
+    <section class="card source-card">
+      <div class="section-heading compact-heading">
+        <div>
+          <p class="eyebrow">Chaîne de traitement</p>
+          <h2>Du brut au consolidé</h2>
+        </div>
+      </div>
+      <div class="pipeline-steps">
+        {% for section in inventory.sections %}
+        <article class="pipeline-step pipeline-{{ section.key }}">
+          <div>
+            <span class="pipeline-label">{{ section.label }}</span>
+            <h3>{{ section.path }}</h3>
+            <p>{{ section.description }}</p>
+          </div>
+          <dl>
+            <div><dt>Fichiers</dt><dd>{{ section.file_count }}</dd></div>
+            <div><dt>JSON</dt><dd>{{ section.json_count }}</dd></div>
+            <div><dt>Taille</dt><dd>{{ section.total_size_label }}</dd></div>
+            {% if section.record_count %}<div><dt>Entrées</dt><dd>{{ section.record_count }}</dd></div>{% endif %}
+          </dl>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="card source-card">
+      <div class="section-heading compact-heading">
+        <div>
+          <p class="eyebrow">Sources brutes</p>
+          <h2>Répartition dans data/raw</h2>
+        </div>
+      </div>
+      {% if inventory.sections[0].children %}
+      <div class="source-table-wrap">
+        <table class="source-table">
+          <thead>
+            <tr><th>Dossier / fichier</th><th>Fichiers</th><th>JSON</th><th>Taille</th></tr>
+          </thead>
+          <tbody>
+            {% for child in inventory.sections[0].children %}
+            <tr>
+              <td>{{ child.name }}</td>
+              <td>{{ child.file_count }}</td>
+              <td>{{ child.json_count }}</td>
+              <td>{{ child.size_label }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      {% else %}
+      <p class="muted">Aucun fichier brut détecté dans data/raw pour l'instant.</p>
+      {% endif %}
+    </section>
+
+    <section class="card source-card">
+      <div class="section-heading compact-heading">
+        <div>
+          <p class="eyebrow">Normalisation</p>
+          <h2>Fichiers processed générés</h2>
+        </div>
+      </div>
+      {% if inventory.normalized.files %}
+      <div class="source-table-wrap">
+        <table class="source-table">
+          <thead>
+            <tr><th>Fichier</th><th>Entrées</th><th>Taille</th></tr>
+          </thead>
+          <tbody>
+            {% for item in inventory.normalized.files %}
+            <tr>
+              <td>{{ item.name }}</td>
+              <td>{{ item.record_count }}</td>
+              <td>{{ item.size_label }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      {% else %}
+      <p class="muted">Aucun fichier normalized_*.json détecté.</p>
+      {% endif %}
+    </section>
+  </div>
+
+  <aside class="sources-aside">
+    <section class="card source-card">
+      <p class="eyebrow">Enrichissement LLM</p>
+      <h2>Queue et résultats</h2>
+      <div class="mini-bars">
+        <h3>Tâches disponibles</h3>
+        {% for item in inventory.queue.by_task %}
+        <div class="mini-bar-row">
+          <span>{{ item.task }}</span>
+          <strong>{{ item.count }}</strong>
+        </div>
+        {% else %}
+        <p class="muted">Aucune queue LLM détectée.</p>
+        {% endfor %}
+      </div>
+      <div class="mini-bars">
+        <h3>Enrichissements enregistrés</h3>
+        {% for item in inventory.enrichments.by_task %}
+        <div class="mini-bar-row">
+          <span>{{ item.task }}</span>
+          <strong>{{ item.count }}</strong>
+        </div>
+        {% else %}
+        <p class="muted">Aucun enrichissement importé pour l'instant.</p>
+        {% endfor %}
+      </div>
+      <p class="source-note">
+        {{ inventory.enrichments.needs_review }} enrichissement(s) sont marqués à relire.
+      </p>
+    </section>
+
+    <section class="card source-card">
+      <p class="eyebrow">Payloads consommés</p>
+      <h2>Curated</h2>
+      <dl class="source-dl">
+        <div><dt>Payloads</dt><dd>{{ inventory.curated_payloads.payload_count }}</dd></div>
+        <div><dt>Sujets</dt><dd>{{ inventory.curated_payloads.subject_count }}</dd></div>
+        <div><dt>Traces</dt><dd>{{ inventory.curated_payloads.trace_count }}</dd></div>
+        <div><dt>Acteurs liés</dt><dd>{{ inventory.curated_payloads.actor_count }}</dd></div>
+      </dl>
+      {% if inventory.curated_payloads.by_raw_type %}
+      <h3>Types de sources</h3>
+      <div class="tag-cloud">
+        {% for item in inventory.curated_payloads.by_raw_type %}
+        <span>{{ item.label }} · {{ item.count }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      {% if inventory.curated_payloads.by_status %}
+      <h3>Statuts</h3>
+      <div class="tag-cloud">
+        {% for item in inventory.curated_payloads.by_status %}
+        <span>{{ item.label }} · {{ item.count }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </section>
+  </aside>
+</section>
+
+<section class="card source-card source-files-section">
+  <div class="section-heading compact-heading">
+    <div>
+      <p class="eyebrow">Inventaire des fichiers</p>
+      <h2>Fichiers repérés</h2>
+    </div>
+  </div>
+  <div class="source-file-grid">
+    {% for section in inventory.sections %}
+    <article>
+      <h3>{{ section.label }}</h3>
+      {% if section.files %}
+      <ul class="source-file-list">
+        {% for file in section.files %}
+        <li>
+          <span>{{ file.relative_path }}</span>
+          <small>
+            {{ file.size_label }}{% if file.record_count %} · {{ file.record_count }} entrée(s){% endif %}
+          </small>
+        </li>
+        {% endfor %}
+      </ul>
+      {% if section.has_more_files %}
+      <p class="muted">Liste limitée aux 24 premiers fichiers.</p>
+      {% endif %}
+      {% else %}
+      <p class="muted">Aucun fichier détecté.</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}
