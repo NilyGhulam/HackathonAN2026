@@ -427,12 +427,34 @@ def _entry_range_groups(items: list[dict], *, kind: str, offset: int = 0) -> lis
         groups.append(
             {
                 "id": f"{start}-{end}",
-                "label": f"Groupe {len(groups) + 1}",
+                "label": _entry_range_label(chunk),
                 "count": len(chunk),
                 "kind": kind,
             }
         )
     return groups
+
+
+def _entry_range_label(items: list[dict]) -> str:
+    labels = [_entry_item_label(item) for item in items if _entry_item_label(item)]
+    if not labels:
+        return "À explorer"
+    first = _short_entry_label(labels[0])
+    last = _short_entry_label(labels[-1])
+    if first == last:
+        return first
+    return f"{first} - {last}"
+
+
+def _entry_item_label(item: dict) -> str:
+    return str(item.get("label") or item.get("title") or item.get("subject_title") or "").strip()
+
+
+def _short_entry_label(value: str, limit: int = 26) -> str:
+    value = " ".join(value.split())
+    if len(value) <= limit:
+        return value
+    return f"{value[: limit - 1].rstrip()}…"
 
 
 def _entry_subject_groups(category_id: str, subtheme_id: str, subjects: list[dict], *, offset: int = 0) -> list[dict]:

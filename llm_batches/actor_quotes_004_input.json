@@ -1,0 +1,68 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "actor_quotes_20260704T174458_0000",
+  "generated_at": "2026-07-04T17:44:58+00:00",
+  "source_queue": "/home/camellia/agoraloi_prototype/data/processed/actor_quote_queue.json",
+  "selection": {
+    "offset": 0,
+    "limit": 50,
+    "task": "extract_actor_quotes",
+    "skip_done": true,
+    "candidate_count_after_filters": 0,
+    "selected_count": 0
+  },
+  "instructions": [
+    "Produire uniquement du JSON valide selon le schéma de sortie AgorIA.",
+    "Extraire uniquement des citations exactes présentes dans les segments fournis.",
+    "Ne jamais reformuler le champ quote : le champ quote doit être un extrait littéral du segment.",
+    "Attribuer les citations seulement à l'acteur du segment correspondant.",
+    "Limiter les citations à des extraits utiles, idéalement 15 à 45 mots.",
+    "Séparer la citation exacte de l'argument_summary, qui peut être une synthèse.",
+    "Utiliser needs_review=true si l'attribution, le sens politique ou le contexte est incertain.",
+    "Ne pas chercher à équilibrer artificiellement les positions : extraire ce qui est réellement dans le texte."
+  ],
+  "stance_values": [
+    "soutien",
+    "opposition",
+    "alerte",
+    "critique",
+    "demande_action",
+    "demande_moyens",
+    "justification",
+    "annonce_mesure",
+    "réserve",
+    "proposition",
+    "défense_bilan",
+    "mise_en_cause"
+  ],
+  "items": [],
+  "output_contract": {
+    "items": [
+      {
+        "id": "identique à l'id de l'item d'entrée",
+        "task": "extract_actor_quotes",
+        "source_id": "identique au source_id d'entrée",
+        "subject_id": "identique au subject_id d'entrée",
+        "status": "ok|needs_review|error",
+        "output": {
+          "quotes": [
+            {
+              "segment_id": "question|answer",
+              "actor_id": "id acteur du segment",
+              "actor_name": "nom acteur du segment",
+              "stance": "valeur stance_values",
+              "argument_summary": "synthèse courte de l'argument",
+              "quote": "citation exacte",
+              "quote_context": "contexte immédiat ou phrase de cadrage",
+              "tags": [
+                "tag court"
+              ],
+              "confidence": 0.0,
+              "needs_review": false
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

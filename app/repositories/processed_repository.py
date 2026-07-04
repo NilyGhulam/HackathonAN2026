@@ -290,8 +290,8 @@ class ProcessedRepository:
             for subject in payload.get("subject_updates", []):
                 subject_id = subject.get("subject_id")
                 if subject_id:
-                    subject_updates_by_id[subject_id] = subject
-                    payload_by_subject[subject_id] = payload
+                    subject_updates_by_id.setdefault(subject_id, subject)
+                    payload_by_subject.setdefault(subject_id, payload)
             for link in payload.get("taxonomy_links", []):
                 subject_id = link.get("subject_id")
                 if subject_id and subject_id not in taxonomy_links_by_subject:
@@ -479,23 +479,36 @@ class ProcessedRepository:
     @staticmethod
     def _argument_map(subject_update: dict) -> dict:
         actors = {actor["id"]: actor for actor in subject_update.get("actors", [])}
+        source_clusters = subject_update.get("argument_clusters", [])
+        selected_quote_clusters = [
+            cluster for cluster in source_clusters if str(cluster.get("id", "")).startswith("actor-quotes-")
+        ]
+        if selected_quote_clusters:
+            source_clusters = selected_quote_clusters
+        else:
+            source_clusters = [
+                cluster
+                for cluster in source_clusters
+                if cluster.get("axis") == "citations-acteurs"
+            ]
         clusters = []
         axes = set()
-        for cluster in subject_update.get("argument_clusters", []):
+        for cluster in source_clusters:
             axes.add(cluster.get("axis", "arguments-sources"))
             resolved_actors = []
             for actor_link in cluster.get("actors", []):
                 actor = actors.get(actor_link.get("actor_id"), {})
-                name = actor.get("name", actor_link.get("actor_id", "Acteur public"))
+                name = actor.get("name") or actor_link.get("name") or actor_link.get("actor_id") or "Acteur public"
                 resolved_actors.append(
                     {
                         "name": name,
                         "initials": "".join(part[:1] for part in name.split()[:2]) or "AP",
-                        "role": actor.get("role", "Acteur public"),
-                        "party": actor.get("party", "Non renseigné"),
-                        "photo": actor.get("photo_url", ""),
+                        "role": actor.get("role") or actor_link.get("role") or "Acteur public",
+                        "party": actor.get("party") or actor_link.get("party") or "Non renseigné",
+                        "photo": actor.get("photo_url") or actor_link.get("photo", ""),
                         "quote": actor_link.get("quote", ""),
                         "quote_source": actor_link.get("quote_source", "Source officielle"),
+                        "quote_url": actor_link.get("quote_url", ""),
                         "stance_summary": actor_link.get("stance_summary", actor.get("stance_summary", "")),
                     }
                 )

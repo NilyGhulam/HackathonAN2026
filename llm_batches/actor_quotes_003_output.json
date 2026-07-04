@@ -1,0 +1,2079 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "actor_quotes_20260704T163839_0000_output",
+  "source_batch_id": "actor_quotes_20260704T163839_0000",
+  "generated_at": "2026-07-04T16:42:48Z",
+  "provider": "chatgpt-conversation",
+  "task": "extract_actor_quotes",
+  "items": [
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1089",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1089",
+      "subject_id": "question-qanr5l17qg1089",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA794198",
+            "actor_name": "Roger Chudeau",
+            "stance": "alerte",
+            "argument_summary": "Roger Chudeau alerte sur Contrôle de l’enseignement privé.",
+            "quote": "Les performances de notre système éducatif s’effondrent – même le ministère de l’économie s’en émeut dans une note récente, au point d'y voir une menace pour l'avenir de la nation.",
+            "quote_context": "CONTRÔLE DE L'ENSEIGNEMENT PRIVÉ Mme la présidente . La parole est à M. Roger Chudeau. M. Roger Chudeau . Les performances de notre système éducatif s’effondrent – même le ministère de l’économie s’en émeut dans une note récente, au point d'y voir une menace pour l'avenir de la nation. Et que fait votre ministère avec ardeur ? Il harcèle l’enseignement catholique ! Le secrétaire général de ce dernier évoque des « opérations de police » menées par les corps d’ins",
+            "tags": [
+              "enseignement privé",
+              "enseignement",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873652",
+            "actor_name": "Ministère de l’éducation nationale",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l’éducation nationale met en avant une mesure ou un engagement sur Contrôle de l’enseignement privé.",
+            "quote": "Nous avons donc engagé, avec sérénité, un plan de contrôle systématique : 1 000 établissements auront été contrôlés cette année – 985 ont été effectués – et 40 % du total le sera d'ici 2027.",
+            "quote_context": "Une vingtaine de contrôles étaient conduits chaque année – autrement dit, quasiment rien. De fait, ces contrôles n'intervenaient que dans des situations réellement problématiques. Nous avons donc engagé, avec sérénité, un plan de contrôle systématique : 1 000 établissements auront été contrôlés cette année – 985 ont été effectués – et 40 % du total le sera d'ici 2027. M. Olivier Falorni . C'est normal ! M. Édouard Geffray, ministre . Ces contrôles ne peuvent avoir pour objet que de s'assurer du respect du contrat d'association et du cadre régle",
+            "tags": [
+              "enseignement privé",
+              "enseignement",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG109",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG109",
+      "subject_id": "question-qanr5l17qg109",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793948",
+            "actor_name": "Nicolas Thierry",
+            "stance": "critique",
+            "argument_summary": "Nicolas Thierry critique Présence de mercure dans les conserves de thon.",
+            "quote": "Rien ne justifie cet écart, cette réglementation à géométrie variable dès lors que la réalité sanitaire ne fait aucun doute.",
+            "quote_context": "bénéficie d'une exception réglementaire. En effet, la concentration de mercure que l'on y tolère est trois fois supérieure à celle que l'on accepte dans la chair d'autres espèces. Rien ne justifie cet écart, cette réglementation à géométrie variable dès lors que la réalité sanitaire ne fait aucun doute. Le mercure s'accumule dans notre corps, plus particulièrement dans notre cerveau, tout au long de not…",
+            "tags": [
+              "santé",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847648",
+            "actor_name": "Ministère de la santé et de l’accès aux soins",
+            "stance": "justification",
+            "argument_summary": "Ministère de la santé et de l’accès aux soins justifie la position gouvernementale sur Présence de mercure dans les conserves de thon.",
+            "quote": "Ces règlements imposent la mise en place de plans de contrôle nationaux afin de détecter toute non-conformité en matière de contamination au mercure ; la teneur maximale en mercure fixée pour les produits de la pêche, comme le thon, s'applique au poids du poisson à l'état frais et non aux produits transformés tels que les conserves.",
+            "quote_context": "ls réglementaires. (Exclamations sur quelques bancs du groupe EcoS.) Depuis 2023, la France applique les dispositions européennes qui encadrent les modalités de contrôle officiel. Ces règlements imposent la mise en place de plans de contrôle nationaux afin de détecter toute non-conformité en matière de contamination au mercure ; la teneur maximale en mercure fixée pour les produits de la pêche, comme le thon, s'applique au poids du poisson à l'état frais et non aux produits transformés tels que les conserves. Mme Dominique Voynet . Il vient de dire le contraire ! Mme Geneviève Darrieussecq, ministre . Lorsque les seuils réglementaires sont dépassés, la direction générale de l'alimentat",
+            "tags": [
+              "santé",
+              "justification"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1090",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1090",
+      "subject_id": "question-qanr5l17qg1090",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795402",
+            "actor_name": "Nathalie Coggia",
+            "stance": "demande_action",
+            "argument_summary": "Nathalie Coggia demande une réponse sur Lycées français à l’étranger.",
+            "quote": "Le réseau des lycées français géré par l’AEFE est un atout unique pour la place de la France dans le monde : il y relaie notre langue, notre culture et nos valeurs.",
+            "quote_context": "L'ÉTRANGER Mme la présidente . La parole est à Mme Nathalie Coggia. Mme Nathalie Coggia . J'associe à ma question l’ensemble des députés des Français de l’étranger du groupe EPR. Le réseau des lycées français géré par l’AEFE est un atout unique pour la place de la France dans le monde : il y relaie notre langue, notre culture et nos valeurs. C’est un actif intangible précieux. À l’heure où le trumpisme et ses variantes sont diffusés urbi et orbi par les algorithmes, le réseau de l'Agence pour l'enseignement français à",
+            "tags": [
+              "enseignement",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873662",
+            "actor_name": "Ministère de l’Europe et des affaires étrangères",
+            "stance": "justification",
+            "argument_summary": "Ministère de l’Europe et des affaires étrangères justifie la position gouvernementale sur Lycées français à l’étranger.",
+            "quote": "Nous devons préserver ce trésor contre deux menaces qui le guettent : d'une part, l'écart structurel qui se crée entre les recettes et les charges de l'opérateur qui gère le réseau, l'AEFE, d'autre part, les difficultés conjoncturelles auxquelles le gouvernement, sous l'autorité du premier ministre, veut faire face en sollicitant des mesures d'économie de la part de l'ensemble des ministères et des opérateurs.",
+            "quote_context": "son : l'enseignement français à l'étranger est un trésor. C'est à la fois un service public rendu à nos compatriotes établis à l'étranger et un levier d'influence pour notre pays. Nous devons préserver ce trésor contre deux menaces qui le guettent : d'une part, l'écart structurel qui se crée entre les recettes et les charges de l'opérateur qui gère le réseau, l'AEFE, d'autre part, les difficultés conjoncturelles auxquelles le gouvernement, sous l'autorité du premier ministre, veut faire face en sollicitant des mesures d'économie de la part de l'ensemble des ministères et des opérateurs. C'est la raison pour laquelle la dotation de l'AEFE est effectivement en baisse cette année. Cette baisse sera toutefois compensée par plusieurs mesures qui seront prises d'abord",
+            "tags": [
+              "enseignement",
+              "justification"
+            ],
+            "confidence": 0.61,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1091",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1091",
+      "subject_id": "question-qanr5l17qg1091",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793872",
+            "actor_name": "Nathalie Oziol",
+            "stance": "demande_action",
+            "argument_summary": "Nathalie Oziol demande une réponse sur Pollution chimique en Tunisie.",
+            "quote": "Où sont exportés ces engrais aux conditions de production désastreuses ?",
+            "quote_context": "dans l'atmosphère et entre 10 000 et 15 000 tonnes de déchets chaque jour dans la mer. La transformation du phosphate permet de produire plusieurs engrais, notamment le DAP 18-46. Où sont exportés ces engrais aux conditions de production désastreuses ? En France, par un groupe industriel français en particulier, le groupe…",
+            "tags": [
+              "produits dangereux",
+              "pollution",
+              "demande_action"
+            ],
+            "confidence": 0.69,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873662",
+            "actor_name": "Ministère de l’Europe et des affaires étrangères",
+            "stance": "justification",
+            "argument_summary": "Ministère de l’Europe et des affaires étrangères justifie la position gouvernementale sur Pollution chimique en Tunisie.",
+            "quote": "Ces manifestations doivent pouvoir se dérouler en toute liberté et dans le respect des règles de l'État de droit.",
+            "quote_context": "e ! M. Jean-Noël Barrot, ministre . …qui n’a pas vocation à être commentée par les autorités françaises. Mme Nathalie Oziol . Et les importations ? M. Jean-Noël Barrot, ministre . Ces manifestations doivent pouvoir se dérouler en toute liberté et dans le respect des règles de l'État de droit. Mme Danièle Obono. Et la RSE ? M. Jean-Noël Barrot, ministre . Cependant, je déplore la désinformation diffamatoire produite par Le Média , affilié à La France insoumise,… M. Pier",
+            "tags": [
+              "produits dangereux",
+              "pollution",
+              "justification"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1092",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1092",
+      "subject_id": "question-qanr5l17qg1092",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA643143",
+            "actor_name": "Christian Baptiste",
+            "stance": "demande_action",
+            "argument_summary": "Christian Baptiste demande une réponse sur Suppression du replay d’un documentaire sur France Télévisions.",
+            "quote": "Mais au moment où nos invités demandent comment le revoir, nous apprenons que le replay a été supprimé.",
+            "quote_context": "e année, dont 130 000 au sein de leur famille. Seul un enfant sur dix en parle : c'est dire l’ampleur de l'horreur. Le 13 novembre, nous projetons ce film à l'Assemblée nationale. Mais au moment où nos invités demandent comment le revoir, nous apprenons que le replay a été supprimé. Pourquoi ? Parce qu'un homme, jamais cité, dont la situation n'est évoquée qu'à travers le témoignage de Cynthia, l'une des mères…",
+            "tags": [
+              "audiovisuel et communication",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873669",
+            "actor_name": "Ministère de la culture",
+            "stance": "justification",
+            "argument_summary": "Ministère de la culture justifie la position gouvernementale sur Suppression du replay d’un documentaire sur France Télévisions.",
+            "quote": "La protection de l’enfance est un combat qui nous unit et c’est un combat qui est ancien pour moi.",
+            "quote_context": "est à Mme la ministre de la culture. Mme Rachida Dati, ministre de la culture. Le sujet est trop grave pour y ajouter de la polémique. (Exclamations sur les bancs du groupe SOC.) La protection de l’enfance est un combat qui nous unit et c’est un combat qui est ancien pour moi. De graves dysfonctionnements, voire des crimes ont été récemment dénoncés au sein de l’Aide sociale à l’enfance (ASE) et je remercie la Défenseure des droits, Claire Hédon, de s’e",
+            "tags": [
+              "audiovisuel et communication",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1093",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1093",
+      "subject_id": "question-qanr5l17qg1093",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA718884",
+            "actor_name": "Valérie Bazin-Malgras",
+            "stance": "demande_action",
+            "argument_summary": "Valérie Bazin-Malgras demande une réponse sur Intérim médical.",
+            "quote": "Madame la ministre de la santé, la loi qui porte votre nom a plafonné la rémunération des médecins intérimaires.",
+            "quote_context": "INTÉRIM MÉDICAL Mme la présidente . La parole est à Mme Valérie Bazin-Malgras. Mme Valérie Bazin-Malgras . Madame la ministre de la santé, la loi qui porte votre nom a plafonné la rémunération des médecins intérimaires. Cette mesure a eu pour conséquence la création de contrats de motif 2, devenus la seule solution pour permettre à nos établissements de santé, dont les hôpitaux de proximité, de c",
+            "tags": [
+              "établissements de santé",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873731",
+            "actor_name": "Ministère délégué auprès de la ministre de la santé, des familles, de l’autonomie et des personnes handicapées, chargé de  l’autonomie et des personnes handicapées",
+            "stance": "justification",
+            "argument_summary": "Ministère délégué auprès de la ministre de la santé, des familles, de l’autonomie et des personnes handicapées, chargé de  l’autonomie et des personnes handicapées justifie la position gouvernementale sur Intérim médical.",
+            "quote": "Le gouvernement souhaite continuer à soutenir ces hôpitaux et notre objectif est de les intégrer dans le réseau France Santé.",
+            "quote_context": "i a d'ailleurs été confirmé par le rapport du député Yannick Monnet. Ils sont en effet un premier recours et permettent d’orienter les patients vers d’autres dispositifs de santé. Le gouvernement souhaite continuer à soutenir ces hôpitaux et notre objectif est de les intégrer dans le réseau France Santé. D’après les informations qui nous reviennent, ils sont nombreux à le vouloir. Ils y ont toute leur place compte tenu de leur rôle dans l’accès aux soins. Après leur labellisation,",
+            "tags": [
+              "établissements de santé",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1094",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1094",
+      "subject_id": "question-qanr5l17qg1094",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793948",
+            "actor_name": "Nicolas Thierry",
+            "stance": "demande_action",
+            "argument_summary": "Nicolas Thierry demande une réponse sur Pollution de l’eau aux PFA.",
+            "quote": "Dans un nombre croissant de communes, des familles se demandent désormais si l'eau du robinet est encore sûre, si les œufs du jardin ou les légumes cultivés dans le potager familial ne présentent aucun risque ou encore si on peut préparer un biberon en toute confiance.",
+            "quote_context": "inistre de la transition écologique, mais elle concerne tout autant la ministre de la santé. Ce qui me conduit à prendre la parole aujourd'hui, c'est une incompréhension profonde. Dans un nombre croissant de communes, des familles se demandent désormais si l'eau du robinet est encore sûre, si les œufs du jardin ou les légumes cultivés dans le potager familial ne présentent aucun risque ou encore si on peut préparer un biberon en toute confiance. Ces quelques exemples disent tout de l'ampleur de ce que nous traversons : la pollution généralisée aux PFAS n'est plus une dystopie, mais une réalité tangible. L’Agence nationale",
+            "tags": [
+              "pollution",
+              "demande_action"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873722",
+            "actor_name": "Ministère délégué auprès de la ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature, chargé de la transition écologique",
+            "stance": "réserve",
+            "argument_summary": "Ministère délégué auprès de la ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature, chargé de la transition écologique formule une réserve ou une limite sur Pollution de l’eau aux PFA.",
+            "quote": "Toutefois, je ne peux pas vous laisser dire que le gouvernement reste sans agir ni qu’il existe une contamination généralisée de l’eau du robinet et des eaux traitées dans notre pays.",
+            "quote_context": "je tiens d’abord à saluer votre engagement sur ce sujet qui a notamment abouti à l’adoption à l’unanimité de votre proposition de loi, qui est désormais une loi de la République. Toutefois, je ne peux pas vous laisser dire que le gouvernement reste sans agir ni qu’il existe une contamination généralisée de l’eau du robinet et des eaux traitées dans notre pays. Mme Sandra Regol . Elle est constatée par la science ! M. Jean-Claude Raux. C'est un fait ! M. Mathieu Lefèvre, ministre délégué . Nous nous référons à l’Anses, et donc à la scien",
+            "tags": [
+              "pollution",
+              "réserve"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1095",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1095",
+      "subject_id": "question-qanr5l17qg1095",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA721182",
+            "actor_name": "Frédéric Petit",
+            "stance": "demande_action",
+            "argument_summary": "Frédéric Petit demande une réponse sur Protection de l’espace aérien ukrainien.",
+            "quote": "Quand allons-nous enfin annoncer la fermeture du ciel ukrainien ?",
+            "quote_context": "PROTECTION DE L'ESPACE AÉRIEN UKRAINIEN Mme la présidente . La parole est à M. Frédéric Petit. M. Frédéric Petit . Quand allons-nous enfin annoncer la fermeture du ciel ukrainien ? Certes, protéger le ciel d’une partie de l’Ukraine, à distance du front, est une opération complexe, qui sera sans doute utilisée et déformée par l’ennemi, y compris par ses relai",
+            "tags": [
+              "politique extérieure",
+              "demande_action"
+            ],
+            "confidence": 0.61,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873662",
+            "actor_name": "Ministère de l’Europe et des affaires étrangères",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l’Europe et des affaires étrangères met en avant une mesure ou un engagement sur Protection de l’espace aérien ukrainien.",
+            "quote": "Par ailleurs, dans le sillage de votre initiative, nous avons organisé, lors de la visite du président Zelensky, un forum des drones qui a permis de réunir les industriels de nos deux pays, afin de développer des capacités conjointes de protection du ciel ukrainien.",
+            "quote_context": ", le président de la République a ainsi annoncé que de nouveaux avions Mirage ainsi que de nouveaux missiles Aster seraient transférés à l'Ukraine pour défendre le ciel ukrainien. Par ailleurs, dans le sillage de votre initiative, nous avons organisé, lors de la visite du président Zelensky, un forum des drones qui a permis de réunir les industriels de nos deux pays, afin de développer des capacités conjointes de protection du ciel ukrainien. Lorsque le cessez-le-feu interviendra, la coalition des volontaires lancée conjointement par le président de la République et le premier ministre britannique – et qui se réunira d",
+            "tags": [
+              "politique extérieure",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1096",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1096",
+      "subject_id": "question-qanr5l17qg1096",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA796078",
+            "actor_name": "Estelle Youssouffa",
+            "stance": "alerte",
+            "argument_summary": "Estelle Youssouffa alerte sur Reconstruction de Mayotte.",
+            "quote": "Il y eut les premiers secours et les réparations d'urgence, et puis rien.",
+            "quote_context": "sibles laissés par Chido et Dikeledi, cette année de souffrance est celle d'une interminable et douloureuse attente – l'attente d'une reconstruction qui n'a toujours pas commencé. Il y eut les premiers secours et les réparations d'urgence, et puis rien. Rien, puisque François Bayrou et Manuel Valls ont choisi de jouer la montre en faisant des économies au détriment de notre île. Mayotte subit donc depuis un an une inertie qui nou",
+            "tags": [
+              "outre-mer",
+              "mayotte",
+              "alerte"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873676",
+            "actor_name": "Ministère des outre-mer",
+            "stance": "justification",
+            "argument_summary": "Ministère des outre-mer justifie la position gouvernementale sur Reconstruction de Mayotte.",
+            "quote": "Dès le lendemain de la crise, l'État s'est mobilisé pour rétablir les services vitaux – l'eau, l'électricité, les routes – afin que l'île reprenne vie.",
+            "quote_context": "l'occasion de rendre hommage une nouvelle fois aux quarante victimes et à leur famille. (Applaudissements sur quelques bancs du groupe DR. – M. Romain Daubié applaudit également.) Dès le lendemain de la crise, l'État s'est mobilisé pour rétablir les services vitaux – l'eau, l'électricité, les routes – afin que l'île reprenne vie. Vous-même, madame la députée, avez beaucoup contribué aux mesures de prolongation du chômage partiel, à l'aide aux agriculteurs ou à la remise en service de l'usine d'Ourovéni. En",
+            "tags": [
+              "outre-mer",
+              "mayotte",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1097",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1097",
+      "subject_id": "question-qanr5l17qg1097",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA794430",
+            "actor_name": "Michel Criaud",
+            "stance": "demande_action",
+            "argument_summary": "Michel Criaud demande une réponse sur Stratégie de sécurité nationale des États-Unis.",
+            "quote": "Vendredi dernier, l'administration de Donald Trump a publié sa stratégie de sécurité nationale.",
+            "quote_context": "STRATÉGIE DE SÉCURITÉ NATIONALE DES ÉTATS-UNIS Mme la présidente . La parole est à M. Michel Criaud. M. Michel Criaud . Vendredi dernier, l'administration de Donald Trump a publié sa stratégie de sécurité nationale. Dans ce document, Washington s’en prend directement à l’Europe – aux activités européennes qui affaibliraient les libertés publiques et la souveraineté, aux politiques migratoires",
+            "tags": [
+              "politique extérieure",
+              "demande_action"
+            ],
+            "confidence": 0.69,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873662",
+            "actor_name": "Ministère de l’Europe et des affaires étrangères",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l’Europe et des affaires étrangères met en avant une mesure ou un engagement sur Stratégie de sécurité nationale des États-Unis.",
+            "quote": "Elle donne raison à la France, en offrant la démonstration éclatante que nous avons eu raison, depuis 2017, d'appeler l'Europe à l'autonomie stratégique et d'avoir commencé à faire changer l'Europe.",
+            "quote_context": "faires étrangères . La publication de la stratégie de sécurité nationale des États-Unis est un moment de clarification et de vérité, qui nous invite à tenir le cap et à accélérer. Elle donne raison à la France, en offrant la démonstration éclatante que nous avons eu raison, depuis 2017, d'appeler l'Europe à l'autonomie stratégique et d'avoir commencé à faire changer l'Europe. (Applaudissements sur quelques bancs des groupes EPR et Dem. - Mme Laetitia Saint-Paul applaudit également.) L'Union européenne a repris le contrôle de ses frontières avec le pact",
+            "tags": [
+              "politique extérieure",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1098",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1098",
+      "subject_id": "question-qanr5l17qg1098",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795240",
+            "actor_name": "Mereana Reid Arbelot",
+            "stance": "alerte",
+            "argument_summary": "Mereana Reid Arbelot alerte sur Centre de contrôle aérien de Tahiti-Faa’a.",
+            "quote": "Depuis votre nomination en décembre 2024, je vous alerte sur la situation problématique du centre de contrôle aérien de Tahiti-Faa’a, qui gère le plus vaste espace aérien français – un des plus grands au monde, avec près de 12,3 millions de kilomètres carrés –, au cœur de la zone indo-pacifique, en interface directe avec les États-Unis sur 4 000 kilomètres, la Nouvelle-Zélande et le Chili.",
+            "quote_context": "CENTRE DE CONTRÔLE AÉRIEN DE TAHITI-FAA'A Mme la présidente . La parole est à Mme Mereana Reid Arbelot. Mme Mereana Reid Arbelot . Depuis votre nomination en décembre 2024, je vous alerte sur la situation problématique du centre de contrôle aérien de Tahiti-Faa’a, qui gère le plus vaste espace aérien français – un des plus grands au monde, avec près de 12,3 millions de kilomètres carrés –, au cœur de la zone indo-pacifique, en interface directe avec les États-Unis sur 4 000 kilomètres, la Nouvelle-Zélande et le Chili. Ce centre est unique par son étendue, son environnement international et ses contraintes opérationnelles ; il est un outil stratégique de souveraineté, de sécurité aérienne et de",
+            "tags": [
+              "transports aériens",
+              "alerte"
+            ],
+            "confidence": 0.61,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873659",
+            "actor_name": "Ministère des transports",
+            "stance": "justification",
+            "argument_summary": "Ministère des transports justifie la position gouvernementale sur Centre de contrôle aérien de Tahiti-Faa’a.",
+            "quote": "Je veux mener cette réforme ; le gouvernement et moi-même sommes déterminés à tout faire pour que notre contrôle aérien soit à la hauteur du grand pays de l'aéronautique qu'est la France.",
+            "quote_context": "ment, la situation du contrôle aérien français nécessite une réforme d'ampleur. La performance française en la matière est en retrait par rapport à celle de ses voisins européens. Je veux mener cette réforme ; le gouvernement et moi-même sommes déterminés à tout faire pour que notre contrôle aérien soit à la hauteur du grand pays de l'aéronautique qu'est la France. Pour cela, il faudra certes garantir des conditions de travail soutenables, mais aussi l'effectivité des missions, l'amélioration de la performance et surtout la sécurité. Je comp",
+            "tags": [
+              "transports aériens",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1099",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1099",
+      "subject_id": "question-qanr5l17qg1099",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793772",
+            "actor_name": "Christophe Bex",
+            "stance": "alerte",
+            "argument_summary": "Christophe Bex alerte sur Dermatose nodulaire contagieuse.",
+            "quote": "Face à l'inquiétude et à la colère, face à des agriculteurs dont le revenu moyen est le plus faible de France, face à une profession particulièrement exposée au suicide, vous avez justifié l'emploi de la force en Ariège.",
+            "quote_context": "vez pas convaincu. Je le regrette vivement, mais ce fut un rendez-vous manqué, aussi bien sur la forme que sur le fond. Vous n'avez su trouver ni les mots ni la chaleur du propos. Face à l'inquiétude et à la colère, face à des agriculteurs dont le revenu moyen est le plus faible de France, face à une profession particulièrement exposée au suicide, vous avez justifié l'emploi de la force en Ariège. Vous avez maintenu votre stratégie d'abattage systématique et total, l'ané…",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "justification",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire justifie la position gouvernementale sur Dermatose nodulaire contagieuse.",
+            "quote": "Après mes déplacements dans les deux Savoies et dans le massif du Jura, je me suis donc rendue en Haute-Garonne dans ce moment tout à fait particulier où nous engageons une démarche capitale, celle de la vaccination.",
+            "quote_context": "redoutent à juste titre l'arrivée de cette maladie qui touche quatre foyers – j'exclus les Pyrénées-Orientales, où la maladie, apparue dès le 15 octobre, est désormais maîtrisée. Après mes déplacements dans les deux Savoies et dans le massif du Jura, je me suis donc rendue en Haute-Garonne dans ce moment tout à fait particulier où nous engageons une démarche capitale, celle de la vaccination. (Applaudissements sur quelques bancs des groupes EPR, DR, Dem et HOR. – Exclamations sur quelques bancs du groupe LFI-NFP.) Mme Marie Mesmeur . Depuis le temps qu'on vous la deman",
+            "tags": [
+              "agriculture",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG11",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG11",
+      "subject_id": "question-qanr5l17qg11",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841183",
+            "actor_name": "Hanane Mansouri",
+            "stance": "demande_action",
+            "argument_summary": "Hanane Mansouri demande une réponse sur Meurtre de Philippine.",
+            "quote": "Monsieur le Premier ministre, samedi 21 septembre, un drame insoutenable a encore frappé notre pays.",
+            "quote_context": "MEURTRE DE PHILIPPINE Mme la présidente . La parole est à Mme Hanane Mansouri. Mme Hanane Mansouri . Monsieur le Premier ministre, samedi 21 septembre, un drame insoutenable a encore frappé notre pays. Philippine, une jeune fille de 19 ans, a été retrouvée sans vie au bois de Boulogne, assassinée par un barbare, alors qu’elle rentrait de l’université. Elle était de quatre ans ma",
+            "tags": [
+              "justice",
+              "demande_action"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "justification",
+            "argument_summary": "Ministère de l'intérieur justifie la position gouvernementale sur Meurtre de Philippine.",
+            "quote": "Quand la règle de droit ne protège pas les Français, il faut bien sûr changer la règle de droit.",
+            "quote_context": "ité de sa famille m'a impressionné. Cette dignité et leur souffrance nous obligent. L'impossibilisme juridique ne doit pas nous servir d'excuse pour ne pas agir. Or il faut agir ! Quand la règle de droit ne protège pas les Français, il faut bien sûr changer la règle de droit. (Applaudissements sur les bancs du groupe DR.) M. Xavier Breton . Très bien ! M. Bruno Retailleau, ministre . Il faut d'abord la changer en concluant des accords bilatéraux, notam",
+            "tags": [
+              "justice",
+              "justification"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG110",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG110",
+      "subject_id": "question-qanr5l17qg110",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841539",
+            "actor_name": "Julien Gokel",
+            "stance": "demande_action",
+            "argument_summary": "Julien Gokel demande une réponse sur Situation du dunkerquois.",
+            "quote": "Lors de son discours de politique générale, le Premier ministre s'était engagé à « faire avec les collectivités », en promettant l'écoute, le dialogue et la contractualisation avec les élus locaux, qui font chaque jour, je le rappelle, la preuve de leur courage et de leur engagement aux côtés de nos concitoyens.",
+            "quote_context": "TION DU DUNKERQUOIS Mme la présidente . La parole est à M. Julien Gokel. M. Julien Gokel . Ma question s'adresse à Mme la ministre en charge des partenariats avec les territoires. Lors de son discours de politique générale, le Premier ministre s'était engagé à « faire avec les collectivités », en promettant l'écoute, le dialogue et la contractualisation avec les élus locaux, qui font chaque jour, je le rappelle, la preuve de leur courage et de leur engagement aux côtés de nos concitoyens. Pourtant, votre budget impose brutalement un effort de 5 milliards d'euros aux collectivités, sans dialogue ni respect des spécificités locales, en particulier pour les grands bas",
+            "tags": [
+              "politique économique",
+              "demande_action"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847642",
+            "actor_name": "Ministère du partenariat avec les territoires et de la décentralisation",
+            "stance": "justification",
+            "argument_summary": "Ministère du partenariat avec les territoires et de la décentralisation justifie la position gouvernementale sur Situation du dunkerquois.",
+            "quote": "Le moins que l'on en puisse dire, c'est que l'État est présent et que le Gouvernement est engagé à vos côtés, pour la création de 20 000 emplois.",
+            "quote_context": "question, mais je vous remercie également pour votre courrier, daté du 25 octobre, que je viens de recevoir. Vous mettez en avant, à juste titre, la transformation du Dunkerquois. Le moins que l'on en puisse dire, c'est que l'État est présent et que le Gouvernement est engagé à vos côtés, pour la création de 20 000 emplois. Au total, 8 milliards d'investissements ont été effectués par les entreprises avec le soutien de l'État et du conseil régional, ainsi que dans le cadre du programme Territoires d'",
+            "tags": [
+              "politique économique",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1100",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1100",
+      "subject_id": "question-qanr5l17qg1100",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA722162",
+            "actor_name": "Nicolas Turquois",
+            "stance": "alerte",
+            "argument_summary": "Nicolas Turquois alerte sur Dermatose nodulaire contagieuse.",
+            "quote": "Le monde agricole traverse régulièrement des crises, mais celle que nous vivons est d’une ampleur exceptionnelle.",
+            "quote_context": "CRISE AGRICOLE Mme la présidente . La parole est à M. Nicolas Turquois. M. Nicolas Turquois . Le monde agricole traverse régulièrement des crises, mais celle que nous vivons est d’une ampleur exceptionnelle. Autant de filières touchées – des céréales à l’élevage, de la vigne à l’arboriculture –, autant de régions concernées – de l’Occitanie à la Bretagne, du Bordelais aux Alpes, sans",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire met en avant une mesure ou un engagement sur Dermatose nodulaire contagieuse.",
+            "quote": "Dans cette région aux magnifiques élevages, j'ai pu constater hier combien la vaccination des troupeaux constituait un immense soulagement.",
+            "quote_context": "griculteur avez eu raison de rappeler la souffrance du monde agricole. Celle-ci est exacerbée, en Occitanie, par l'angoisse de perdre ce qu'un éleveur a de plus cher, son cheptel. Dans cette région aux magnifiques élevages, j'ai pu constater hier combien la vaccination des troupeaux constituait un immense soulagement. Mme Mathilde Feld. Répondez à la question ! Mme Annie Genevard, ministre . Vous avez évoqué de nombreux sujets dans votre question : les maux qui accablent le monde agricole, comm",
+            "tags": [
+              "agriculture",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1101",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1101",
+      "subject_id": "question-qanr5l17qg1101",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841825",
+            "actor_name": "Patrice Martin",
+            "stance": "alerte",
+            "argument_summary": "Patrice Martin alerte sur Dermatose nodulaire contagieuse.",
+            "quote": "Sur le terrain, la situation s'enflamme : manifestations, points de blocage, détresses et colères exprimées devant les préfectures.",
+            "quote_context": "ens. Personne ici ne conteste l'impératif sanitaire, mais contenir ne signifie pas écraser. Cette crise ne doit pas être gérée comme un dossier plein de bureaucratie dégoulinante. Sur le terrain, la situation s'enflamme : manifestations, points de blocage, détresses et colères exprimées devant les préfectures. L'enjeu est aussi institutionnel : la cohésion nationale ne saurait supporter des scènes qui voient nos agriculteurs, garants de notre souverain…",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire met en avant une mesure ou un engagement sur Dermatose nodulaire contagieuse.",
+            "quote": "Les territoires sont certes différents, mais en Savoie, nous avons vaincu cette maladie ; nous l'avons éradiquée et la vie a repris.",
+            "quote_context": "e vous parle, elle ne compte plus aucun foyer de dermatose nodulaire contagieuse bovine. De ce point de vue, la situation est loin de nous échapper comme vous le laissez imaginer. Les territoires sont certes différents, mais en Savoie, nous avons vaincu cette maladie ; nous l'avons éradiquée et la vie a repris. M. Jean-François Coulomme. Au prix de combien d'abattages ? Mme Annie Genevard, ministre . C'est sur ce chemin d'espoir que je veux emmener la belle terre occitane désormais touch",
+            "tags": [
+              "agriculture",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1102",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1102",
+      "subject_id": "question-qanr5l17qg1102",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA822617",
+            "actor_name": "Martine Froger",
+            "stance": "alerte",
+            "argument_summary": "Martine Froger alerte sur Dermatose nodulaire contagieuse.",
+            "quote": "Une détresse profonde traverse le monde agricole, et nos éleveurs en sont les premières victimes.",
+            "quote_context": "DERMATOSE NODULAIRE CONTAGIEUSE Mme la présidente . La parole est à Mme Martine Froger. Mme Martine Froger . Une détresse profonde traverse le monde agricole, et nos éleveurs en sont les premières victimes. Je veux d'abord leur exprimer tout mon soutien. (Applaudissements sur les bancs du groupe SOC.) Au-delà des images insoutenables que nous avons tous vues, il y a surtout des femme",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire met en avant une mesure ou un engagement sur Dermatose nodulaire contagieuse.",
+            "quote": "Je vous assure qu'aucun éleveur ne sera laissé au bord du chemin : l'État est là.",
+            "quote_context": "veurs rassemblés sur un rond-point – et avons évoqué ensemble toutes ces questions. L'Ariège vit effectivement une situation particulièrement difficile depuis la semaine dernière. Je vous assure qu'aucun éleveur ne sera laissé au bord du chemin : l'État est là. Lorsque les éleveurs perdront des bêtes, ils seront indemnisés à hauteur de la valeur marchande des animaux, même si je vous accorde que cela ne compense pas leur valeur affective",
+            "tags": [
+              "agriculture",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1103",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1103",
+      "subject_id": "question-qanr5l17qg1103",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA719472",
+            "actor_name": "Jean-René Cazeneuve",
+            "stance": "alerte",
+            "argument_summary": "Jean-René Cazeneuve alerte sur Dermatose nodulaire contagieuse.",
+            "quote": "J'ai entendu du désarroi, une détresse humaine, économique et morale ravivée par la gestion de la dermatose nodulaire contagieuse.",
+            "quote_context": ". Ce week-end, j'étais sur les barrages aux côtés des agriculteurs du Gers, comme mes collègues aveyronnais, pour écouter, comprendre, dialoguer. C'est bien la moindre des choses. J'ai entendu du désarroi, une détresse humaine, économique et morale ravivée par la gestion de la dermatose nodulaire contagieuse. (Mme Nathalie Oziol s'exclame.) Le cheptel français et sa diversité – je pense à la mirandaise d'Astarac – sont menacés. Je salue l'instauration d'un cordon sanitaire et l'accélér",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "justification",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire justifie la position gouvernementale sur Dermatose nodulaire contagieuse.",
+            "quote": "La position de la France, très claire, consiste à demander des clauses de sauvegarde robustes et activables, des mesures miroirs effectives et des contrôles garantis, pour protéger le monde agricole, notamment le secteur de l'élevage.",
+            "quote_context": "nie Genevard, ministre . …ne garantit ni la réciprocité des normes ni les contrôles. (Applaudissements sur plusieurs bancs du groupe DR. – Mme Nicole Le Peih applaudit également.) La position de la France, très claire, consiste à demander des clauses de sauvegarde robustes et activables, des mesures miroirs effectives et des contrôles garantis, pour protéger le monde agricole, notamment le secteur de l'élevage. Sans cela, nous participerions au désespoir de ce monde si attachant et si important. (Applaudissements sur plusieurs bancs du groupe DR et sur quelques bancs du groupe EPR.)",
+            "tags": [
+              "agriculture",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1104",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1104",
+      "subject_id": "question-qanr5l17qg1104",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841973",
+            "actor_name": "Pierre-Henri Carbonnel",
+            "stance": "demande_action",
+            "argument_summary": "Pierre-Henri Carbonnel demande une réponse sur Dermatose nodulaire contagieuse.",
+            "quote": "En ce moment, je pense aux éleveurs de bovins des Bordes-sur-Arize, de Touille et d'ailleurs.",
+            "quote_context": "DERMATOSE NODULAIRE CONTAGIEUSE Mme la présidente . La parole est à M. Pierre-Henri Carbonnel. M. Pierre-Henri Carbonnel . En ce moment, je pense aux éleveurs de bovins des Bordes-sur-Arize, de Touille et d'ailleurs. Je suis moi-même éleveur de bovins et j'ai connu un abattage total dans la ferme de mes parents en l'an 2000. C'est le travail d'une vie qui part en fumée ; je sais ce que c'est.",
+            "tags": [
+              "agriculture",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire met en avant une mesure ou un engagement sur Dermatose nodulaire contagieuse.",
+            "quote": "Sachez qu'en Occitanie, dans la zone réglementée et à l'intérieur du cordon sanitaire que nous avons établi, nous allons déployer rapidement et massivement la vaccination, en la territorialisant pour qu'elle soit plus rapidement efficace.",
+            "quote_context": "ontre la maladie. M. Julien Guibert . Combien de doses ? Mme Annie Genevard, ministre . Voilà ce que nous faisions, ce que nous faisons encore. (Mme Danielle Brulebois applaudit.) Sachez qu'en Occitanie, dans la zone réglementée et à l'intérieur du cordon sanitaire que nous avons établi, nous allons déployer rapidement et massivement la vaccination, en la territorialisant pour qu'elle soit plus rapidement efficace. C'est la meilleure protection contre la perte du cheptel. (Applaudissements sur plusieurs bancs du groupe DR.) M. Julien Guibert . Tous vos vaccins sont importés ! Investissez, ay",
+            "tags": [
+              "agriculture",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1105",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1105",
+      "subject_id": "question-qanr5l17qg1105",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA642868",
+            "actor_name": "Paul Christophe",
+            "stance": "alerte",
+            "argument_summary": "Paul Christophe alerte sur Crise agricole.",
+            "quote": "Au sein du groupe Horizons & indépendants, nous ne voudrions pas qu'on se méprenne au sujet de la crise agricole que nous connaissons.",
+            "quote_context": "CRISE AGRICOLE Mme la présidente . La parole est à M. Paul Christophe. M. Paul Christophe . Au sein du groupe Horizons & indépendants, nous ne voudrions pas qu'on se méprenne au sujet de la crise agricole que nous connaissons. Les révoltes actuelles ne sont pas seulement dues aux abattages obligatoires, si douloureusement nécessaires pour lutter contre les différentes épidémies. Il ne s'agit pas de la v",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873635",
+            "actor_name": "Premier ministre",
+            "stance": "annonce_mesure",
+            "argument_summary": "Premier ministre met en avant une mesure ou un engagement sur Crise agricole.",
+            "quote": "Je mobiliserai également les vétérinaires militaires dont disposent les armées françaises : ils seront dépêchés dans les zones atteintes pour accélérer la vaccination et répondre aux besoins exprimés sur le terrain.",
+            "quote_context": "vétérinaires retraités qui ont accepté de revenir travailler, de même que les élèves des écoles vétérinaires qui ont accepté, sur proposition de la ministre, de rendre ce service. Je mobiliserai également les vétérinaires militaires dont disposent les armées françaises : ils seront dépêchés dans les zones atteintes pour accélérer la vaccination et répondre aux besoins exprimés sur le terrain. (Applaudissements sur les bancs des groupes EPR et Dem.) D'autres points seront traités tout à l'heure, comme la question du transport illégal de bétail. Si le virus se propage, c",
+            "tags": [
+              "agriculture",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1106",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1106",
+      "subject_id": "question-qanr5l17qg1106",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793664",
+            "actor_name": "Marie Pochon",
+            "stance": "demande_action",
+            "argument_summary": "Marie Pochon demande une réponse sur Dermatose nodulaire contagieuse.",
+            "quote": "En janvier 2024, Gérald Darmanin appelait les forces de l'ordre à la « modération » face à la colère agricole.",
+            "quote_context": "DERMATOSE NODULAIRE CONTAGIEUSE Mme la présidente . La parole est à Mme Marie Pochon. Mme Marie Pochon . En janvier 2024, Gérald Darmanin appelait les forces de l'ordre à la « modération » face à la colère agricole. Deux ans plus tard, deux poids, deux mesures. Je voudrais ici exprimer mon soutien à tous les éleveurs touchés par la DNC, à leurs familles ainsi qu'aux personnels vétérinaires. (",
+            "tags": [
+              "agriculture",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "justification",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire justifie la position gouvernementale sur Dermatose nodulaire contagieuse.",
+            "quote": "Il faut donc prendre les bonnes mesures sur les plans sanitaire, humain et économique – il n'est pas indécent de poser la question de l'économie agricole.",
+            "quote_context": "tes. Le revenu de tous les éleveurs peut être affecté – il faut bien en prendre la mesure. Mme Marie Pochon . Et la défiscalisation des indemnités ? Mme Annie Genevard, ministre . Il faut donc prendre les bonnes mesures sur les plans sanitaire, humain et économique – il n'est pas indécent de poser la question de l'économie agricole. (Applaudissements sur les bancs du groupe DR.) Mme Léa Balage El Mariky. Où sont les vaccins ? Mme Sophia Chikirou. Vous ne répondez pas à la question !",
+            "tags": [
+              "agriculture",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1107",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1107",
+      "subject_id": "question-qanr5l17qg1107",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA642725",
+            "actor_name": "Eric Liégeon",
+            "stance": "alerte",
+            "argument_summary": "Eric Liégeon alerte sur Dermatose nodulaire contagieuse.",
+            "quote": "L’épidémie de dermatose nodulaire contagieuse qui menace actuellement les élevages bovins suscite de grandes inquiétudes dans les territoires d’élevage.",
+            "quote_context": "DERMATOSE NODULAIRE CONTAGIEUSE Mme la présidente . La parole est à M. Eric Liégeon. M. Eric Liégeon . L’épidémie de dermatose nodulaire contagieuse qui menace actuellement les élevages bovins suscite de grandes inquiétudes dans les territoires d’élevage. Les récents abattages de troupeaux entraînent de vives réactions dans le monde agricole et ont suscité depuis plusieurs jours de nombreuses mobilisations. Le dépeuplement des trou",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire met en avant une mesure ou un engagement sur Dermatose nodulaire contagieuse.",
+            "quote": "Ensuite, je tiens à redire, avec l'aval de Mme la ministre des comptes publics, que les indemnisations pour perte d'élevage seront défiscalisées.",
+            "quote_context": "ur touché ne sera laissé seul au bord du chemin. Le gouvernement, par la voix du premier ministre, s'y est engagé. M. Sylvain Maillard . Très bien ! Mme Annie Genevard, ministre . Ensuite, je tiens à redire, avec l'aval de Mme la ministre des comptes publics, que les indemnisations pour perte d'élevage seront défiscalisées. C'est un point de première importance. (« Ah ! » sur les bancs du groupe RN. - Applaudissements sur les bancs du groupe DR.) Mme Marie Pochon . Enfin ! Mme Annie Genevard, ministr",
+            "tags": [
+              "agriculture",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1108",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1108",
+      "subject_id": "question-qanr5l17qg1108",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA840075",
+            "actor_name": "Eddy Casterman",
+            "stance": "alerte",
+            "argument_summary": "Eddy Casterman alerte sur politique industrielle.",
+            "quote": "Ce monument de notre patrimoine industriel, qui a survécu aux convulsions de l'histoire, à la grande dépression de 1929, à deux guerres mondiales et même au quinquennat socialiste de François Hollande, est aujourd'hui menacé par les déboires du macronisme finissant.",
+            "quote_context": "s-ouvriers de la Fonderie de Sougland. Cette entreprise, la plus ancienne des Hauts-de-France – elle a été créée sous François Ier –, fait la fierté de la Thiérache et de l'Aisne. Ce monument de notre patrimoine industriel, qui a survécu aux convulsions de l'histoire, à la grande dépression de 1929, à deux guerres mondiales et même au quinquennat socialiste de François Hollande, est aujourd'hui menacé par les déboires du macronisme finissant. La signature du crime ? Un simple acronyme, ACI – la si mal nommée Alliance des compétences industrielles. Ce groupe, qui a berné tous les grands de Bercy jusqu'au ministre Ferrac",
+            "tags": [
+              "agriculture",
+              "industrie",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873703",
+            "actor_name": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'industrie",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'industrie met en avant une mesure ou un engagement sur politique industrielle.",
+            "quote": "Aujourd'hui, nous avons besoin de combattants et de résistants, pas de personnes qui baissent pavillon à la première difficulté !",
+            "quote_context": "La réindustrialisation mérite mieux que des vociférations. Il faut du sérieux et de la constance. La désindustrialisation qui a touché notre pays pendant des années a été arrêtée. Aujourd'hui, nous avons besoin de combattants et de résistants, pas de personnes qui baissent pavillon à la première difficulté ! Mme la présidente . La parole est à M. Eddy Casterman. M. Eddy Casterman . Vous avez encore débité les mêmes balivernes que d'habitude pour masquer le hold-up fiscal de votre budg",
+            "tags": [
+              "agriculture",
+              "industrie",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1109",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1109",
+      "subject_id": "question-qanr5l17qg1109",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793214",
+            "actor_name": "Audrey Abadie-Amiel",
+            "stance": "alerte",
+            "argument_summary": "Audrey Abadie-Amiel alerte sur Dermatose nodulaire contagieuse.",
+            "quote": "Depuis plusieurs années, les agriculteurs français sont frappés de plein fouet par une succession de crises sanitaires majeures : grippe aviaire, fièvre catarrhale ovine, peste porcine africaine et, désormais, dermatose nodulaire contagieuse bovine.",
+            "quote_context": "DERMATOSE NODULAIRE CONTAGIEUSE Mme la présidente . La parole est à Mme Audrey Abadie-Amiel. Mme Audrey Abadie-Amiel . Depuis plusieurs années, les agriculteurs français sont frappés de plein fouet par une succession de crises sanitaires majeures : grippe aviaire, fièvre catarrhale ovine, peste porcine africaine et, désormais, dermatose nodulaire contagieuse bovine. Ces maladies s’ajoutent à la situation économique déjà très fragile de nombre d’exploitations. En Ariège, dans ma circonscription, nous avons vécu un drame humain et agricole avec",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "justification",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire justifie la position gouvernementale sur Dermatose nodulaire contagieuse.",
+            "quote": "Il faut renforcer notre politique de prévention, qui passe en premier lieu par la prophylaxie : vaccination, biosécurité, surveillance des cheptels et intervention rapide à la moindre trace de la maladie.",
+            "quote_context": "t l'éleveur pour qu'il ne soit pas laissé seul. Le rôle du réchauffement climatique dans la survenue de plus en plus fréquente d'épizooties ravageuses est évidemment à interroger. Il faut renforcer notre politique de prévention, qui passe en premier lieu par la prophylaxie : vaccination, biosécurité, surveillance des cheptels et intervention rapide à la moindre trace de la maladie. L'Ariège a été meurtrie, mais elle se relèvera. J'en suis certaine. (Applaudissements sur quelques bancs des groupes EPR et DR.)",
+            "tags": [
+              "agriculture",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG111",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG111",
+      "subject_id": "question-qanr5l17qg111",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA796070",
+            "actor_name": "Perceval Gaillard",
+            "stance": "demande_action",
+            "argument_summary": "Perceval Gaillard demande une réponse sur Situation dans les outre-mer.",
+            "quote": "Jusqu'à quand durera le couvre-feu en Nouvelle-Calédonie-Kanaky, instauré depuis cent soixante-huit jours, depuis que vos prédécesseurs ont littéralement mis le feu à l'archipel en foulant aux pieds les accords de Matignon et en faisant entrer au Gouvernement les plus ultras du camp loyaliste, tout cela pour arriver au brillant résultat que l'on connaît tous ?",
+            "quote_context": "RE-MER Mme la présidente . La parole est à M. Perceval Gaillard. M. Perceval Gaillard . Ma question s'adresse à M. le Premier ministre et à l’ensemble des membres du Gouvernement. Jusqu'à quand durera le couvre-feu en Nouvelle-Calédonie-Kanaky, instauré depuis cent soixante-huit jours, depuis que vos prédécesseurs ont littéralement mis le feu à l'archipel en foulant aux pieds les accords de Matignon et en faisant entrer au Gouvernement les plus ultras du camp loyaliste, tout cela pour arriver au brillant résultat que l'on connaît tous ? (Applaudissements sur de nombreux bancs du groupe LFI-NFP et sur quelques bancs du groupe GDR.) Jusqu'à quand le couvre-feu en Martinique, qui dure depuis dix-neuf jours, seule ré",
+            "tags": [
+              "outre-mer",
+              "demande_action"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847676",
+            "actor_name": "Ministère auprès du Premier ministre, chargé des outre-mer",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère auprès du Premier ministre, chargé des outre-mer met en avant une mesure ou un engagement sur Situation dans les outre-mer.",
+            "quote": "Pour ce qui concerne l'énergie, la vie chère et la Nouvelle-Calédonie, les choses sont en train de rentrer dans l'ordre : nous avons engagé la discussion ; l'État et les préfets – pas seulement eux, mais surtout eux – se sont mobilisés pour trouver les bonnes solutions permettant à nos outre-mer d'avancer.",
+            "quote_context": "eunier. Mais écoutez le ministre ! M. François-Noël Buffet, ministre . Les questions que vous avez soulevées sont nombreuses. J'ai déjà répondu tout à l'heure sur certains points. Pour ce qui concerne l'énergie, la vie chère et la Nouvelle-Calédonie, les choses sont en train de rentrer dans l'ordre : nous avons engagé la discussion ; l'État et les préfets – pas seulement eux, mais surtout eux – se sont mobilisés pour trouver les bonnes solutions permettant à nos outre-mer d'avancer. (Brouhaha.) Il faut donner à ces territoires un avenir de moyen et long terme. C'est absolument essentiel. Peut-être que ma réponse vous dérange puisque vous n'écoutez pas. Je vai",
+            "tags": [
+              "outre-mer",
+              "annonce_mesure"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1110",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1110",
+      "subject_id": "question-qanr5l17qg1110",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA335612",
+            "actor_name": "Jean-Paul Lecoq",
+            "stance": "soutien",
+            "argument_summary": "Jean-Paul Lecoq met en avant Conflit au Moyen-Orient.",
+            "quote": "Le groupe de la Gauche démocrate et républicaine s’associe aux mots de la présidente pour dénoncer les actes criminels antisémites et apporter son soutien aux victimes ainsi qu’à leurs familles.",
+            "quote_context": "CONFLIT AU MOYEN-ORIENT Mme la présidente . La parole est à M. Jean-Paul Lecoq. M. Jean-Paul Lecoq . Le groupe de la Gauche démocrate et républicaine s’associe aux mots de la présidente pour dénoncer les actes criminels antisémites et apporter son soutien aux victimes ainsi qu’à leurs familles. Depuis le cessez-le-feu du 10 octobre 2025, toujours officiellement en vigueur, près de 400 Palestiniens ont été tués par l’armée israélienne dans la bande de Gaza. L’entrée de l’",
+            "tags": [
+              "politique extérieure",
+              "soutien"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873713",
+            "actor_name": "Ministère délégué auprès de la ministre des armées et des anciens combattants",
+            "stance": "justification",
+            "argument_summary": "Ministère délégué auprès de la ministre des armées et des anciens combattants justifie la position gouvernementale sur Conflit au Moyen-Orient.",
+            "quote": "Je me suis assurée, encore ce matin, que les procédures de contrôle des exportations avaient été appliquées conformément à notre doctrine.",
+            "quote_context": "nal et l'accord de cessez-le-feu, pour soutenir les populations civiles et répondre aux besoins humanitaires. Le cas que vous évoquez concerne directement le ministère des armées. Je me suis assurée, encore ce matin, que les procédures de contrôle des exportations avaient été appliquées conformément à notre doctrine. Cette doctrine, vous la connaissez : aucune arme française ne doit être livrée à l'armée israélienne. J'ajoute qu'aucun composant ne doit pouvoir être utilisé pour entretenir le c",
+            "tags": [
+              "politique extérieure",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1111",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1111",
+      "subject_id": "question-qanr5l17qg1111",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA642764",
+            "actor_name": "Joël Aviragnet",
+            "stance": "demande_action",
+            "argument_summary": "Joël Aviragnet demande une réponse sur Aide sociale à l’enfance.",
+            "quote": "Il faut maintenant qu'il soit indemnisé dans les trois mois et sans conditions ; on lui a pris ses vaches, on lui rend son argent !",
+            "quote_context": "teurs du Comminges et du Savès. Hier matin, la présidente de la région, Carole Delga, et moi étions dans ma circonscription, à Touille, chez Gilles, dont le troupeau a été abattu. Il faut maintenant qu'il soit indemnisé dans les trois mois et sans conditions ; on lui a pris ses vaches, on lui rend son argent ! J’étais hier soir avec la ministre et les éleveurs : je vous le dis et le redis, madame la ministre de l'agriculture, si l'on n’associe pas les éleveurs d’Occitanie à l’élaboratio",
+            "tags": [
+              "enfants",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873673",
+            "actor_name": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées",
+            "stance": "justification",
+            "argument_summary": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées justifie la position gouvernementale sur Aide sociale à l’enfance.",
+            "quote": "Nous travaillons avec l'Inspection générale des affaires sociales en vue de répondre à votre question, c'est-à-dire de prendre des mesures très concrètes en matière de contrôle des établissements par les départements, ainsi que d'améliorer la formation des professionnels encadrants.",
+            "quote_context": "armentier . Ce n'est pas un simple incident ! Mme Stéphanie Rist, ministre . Dès que j'en ai eu connaissance, j'ai bien évidemment saisi la procureure de la République à ce sujet. Nous travaillons avec l'Inspection générale des affaires sociales en vue de répondre à votre question, c'est-à-dire de prendre des mesures très concrètes en matière de contrôle des établissements par les départements, ainsi que d'améliorer la formation des professionnels encadrants. Qu'ils soient placés ou non, la République doit à tous les enfants une certaine stabilité, une certaine dignité, une certaine sécurité ; je profite de l'occasion pour rappeler l'e",
+            "tags": [
+              "enfants",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1112",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1112",
+      "subject_id": "question-qanr5l17qg1112",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA794206",
+            "actor_name": "Christophe Marion",
+            "stance": "demande_action",
+            "argument_summary": "Christophe Marion demande une réponse sur Liquidation de Brandt.",
+            "quote": "Monsieur le ministre délégué chargé de l'industrie, après le Salon du made in France, après la Grande Exposition du fabriqué en France, à l'Élysée, il y a quelques semaines, la liquidation du groupe Brandt et de ses marques emblématiques – Vedette, De Dietrich, Sauter – est vécue comme un traumatisme national.",
+            "quote_context": "LIQUIDATION DE BRANDT Mme la présidente . La parole est à M. Christophe Marion. M. Christophe Marion . Monsieur le ministre délégué chargé de l'industrie, après le Salon du made in France, après la Grande Exposition du fabriqué en France, à l'Élysée, il y a quelques semaines, la liquidation du groupe Brandt et de ses marques emblématiques – Vedette, De Dietrich, Sauter – est vécue comme un traumatisme national. En tout, 750 salariés, dont une centaine de femmes et d'hommes à Saint-Ouen, dont j'ai été maire, recevront leur lettre de licenciement durant les fêtes de fin d'année. Pendant la",
+            "tags": [
+              "industrie",
+              "demande_action"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873703",
+            "actor_name": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'industrie",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'industrie met en avant une mesure ou un engagement sur Liquidation de Brandt.",
+            "quote": "De là ce projet de Scop autour duquel, grâce à la mobilisation de la région, de la métropole, de tout le monde, nous avons réussi à réunir des fonds.",
+            "quote_context": "imite de dépôt d'une offre, les projets de reprise venaient d'être retirés les uns après les autres ; ne restait que celui de Revive, qui avait besoin d'un soutien supplémentaire. De là ce projet de Scop autour duquel, grâce à la mobilisation de la région, de la métropole, de tout le monde, nous avons réussi à réunir des fonds. Le dossier a été déposé un mercredi ; ayant jusqu'au lundi pour améliorer l'offre, nous avons encore ramené des partenaires supplémentaires – je remercie à ce propos la présidente",
+            "tags": [
+              "industrie",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1113",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1113",
+      "subject_id": "question-qanr5l17qg1113",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841223",
+            "actor_name": "Tristan Lahais",
+            "stance": "demande_action",
+            "argument_summary": "Tristan Lahais demande une réponse sur Gestion des eaux.",
+            "quote": "Leur colère vise le nouveau schéma d'aménagement et de gestion de l'eau (Sage), en révision depuis trois ans, qui doit désormais être adopté.",
+            "quote_context": "événements inacceptables : des syndicats agricoles ont empêché la réunion de la commission locale de l’eau et poursuivi leur mobilisation par des actions d’intimidation à Rennes. Leur colère vise le nouveau schéma d'aménagement et de gestion de l'eau (Sage), en révision depuis trois ans, qui doit désormais être adopté. Alors que seulement 8 % des cours d’eau de ce territoire sont en bon état, vous n’ignorez pas qu'une réglementation renforcée est indispensable. Une mesure en particulier cristall",
+            "tags": [
+              "eau et assainissement",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873722",
+            "actor_name": "Ministère délégué auprès de la ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature, chargé de la transition écologique",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère délégué auprès de la ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature, chargé de la transition écologique met en avant une mesure ou un engagement sur Gestion des eaux.",
+            "quote": "…et le gouvernement sera particulièrement attentif à ce point.",
+            "quote_context": "a France est certes attachée à la simplification, mais celle-ci ne signifie ni dérégulation ni détricotage,… Mme Marie Pochon. Vous mentez ! M. Mathieu Lefèvre, ministre délégué . …et le gouvernement sera particulièrement attentif à ce point. (Applaudissements sur quelques bancs du groupe EPR.) Mme la présidente . La parole est à M. Tristan Lahais. M. Tristan Lahais . Il n'y a ici que vous qui opposez les agriculteurs",
+            "tags": [
+              "eau et assainissement",
+              "annonce_mesure"
+            ],
+            "confidence": 0.61,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1114",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1114",
+      "subject_id": "question-qanr5l17qg1114",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA791812",
+            "actor_name": "Sophia Chikirou",
+            "stance": "demande_action",
+            "argument_summary": "Sophia Chikirou demande une réponse sur Situation du secteur périscolaire.",
+            "quote": "Madame la ministre de la jeunesse, le pire est arrivé : l'été dernier, trois enfants confiés à des centres de loisirs sont morts.",
+            "quote_context": "SITUATION DU SECTEUR PÉRISCOLAIRE Mme la présidente . La parole est à Mme Sophia Chikirou. Mme Sophia Chikirou . Madame la ministre de la jeunesse, le pire est arrivé : l'été dernier, trois enfants confiés à des centres de loisirs sont morts. À Paris, des dizaines de plaintes pour agressions sexuelles ont été déposées à la suite de faits commis dans un contexte périscolaire ; à l'heure où je prends la parole, des centa",
+            "tags": [
+              "enfants",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873701",
+            "actor_name": "Ministère délégué auprès du Premier ministre, chargé de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+            "stance": "justification",
+            "argument_summary": "Ministère délégué auprès du Premier ministre, chargé de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations justifie la position gouvernementale sur Situation du secteur périscolaire.",
+            "quote": "L'ensemble du gouvernement est mobilisé, notamment pour renforcer les règles relatives au contrôle d'honorabilité et au casier judiciaire vierge obligatoire, pour garantir que celles et ceux qui sont au contact de nos enfants soient les mieux formés et recrutés possible.",
+            "quote_context": "des collectivités territoriales. Vous savez très bien qu'il ne s'agit pas de l'inaction du gouvernement. Un député du groupe DR . Très bien ! Mme Aurore Bergé, ministre déléguée . L'ensemble du gouvernement est mobilisé, notamment pour renforcer les règles relatives au contrôle d'honorabilité et au casier judiciaire vierge obligatoire, pour garantir que celles et ceux qui sont au contact de nos enfants soient les mieux formés et recrutés possible. En effet, quand nous confions nos enfants, nous confions ce que nous avons de plus précieux,… M. Sylvain Maillard . Eh oui ! Mme Aurore Bergé, ministre déléguée . …il ne peut donc",
+            "tags": [
+              "enfants",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1115",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1115",
+      "subject_id": "question-qanr5l17qg1115",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841761",
+            "actor_name": "Aurélien Dutremble",
+            "stance": "alerte",
+            "argument_summary": "Aurélien Dutremble alerte sur Fast fashion.",
+            "quote": "Toutefois, cette loi suscite de fortes inquiétudes dans nos territoires industriels, où ses effets collatéraux peuvent être dramatiques.",
+            "quote_context": "la fast fashion, adoptée récemment, poursuit un objectif que nous partageons tous : réduire l'impact environnemental d'une industrie textile mondialisée et souvent peu vertueuse. Toutefois, cette loi suscite de fortes inquiétudes dans nos territoires industriels, où ses effets collatéraux peuvent être dramatiques. Dans ma circonscription, à Autun, l'usine Dim emploie près de 800 salariés. C'est un pilier économique, social et humain du bassin autunois. Or les dirigeants comme les équipes m'",
+            "tags": [
+              "industrie",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873640",
+            "actor_name": "Ministère des petites et moyennes entreprises, du commerce, de l’artisanat, du tourisme et du pouvoir d’achat",
+            "stance": "justification",
+            "argument_summary": "Ministère des petites et moyennes entreprises, du commerce, de l’artisanat, du tourisme et du pouvoir d’achat justifie la position gouvernementale sur Fast fashion.",
+            "quote": "Je partage votre regard quant à l'attention que nous devons porter aux entreprises françaises – Dim, mais aussi le Denim Center dans le Nord.",
+            "quote_context": ", de l’artisanat, du tourisme et du pouvoir d’achat. M. Serge Papin, ministre des petites et moyennes entreprises, du commerce, de l’artisanat, du tourisme et du pouvoir d’achat . Je partage votre regard quant à l'attention que nous devons porter aux entreprises françaises – Dim, mais aussi le Denim Center dans le Nord. Avec la direction générale des entreprises, nous sommes en train d'étudier comment nous pourrions préserver ces entreprises, par un dispositif de bonus, dans le cadre de l'applica",
+            "tags": [
+              "industrie",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1116",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1116",
+      "subject_id": "question-qanr5l17qg1116",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA794502",
+            "actor_name": "Michaël Taverne",
+            "stance": "demande_action",
+            "argument_summary": "Michaël Taverne demande une réponse sur Mécanisme de relocalisation des migrants.",
+            "quote": "L'Union européenne a exempté six États membres du mécanisme dit de relocalisation des migrants : la Bulgarie, la République tchèque, l'Estonie, la Croatie, l'Autriche et la Pologne.",
+            "quote_context": "MÉCANISME DE RELOCALISATION DES MIGRANTS Mme la présidente . La parole est à M. Michaël Taverne. M. Michaël Taverne . Ma question s'adresse à M. le premier ministre. L'Union européenne a exempté six États membres du mécanisme dit de relocalisation des migrants : la Bulgarie, la République tchèque, l'Estonie, la Croatie, l'Autriche et la Pologne. Ce mécanisme, qui vise à relocaliser 30 000 demandeurs d'asile tous les ans en Europe, ne s'appliquera donc pas à ces pays au motif qu'ils sont confrontés à une situation migratoi",
+            "tags": [
+              "union européenne",
+              "demande_action"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "justification",
+            "argument_summary": "Ministère de l'intérieur justifie la position gouvernementale sur Mécanisme de relocalisation des migrants.",
+            "quote": "Il faut se féliciter que la position de la France ait été retenue, grâce au soutien de l'Italie et de l'Allemagne, dans le cadre du règlement « retour » – appelé à remplacer la directive « retour » – ; la discussion va se poursuivre dans le cadre du trilogue.",
+            "quote_context": "et affaires intérieures, dit JAI, s'est tenu le 8 décembre, réunissant les ministres européens concernés. Cette réunion très importante a traité des thématiques que vous évoquez. Il faut se féliciter que la position de la France ait été retenue, grâce au soutien de l'Italie et de l'Allemagne, dans le cadre du règlement « retour » – appelé à remplacer la directive « retour » – ; la discussion va se poursuivre dans le cadre du trilogue. Nous avons déjà obtenu d'inverser le principe : le départ volontaire deviendra l'exception et le départ contraint, la règle. Nous avons également obtenu la possibilité, s'agissant",
+            "tags": [
+              "union européenne",
+              "justification"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1117",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1117",
+      "subject_id": "question-qanr5l17qg1117",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA721750",
+            "actor_name": "Céline Calvez",
+            "stance": "demande_action",
+            "argument_summary": "Céline Calvez demande une réponse sur Impact des industries créatives et culturelles françaises.",
+            "quote": "Il y a des motifs de fierté qui méritent d'être évoqués dans cet hémicycle.",
+            "quote_context": "IMPACT DES INDUSTRIES CRÉATIVES ET CULTURELLES FRANÇAISES Mme la présidente . La parole est à Mme Céline Calvez. Mme Céline Calvez . Il y a des motifs de fierté qui méritent d'être évoqués dans cet hémicycle. Le prix du meilleur jeu vidéo au monde vient d'être décerné à Clair Obscur : Expedition 33 . C'est le tout premier jeu vidéo du studio français Sandfall Interactive, bravo à eux.",
+            "tags": [
+              "industrie",
+              "demande_action"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873718",
+            "actor_name": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'intelligence artificielle et du numérique",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'intelligence artificielle et du numérique met en avant une mesure ou un engagement sur Impact des industries créatives et culturelles françaises.",
+            "quote": "Ensuite, il faut soutenir l'innovation : la filière, qui a été la première à intégrer l'IA, joue un rôle crucial pour le développement de l'intelligence artificielle.",
+            "quote_context": "du gouvernement. Il s'agit d'abord d'accompagner la compétitivité de la filière, notamment à travers le crédit d'impôt jeux vidéo, dont 400 jeux et 200 studios ont déjà bénéficié. Ensuite, il faut soutenir l'innovation : la filière, qui a été la première à intégrer l'IA, joue un rôle crucial pour le développement de l'intelligence artificielle. Enfin, nous comptons former et accompagner la filière à l'export via France 2030, dans le cadre du programme Cultur'Export de BPI France. Ma collègue Rachida Dati et moi-même assu",
+            "tags": [
+              "industrie",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1118",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1118",
+      "subject_id": "question-qanr5l17qg1118",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795844",
+            "actor_name": "Karen Erodi",
+            "stance": "soutien",
+            "argument_summary": "Karen Erodi met en avant MaPrimeRénov’.",
+            "quote": "Travaillant moi-même dans le bâtiment, je salue et soutiens la mobilisation des entreprises artisanales dans tous les départements, à l'appel de la Capeb.",
+            "quote_context": "MAPRIMERÉNOV' Mme la présidente . La parole est à Mme Karen Erodi. Mme Karen Erodi . Travaillant moi-même dans le bâtiment, je salue et soutiens la mobilisation des entreprises artisanales dans tous les départements, à l'appel de la Capeb. Monsieur le ministre Jeanbrun, ce que vous avez fait de MaPrimeRénov', ce n'est pas une réforme, c'est du sabotage, pour des millions de Français (Applaudissements sur les bancs d",
+            "tags": [
+              "logement : aides et prêts",
+              "soutien"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873665",
+            "actor_name": "Ministère de la ville et du logement",
+            "stance": "justification",
+            "argument_summary": "Ministère de la ville et du logement justifie la position gouvernementale sur MaPrimeRénov’.",
+            "quote": "Eh bien, parlons-en : le budget est maintenu à plus de 4 milliards d'euros pour que nous puissions pousser à fond notre ambition en matière de rénovation de l'habitat.",
+            "quote_context": "t également.) Vous avez raison de parler de leur sort car l'instabilité dont vous avez été en grande partie la cause les a beaucoup impactées. Vous m'interrogez sur MaPrimeRénov'. Eh bien, parlons-en : le budget est maintenu à plus de 4 milliards d'euros pour que nous puissions pousser à fond notre ambition en matière de rénovation de l'habitat. S'il y a évidemment un enjeu climatique au maintien de ce dispositif, il y a aussi un enjeu pour le pouvoir d'achat des familles et un enjeu pour nos artisans et nos petites entre",
+            "tags": [
+              "logement : aides et prêts",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1119",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1119",
+      "subject_id": "question-qanr5l17qg1119",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA842195",
+            "actor_name": "Romain Eskenazi",
+            "stance": "demande_action",
+            "argument_summary": "Romain Eskenazi demande une réponse sur Plateformes chinoises d’achat en ligne.",
+            "quote": "J'ai eu l'honneur de présider pendant cinq mois la mission d'information sur le contrôle de nos importations ; avec ses deux rapporteurs ici présents, nous avons présenté ses conclusions ce matin en commission du développement durable.",
+            "quote_context": "nt la représentation nationale, voilà le symbole à la fois de leur mépris pour notre démocratie et des failles de notre État de droit, au niveau français comme au niveau européen. J'ai eu l'honneur de présider pendant cinq mois la mission d'information sur le contrôle de nos importations ; avec ses deux rapporteurs ici présents, nous avons présenté ses conclusions ce matin en commission du développement durable. Et elles sont accablantes : 175 millions de colis sont arrivés à Roissy en 2022, 410 millions en 2023, 775 millions en 2024 ; cela double chaque année pour attein…",
+            "tags": [
+              "ventes et commerce électronique",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873640",
+            "actor_name": "Ministère des petites et moyennes entreprises, du commerce, de l’artisanat, du tourisme et du pouvoir d’achat",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère des petites et moyennes entreprises, du commerce, de l’artisanat, du tourisme et du pouvoir d’achat met en avant une mesure ou un engagement sur Plateformes chinoises d’achat en ligne.",
+            "quote": "Le combat sera long, car nous avons affaire à des acteurs puissants, mais il est indispensable que nous nous protégions.",
+            "quote_context": "des mêmes manquements. Avec sept autres États membres, la France a demandé l'application radicale du droit européen, ce qui signifiera des enquêtes et, je l'espère, des sanctions. Le combat sera long, car nous avons affaire à des acteurs puissants, mais il est indispensable que nous nous protégions. (Applaudissements sur les bancs des groupes EPR et Dem. – M. Romain Eskenazi applaudit également.)",
+            "tags": [
+              "ventes et commerce électronique",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG112",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG112",
+      "subject_id": "question-qanr5l17qg112",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA718784",
+            "actor_name": "Éric Pauget",
+            "stance": "demande_action",
+            "argument_summary": "Éric Pauget demande une réponse sur Politique d'intégration.",
+            "quote": "Monsieur le secrétaire d'État chargé de la citoyenneté et de la lutte contre les discriminations, respecter les lois de la République française, faire siennes ses valeurs et reconnaître l'autorité de l'État à l'école comme dans la rue, telles sont les obligations et même les devoirs de tout citoyen français.",
+            "quote_context": "POLITIQUE D'INTÉGRATION Mme la présidente . La parole est à M. Éric Pauget. M. Éric Pauget . Monsieur le secrétaire d'État chargé de la citoyenneté et de la lutte contre les discriminations, respecter les lois de la République française, faire siennes ses valeurs et reconnaître l'autorité de l'État à l'école comme dans la rue, telles sont les obligations et même les devoirs de tout citoyen français. Or, aujourd'hui, comme vous avez eu raison de le souligner, le moteur de l'intégration est malheureusement cassé. M. Antoine Léaument. Ce n'est pas vrai ! M. Éric Pauget . La Fran",
+            "tags": [
+              "immigration",
+              "demande_action"
+            ],
+            "confidence": 0.69,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847714",
+            "actor_name": "Secrétariat d'État auprès du ministre de l'intérieur, chargé de la citoyenneté et de la lutte contre les discriminations",
+            "stance": "justification",
+            "argument_summary": "Secrétariat d'État auprès du ministre de l'intérieur, chargé de la citoyenneté et de la lutte contre les discriminations justifie la position gouvernementale sur Politique d'intégration.",
+            "quote": "Je rappelle une conviction qui est celle du ministre de l'intérieur, Bruno Retailleau, et que je partage : pour accueillir mieux, il faut accueillir moins.",
+            "quote_context": "de la lutte contre les discriminations . Je veux d'abord vous dire combien vous avez raison de dresser ce constat : oui, dans notre pays, le moteur de l'intégration est en panne. Je rappelle une conviction qui est celle du ministre de l'intérieur, Bruno Retailleau, et que je partage : pour accueillir mieux, il faut accueillir moins. (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR.) C'est une fausse générosité que de penser qu'on peut accueillir toujours plus de nouveaux arriva",
+            "tags": [
+              "immigration",
+              "justification"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1120",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1120",
+      "subject_id": "question-qanr5l17qg1120",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841151",
+            "actor_name": "Alix Fruchon",
+            "stance": "alerte",
+            "argument_summary": "Alix Fruchon alerte sur Agriculteurs des zones intermédiaires.",
+            "quote": "Je souhaite relayer les inquiétudes des agriculteurs des zones intermédiaires quant au devenir de leurs exploitations.",
+            "quote_context": "AGRICULTEURS DES ZONES INTERMÉDIAIRES Mme la présidente . La parole est à Mme Alix Fruchon. Mme Alix Fruchon . Je souhaite relayer les inquiétudes des agriculteurs des zones intermédiaires quant au devenir de leurs exploitations. La définition de cette zone à faible potentiel, il y a six ans, devait conduire à une augmentation des aides du deuxième pilier de la PAC. Elle ne s’est finalement traduite que pa",
+            "tags": [
+              "agriculture",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "justification",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire justifie la position gouvernementale sur Agriculteurs des zones intermédiaires.",
+            "quote": "Vous m'interrogez plus spécifiquement sur le soutien de l'État aux agriculteurs des zones intermédiaires.",
+            "quote_context": "r que chaque pays définisse lui-même ses actifs agricoles. Enfin, elle demande une recommunautarisation de la PAC – c'est le « C » de commune qui donne sa force à cette politique. Vous m'interrogez plus spécifiquement sur le soutien de l'État aux agriculteurs des zones intermédiaires. Cela soulève la question de l'extension de l'ICHN. La déclinaison de la PAC prévoit deux ensembles de mesures agroenvironnementales et climatiques adaptées à ces zones, qui, comme",
+            "tags": [
+              "agriculture",
+              "justification"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1121",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1121",
+      "subject_id": "question-qanr5l17qg1121",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841701",
+            "actor_name": "Léa Balage El Mariky",
+            "stance": "demande_action",
+            "argument_summary": "Léa Balage El Mariky demande une réponse sur Sommet européen sur les avoirs russes.",
+            "quote": "Poutine doit payer pour la guerre qu’il a déclenchée, et les Européens ont les moyens de l’y contraindre.",
+            "quote_context": "ette situation, ne rien faire revient à trahir. L’Ukraine résiste, mais ne pourra pas s’en sortir seule. En 2026 et 2027, il lui manquera 135 milliards d’euros pour rester debout. Poutine doit payer pour la guerre qu’il a déclenchée, et les Européens ont les moyens de l’y contraindre. Leurs atouts sont les avoirs russes gelés, qui représentent 210 milliards d’euros, dont 185 milliards en Belgique. Au-delà des intérêts qu’ils produisent, il faut désormais mobili",
+            "tags": [
+              "politique extérieure",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873728",
+            "actor_name": "Ministère délégué auprès du ministre de l’Europe et des affaires étrangères, chargé de la francophonie, des partenariats internationaux et des Français de l’étranger",
+            "stance": "justification",
+            "argument_summary": "Ministère délégué auprès du ministre de l’Europe et des affaires étrangères, chargé de la francophonie, des partenariats internationaux et des Français de l’étranger justifie la position gouvernementale sur Sommet européen sur les avoirs russes.",
+            "quote": "Comme vous l'avez rappelé, les plus de 200 milliards d'euros immobilisés dans les juridictions de l'Union européenne constituent un atout.",
+            "quote_context": "aine restent très importants, nous devons continuer à soutenir ce pays. Nous sommes d'ailleurs engagés dans cette voie. Vous avez également raison de parler des avoirs souverains. Comme vous l'avez rappelé, les plus de 200 milliards d'euros immobilisés dans les juridictions de l'Union européenne constituent un atout. Vendredi dernier, une décision majeure a été prise : sans devoir être reconduite tous les six mois, cette immobilisation durera jusqu'à la fin de l'agression russe en Ukraine. C'e",
+            "tags": [
+              "politique extérieure",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1122",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1122",
+      "subject_id": "question-qanr5l17qg1122",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA722374",
+            "actor_name": "Cyrille Isaac-Sibille",
+            "stance": "demande_action",
+            "argument_summary": "Cyrille Isaac-Sibille demande une réponse sur PFAS dans l’eau potable.",
+            "quote": "Madame la ministre de la santé, pouvez-vous – pouvons-nous – affirmer aux Français que l'eau du robinet qu'ils boivent est saine ?",
+            "quote_context": "PFAS DANS L'EAU POTABLE Mme la présidente . La parole est à M. Cyrille Isaac-Sibille. M. Cyrille Isaac-Sibille . Madame la ministre de la santé, pouvez-vous – pouvons-nous – affirmer aux Français que l'eau du robinet qu'ils boivent est saine ? Le TFA, pour acide trifluoroacétique, appartient à la famille des PFAS, et en est le plus petit métabolite. Or l'Anses vient de révéler qu'il est présent dans 92 % des échantillon",
+            "tags": [
+              "produits dangereux",
+              "pfas",
+              "demande_action"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873673",
+            "actor_name": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées met en avant une mesure ou un engagement sur PFAS dans l’eau potable.",
+            "quote": "Pour le TFA, dans l'attente des travaux européens, nous avons retenu transitoirement la valeur sanitaire indicative allemande de 60 microgrammes par litre, avec un objectif plus protecteur à 10 microgrammes par litre.",
+            "quote_context": "engagement, depuis plusieurs années maintenant, sur ces sujets. Vous savez qu'avec la ministre de la transition écologique, nous coordonnons nos actions pour réduire les risques. Pour le TFA, dans l'attente des travaux européens, nous avons retenu transitoirement la valeur sanitaire indicative allemande de 60 microgrammes par litre, avec un objectif plus protecteur à 10 microgrammes par litre. Le TFA a été détecté dans plus de 90 % des échantillons de la campagne exploratoire de l'Anses. Aucune eau traitée ne dépasse toutefois la valeur des 60 microgrammes par litre et",
+            "tags": [
+              "produits dangereux",
+              "pfas",
+              "annonce_mesure"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1123",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1123",
+      "subject_id": "question-qanr5l17qg1123",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841359",
+            "actor_name": "Constance de Pélichy",
+            "stance": "demande_action",
+            "argument_summary": "Constance de Pélichy demande une réponse sur Congés parentaux.",
+            "quote": "Cette année, les messages de condoléances auront été plus nombreux que ceux de félicitations – c'est une réalité glaçante.",
+            "quote_context": "CONGÉS PARENTAUX Mme la présidente . La parole est à Mme Constance de Pélichy. Mme Constance de Pélichy . Cette année, les messages de condoléances auront été plus nombreux que ceux de félicitations – c'est une réalité glaçante. Le nombre de naissances s'est effondré, comme si les « Français, champions de la natalité » appartenaient au passé. Mais il n'y a pas de fatalité. Depuis plus de six mois, j'étudi",
+            "tags": [
+              "démographie",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873673",
+            "actor_name": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées met en avant une mesure ou un engagement sur Congés parentaux.",
+            "quote": "C'est pourquoi nous avons décidé d'orienter le financement public, à hauteur de 600 millions d'euros, vers la réforme du complément du libre choix du mode de garde, qui vise à réduire le reste à charge pour les familles.",
+            "quote_context": "ettra de rester auprès de son enfant jusqu'à la fin des six premiers mois de sa vie. Ce congé s'ajoute au congé parental existant, qui ne doit plus représenter un choix contraint. C'est pourquoi nous avons décidé d'orienter le financement public, à hauteur de 600 millions d'euros, vers la réforme du complément du libre choix du mode de garde, qui vise à réduire le reste à charge pour les familles. Notre choix politique est clair : refuser les injonctions, tout en créant les conditions concrètes permettant aux familles de choisir librement leur avenir. Mme Marie-Charlotte Ga",
+            "tags": [
+              "démographie",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1124",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1124",
+      "subject_id": "question-qanr5l17qg1124",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795270",
+            "actor_name": "Marie-Agnès Poussier-Winsback",
+            "stance": "demande_action",
+            "argument_summary": "Marie-Agnès Poussier-Winsback demande une réponse sur Modernisation de l’État et cybersécurité.",
+            "quote": "Monsieur le ministre de l'intérieur, la modernisation de l'action de l'État n'est pas un luxe, mais la condition pour qu'il reste efficace, crédible et se montre à la hauteur des défis du pays.",
+            "quote_context": "MODERNISATION DE L'ÉTAT ET CYBERSÉCURITÉ Mme la présidente . La parole est à Mme Marie-Agnès Poussier-Winsback. Mme Marie-Agnès Poussier-Winsback . Monsieur le ministre de l'intérieur, la modernisation de l'action de l'État n'est pas un luxe, mais la condition pour qu'il reste efficace, crédible et se montre à la hauteur des défis du pays. Moderniser l'État, c'est lui redonner de la puissance pour mieux lutter contre la fraude, protéger davantage les citoyens, rendre l'action publique plus rapide et plus juste. Sur",
+            "tags": [
+              "sécurité des biens et des personnes",
+              "cybersécurité",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l'intérieur met en avant une mesure ou un engagement sur Modernisation de l’État et cybersécurité.",
+            "quote": "Nous avons pris immédiatement des mesures de remédiation : systématisation de la double authentification, fermeture de plusieurs comptes, gestion plus stricte des messageries.",
+            "quote_context": "ve. Comme je l'ai indiqué ce matin au micro de France Info, quelques dizaines de fiches seraient, à cette heure, concernées. Je reste très prudent – nous poursuivons l'inventaire. Nous avons pris immédiatement des mesures de remédiation : systématisation de la double authentification, fermeture de plusieurs comptes, gestion plus stricte des messageries. Le cadre de travail des agents sera forcément plus contraint. Plus généralement, le ministère de l'intérieur a engagé, comme tous les autres ministères, une action visant à renfor",
+            "tags": [
+              "sécurité des biens et des personnes",
+              "cybersécurité",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1125",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1125",
+      "subject_id": "question-qanr5l17qg1125",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793174",
+            "actor_name": "Yannick Monnet",
+            "stance": "demande_action",
+            "argument_summary": "Yannick Monnet demande une réponse sur Projet de décret « Rivage ».",
+            "quote": "J'ai été alerté par les avocats du barreau de Moulins sur le projet de décret dit Rivage – soit : réguler les instances en voie d'appel pour en garantir l'effectivité.",
+            "quote_context": "PROJET DE DÉCRET « RIVAGE » Mme la présidente . La parole est à M. Yannick Monnet. M. Yannick Monnet . Ma question s'adresse à monsieur le garde des sceaux. J'ai été alerté par les avocats du barreau de Moulins sur le projet de décret dit Rivage – soit : réguler les instances en voie d'appel pour en garantir l'effectivité. L'objectif affiché est de désengorger les cours d'appel en recentrant leur activité sur les litiges considérés comme les plus « significatifs ». Pour cela, vous envisagez de relev",
+            "tags": [
+              "justice",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873682",
+            "actor_name": "Ministère de la justice",
+            "stance": "justification",
+            "argument_summary": "Ministère de la justice justifie la position gouvernementale sur Projet de décret « Rivage ».",
+            "quote": "Comme ces questions relèvent essentiellement de mesures réglementaires, le Parlement s'en saisit rarement.",
+            "quote_context": "ce. M. Gérald Darmanin, garde des sceaux, ministre de la justice . Monsieur le député, je suis très heureux que nous ayons l'occasion de parler de justice civile dans l'hémicycle. Comme ces questions relèvent essentiellement de mesures réglementaires, le Parlement s'en saisit rarement. Elles représentent pourtant 60 % de l'activité des tribunaux et du travail des magistrats, la majeure partie de celui des avocats et le lien le plus évident entre les Français et",
+            "tags": [
+              "justice",
+              "justification"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1126",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1126",
+      "subject_id": "question-qanr5l17qg1126",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841769",
+            "actor_name": "Éric Michoux",
+            "stance": "demande_action",
+            "argument_summary": "Éric Michoux demande une réponse sur Industrie automobile.",
+            "quote": "Je veux porter ici la colère des 330 000 salariés de la filière automobile française et d'une industrie qui se meurt de faire allégeance au pacte vert pour l'Europe – une escroquerie environnementale.",
+            "quote_context": "INDUSTRIE AUTOMOBILE Mme la présidente . La parole est à M. Éric Michoux. M. Éric Michoux . Ma question s'adresse à M. le premier ministre. Je veux porter ici la colère des 330 000 salariés de la filière automobile française et d'une industrie qui se meurt de faire allégeance au pacte vert pour l'Europe – une escroquerie environnementale. Le 23 octobre, Emmanuel Macron a très clairement réaffirmé sa position contre l'automobile thermique et, à nouveau, a prêté allégeance au pouvoir technocratique européen. En réali",
+            "tags": [
+              "industrie",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873703",
+            "actor_name": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'industrie",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'industrie met en avant une mesure ou un engagement sur Industrie automobile.",
+            "quote": "Cette préférence européenne sera mise en œuvre par le conditionnement des aides publiques.",
+            "quote_context": "ouvelle règle de conduite. (Exclamations sur les bancs des groupes UDR et RN.) M. Alexandre Loubet . Fabriqué en Europe de l'Est, plutôt ! Mme Anne Le Hénanff, ministre déléguée . Cette préférence européenne sera mise en œuvre par le conditionnement des aides publiques. À partir de 2028, celles-ci favoriseront l'électrification du parc automobile, à hauteur de 60 % des flottes professionnelles des grandes entreprises, des petits véhicules et des",
+            "tags": [
+              "industrie",
+              "annonce_mesure"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1127",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1127",
+      "subject_id": "question-qanr5l17qg1127",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA719930",
+            "actor_name": "Boris Vallaud",
+            "stance": "demande_action",
+            "argument_summary": "Boris Vallaud demande une réponse sur Loi spéciale.",
+            "quote": "Nous en prenons acte, mais nous sommes inquiets des modalités de sa mise en œuvre.",
+            "quote_context": "'a pas grand-chose d'un bloc, alors qu'il fonde votre légitimité de premier ministre. M. Erwan Balanant. Au moins, il reste central. M. Boris Vallaud . Il y aura une loi spéciale. Nous en prenons acte, mais nous sommes inquiets des modalités de sa mise en œuvre. Et…",
+            "tags": [
+              "finances publiques",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873635",
+            "actor_name": "Premier ministre",
+            "stance": "annonce_mesure",
+            "argument_summary": "Premier ministre met en avant une mesure ou un engagement sur Loi spéciale.",
+            "quote": "Et je suis en mesure de confirmer une bonne nouvelle, sous le contrôle des ministres en charge : nous allons bien terminer cette année avec 5,4 % de déficit, conformément à l'engagement que le gouvernement avait pris au mois de septembre, mais qui n'était pas gagné d'avance.",
+            "quote_context": "beaucoup d'engagement, nous pourrons très vite mettre lce sujet de côté – en tout cas, j'en forme le vœu. Troisième point : je redis qu'il faut que le déficit soit de 5 % du PIB. Et je suis en mesure de confirmer une bonne nouvelle, sous le contrôle des ministres en charge : nous allons bien terminer cette année avec 5,4 % de déficit, conformément à l'engagement que le gouvernement avait pris au mois de septembre, mais qui n'était pas gagné d'avance. Le respect des 5,4 % permet de disposer d'un socle stable, fixe et solide pour engager un certain nombre de mesures pour l'année prochaine. Les 5 % de déficit prévu est un objecti",
+            "tags": [
+              "finances publiques",
+              "annonce_mesure"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1128",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1128",
+      "subject_id": "question-qanr5l17qg1128",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA408578",
+            "actor_name": "Jean-Didier Berger",
+            "stance": "demande_action",
+            "argument_summary": "Jean-Didier Berger demande une réponse sur Baisse de la dépense publique.",
+            "quote": "Certes, monsieur le premier ministre, 2025 marque le début du redressement des comptes publics… mais à 100 % par l'augmentation de la fiscalité et à 0 % par la baisse de la dépense publique.",
+            "quote_context": "roupe RN) : éviter le blocage institutionnel, mais refuser toute augmentation d'impôts dans le pays déjà le plus fiscalisé du monde. La Cour des comptes a été claire sur le sujet. Certes, monsieur le premier ministre, 2025 marque le début du redressement des comptes publics… mais à 100 % par l'augmentation de la fiscalité et à 0 % par la baisse de la dépense publique. La France qui travaille, qui entreprend, n'en peut plus ! Elle voit chaque année l'État augmenter les prélèvements obligatoires sans résultats significatifs s…",
+            "tags": [
+              "finances publiques",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873635",
+            "actor_name": "Premier ministre",
+            "stance": "annonce_mesure",
+            "argument_summary": "Premier ministre met en avant une mesure ou un engagement sur Baisse de la dépense publique.",
+            "quote": "Deuxièmement, je tiens à souligner ici que l'objectif des 5,4 % de déficit – un chiffre bien sûr beaucoup trop élevé, nous le savons tous – aura été tenu grâce à un effort inédit de l'État qui, en 2025, a fait 23 milliards d'euros d'économies pour compenser, c'est un fait, la hausse modérée des dépenses des collectivités, mais aussi la hausse plus substantielle des dépenses de sécurité sociale.",
+            "quote_context": ", le rapporteur général issu de vos rangs, pour que nous ayons une loi spéciale de la plus courte durée possible, sachant que le blocage viendra assez vite de l'absence de budget. Deuxièmement, je tiens à souligner ici que l'objectif des 5,4 % de déficit – un chiffre bien sûr beaucoup trop élevé, nous le savons tous – aura été tenu grâce à un effort inédit de l'État qui, en 2025, a fait 23 milliards d'euros d'économies pour compenser, c'est un fait, la hausse modérée des dépenses des collectivités, mais aussi la hausse plus substantielle des dépenses de sécurité sociale. Ces 23 milliards d'euros d'économies, il ne faut pas les passer par pertes et profits : ils sont le fruit d'un très grand effort, et même le plus grand effort de réduction des dép",
+            "tags": [
+              "finances publiques",
+              "annonce_mesure"
+            ],
+            "confidence": 0.61,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1129",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1129",
+      "subject_id": "question-qanr5l17qg1129",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795076",
+            "actor_name": "Sandrine Rousseau",
+            "stance": "demande_action",
+            "argument_summary": "Sandrine Rousseau demande une réponse sur Chute du nombre de régularisations.",
+            "quote": "D’après le quotidien Le Monde, les régularisations de personnes étrangères se sont effondrées de 42 % en neuf mois, depuis l'entrée en vigueur de la circulaire Retailleau.",
+            "quote_context": "parole est à Mme Sandrine Rousseau. Mme Sandrine Rousseau . Ma question s’adresse au ministre de l’intérieur, qui – précision importante – n’est plus M. Retailleau, mais M. Nuñez. D’après le quotidien Le Monde, les régularisations de personnes étrangères se sont effondrées de 42 % en neuf mois, depuis l'entrée en vigueur de la circulaire Retailleau. Elles donnent même lieu à une espèce de compétition mortifère entre préfets pour réaliser le meilleur chiffre. Nous observons tous et toutes la difficulté de soutenir ces personne",
+            "tags": [
+              "immigration",
+              "demande_action"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère de l'intérieur met en avant une mesure ou un engagement sur Chute du nombre de régularisations.",
+            "quote": "Nous allons continuer à accorder des admissions exceptionnelles, avec des critères plus restreints tenant compte de l'adhésion aux valeurs de la République et de l'absence de menace pour l'ordre public, ce qui me paraît constituer une politique de saine et de bonne gestion.",
+            "quote_context": "ssion exceptionnelle au séjour ne représentait que 10 % des délivrances initiales de titres, le chiffre est désormais tombé à 7 %. Cela devrait relativiser un peu vos inquiétudes. Nous allons continuer à accorder des admissions exceptionnelles, avec des critères plus restreints tenant compte de l'adhésion aux valeurs de la République et de l'absence de menace pour l'ordre public, ce qui me paraît constituer une politique de saine et de bonne gestion. Mme la présidente . La parole est à Mme Sandrine Rousseau. Mme Sandrine Rousseau . La réponse est claire : vous inscrivez vos pas dans ceux de M. Retailleau. Monsieur Lecornu, ce",
+            "tags": [
+              "immigration",
+              "annonce_mesure"
+            ],
+            "confidence": 0.73,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG113",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG113",
+      "subject_id": "question-qanr5l17qg113",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793134",
+            "actor_name": "Jérôme Buisson",
+            "stance": "demande_action",
+            "argument_summary": "Jérôme Buisson demande une réponse sur Installation de la maison des mondes africains.",
+            "quote": "La future Maison des mondes africains (Mansa) doit s'installer à l'hôtel de la Monnaie et, en même temps, la Monnaie de Paris, incarnation de la continuité régalienne de la France à travers l'histoire, sise dans ce bâtiment, doit rester au cœur de notre identité.",
+            "quote_context": "core une fois, le gouvernement des perdants ne tient pas sa promesse de rompre avec le « en même temps » macronien. Pire, il a même décidé de l'étendre à la gestion du patrimoine. La future Maison des mondes africains (Mansa) doit s'installer à l'hôtel de la Monnaie et, en même temps, la Monnaie de Paris, incarnation de la continuité régalienne de la France à travers l'histoire, sise dans ce bâtiment, doit rester au cœur de notre identité. Pour arriver à proposer cet alliage incohérent, soit vous n'avez pas conscience du rayonnement et des recettes que nous apporte cette institution, soit vous avez cédé aux sirènes",
+            "tags": [
+              "culture",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847704",
+            "actor_name": "Ministère délégué auprès du Premier ministre, porte-parole du Gouvernement",
+            "stance": "annonce_mesure",
+            "argument_summary": "Ministère délégué auprès du Premier ministre, porte-parole du Gouvernement met en avant une mesure ou un engagement sur Installation de la maison des mondes africains.",
+            "quote": "Le chef de l'État aura l'occasion de préciser l'implantation de ce beau projet, qui vise à développer les liens que nous avons avec ce grand continent et à honorer sa culture.",
+            "quote_context": "ance, d'un lieu dédié aux pensées et créativités africaines, la Maison des mondes africains. Son installation dans l'hôtel de la Monnaie est une hypothèse à ce jour non confirmée. Le chef de l'État aura l'occasion de préciser l'implantation de ce beau projet, qui vise à développer les liens que nous avons avec ce grand continent et à honorer sa culture. Cela fera évidemment l'objet d'une concertation. Ni le Président de la République ni le Gouvernement n'ont la volonté de remettre en cause le travail formidable mené par la Monnai",
+            "tags": [
+              "culture",
+              "annonce_mesure"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1130",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1130",
+      "subject_id": "question-qanr5l17qg1130",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA721234",
+            "actor_name": "Maud Petit",
+            "stance": "alerte",
+            "argument_summary": "Maud Petit alerte sur Conséquences de la loi spéciale pour Mayotte.",
+            "quote": "L'État a réagi vite, avec la mobilisation de la Sécurité civile, des fonds d'urgence et de premières enveloppes votées dans les lois d'urgence et de reconstruction adoptées en 2025.",
+            "quote_context": "éseaux électriques et hydrauliques touchés. Actuellement, nos amis mahorais sont dans l'obscurité. Un an après, chacun, à Mayotte, vit encore avec les traces de cette catastrophe. L'État a réagi vite, avec la mobilisation de la Sécurité civile, des fonds d'urgence et de premières enveloppes votées dans les lois d'urgence et de reconstruction adoptées en 2025. Malheureusement, seule une partie des 420 millions d'euros annoncés a été effectivement engagée ou décaissée. Plus de 2 000 dossiers d'indemnisati…",
+            "tags": [
+              "outre-mer",
+              "mayotte",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873642",
+            "actor_name": "Ministère de l'action et des comptes publics",
+            "stance": "justification",
+            "argument_summary": "Ministère de l'action et des comptes publics justifie la position gouvernementale sur Conséquences de la loi spéciale pour Mayotte.",
+            "quote": "Il faut souligner l'impact de l'existence d'un budget sur la vie des Mahorais.",
+            "quote_context": "'application à Mayotte de la loi pour le développement économique des outre-mer, la Lodeom, et investir 122 millions d'euros pour la rénovation du centre hospitalier de Mamoudzou. Il faut souligner l'impact de l'existence d'un budget sur la vie des Mahorais. Par ailleurs – et je parle là sous le regard de Laurent Nuñez, qui représente notamment tous les services chargés de la sécurité civile –, j'affirme avec force que la continuité d",
+            "tags": [
+              "outre-mer",
+              "mayotte",
+              "justification"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1131",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1131",
+      "subject_id": "question-qanr5l17qg1131",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA721486",
+            "actor_name": "Christophe Naegelen",
+            "stance": "demande_action",
+            "argument_summary": "Christophe Naegelen demande une réponse sur Protection des entreprises françaises.",
+            "quote": "Les entreprises ne sont riches que des hommes et des femmes qui les composent.",
+            "quote_context": "PROTECTION DES ENTREPRISES FRANÇAISES Mme la présidente . La parole est à M. Christophe Naegelen. M. Christophe Naegelen . Les entreprises ne sont riches que des hommes et des femmes qui les composent. En cette veille de Noël, j'ai une pensée particulière pour les quatre-vingt-seize salariés d'Asteelflash Lorraine et pour leurs familles, qui ont vu l'usine de Cleurie fermer, alo",
+            "tags": [
+              "industrie",
+              "demande_action"
+            ],
+            "confidence": 0.82,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873635",
+            "actor_name": "Premier ministre",
+            "stance": "justification",
+            "argument_summary": "Premier ministre justifie la position gouvernementale sur Protection des entreprises françaises.",
+            "quote": "Vous avez rencontré le ministre de l'industrie et savez que les services de l'État de votre région et de votre département ont été largement mobilisés, notamment pour suivre l'élaboration du plan de sauvegarde de l'emploi.",
+            "quote_context": "inistre. M. Sébastien Lecornu, premier ministre . Je m'associe à vos pensées pour les salariés des deux entreprises et salue votre investissement personnel à propos d'Asteelflash. Vous avez rencontré le ministre de l'industrie et savez que les services de l'État de votre région et de votre département ont été largement mobilisés, notamment pour suivre l'élaboration du plan de sauvegarde de l'emploi. La moyenne d'âge des salariés, qui se situe entre 40 et 50 ans, nécessite des efforts importants de reclassement et, en prévision de votre question, j'ai demandé au ministre de se",
+            "tags": [
+              "industrie",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1132",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1132",
+      "subject_id": "question-qanr5l17qg1132",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA332228",
+            "actor_name": "Thierry Benoit",
+            "stance": "demande_action",
+            "argument_summary": "Thierry Benoit demande une réponse sur Agriculture française dans le monde.",
+            "quote": "À l'heure du libre-échange mondial, l'Union européenne éprouve de réelles difficultés à négocier : après les taxes américaines, notamment sur les vins et spiritueux, c'est aujourd'hui la Chine qui instaure des droits de douane sur les produits laitiers.",
+            "quote_context": "AGRICULTURE FRANÇAISE DANS LE MONDE Mme la présidente . La parole est à M. Thierry Benoit. M. Thierry Benoit . À l'heure du libre-échange mondial, l'Union européenne éprouve de réelles difficultés à négocier : après les taxes américaines, notamment sur les vins et spiritueux, c'est aujourd'hui la Chine qui instaure des droits de douane sur les produits laitiers. La France et l'Union européenne exportent dans le monde des produits agricoles respectant des standards de production très exigeants, aussi bien du point de vue sanitaire, aliment",
+            "tags": [
+              "agriculture",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "justification",
+            "argument_summary": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire justifie la position gouvernementale sur Agriculture française dans le monde.",
+            "quote": "Si vous le voulez bien, je vais me concentrer sur la PAC, que vos interrogations me semblent concerner au premier chef.",
+            "quote_context": "les relations internationales, auxquelles, il est vrai, une grande partie des questions agricoles ont trait, en particulier aux décisions prises à l'échelle de l'Union européenne. Si vous le voulez bien, je vais me concentrer sur la PAC, que vos interrogations me semblent concerner au premier chef. La politique agricole commune est la plus ancienne, la première des politiques de l'Union européenne ; c'est aussi, comme le dit souvent Michel Barnier, la plus moderne. M. Benjam",
+            "tags": [
+              "agriculture",
+              "justification"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          }
+        ]
+      }
+    }
+  ],
+  "notes": [
+    "Deux citations maximum par item : une issue du segment question, une issue du segment réponse.",
+    "Chaque champ quote a été vérifié comme sous-chaîne exacte du segment correspondant.",
+    "needs_review=true signale les citations sensibles, très politiques, ambiguës ou liées à un acteur dont le nom devait être inféré depuis le texte."
+  ]
+}

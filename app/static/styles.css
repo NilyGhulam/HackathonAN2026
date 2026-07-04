@@ -136,6 +136,7 @@ h3 { margin-bottom: 8px; }
 .argument-plane-left { left: 18px; top: 50%; transform: translateY(-50%); color: #a558a8; }
 .argument-plane-right { right: 18px; top: 50%; transform: translateY(-50%); color: #009fe3; }
 .argument-nodes { position: absolute; inset: 0; z-index: 6; }
+.argument-empty { position: absolute; left: 50%; top: 50%; width: min(280px, calc(100% - 48px)); margin: 0; transform: translate(-50%, -50%); color: var(--muted); font-size: 15px; line-height: 1.45; text-align: center; background: rgba(255,255,255,.86); border: 1px solid var(--line); padding: 12px 14px; }
 .argument-node { position: absolute; left: var(--argument-x); top: var(--argument-y); display: grid; grid-template-columns: 52px minmax(0, 190px); gap: 10px; align-items: center; min-width: 250px; max-width: 286px; transform: translate(-50%, -50%); font: inherit; transition: transform .18s ease; }
 .argument-node:hover, .argument-node:focus-within { transform: translate(-50%, -50%) scale(1.04); outline: none; }
 .argument-node-unpositioned .argument-quote { color: var(--muted); }
@@ -282,7 +283,7 @@ main { max-width: 1360px; }
 .mapping-workbench .arguments-grid { padding: 18px; }
 .mapping-workbench .arguments-grid { grid-template-columns: 1fr; }
 
-@media (max-width: 860px) { main { padding: 22px; } .stats-grid, .cards, .layout.two-columns, .cluster-grid, .explorer-step, .category-map, .category-nodes, .subtopic-map, .subject-header, .vote-card, .arguments-grid, .theme-head, .principles, .search-row, .argument-map-head, .argument-graph, .subject-aside { grid-template-columns: 1fr; } .category-node::before { display: none; } .topbar { align-items: start; flex-direction: column; gap: 12px; } nav { flex-wrap: wrap; } .argument-plane { min-height: auto; border-right: 0; padding: 16px; background: var(--paper); } .argument-plane-label { display: none; } .argument-nodes { position: static; display: grid; gap: 10px; } .argument-node { position: static; transform: none; min-width: 0; max-width: none; width: 100%; } .argument-node:hover, .argument-node:focus, .argument-node.is-active { transform: none; } }
+@media (max-width: 860px) { main { padding: 22px; } .stats-grid, .cards, .layout.two-columns, .cluster-grid, .explorer-step, .category-map, .category-nodes, .subtopic-map, .subject-header, .vote-card, .arguments-grid, .theme-head, .principles, .search-row, .argument-map-head, .argument-graph, .subject-aside { grid-template-columns: 1fr; } .category-node::before { display: none; } .topbar { align-items: start; flex-direction: column; gap: 12px; } nav { flex-wrap: wrap; } .argument-plane { min-height: auto; border-right: 0; padding: 16px; background: var(--paper); } .argument-plane-label { display: none; } .argument-nodes { position: static; display: grid; gap: 10px; } .argument-empty, .argument-node { position: static; transform: none; min-width: 0; max-width: none; width: 100%; } .argument-node:hover, .argument-node:focus, .argument-node.is-active { transform: none; } }
 
 @media (max-width: 1180px) {
   .mapping-workbench { grid-template-columns: 1fr; }

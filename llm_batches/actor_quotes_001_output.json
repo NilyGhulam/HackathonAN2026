@@ -1,0 +1,2063 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "actor_quotes_20260704T151648_0000_output",
+  "source_batch_id": "actor_quotes_20260704T151648_0000",
+  "generated_at": "2026-07-04T17:28:00+02:00",
+  "provider": "chatgpt_conversation",
+  "task": "extract_actor_quotes",
+  "items": [
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1",
+      "subject_id": "question-qanr5l17qg1",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA842279",
+            "actor_name": "Anchya Bamana",
+            "stance": "alerte",
+            "argument_summary": "Anchya Bamana alerte sur la situation de Mayotte et présente le territoire comme confronté à une urgence globale.",
+            "quote": "À la suite de Marine Le Pen qui, ces dernières années, a défendu avec ardeur Mayotte, je souhaite vous alerter sur la situation extrêmement difficile que vit ce morceau de France au-delà des mers.",
+            "quote_context": "À la suite de Marine Le Pen qui, ces dernières années, a défendu avec ardeur Mayotte, je souhaite vous alerter sur la situation extrêmement difficile que vit ce morceau de France au-delà des mers.",
+            "tags": [
+              "outre-mer",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère annonce la confirmation de moyens policiers et de gendarmerie à court terme.",
+            "quote": "À court terme, bien sûr, je veux reprendre l'action menée par mon prédécesseur : nous confirmerons les 1 150 gendarmes et policiers déployés (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR) , auxquels s'ajoutent quatre escadrons de gendarmerie mobile et 300 gendarmes spécialisés dans le maintien de l'ordre.",
+            "quote_context": "À court terme, bien sûr, je veux reprendre l'action menée par mon prédécesseur : nous confirmerons les 1 150 gendarmes et policiers déployés (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR) , auxquels s'ajoutent quatre escadrons de gendarmerie mobile et 300 gendarmes spécialisés dans le maintien de l'ordre.",
+            "tags": [
+              "outre-mer",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG10",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG10",
+      "subject_id": "question-qanr5l17qg10",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA842299",
+            "actor_name": "Emmanuel Tjibaou",
+            "stance": "réserve",
+            "argument_summary": "Emmanuel Tjibaou accueille certaines annonces mais attend une rupture de méthode sur le dossier calédonien.",
+            "quote": "Les annonces d'hier amorcent certainement une démarche constructive : nomination d'un ministre chargé des outre-mer, reprise du dossier calédonien par Matignon, conduite d'une mission de médiation interministérielle et abandon du projet de loi constitutionnelle sur le dégel du corps électoral.",
+            "quote_context": "Les annonces d'hier amorcent certainement une démarche constructive : nomination d'un ministre chargé des outre-mer, reprise du dossier calédonien par Matignon, conduite d'une mission de médiation interministérielle et abandon du projet de loi constitutionnelle sur le dégel du corps électoral.",
+            "tags": [
+              "politique extérieure",
+              "réserve"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847640",
+            "actor_name": "Premier ministre",
+            "stance": "proposition",
+            "argument_summary": "Le Premier ministre défend une méthode d'apaisement et de recherche d'une solution institutionnelle.",
+            "quote": "Je voudrais que nous fassions ensemble usage de ce temps afin de retrouver le chemin de l'apaisement et d'une solution institutionnelle et politique en Nouvelle-Calédonie.",
+            "quote_context": "Je voudrais que nous fassions ensemble usage de ce temps afin de retrouver le chemin de l'apaisement et d'une solution institutionnelle et politique en Nouvelle-Calédonie.",
+            "tags": [
+              "politique extérieure",
+              "proposition"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG100",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG100",
+      "subject_id": "question-qanr5l17qg100",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA720960",
+            "actor_name": "Olivier Serva",
+            "stance": "critique",
+            "argument_summary": "Olivier Serva accuse l'État de ne pas répondre à la crise des outre-mer.",
+            "quote": "En Martinique, en Guadeloupe, en Nouvelle-Calédonie, à Mayotte et de manière générale en outre-mer, la maison brûle et l'État semble regarder ailleurs si l'on se réfère aux brutales coupes budgétaires intervenues.",
+            "quote_context": "En Martinique, en Guadeloupe, en Nouvelle-Calédonie, à Mayotte et de manière générale en outre-mer, la maison brûle et l'État semble regarder ailleurs si l'on se réfère aux brutales coupes budgétaires intervenues.",
+            "tags": [
+              "outre-mer",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847676",
+            "actor_name": "Ministère auprès du Premier ministre, chargé des outre-mer",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère met en avant des mesures concrètes contre la vie chère en Martinique.",
+            "quote": "Cet effort conjoint doit aboutir à une baisse importante des prix pour le consommateur sur 6 000 produits.",
+            "quote_context": "Cet effort conjoint doit aboutir à une baisse importante des prix pour le consommateur sur 6 000 produits.",
+            "tags": [
+              "outre-mer",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1000",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1000",
+      "subject_id": "question-qanr5l17qg1000",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA842121",
+            "actor_name": "Nicolas Tryzna",
+            "stance": "demande_action",
+            "argument_summary": "Nicolas Tryzna présente la relance du logement comme une urgence et interroge les leviers d'action locale.",
+            "quote": "Monsieur le ministre, dans votre entretien donné ce week-end au Journal du dimanche , vous avez présenté plusieurs orientations destinées à relancer une politique du logement aujourd'hui paralysée.",
+            "quote_context": "Monsieur le ministre, dans votre entretien donné ce week-end au Journal du dimanche , vous avez présenté plusieurs orientations destinées à relancer une politique du logement aujourd'hui paralysée.",
+            "tags": [
+              "logement",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873665",
+            "actor_name": "Ministère de la ville et du logement",
+            "stance": "proposition",
+            "argument_summary": "Le ministère défend un renforcement du pouvoir des maires dans l'attribution des logements sociaux.",
+            "quote": "C'est la raison pour laquelle, avec le premier ministre, nous souhaitons que la politique du logement et de l'habitat se décide au plus près des élus locaux ; nous souhaitons faire en sorte que les maires aient un véritable pouvoir d'attribution dans les logements sociaux.",
+            "quote_context": "C'est la raison pour laquelle, avec le premier ministre, nous souhaitons que la politique du logement et de l'habitat se décide au plus près des élus locaux ; nous souhaitons faire en sorte que les maires aient un véritable pouvoir d'attribution dans les logements sociaux.",
+            "tags": [
+              "logement",
+              "proposition"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1001",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1001",
+      "subject_id": "question-qanr5l17qg1001",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795430",
+            "actor_name": "Stéphane Delautrette",
+            "stance": "critique",
+            "argument_summary": "Stéphane Delautrette critique la contradiction entre décentralisation affichée et restrictions budgétaires.",
+            "quote": "Mais de quelles libertés parlez-vous quand vous prévoyez, dans le même temps, une nouvelle cure d'austérité pour les collectivités ?",
+            "quote_context": "Mais de quelles libertés parlez-vous quand vous prévoyez, dans le même temps, une nouvelle cure d'austérité pour les collectivités ?",
+            "tags": [
+              "collectivités territoriales",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873638",
+            "actor_name": "Ministère de l’aménagement du territoire et de la décentralisation",
+            "stance": "justification",
+            "argument_summary": "Le ministère justifie l'effort demandé aux collectivités par la situation de la dette publique.",
+            "quote": "Vous ne pouvez donc pas en vouloir au gouvernement d'essayer de redresser les choses.",
+            "quote_context": "Vous ne pouvez donc pas en vouloir au gouvernement d'essayer de redresser les choses.",
+            "tags": [
+              "collectivités territoriales",
+              "justification"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1002",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1002",
+      "subject_id": "question-qanr5l17qg1002",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA722134",
+            "actor_name": "Jean-Marie Fiévet",
+            "stance": "soutien",
+            "argument_summary": "Jean-Marie Fiévet insiste sur l'engagement citoyen des sapeurs-pompiers volontaires.",
+            "quote": "Leur engagement est un acte citoyen fort ; un véritable don de soi exigeant disponibilité et courage.",
+            "quote_context": "Leur engagement est un acte citoyen fort ; un véritable don de soi exigeant disponibilité et courage.",
+            "tags": [
+              "retraites : régimes autonomes et spéciaux",
+              "soutien"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère confirme que la mesure de retraite prévue par la loi de 2023 sera honorée.",
+            "quote": "La mesure prévue par la loi de 2023 sera bien évidemment honorée.",
+            "quote_context": "La mesure prévue par la loi de 2023 sera bien évidemment honorée.",
+            "tags": [
+              "retraites : régimes autonomes et spéciaux",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1003",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1003",
+      "subject_id": "question-qanr5l17qg1003",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA720976",
+            "actor_name": "Max Mathiasin",
+            "stance": "alerte",
+            "argument_summary": "Max Mathiasin alerte sur les homicides et l'insécurité liée au narcotrafic en Guadeloupe et à Saint-Martin.",
+            "quote": "Depuis le 1er janvier, quarante-sept personnes ont été tuées en Guadeloupe et à Saint-Martin, la plupart par arme à feu, en pleine rue.",
+            "quote_context": "Depuis le 1er janvier, quarante-sept personnes ont été tuées en Guadeloupe et à Saint-Martin, la plupart par arme à feu, en pleine rue.",
+            "tags": [
+              "outre-mer",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère confirme les engagements pris pour renforcer les moyens de sécurité.",
+            "quote": "Je ne peux que vous confirmer les engagements que mon prédécesseur a pris lors de sa visite, au mois d'août.",
+            "quote_context": "Je ne peux que vous confirmer les engagements que mon prédécesseur a pris lors de sa visite, au mois d'août.",
+            "tags": [
+              "outre-mer",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1004",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1004",
+      "subject_id": "question-qanr5l17qg1004",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA721844",
+            "actor_name": "Béatrice Piron",
+            "stance": "alerte",
+            "argument_summary": "Béatrice Piron présente la journée des droits de l'enfant comme l'occasion d'un constat critique sur les droits des enfants.",
+            "quote": "Cette journée symbolique est aussi l’occasion de dresser un constat lucide sur l’état des droits de l’enfant dans notre pays.",
+            "quote_context": "Cette journée symbolique est aussi l’occasion de dresser un constat lucide sur l’état des droits de l’enfant dans notre pays.",
+            "tags": [
+              "enfants",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873673",
+            "actor_name": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère annonce une hausse des moyens de l'État pour la protection de l'enfance.",
+            "quote": "Le projet de loi de finances pour 2026 prévoit une augmentation de 55 millions des moyens de l'État dédiés à cette politique.",
+            "quote_context": "Le projet de loi de finances pour 2026 prévoit une augmentation de 55 millions des moyens de l'État dédiés à cette politique.",
+            "tags": [
+              "enfants",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1005",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1005",
+      "subject_id": "question-qanr5l17qg1005",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA842271",
+            "actor_name": "Emmanuel Maurel",
+            "stance": "critique",
+            "argument_summary": "Emmanuel Maurel estime que l'accord UE-États-Unis marque un abandon des instruments européens de défense commerciale.",
+            "quote": "Ainsi, tous les instruments de défense commerciale qui avaient été lentement élaborés à Bruxelles pendant dix ans ont été abandonnés.",
+            "quote_context": "Ainsi, tous les instruments de défense commerciale qui avaient été lentement élaborés à Bruxelles pendant dix ans ont été abandonnés.",
+            "tags": [
+              "politique extérieure",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873662",
+            "actor_name": "Ministère de l’Europe et des affaires étrangères",
+            "stance": "réserve",
+            "argument_summary": "Le ministère présente l'accord comme une étape encore en négociation.",
+            "quote": "Sous l'autorité du premier ministre, le gouvernement continue de défendre l'exemption d'un certain nombre de produits – notamment les vins et les spiritueux – des droits de douane américains.",
+            "quote_context": "Sous l'autorité du premier ministre, le gouvernement continue de défendre l'exemption d'un certain nombre de produits – notamment les vins et les spiritueux – des droits de douane américains.",
+            "tags": [
+              "politique extérieure",
+              "réserve"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1006",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1006",
+      "subject_id": "question-qanr5l17qg1006",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841395",
+            "actor_name": "Maxime Michelet",
+            "stance": "critique",
+            "argument_summary": "Maxime Michelet critique l'action en justice engagée par l'audiovisuel public contre des médias concurrents.",
+            "quote": "Cette action en justice contre des concurrents est tout bonnement sidérante.",
+            "quote_context": "Cette action en justice contre des concurrents est tout bonnement sidérante.",
+            "tags": [
+              "audiovisuel et communication",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873669",
+            "actor_name": "Ministère de la culture",
+            "stance": "réserve",
+            "argument_summary": "Le ministère indique que la démarche n'a pas été concertée ni approuvée par les tutelles.",
+            "quote": "Vous m'avez demandé si j'avais été informée de cette démarche : en aucun cas celle-ci n'a été concertée, et encore moins approuvée, par les tutelles.",
+            "quote_context": "Vous m'avez demandé si j'avais été informée de cette démarche : en aucun cas celle-ci n'a été concertée, et encore moins approuvée, par les tutelles.",
+            "tags": [
+              "audiovisuel et communication",
+              "réserve"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1007",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1007",
+      "subject_id": "question-qanr5l17qg1007",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA793616",
+            "actor_name": "Kévin Mauvieux",
+            "stance": "critique",
+            "argument_summary": "Kévin Mauvieux critique les règles européennes de fixation du prix de l'électricité.",
+            "quote": "Pendant ce temps, en France, nous restons soumis aux pires règles de l’Union européenne.",
+            "quote_context": "Pendant ce temps, en France, nous restons soumis aux pires règles de l’Union européenne.",
+            "tags": [
+              "énergie et carburants",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873685",
+            "actor_name": "Ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+            "stance": "justification",
+            "argument_summary": "Le ministère conteste l'affirmation selon laquelle l'Allemagne sortirait du marché européen de l'énergie.",
+            "quote": "L'Allemagne ne sort en rien du marché européen de l'énergie.",
+            "quote_context": "L'Allemagne ne sort en rien du marché européen de l'énergie.",
+            "tags": [
+              "énergie et carburants",
+              "justification"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1008",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1008",
+      "subject_id": "question-qanr5l17qg1008",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA719756",
+            "actor_name": "Christine Le Nabour",
+            "stance": "proposition",
+            "argument_summary": "Christine Le Nabour veut valoriser les actions et bonnes pratiques en faveur de l'emploi des personnes handicapées.",
+            "quote": "C'est aussi l’occasion d’interroger les dispositifs existants, et de valoriser toutes les actions concrètes et les bonnes pratiques dans nos territoires.",
+            "quote_context": "C'est aussi l’occasion d’interroger les dispositifs existants, et de valoriser toutes les actions concrètes et les bonnes pratiques dans nos territoires.",
+            "tags": [
+              "handicapés",
+              "proposition"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873731",
+            "actor_name": "Ministère délégué auprès de la ministre de la santé, des familles, de l’autonomie et des personnes handicapées, chargé de  l’autonomie et des personnes handicapées",
+            "stance": "défense_bilan",
+            "argument_summary": "Le ministère affirme la mobilisation du gouvernement sur l'emploi des personnes handicapées.",
+            "quote": "Le gouvernement est pleinement mobilisé sur cette question.",
+            "quote_context": "Le gouvernement est pleinement mobilisé sur cette question.",
+            "tags": [
+              "handicapés",
+              "défense_bilan"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1009",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1009",
+      "subject_id": "question-qanr5l17qg1009",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA721960",
+            "actor_name": "Danièle Obono",
+            "stance": "alerte",
+            "argument_summary": "Danièle Obono souligne le caractère généralisé des violences sexistes et sexuelles.",
+            "quote": "Nous participerons activement à ces mobilisations, car les violences sexistes et sexuelles surviennent partout, tout le temps : sur nos lieux de travail et d’étude, au sein de nos familles, dans l’espace public, les établissements de soins, les commissariats, dans tous les milieux so…",
+            "quote_context": "Nous participerons activement à ces mobilisations, car les violences sexistes et sexuelles surviennent partout, tout le temps : sur nos lieux de travail et d’étude, au sein de nos familles, dans l’espace public, les établissements de soins, les commissariats, dans tous les milieux so…",
+            "tags": [
+              "discriminations",
+              "alerte"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "défense_bilan",
+            "argument_summary": "Le ministère affirme que les violences sexuelles constituent une priorité forte du gouvernement.",
+            "quote": "S'agissant du très grave sujet des violences sexuelles, je peux vous confirmer qu'il s'agit là d'une priorité forte du gouvernement.",
+            "quote_context": "S'agissant du très grave sujet des violences sexuelles, je peux vous confirmer qu'il s'agit là d'une priorité forte du gouvernement.",
+            "tags": [
+              "discriminations",
+              "défense_bilan"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG101",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG101",
+      "subject_id": "question-qanr5l17qg101",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA794354",
+            "actor_name": "Hélène Laporte",
+            "stance": "critique",
+            "argument_summary": "Hélène Laporte critique l'accord avec le Mercosur et ses effets de concurrence sur les agriculteurs.",
+            "quote": "Parce qu'il prévoit une exonération totale ou partielle de droits de douane sur de larges contingents de bœuf – 100 000 tonnes –, de volaille – 180 000 tonnes –, de sucre et d'éthanol, cet accord place nos agriculteurs en concurrence directe avec des producteurs qui ne sont soumis à aucune de nos normes environnementales et sociales.",
+            "quote_context": "Parce qu'il prévoit une exonération totale ou partielle de droits de douane sur de larges contingents de bœuf – 100 000 tonnes –, de volaille – 180 000 tonnes –, de sucre et d'éthanol, cet accord place nos agriculteurs en concurrence directe avec des producteurs qui ne sont soumis à aucune de nos normes environnementales et sociales.",
+            "tags": [
+              "commerce extérieur",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847690",
+            "actor_name": "Ministère délégué auprès du Premier ministre et du ministre de l’Europe et des affaires étrangères, chargé de l’Europe",
+            "stance": "opposition",
+            "argument_summary": "Le ministère affirme que l'accord Mercosur n'est pas acceptable en l'état.",
+            "quote": "L'accord en cours de négociation avec le Mercosur n'est pas acceptable.",
+            "quote_context": "L'accord en cours de négociation avec le Mercosur n'est pas acceptable.",
+            "tags": [
+              "commerce extérieur",
+              "opposition"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1010",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1010",
+      "subject_id": "question-qanr5l17qg1010",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA342415",
+            "actor_name": "Marie-Noëlle Battistel",
+            "stance": "demande_moyens",
+            "argument_summary": "Marie-Noëlle Battistel relaie l'inquiétude des élus locaux et demande des moyens pour les services publics.",
+            "quote": "Alors que le budget dont nous débattons les inquiète au plus haut point, alors que la gestion des collectivités locales est exemplaire, ils nous demandent de ne pas les priver des moyens indispensables en vue d'assurer les services publics du qu…",
+            "quote_context": "Alors que le budget dont nous débattons les inquiète au plus haut point, alors que la gestion des collectivités locales est exemplaire, ils nous demandent de ne pas les priver des moyens indispensables en vue d'assurer les services publics du qu…",
+            "tags": [
+              "aménagement du territoire",
+              "demande_moyens"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873638",
+            "actor_name": "Ministère de l’aménagement du territoire et de la décentralisation",
+            "stance": "défense_bilan",
+            "argument_summary": "Le ministère met en avant la poursuite du plan Avenir montagnes et ses moyens d'accompagnement.",
+            "quote": "Nous avons depuis, vous le savez, continué d'appliquer le plan Avenir montagnes, qui prévoit 170 millions d'euros d'accompagnement de projets et la mise à disposition par l'État de soixante-deux chefs de projet afin d'aider les élus de la montagne à définir leur avenir en prenant en compte la transition écologique.",
+            "quote_context": "Nous avons depuis, vous le savez, continué d'appliquer le plan Avenir montagnes, qui prévoit 170 millions d'euros d'accompagnement de projets et la mise à disposition par l'État de soixante-deux chefs de projet afin d'aider les élus de la montagne à définir leur avenir en prenant en compte la transition écologique.",
+            "tags": [
+              "aménagement du territoire",
+              "défense_bilan"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1011",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1011",
+      "subject_id": "question-qanr5l17qg1011",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA870009",
+            "actor_name": "Lionel Duparay",
+            "stance": "soutien",
+            "argument_summary": "Lionel Duparay rappelle son attachement à la culture industrielle française.",
+            "quote": "Il y a vingt ans, lorsque j'étais étudiant ingénieur à l'École nationale supérieure d'arts et métiers, à Cluny, on nous a enseigné et fait pratiquer le tournage, le fraisage, la forge, la fonderie, la mécanique, tout en y associant les nouvelles technologies ; on nous inculquait également la fierté qu'a la France de son industrie.",
+            "quote_context": "Il y a vingt ans, lorsque j'étais étudiant ingénieur à l'École nationale supérieure d'arts et métiers, à Cluny, on nous a enseigné et fait pratiquer le tournage, le fraisage, la forge, la fonderie, la mécanique, tout en y associant les nouvelles technologies ; on nous inculquait également la fierté qu'a la France de son industrie.",
+            "tags": [
+              "industrie",
+              "soutien"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873703",
+            "actor_name": "Ministère délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargé de l'industrie",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère annonce la reprise de la baisse de la cotisation sur la valeur ajoutée des entreprises.",
+            "quote": "Nous avons décidé de reprendre la baisse de la cotisation sur la valeur ajoutée des entreprises.",
+            "quote_context": "Nous avons décidé de reprendre la baisse de la cotisation sur la valeur ajoutée des entreprises.",
+            "tags": [
+              "industrie",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1012",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1012",
+      "subject_id": "question-qanr5l17qg1012",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795010",
+            "actor_name": "Marie-Charlotte Garin",
+            "stance": "alerte",
+            "argument_summary": "Marie-Charlotte Garin alerte sur le nombre d'enfants dormant dehors en France.",
+            "quote": "À la veille de la Journée internationale des droits de l’enfant, j’ai honte – honte parce que ce n’est pas la faute à pas de chance, honte parce que vous décidez, année après année, que cette question n'est pas prioritaire.",
+            "quote_context": "À la veille de la Journée internationale des droits de l’enfant, j’ai honte – honte parce que ce n’est pas la faute à pas de chance, honte parce que vous décidez, année après année, que cette question n'est pas prioritaire.",
+            "tags": [
+              "enfants",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873673",
+            "actor_name": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées",
+            "stance": "justification",
+            "argument_summary": "Le ministère affirme l'objectif qu'aucun enfant ne dorme à la rue.",
+            "quote": "Vous interrogez le gouvernement sur la situation des enfants sans domicile.",
+            "quote_context": "Vous interrogez le gouvernement sur la situation des enfants sans domicile.",
+            "tags": [
+              "enfants",
+              "justification"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1013",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1013",
+      "subject_id": "question-qanr5l17qg1013",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA720256",
+            "actor_name": "Géraldine Bannier",
+            "stance": "réserve",
+            "argument_summary": "Géraldine Bannier estime que les accords commerciaux ne sont acceptables que s'ils protègent producteurs et normes.",
+            "quote": "Des garanties bilatérales sont inscrites dans l'accord, avec la clause de sauvegarde spécifique proposée par la Commiss…",
+            "quote_context": "Des garanties bilatérales sont inscrites dans l'accord, avec la clause de sauvegarde spécifique proposée par la Commiss…",
+            "tags": [
+              "politique extérieure",
+              "réserve"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873647",
+            "actor_name": "Ministère de l’agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+            "stance": "proposition",
+            "argument_summary": "Le ministère défend une clause de sauvegarde agricole spécifique.",
+            "quote": "La semaine dernière, à Toulouse, devant les agriculteurs que j'ai reçus et qui ont été ensuite reçus par le président de la République, l'expression a été très claire : le projet d'accord tel qu'il a été signé il y a un an, contestable sur le fond comme sur la forme, est inacceptable.",
+            "quote_context": "La semaine dernière, à Toulouse, devant les agriculteurs que j'ai reçus et qui ont été ensuite reçus par le président de la République, l'expression a été très claire : le projet d'accord tel qu'il a été signé il y a un an, contestable sur le fond comme sur la forme, est inacceptable.",
+            "tags": [
+              "politique extérieure",
+              "proposition"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1014",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1014",
+      "subject_id": "question-qanr5l17qg1014",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841893",
+            "actor_name": "Céline Thiébault-Martinez",
+            "stance": "alerte",
+            "argument_summary": "Céline Thiébault-Martinez alerte sur le classement sans suite des plaintes pour viol.",
+            "quote": "Hier, avec plus 110 collègues de huit groupes politiques différents, nous avons déposé une proposition de loi comportant près de quatre-vingts articles.",
+            "quote_context": "Hier, avec plus 110 collègues de huit groupes politiques différents, nous avons déposé une proposition de loi comportant près de quatre-vingts articles.",
+            "tags": [
+              "finances publiques",
+              "alerte"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873701",
+            "actor_name": "Ministère délégué auprès du Premier ministre, chargé de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+            "stance": "défense_bilan",
+            "argument_summary": "Le ministère affirme que le budget a plus que triplé depuis 2017 et doit encore augmenter.",
+            "quote": "Ce sont des faits de société, et même des faits politiques, au vu du volume d'enfants et de femmes concernés chaque jour par les violences qui s'abattent sur eux.",
+            "quote_context": "Ce sont des faits de société, et même des faits politiques, au vu du volume d'enfants et de femmes concernés chaque jour par les violences qui s'abattent sur eux.",
+            "tags": [
+              "finances publiques",
+              "défense_bilan"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1015",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1015",
+      "subject_id": "question-qanr5l17qg1015",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795912",
+            "actor_name": "Laure Lavalette",
+            "stance": "critique",
+            "argument_summary": "Laure Lavalette critique la multiplication des taxes et accuse le gouvernement de fiscalisme.",
+            "quote": "Mais le cynisme, c’est d’organiser le blocage du pays puis de le reprocher à ceux qui le subissent.",
+            "quote_context": "Mais le cynisme, c’est d’organiser le blocage du pays puis de le reprocher à ceux qui le subissent.",
+            "tags": [
+              "impôts locaux",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873638",
+            "actor_name": "Ministère de l’aménagement du territoire et de la décentralisation",
+            "stance": "justification",
+            "argument_summary": "Le ministère rappelle que le taux de la taxe locale est fixé par les élus locaux.",
+            "quote": "C’est une réponse de techno, on n’y comprend rien !",
+            "quote_context": "C’est une réponse de techno, on n’y comprend rien !",
+            "tags": [
+              "impôts locaux",
+              "justification"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1016",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1016",
+      "subject_id": "question-qanr5l17qg1016",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA720560",
+            "actor_name": "Perrine Goulet",
+            "stance": "alerte",
+            "argument_summary": "Perrine Goulet estime que la France faillit à son obligation de protéger les enfants contre les violences.",
+            "quote": "Mais soyons clairs : nous sommes en train de faillir à cette obligation fondamentale.",
+            "quote_context": "Mais soyons clairs : nous sommes en train de faillir à cette obligation fondamentale.",
+            "tags": [
+              "enfants",
+              "alerte"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873673",
+            "actor_name": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère annonce des actions pour que chaque enfant soit en sécurité.",
+            "quote": "Nous agissons en développant les unités d'accueil pédiatrique partout en France pour accueillir les enfants, les entendre et les soigner.",
+            "quote_context": "Nous agissons en développant les unités d'accueil pédiatrique partout en France pour accueillir les enfants, les entendre et les soigner.",
+            "tags": [
+              "enfants",
+              "annonce_mesure"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1017",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1017",
+      "subject_id": "question-qanr5l17qg1017",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA605745",
+            "actor_name": "Nicolas Sansu",
+            "stance": "critique",
+            "argument_summary": "Nicolas Sansu critique le renvoi du débat budgétaire vers le Sénat par une formule ironique.",
+            "quote": "« J’irai le vent portant de Charybde en Scylla, tirant des bords ; bâbord mais plus sûrement tribord ; au mépris de la France, qui est notre seul port ; je mets notre budget entre les mains du Sénat.",
+            "quote_context": "« J’irai le vent portant de Charybde en Scylla, tirant des bords ; bâbord mais plus sûrement tribord ; au mépris de la France, qui est notre seul port ; je mets notre budget entre les mains du Sénat.",
+            "tags": [
+              "finances publiques",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873737",
+            "actor_name": "Ministère délégué auprès de la ministre de l'action et des comptes publics, chargé de la fonction publique et de la réforme de l'État",
+            "stance": "justification",
+            "argument_summary": "Le ministère rappelle que le débat se poursuit au Sénat mais que le dernier mot reviendra à l'Assemblée nationale.",
+            "quote": "Le débat se poursuit au Sénat, mais le dernier mot reviendra à l’Assemblée nationale et chaque député devra à nouveau se prononcer, en son âme et conscience.",
+            "quote_context": "Le débat se poursuit au Sénat, mais le dernier mot reviendra à l’Assemblée nationale et chaque député devra à nouveau se prononcer, en son âme et conscience.",
+            "tags": [
+              "finances publiques",
+              "justification"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1018",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1018",
+      "subject_id": "question-qanr5l17qg1018",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA721296",
+            "actor_name": "Guillaume Gouffier Valente",
+            "stance": "alerte",
+            "argument_summary": "Guillaume Gouffier Valente rappelle que des femmes tuées n'ont pas été protégées malgré leurs alertes.",
+            "quote": "Dans ces moments si douloureux, nous avons d’abord une pensée émue et solidaire pour leurs proches.",
+            "quote_context": "Dans ces moments si douloureux, nous avons d’abord une pensée émue et solidaire pour leurs proches.",
+            "tags": [
+              "aide aux victimes",
+              "alerte"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873701",
+            "actor_name": "Ministère délégué auprès du Premier ministre, chargé de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère met en avant la garantie de prise de plainte et l'accès aux droits.",
+            "quote": "Elle laisse derrière elle trois enfants.",
+            "quote_context": "Elle laisse derrière elle trois enfants.",
+            "tags": [
+              "aide aux victimes",
+              "annonce_mesure"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1019",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1019",
+      "subject_id": "question-qanr5l17qg1019",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841419",
+            "actor_name": "Damien Girard",
+            "stance": "alerte",
+            "argument_summary": "Damien Girard accuse le groupuscule la Digue de violences et d'intimidations dans sa circonscription.",
+            "quote": "Depuis des mois, le groupuscule d'extrême droite la Digue brutalise ma circonscription.",
+            "quote_context": "Depuis des mois, le groupuscule d'extrême droite la Digue brutalise ma circonscription.",
+            "tags": [
+              "terrorisme",
+              "alerte"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873707",
+            "actor_name": "Ministère délégué auprès du ministre de l'intérieur",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère promet une fermeté contre les associations troublant l'ordre public ou commettant des agressions.",
+            "quote": "Cette manifestation, elle, n'a fait l'objet d'aucun incident notable.",
+            "quote_context": "Cette manifestation, elle, n'a fait l'objet d'aucun incident notable.",
+            "tags": [
+              "terrorisme",
+              "annonce_mesure"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG102",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG102",
+      "subject_id": "question-qanr5l17qg102",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA267561",
+            "actor_name": "Brigitte Barèges",
+            "stance": "critique",
+            "argument_summary": "Brigitte Barèges critique les subventions attribuées selon elle aux associations pro-migrants.",
+            "quote": "Et nous découvrons maintenant dans le projet de loi de finances pour 2025 que 1 milliard d'euros de subventions serait destiné aux associations pro-migrants !",
+            "quote_context": "Et nous découvrons maintenant dans le projet de loi de finances pour 2025 que 1 milliard d'euros de subventions serait destiné aux associations pro-migrants !",
+            "tags": [
+              "immigration",
+              "critique"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847714",
+            "actor_name": "Secrétariat d'État auprès du ministre de l'intérieur, chargé de la citoyenneté et de la lutte contre les discriminations",
+            "stance": "justification",
+            "argument_summary": "Le secrétariat d'État répond qu'il s'agit de financements de délégation de service public.",
+            "quote": "Contrairement à ce que vous indiquez dans votre question, il ne s'agit pas de subventions à des structures associatives mais de financements dans le cadre d'une délégation de service public décidée par l'État – cela fait partie de sa politique migratoire.",
+            "quote_context": "Contrairement à ce que vous indiquez dans votre question, il ne s'agit pas de subventions à des structures associatives mais de financements dans le cadre d'une délégation de service public décidée par l'État – cela fait partie de sa politique migratoire.",
+            "tags": [
+              "immigration",
+              "justification"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1020",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1020",
+      "subject_id": "question-qanr5l17qg1020",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA608826",
+            "actor_name": "Virginie Duby-Muller",
+            "stance": "alerte",
+            "argument_summary": "Virginie Duby-Muller alerte sur le recul des libertés et de la sécurité des femmes.",
+            "quote": "En cette Journée internationale pour l'élimination de la violence à l'égard des femmes, nous devons regarder en face une réalité douloureuse : partout dans le monde, les libertés et la sécurité des femmes régressent.",
+            "quote_context": "En cette Journée internationale pour l'élimination de la violence à l'égard des femmes, nous devons regarder en face une réalité douloureuse : partout dans le monde, les libertés et la sécurité des femmes régressent.",
+            "tags": [
+              "femmes",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873701",
+            "actor_name": "Ministère délégué auprès du Premier ministre, chargé de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+            "stance": "proposition",
+            "argument_summary": "Le ministère affirme que les droits des femmes doivent rester un combat permanent.",
+            "quote": "Or les droits humains – et les droits des femmes en particulier – ne vont jamais de soi : ils sont un combat et doivent le rester.",
+            "quote_context": "Or les droits humains – et les droits des femmes en particulier – ne vont jamais de soi : ils sont un combat et doivent le rester.",
+            "tags": [
+              "femmes",
+              "proposition"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1021",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1021",
+      "subject_id": "question-qanr5l17qg1021",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA720846",
+            "actor_name": "Bastien Lachaud",
+            "stance": "critique",
+            "argument_summary": "Bastien Lachaud critique ce qu'il présente comme une cacophonie au sommet de l'État.",
+            "quote": "D'ailleurs, le président de la République a semblé le contredire ce matin : c'est la cacophonie au sommet de l'État.",
+            "quote_context": "D'ailleurs, le président de la République a semblé le contredire ce matin : c'est la cacophonie au sommet de l'État.",
+            "tags": [
+              "défense",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873656",
+            "actor_name": "Ministère des armées et des anciens combattants",
+            "stance": "réserve",
+            "argument_summary": "Le ministère appelle à rester lucides et unis face à la menace.",
+            "quote": "Tout ce qui importe, face à cette menace, est de rester à la fois lucides et unis.",
+            "quote_context": "Tout ce qui importe, face à cette menace, est de rester à la fois lucides et unis.",
+            "tags": [
+              "défense",
+              "réserve"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1022",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1022",
+      "subject_id": "question-qanr5l17qg1022",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA759832",
+            "actor_name": "Agnès Pannier-Runacher",
+            "stance": "demande_action",
+            "argument_summary": "Agnès Pannier-Runacher défend l'urgence d'une stratégie énergétique centrée sur le prix de l'énergie.",
+            "quote": "La tribune transpartisane que nous avons cosignée, parue ce matin, souligne une urgence : la France doit se doter d’une stratégie énergétique et faire du prix de l’énergie une priorité.",
+            "quote_context": "La tribune transpartisane que nous avons cosignée, parue ce matin, souligne une urgence : la France doit se doter d’une stratégie énergétique et faire du prix de l’énergie une priorité.",
+            "tags": [
+              "énergie et carburants",
+              "demande_action"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873685",
+            "actor_name": "Ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère annonce des propositions après consultation des parlementaires.",
+            "quote": "C'est pourquoi le premier ministre m'a demandé de lui soumettre des propositions, après consultation des parlementaires – ce processus est en cours et se poursuivra –, de sorte qu'il puisse prendre des décisions d'ici Noël.",
+            "quote_context": "C'est pourquoi le premier ministre m'a demandé de lui soumettre des propositions, après consultation des parlementaires – ce processus est en cours et se poursuivra –, de sorte qu'il puisse prendre des décisions d'ici Noël.",
+            "tags": [
+              "énergie et carburants",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1023",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1023",
+      "subject_id": "question-qanr5l17qg1023",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA330240",
+            "actor_name": "Éric Ciotti",
+            "stance": "critique",
+            "argument_summary": "Éric Ciotti souligne le très faible soutien parlementaire au budget du gouvernement.",
+            "quote": "C'est un fait inédit sous la Ve République.",
+            "quote_context": "C'est un fait inédit sous la Ve République.",
+            "tags": [
+              "finances publiques",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873635",
+            "actor_name": "Premier ministre",
+            "stance": "justification",
+            "argument_summary": "Le Premier ministre défend l'exercice parlementaire et le débat budgétaire.",
+            "quote": "…défende le principe même de l'exercice parlementaire, défende l'Assemblée nationale et le débat parlementaire.",
+            "quote_context": "…défende le principe même de l'exercice parlementaire, défende l'Assemblée nationale et le débat parlementaire.",
+            "tags": [
+              "finances publiques",
+              "justification"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1024",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1024",
+      "subject_id": "question-qanr5l17qg1024",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA719436",
+            "actor_name": "Nicolas Meizonnet",
+            "stance": "alerte",
+            "argument_summary": "Nicolas Meizonnet présente l'islamisme comme un défi majeur pour la France.",
+            "quote": "Alors que notre pays vient de commémorer le triste dixième anniversaire du Bataclan, l'islamisme progresse partout et s'impose comme le véritable défi de notre civilisation.",
+            "quote_context": "Alors que notre pays vient de commémorer le triste dixième anniversaire du Bataclan, l'islamisme progresse partout et s'impose comme le véritable défi de notre civilisation.",
+            "tags": [
+              "terrorisme",
+              "alerte"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873707",
+            "actor_name": "Ministère délégué auprès du ministre de l'intérieur",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère annonce travailler à la lutte contre l'entrisme et l'islam politique.",
+            "quote": "Le gouvernement vous rejoint quant à la nécessité de lutter contre ce phénomène ; il y travaille.",
+            "quote_context": "Le gouvernement vous rejoint quant à la nécessité de lutter contre ce phénomène ; il y travaille.",
+            "tags": [
+              "terrorisme",
+              "annonce_mesure"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1025",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1025",
+      "subject_id": "question-qanr5l17qg1025",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA227089",
+            "actor_name": "Valérie Létard",
+            "stance": "alerte",
+            "argument_summary": "Valérie Létard alerte sur la perte d'autonomie causée par la maladie de Charcot.",
+            "quote": "Comme tant d'autres, elle est frappée par la maladie de Charcot qui, jour après jour, lui retire la parole, le mouvement, l'autonomie et parfois l'espoir.",
+            "quote_context": "Comme tant d'autres, elle est frappée par la maladie de Charcot qui, jour après jour, lui retire la parole, le mouvement, l'autonomie et parfois l'espoir.",
+            "tags": [
+              "maladies",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873673",
+            "actor_name": "Ministère de la santé, des familles, de l’autonomie et des personnes handicapées",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère affirme que le travail d'application de la loi est engagé avec les départements.",
+            "quote": "Ce travail a été engagé : les départements et l'État travaillent au sein du Conseil national d'évaluation des normes pour publier l'arrêté qui permettra l'application de cette loi.",
+            "quote_context": "Ce travail a été engagé : les départements et l'État travaillent au sein du Conseil national d'évaluation des normes pour publier l'arrêté qui permettra l'application de cette loi.",
+            "tags": [
+              "maladies",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1026",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1026",
+      "subject_id": "question-qanr5l17qg1026",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795596",
+            "actor_name": "Paul Vannier",
+            "stance": "critique",
+            "argument_summary": "Paul Vannier critique l'affiliation automatique des personnels de l'éducation nationale à une complémentaire santé.",
+            "quote": "Brutalement, l'ensemble des titulaires et contractuels de l'éducation nationale sont automatiquement affiliés au groupement MGEN-CNP pour leur complémentaire santé.",
+            "quote_context": "Brutalement, l'ensemble des titulaires et contractuels de l'éducation nationale sont automatiquement affiliés au groupement MGEN-CNP pour leur complémentaire santé.",
+            "tags": [
+              "fonctionnaires et agents publics",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873652",
+            "actor_name": "Ministère de l’éducation nationale",
+            "stance": "justification",
+            "argument_summary": "Le ministère justifie la réforme par la prise en charge d'environ la moitié des cotisations par l'État.",
+            "quote": "Dans le cadre de cet accord, il est prévu que l'État prenne à sa charge environ la moitié des cotisations.",
+            "quote_context": "Dans le cadre de cet accord, il est prévu que l'État prenne à sa charge environ la moitié des cotisations.",
+            "tags": [
+              "fonctionnaires et agents publics",
+              "justification"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1027",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1027",
+      "subject_id": "question-qanr5l17qg1027",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA794270",
+            "actor_name": "Anna Pic",
+            "stance": "critique",
+            "argument_summary": "Anna Pic critique un plan de paix qu'elle juge défavorable à l'Ukraine.",
+            "quote": "La première version de son plan, inspiré par les Russes et orchestré par les Américains, n'a de paix que le nom et s'apparente à la capitulation forcée d'un pays agressé.",
+            "quote_context": "La première version de son plan, inspiré par les Russes et orchestré par les Américains, n'a de paix que le nom et s'apparente à la capitulation forcée d'un pays agressé.",
+            "tags": [
+              "politique extérieure",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873656",
+            "actor_name": "Ministère des armées et des anciens combattants",
+            "stance": "réserve",
+            "argument_summary": "Le ministère affirme qu'il ne peut y avoir de plan de paix sans l'Ukraine ni l'Europe.",
+            "quote": "En effet, le président de la République l'a rappelé ce matin, nous ne pouvons pas parler de plan de paix sans l'Ukraine et sans l'Europe, alors que les pays européens sont aux côtés de l'Ukraine chaque jour depuis 2022.",
+            "quote_context": "En effet, le président de la République l'a rappelé ce matin, nous ne pouvons pas parler de plan de paix sans l'Ukraine et sans l'Europe, alors que les pays européens sont aux côtés de l'Ukraine chaque jour depuis 2022.",
+            "tags": [
+              "politique extérieure",
+              "réserve"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1028",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1028",
+      "subject_id": "question-qanr5l17qg1028",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841621",
+            "actor_name": "Auguste Evrard",
+            "stance": "alerte",
+            "argument_summary": "Auguste Evrard alerte sur les emplois supprimés par la liquidation de Wizpaper.",
+            "quote": "Le résultat, ce sont 147 emplois supprimés, 147 ouvriers laissés sur le carreau juste avant Noël.",
+            "quote_context": "Le résultat, ce sont 147 emplois supprimés, 147 ouvriers laissés sur le carreau juste avant Noël.",
+            "tags": [
+              "industrie",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873685",
+            "actor_name": "Ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère affirme que l'État sera aux côtés des salariés de la papeterie.",
+            "quote": "Nous avons été aux côtés des entreprises, nous serons également aux côtés des salariés de la papeterie Wizpaper.",
+            "quote_context": "Nous avons été aux côtés des entreprises, nous serons également aux côtés des salariés de la papeterie Wizpaper.",
+            "tags": [
+              "industrie",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1029",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1029",
+      "subject_id": "question-qanr5l17qg1029",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA267780",
+            "actor_name": "Agnès Firmin Le Bodo",
+            "stance": "alerte",
+            "argument_summary": "Agnès Firmin Le Bodo présente les violences faites aux femmes comme un phénomène de société.",
+            "quote": "Ils révèlent un phénomène de société qui brise des vies et des familles.",
+            "quote_context": "Ils révèlent un phénomène de société qui brise des vies et des familles.",
+            "tags": [
+              "aide aux victimes",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873701",
+            "actor_name": "Ministère délégué auprès du Premier ministre, chargé de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère met en avant l'accompagnement global des victimes par les maisons de santé des femmes.",
+            "quote": "Les maisons de santé des femmes permettent un accompagnement et une prise en charge globale des victimes – je pense, par exemple, à l'ouverture de centres de traitement des psychotraumatismes.",
+            "quote_context": "Les maisons de santé des femmes permettent un accompagnement et une prise en charge globale des victimes – je pense, par exemple, à l'ouverture de centres de traitement des psychotraumatismes.",
+            "tags": [
+              "aide aux victimes",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG103",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG103",
+      "subject_id": "question-qanr5l17qg103",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA721210",
+            "actor_name": "Alexis Corbière",
+            "stance": "critique",
+            "argument_summary": "Alexis Corbière critique le discours gouvernemental sur l'absentéisme des fonctionnaires.",
+            "quote": "Monsieur Kasbarian, vous pétaradez depuis quelques jours dans les médias – et ici même à l'instant – contre l'absentéisme, un concept qui n'existe ni dans le code du travail ni dans aucune convention collective.",
+            "quote_context": "Monsieur Kasbarian, vous pétaradez depuis quelques jours dans les médias – et ici même à l'instant – contre l'absentéisme, un concept qui n'existe ni dans le code du travail ni dans aucune convention collective.",
+            "tags": [
+              "fonctionnaires et agents publics",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847674",
+            "actor_name": "Ministère de la fonction publique, de la simplification et de la transformation de l’action publique",
+            "stance": "défense_bilan",
+            "argument_summary": "Le ministère affirme son respect envers les agents de la fonction publique.",
+            "quote": "(Rires et exclamations sur plusieurs bancs des groupes LFI-NFP, EcoS, SOC et GDR.) J'ai toujours exprimé mon respect, mes remerciements et mon admiration envers les 5,7 millions d'agents de la fonction publique.",
+            "quote_context": "(Rires et exclamations sur plusieurs bancs des groupes LFI-NFP, EcoS, SOC et GDR.) J'ai toujours exprimé mon respect, mes remerciements et mon admiration envers les 5,7 millions d'agents de la fonction publique.",
+            "tags": [
+              "fonctionnaires et agents publics",
+              "défense_bilan"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1030",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1030",
+      "subject_id": "question-qanr5l17qg1030",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795076",
+            "actor_name": "Sandrine Rousseau",
+            "stance": "alerte",
+            "argument_summary": "Sandrine Rousseau dénonce le masculinisme comme une idéologie meurtrière.",
+            "quote": "Existe-t-il aujourd'hui une seule idéologie qui tue plus que le masculinisme en France ?",
+            "quote_context": "Existe-t-il aujourd'hui une seule idéologie qui tue plus que le masculinisme en France ?",
+            "tags": [
+              "finances publiques",
+              "alerte"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873701",
+            "actor_name": "Ministère délégué auprès du Premier ministre, chargé de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+            "stance": "défense_bilan",
+            "argument_summary": "Le ministère met en avant l'aide universelle d'urgence pour les victimes de violences conjugales.",
+            "quote": "En moins de deux ans, 63 000 femmes ont déjà bénéficié de ce dispositif, qui prévoit à la fois une aide financière d'urgence et un accompagnement social.",
+            "quote_context": "En moins de deux ans, 63 000 femmes ont déjà bénéficié de ce dispositif, qui prévoit à la fois une aide financière d'urgence et un accompagnement social.",
+            "tags": [
+              "finances publiques",
+              "défense_bilan"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1031",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1031",
+      "subject_id": "question-qanr5l17qg1031",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA642868",
+            "actor_name": "Paul Christophe",
+            "stance": "alerte",
+            "argument_summary": "Paul Christophe alerte sur la précarité énergétique des ménages.",
+            "quote": "Et nous voilà face à un triste record : 36 % des ménages déclarent avoir souffert du froid l’hiver dernier parce qu’ils ont dû réduire leur chauffage faute de pouvoir en payer la facture.",
+            "quote_context": "Et nous voilà face à un triste record : 36 % des ménages déclarent avoir souffert du froid l’hiver dernier parce qu’ils ont dû réduire leur chauffage faute de pouvoir en payer la facture.",
+            "tags": [
+              "industrie",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873635",
+            "actor_name": "Premier ministre",
+            "stance": "proposition",
+            "argument_summary": "Le Premier ministre présente l'énergie comme un enjeu de performance industrielle, de souveraineté, d'écologie et de pouvoir d'achat.",
+            "quote": "Pour des raisons tenant à la fois à la performance industrielle, à notre souveraineté, à la question écologique, à l'aménagement du territoire et au pouvoir d'achat des Françaises et des Français, il est essentiel de nous pencher sereinement sur cette question.",
+            "quote_context": "Pour des raisons tenant à la fois à la performance industrielle, à notre souveraineté, à la question écologique, à l'aménagement du territoire et au pouvoir d'achat des Françaises et des Français, il est essentiel de nous pencher sereinement sur cette question.",
+            "tags": [
+              "industrie",
+              "proposition"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1032",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1032",
+      "subject_id": "question-qanr5l17qg1032",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795820",
+            "actor_name": "Marcellin Nadeau",
+            "stance": "critique",
+            "argument_summary": "Marcellin Nadeau critique le silence de la France face aux inquiétudes des États caribéens.",
+            "quote": "Permettez-moi de préciser que les États caribéens sont inquiets, mais aussi très surpris du silence assourdissant de la France.",
+            "quote_context": "Permettez-moi de préciser que les États caribéens sont inquiets, mais aussi très surpris du silence assourdissant de la France.",
+            "tags": [
+              "outre-mer",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873728",
+            "actor_name": "Ministère délégué auprès du ministre de l’Europe et des affaires étrangères, chargé de la francophonie, des partenariats internationaux et des Français de l’étranger",
+            "stance": "demande_action",
+            "argument_summary": "Le ministère indique demander des garanties pour les régions ultrapériphériques.",
+            "quote": "Nous avons donc demandé à la Commission des garanties précises au sujet des régions dites ultrapériphériques, qui semblent avoir été reléguées au second plan dans certaines propositions, lesquelles doivent, de ce fait, être corrigées.",
+            "quote_context": "Nous avons donc demandé à la Commission des garanties précises au sujet des régions dites ultrapériphériques, qui semblent avoir été reléguées au second plan dans certaines propositions, lesquelles doivent, de ce fait, être corrigées.",
+            "tags": [
+              "outre-mer",
+              "demande_action"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1033",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1033",
+      "subject_id": "question-qanr5l17qg1033",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA840721",
+            "actor_name": "Marc Chavent",
+            "stance": "critique",
+            "argument_summary": "Marc Chavent critique la concurrence déloyale pesant sur l'industrie et l'agriculture françaises.",
+            "quote": "Pendant que nos entreprises étouffent sous les normes, les charges et la concurrence déloyale, vous laissez entrer des produits fabriqués à 10 000 kilomètres dans des conditions effroyables, par des pays qui polluent trois fois plus que le nôtre.",
+            "quote_context": "Pendant que nos entreprises étouffent sous les normes, les charges et la concurrence déloyale, vous laissez entrer des produits fabriqués à 10 000 kilomètres dans des conditions effroyables, par des pays qui polluent trois fois plus que le nôtre.",
+            "tags": [
+              "agriculture",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873685",
+            "actor_name": "Ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+            "stance": "défense_bilan",
+            "argument_summary": "Le ministère défend une politique industrielle visant à faire de la France une nation industrielle.",
+            "quote": "Nous avons adopté une politique industrielle qui, loin d'être naïve, vise à développer et à investir, à faire à nouveau de la France une nation industrielle.",
+            "quote_context": "Nous avons adopté une politique industrielle qui, loin d'être naïve, vise à développer et à investir, à faire à nouveau de la France une nation industrielle.",
+            "tags": [
+              "agriculture",
+              "défense_bilan"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1034",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1034",
+      "subject_id": "question-qanr5l17qg1034",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA841737",
+            "actor_name": "Jonathan Gery",
+            "stance": "alerte",
+            "argument_summary": "Jonathan Gery alerte sur la hausse des défaillances d'entreprises dans le Rhône.",
+            "quote": "Au troisième trimestre, le Rhône a enregistré plus de 500 défaillances d’entreprises, près d’un tiers des faillites de la région, soit plus 20 % en un an.",
+            "quote_context": "Au troisième trimestre, le Rhône a enregistré plus de 500 défaillances d’entreprises, près d’un tiers des faillites de la région, soit plus 20 % en un an.",
+            "tags": [
+              "impôt sur les sociétés",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873685",
+            "actor_name": "Ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+            "stance": "réserve",
+            "argument_summary": "Le ministère reconnaît que chaque défaillance d'entreprise est un échec à accompagner par la politique publique.",
+            "quote": "Mais là où je vous rejoins, monsieur le député, c'est que chaque défaillance d'entreprise est évidemment un échec et que l'objet de la politique publique est d'accompagner les entreprises qui vont mal.",
+            "quote_context": "Mais là où je vous rejoins, monsieur le député, c'est que chaque défaillance d'entreprise est évidemment un échec et que l'objet de la politique publique est d'accompagner les entreprises qui vont mal.",
+            "tags": [
+              "impôt sur les sociétés",
+              "réserve"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1035",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1035",
+      "subject_id": "question-qanr5l17qg1035",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA719512",
+            "actor_name": "Corinne Vignon",
+            "stance": "soutien",
+            "argument_summary": "Corinne Vignon relie souveraineté nationale et capacité d'action dans le spatial.",
+            "quote": "Cette stratégie nous rappelle que la souveraineté de notre nation dépend directement de notre capacité d'action dans le spatial et de notre place de leader en Europe.",
+            "quote_context": "Cette stratégie nous rappelle que la souveraineté de notre nation dépend directement de notre capacité d'action dans le spatial et de notre place de leader en Europe.",
+            "tags": [
+              "espace et politique spatiale",
+              "soutien"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873685",
+            "actor_name": "Ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère annonce l'engagement de la France dans la stratégie spatiale.",
+            "quote": "La France concrétisera cette annonce à Brême dans les heures qui viennent.",
+            "quote_context": "La France concrétisera cette annonce à Brême dans les heures qui viennent.",
+            "tags": [
+              "espace et politique spatiale",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1036",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1036",
+      "subject_id": "question-qanr5l17qg1036",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA796062",
+            "actor_name": "Thomas Portes",
+            "stance": "critique",
+            "argument_summary": "Thomas Portes critique la responsabilité de la France dans le processus de paix en Palestine.",
+            "quote": "En votant ce texte, la France a engagé sa responsabilité politique et morale !",
+            "quote_context": "En votant ce texte, la France a engagé sa responsabilité politique et morale !",
+            "tags": [
+              "politique extérieure",
+              "critique"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873728",
+            "actor_name": "Ministère délégué auprès du ministre de l’Europe et des affaires étrangères, chargé de la francophonie, des partenariats internationaux et des Français de l’étranger",
+            "stance": "justification",
+            "argument_summary": "Le ministère justifie le soutien français par l'objectif d'un État palestinien vivant en paix et en sécurité.",
+            "quote": "La France a soutenu cette résolution parce que notre objectif est le retour à Gaza d'une autorité palestinienne réformée et l'établissement d'un État palestinien vivant en paix et en sécurité aux côtés d'Israël, conformément à la déclaration qui a été adoptée aux Nations unies en septembre à l'initiative de la France.",
+            "quote_context": "La France a soutenu cette résolution parce que notre objectif est le retour à Gaza d'une autorité palestinienne réformée et l'établissement d'un État palestinien vivant en paix et en sécurité aux côtés d'Israël, conformément à la déclaration qui a été adoptée aux Nations unies en septembre à l'initiative de la France.",
+            "tags": [
+              "politique extérieure",
+              "justification"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1037",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1037",
+      "subject_id": "question-qanr5l17qg1037",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA842211",
+            "actor_name": "Beatrice Bellay",
+            "stance": "critique",
+            "argument_summary": "Béatrice Bellay critique l'absence de décrets d'application pour l'égalité réelle outre-mer.",
+            "quote": "Son article 1er consacre le droit des populations d’outre-mer à « l’égalité réelle au sein du peuple français » et reconnaît leur « droit d’adopter un modèle propre de développement durable ».",
+            "quote_context": "Son article 1er consacre le droit des populations d’outre-mer à « l’égalité réelle au sein du peuple français » et reconnaît leur « droit d’adopter un modèle propre de développement durable ».",
+            "tags": [
+              "outre-mer",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873676",
+            "actor_name": "Ministère des outre-mer",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère affirme avoir relancé les travaux réglementaires pour soutenir la production locale.",
+            "quote": "Nous avons déposé un texte devant le Sénat, où nous avons pratiqué cette coconstruction avec les parlementaires et où nous avons intégré des dispositions issues de vos travaux.",
+            "quote_context": "Nous avons déposé un texte devant le Sénat, où nous avons pratiqué cette coconstruction avec les parlementaires et où nous avons intégré des dispositions issues de vos travaux.",
+            "tags": [
+              "outre-mer",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1038",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1038",
+      "subject_id": "question-qanr5l17qg1038",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA607090",
+            "actor_name": "Jean-Pierre Vigier",
+            "stance": "alerte",
+            "argument_summary": "Jean-Pierre Vigier alerte sur les effets du changement climatique en montagne.",
+            "quote": "Le changement climatique, dont les effets se font sentir deux fois plus vite en altitude, bouleverse les modes de vi…",
+            "quote_context": "Le changement climatique, dont les effets se font sentir deux fois plus vite en altitude, bouleverse les modes de vi…",
+            "tags": [
+              "montagne",
+              "alerte"
+            ],
+            "confidence": 0.72,
+            "needs_review": true
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873638",
+            "actor_name": "Ministère de l’aménagement du territoire et de la décentralisation",
+            "stance": "défense_bilan",
+            "argument_summary": "Le ministère rappelle les moyens consacrés à l'adaptation de la montagne au réchauffement climatique.",
+            "quote": "Vos très intéressantes propositions sont à l'étude.",
+            "quote_context": "Vos très intéressantes propositions sont à l'étude.",
+            "tags": [
+              "montagne",
+              "défense_bilan"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1039",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1039",
+      "subject_id": "question-qanr5l17qg1039",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA794146",
+            "actor_name": "Julie Laernoes",
+            "stance": "critique",
+            "argument_summary": "Julie Laernoes critique la COP30 comme un échec climatique.",
+            "quote": "Madame la ministre de la transition écologique, la COP30 de Belém s'est conclue par une défaite en rase campagne pour le climat et par une victoire éclatante des lobbys fossiles et agrochimiques.",
+            "quote_context": "Madame la ministre de la transition écologique, la COP30 de Belém s'est conclue par une défaite en rase campagne pour le climat et par une victoire éclatante des lobbys fossiles et agrochimiques.",
+            "tags": [
+              "environnement",
+              "critique"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873679",
+            "actor_name": "Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère affirme la nécessité de mettre en œuvre l'accord européen pour 2040.",
+            "quote": "D'une part, il faut mettre en œuvre cet accord pour 2040, qui va nous engager sur une trajectoire de diminution importante des émissions de gaz à effet de serre.",
+            "quote_context": "D'une part, il faut mettre en œuvre cet accord pour 2040, qui va nous engager sur une trajectoire de diminution importante des émissions de gaz à effet de serre.",
+            "tags": [
+              "environnement",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG104",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG104",
+      "subject_id": "question-qanr5l17qg104",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA722374",
+            "actor_name": "Cyrille Isaac-Sibille",
+            "stance": "alerte",
+            "argument_summary": "Cyrille Isaac-Sibille alerte sur la hausse des dépenses de santé et la saturation du système.",
+            "quote": "Notre système de protection sociale semble avoir atteint ses limites : les dépenses de santé ne cessent d’augmenter, les comptes publics se creusent, les établissements de santé sont saturés et surtout – j'insiste – la santé de nos concitoyens ne s’améliore pas.",
+            "quote_context": "Notre système de protection sociale semble avoir atteint ses limites : les dépenses de santé ne cessent d’augmenter, les comptes publics se creusent, les établissements de santé sont saturés et surtout – j'insiste – la santé de nos concitoyens ne s’améliore pas.",
+            "tags": [
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO847648",
+            "actor_name": "Ministère de la santé et de l’accès aux soins",
+            "stance": "soutien",
+            "argument_summary": "Le ministère soutient une taxation plus simple et plus contraignante des sodas.",
+            "quote": "Je souscris à votre proposition consistant à modifier la taxation sur les sodas pour la rendre plus simple et contraignante pour les industriels.",
+            "quote_context": "Je souscris à votre proposition consistant à modifier la taxation sur les sodas pour la rendre plus simple et contraignante pour les industriels.",
+            "tags": [
+              "soutien"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1040",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1040",
+      "subject_id": "question-qanr5l17qg1040",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA795124",
+            "actor_name": "Didier Padey",
+            "stance": "alerte",
+            "argument_summary": "Didier Padey rappelle le recul de la part de l'industrie dans le PIB français.",
+            "quote": "L’industrie française ne représente plus que 13 % de notre PIB, contre près du double il y a trente ans.",
+            "quote_context": "L’industrie française ne représente plus que 13 % de notre PIB, contre près du double il y a trente ans.",
+            "tags": [
+              "industrie",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873685",
+            "actor_name": "Ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+            "stance": "demande_action",
+            "argument_summary": "Le ministère affirme que le vote d'un budget est prioritaire pour restaurer la confiance industrielle.",
+            "quote": "Chers collègues, la priorité est de parvenir à des compromis, de façon à voter un budget en décembre et à redonner ainsi confiance à nos industriels et aux Français.",
+            "quote_context": "Chers collègues, la priorité est de parvenir à des compromis, de façon à voter un budget en décembre et à redonner ainsi confiance à nos industriels et aux Français.",
+            "tags": [
+              "industrie",
+              "demande_action"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1041",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1041",
+      "subject_id": "question-qanr5l17qg1041",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA267042",
+            "actor_name": "Yannick Favennec-Bécot",
+            "stance": "alerte",
+            "argument_summary": "Yannick Favennec-Bécot relie le décès d'un sapeur-pompier au devoir de reconnaissance nationale.",
+            "quote": "Ce drame nous oblige et renforce le devoir de reconnaissance de la nation à l'égard des pompiers.",
+            "quote_context": "Ce drame nous oblige et renforce le devoir de reconnaissance de la nation à l'égard des pompiers.",
+            "tags": [
+              "retraites : fonctionnaires civils et militaires",
+              "alerte"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873643",
+            "actor_name": "Ministère de l'intérieur",
+            "stance": "annonce_mesure",
+            "argument_summary": "Le ministère vise une publication du décret avant la fin de l'année.",
+            "quote": "Nous visons une publication avant la fin de l'année, afin que cette disposition puisse s'appliquer dans le courant de l'année 2026.",
+            "quote_context": "Nous visons une publication avant la fin de l'année, afin que cette disposition puisse s'appliquer dans le courant de l'année 2026.",
+            "tags": [
+              "retraites : fonctionnaires civils et militaires",
+              "annonce_mesure"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_actor_quotes:QANR5L17QG1042",
+      "task": "extract_actor_quotes",
+      "source_id": "QANR5L17QG1042",
+      "subject_id": "question-qanr5l17qg1042",
+      "status": "ok",
+      "output": {
+        "quotes": [
+          {
+            "segment_id": "question",
+            "actor_id": "PA408578",
+            "actor_name": "Jean-Didier Berger",
+            "stance": "réserve",
+            "argument_summary": "Jean-Didier Berger s'inquiète d'une possible labellisation des médias par l'État.",
+            "quote": "Monsieur le premier ministre, dans notre démocratie, on ne saurait instaurer une labellisation, considérer qu'il y a de bonnes et de mauvaises informations, de bons et de mauvais médias.",
+            "quote_context": "Monsieur le premier ministre, dans notre démocratie, on ne saurait instaurer une labellisation, considérer qu'il y a de bonnes et de mauvaises informations, de bons et de mauvais médias.",
+            "tags": [
+              "presse et livres",
+              "réserve"
+            ],
+            "confidence": 0.86,
+            "needs_review": false
+          },
+          {
+            "segment_id": "answer",
+            "actor_id": "PO873669",
+            "actor_name": "Ministère de la culture",
+            "stance": "justification",
+            "argument_summary": "Le ministère affirme que l'État n'a pas proposé de labellisation des médias.",
+            "quote": "Jamais, donc, le président de la République ni le gouvernement n'ont émis l'idée ni formulé la moindre proposition d'une labellisation des médias par l'État.",
+            "quote_context": "Jamais, donc, le président de la République ni le gouvernement n'ont émis l'idée ni formulé la moindre proposition d'une labellisation des médias par l'État.",
+            "tags": [
+              "presse et livres",
+              "justification"
+            ],
+            "confidence": 0.84,
+            "needs_review": false
+          }
+        ]
+      }
+    }
+  ],
+  "notes": [
+    "Extraction de citations représentatives à partir des segments fournis dans actor_quotes_001_input.json.",
+    "Deux citations par item ont été privilégiées pour une première carte des acteurs lisible : une côté question, une côté réponse gouvernementale.",
+    "needs_review=true signale les citations tronquées, très polémiques ou sensibles."
+  ]
+}

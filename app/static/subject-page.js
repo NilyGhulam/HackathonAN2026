@@ -160,6 +160,26 @@ argumentGraphs.forEach((graph) => {
   const unpositionedGraphIndexes = new Map(unpositionedActors.map((item, index) => [item, index]));
   const positionedIndexes = {};
   const unpositionedIndexes = {};
+  const showEmptyState = (target, label) => {
+    const empty = document.createElement("p");
+    empty.className = "argument-empty";
+    empty.textContent = label;
+    target.append(empty);
+  };
+
+  if (!actors.length) {
+    showEmptyState(positionedNodes, "Aucune citation sélectionnée pour ce sujet.");
+    showEmptyState(unpositionedNodes, "Aucune source sélectionnée pour ce sujet.");
+    return;
+  }
+
+  if (!positionedActors.length) {
+    showEmptyState(positionedNodes, "Aucune citation située pour ce sujet.");
+  }
+
+  if (!unpositionedActors.length) {
+    showEmptyState(unpositionedNodes, "Aucune source non située pour ce sujet.");
+  }
 
   actors.forEach((item) => {
     const { actor, axis, cluster } = item;

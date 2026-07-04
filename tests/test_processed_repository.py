@@ -178,3 +178,72 @@ def test_processed_repository_does_not_cross_join_traces_and_subjects(tmp_path: 
     assert [trace.id for trace in subject_b_traces] == ["sujet-b:trace_b_1"]
     assert measures["sujet-a"].changes == ["Première trace du sujet A.", "Deuxième trace du sujet A."]
     assert measures["sujet-b"].changes == ["Trace du sujet B."]
+
+
+def test_argument_map_uses_selected_actor_quotes_only() -> None:
+    subject_update = {
+        "actors": [
+            {"id": "legacy", "name": "Ancien extrait", "party": "Non renseigné"},
+        ],
+        "argument_clusters": [
+            {
+                "id": "question-sujet-test",
+                "axis": "arguments-sources",
+                "position": "neutral",
+                "label": "Ancien extrait",
+                "summary": "Ancien résumé.",
+                "actors": [
+                    {
+                        "actor_id": "legacy",
+                        "quote": "TITRE DU DÉBAT Mme la présidente. La parole est à...",
+                    }
+                ],
+            },
+            {
+                "id": "actor-quotes-sujet-test-for-soutien",
+                "axis": "citations-acteurs",
+                "position": "for",
+                "label": "Soutien",
+                "summary": "Citation sélectionnée.",
+                "actors": [
+                    {
+                        "actor_id": "selected",
+                        "name": "Actrice Sélectionnée",
+                        "role": "Députée",
+                        "party": "Gauche",
+                        "quote": "Cette phrase est le passage clé extrait par le batch.",
+                        "quote_source": "Question au Gouvernement, 2026-01-01",
+                        "quote_url": "https://example.test/source",
+                    }
+                ],
+            },
+        ],
+    }
+
+    argument_map = ProcessedRepository._argument_map(subject_update)
+    actors = [actor for cluster in argument_map["clusters"] for actor in cluster["actors"]]
+
+    assert len(argument_map["clusters"]) == 1
+    assert actors[0]["name"] == "Actrice Sélectionnée"
+    assert actors[0]["quote"] == "Cette phrase est le passage clé extrait par le batch."
+    assert actors[0]["quote_url"] == "https://example.test/source"
+
+
+def test_argument_map_drops_legacy_excerpt_when_no_selected_quote() -> None:
+    subject_update = {
+        "actors": [{"id": "legacy", "name": "Ancien extrait"}],
+        "argument_clusters": [
+            {
+                "id": "question-sujet-test",
+                "axis": "arguments-sources",
+                "position": "neutral",
+                "label": "Ancien extrait",
+                "summary": "Ancien résumé.",
+                "actors": [{"actor_id": "legacy", "quote": "Début de transcript non sélectionné."}],
+            }
+        ],
+    }
+
+    argument_map = ProcessedRepository._argument_map(subject_update)
+
+    assert argument_map["clusters"] == []

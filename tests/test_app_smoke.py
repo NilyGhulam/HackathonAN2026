@@ -58,6 +58,7 @@ def test_entry_map_loads_progressively():
     if subtheme["count"] > 12:
         assert payload["mode"] == "groups"
         assert payload["items"][0]["kind"] == "group"
+        assert all(not item["label"].startswith("Groupe ") for item in payload["items"])
         assert "subjects" not in payload["items"][0]
     else:
         assert payload["mode"] == "subjects"
