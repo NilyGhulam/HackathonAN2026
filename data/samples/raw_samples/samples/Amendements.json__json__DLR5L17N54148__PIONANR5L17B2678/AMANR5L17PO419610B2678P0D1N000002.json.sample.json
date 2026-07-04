@@ -1,0 +1,182 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000002.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B2678P0D1N000002",
+      "chronotag": "1779872322764",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE2",
+        "numeroOrdreDepot": "2",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B2678P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2678",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA722366",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Fugit"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2678.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Apr&#x00E8;s l&#x2019;article&nbsp;L.&nbsp;255&#x2011;2 du code rural et de la p&#x00EA;che maritime, il est ins&#x00E9;r&#x00E9; un article&nbsp;L.&nbsp;255&#x2011;2&#x2011;1 ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Art.&nbsp;L.&nbsp;255&#x2011;2&#x2011;1.&nbsp;&#x2013;&nbsp;I.&nbsp;&#x2013;&nbsp;L&#x2019;importation, la d&#x00E9;tention en vue de la mise sur le march&#x00E9;, la vente, la distribution &#x00E0; titre gratuit et l&#x2019;utilisation sur le territoire national d&#x2019;engrais inorganiques ou organo-min&#x00E9;raux phosphat&#x00E9;s, au sens de l&#x2019;annexe I du r&#x00E8;glement (UE) 2019/1009 du Parlement europ&#x00E9;en et du Conseil du&nbsp;5&nbsp;juin&nbsp;2019, sont soumises &#x00E0; des teneurs maximales en cadmium exprim&#x00E9;es en milligrammes par kilogramme de pentoxyde de phosphore (P&#x2082;O&#x2085;).</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Ces teneurs maximales sont fix&#x00E9;es comme suit&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;60 mg de cadmium par kilogramme de P&#x2082;O&#x2085; &#x00E0; compter du&nbsp;1<sup>er</sup>&nbsp;janvier&nbsp;2027&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;40 mg de cadmium par kilogramme de P&#x2082;O&#x2085; &#x00E0; compter du&nbsp;1<sup>er</sup>&nbsp;janvier&nbsp;2030&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;3&#x00B0;20 mg de cadmium par kilogramme de P&#x2082;O&#x2085; &#x00E0; compter d&#x2019;une date d&#x00E9;finie par d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat, d&#x00E9;termin&#x00E9;e suite &#x00E0; une &#x00E9;tude d&#x2019;impact, et qui ne peut pas &#x00EA;tre post&#x00E9;rieure au&nbsp;1<sup>er</sup>&nbsp;janvier&nbsp;2035.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Les conditions d&#x2019;application du pr&#x00E9;sent article sont d&#x00E9;finies par voie r&#x00E9;glementaire.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement propose de fixer dans la loi une trajectoire permettant aux producteurs d&#x2019;engrais de mettre en &#x0153;uvre diff&#x00E9;rentes techniques de production, telles que la s&#x00E9;lection de la provenance des roches et la d&#x00E9;cadmiation, pour mettre sur le march&#x00E9; des engrais contenant les quantit&#x00E9;s les plus faibles possibles de cadmium. Dans un premier temps, la limite serait port&#x00E9;e au niveau du seuil europ&#x00E9;en de 60 mg par kilogramme de P2O5, puis &#x00E0; 40 mg par kilogramme de P2O5&nbsp;en 2030, et enfin &#x00E0; 20 mg par kilogramme de P2O5 &#x00E0; une date ult&#x00E9;rieure, au plus tard en 2035.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-22",
+        "datePublication": "2026-05-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-27T10:58:40+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B2678P0D1N000002?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "38835",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678",
+  "directory_json_file_count": 12,
+  "ignored_json_files_count": 11,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17B2678/AMANR5L17PO419610B2678P0D1N000013.json"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B2385P0D1N000001",
+      "chronotag": "1772013836371",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B2385P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2385",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720190",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA719512",
+            "PA794206",
+            "PA719890",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Sorre,  Mme&#160;Vignon, M.&#160;Marion, Mme&#160;Brulebois, M.&#160;Ledoux, M.&#160;Travert, Mme&#160;Genetet, Mme&#160;Le&#160;Grip et Mme&#160;Ronceret"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2385.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "4",
+            "alineaDesignation": "Alinéa 4"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;4, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;citoyennes&nbsp;&#x00BB;,</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;et, le cas &#x00E9;ch&#x00E9;ant, les correspondants d&#x00E9;fense d&#x00E9;sign&#x00E9;s par les communes&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cr&#x00E9;&#x00E9; en 2001, le correspondant d&#x00E9;fense a pour mission de renforcer le lien arm&#x00E9;e-nation et de promouvoir l&#x2019;esprit de d&#x00E9;fense au sein de la population. Acteur de proximit&#x00E9;, il contribue &#x00E0; associer pleinement les citoyens aux enjeux de d&#x00E9;fense et de s&#x00E9;curit&#x00E9;.</p><p style=\"text-align: justify;\">&#x00C9;lu local d&#x00E9;sign&#x00E9; au sein du conseil municipal, il joue un r&#x00F4;le essentiel d&#x2019;interface entre les administr&#x00E9;s et les autorit&#x00E9;s civiles et militaires du d&#x00E9;partement et de la r&#x00E9;gion. &#x00C0; ce titre, il relaie l&#x2019;actualit&#x00E9; de la d&#x00E9;fense, informe sur le parcours citoyen et sensibilise aux diff&#x00E9;rentes formes d&#x2019;engagement&nbsp;: arm&#x00E9;e d&#x2019;active, r&#x00E9;serve militaire, volontariat, p&#x00E9;riodes d&#x2019;initiation ou de perfectionnement &#x00E0; la d&#x00E9;fense.</p><p style=\"text-align: justify;\">Le correspondant d&#x00E9;fense exerce &#x00E9;galement une mission p&#x00E9;dagogique majeure en mati&#x00E8;re de devoir de m&#x00E9;moire, de reconnaissance et de solidarit&#x00E9;. L&#x2019;enseignement de d&#x00E9;fense, premi&#x00E8;re &#x00E9;tape du parcours citoyen, est indissociable de l&#x2019;histoire nationale et notamment des conflits contemporains&nbsp;; la transmission de cette m&#x00E9;moire aux jeunes g&#x00E9;n&#x00E9;rations en constitue un pilier fondamental.</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement vise donc &#x00E0; permettre aux correspondants d&#x00E9;fense de participer &#x00E0; l&#x2019;enseignement de d&#x00E9;fense nationale dans le cadre du parcours de citoyennet&#x00E9;, afin de renforcer la diffusion de l&#x2019;esprit de d&#x00E9;fense et la coh&#x00E9;sion nationale au plus pr&#x00E8;s des territoires.</p><p style=\"text-align: justify;\">Par sa fonction, le correspondant d&#x00E9;fense a toute sa place au sein de l&#x2019;&#x00E9;cole pour contribuer &#x00E0; cette mission essentielle de transmission et d&#x2019;engagement civique.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-18",
+        "datePublication": "2026-02-24",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-02-25T11:03:29+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B2385P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385",
+  "directory_json_file_count": 16,
+  "ignored_json_files_count": 15,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53672/PIONANR5L17B2385/AMANR5L17PO419604B2385P0D1N000016.json"
+  ]
+}

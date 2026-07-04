@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2938P0D1N000001",
+      "chronotag": "1782317945851",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2938P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2938",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795982",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Saintoul,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, Mme&#160;Bentorki, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "APRÈS ART. UNIQUE",
+          "articleDesignation": "APRÈS L'ARTICLE UNIQUE, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2938.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s le premier alin&#x00E9;a du&nbsp;I de l&#x2019;article&nbsp;L.&nbsp;532&#x2011;1 du code mon&#x00E9;taire et financier, sont ins&#x00E9;r&#x00E9;s trois alin&#x00E9;as ainsi r&#x00E9;dig&#x00E9;s&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Il est interdit &#x00E0; toute personne, disposant ou non de l&#x2019;agr&#x00E9;ment pr&#x00E9;vu au premier alin&#x00E9;a, de proposer ou de r&#x00E9;aliser, &#x00E0; titre habituel, des op&#x00E9;rations de financement donnant lieu &#x00E0; l&#x2019;&#x00E9;mission d&#x2019;obligations convertibles en actions assorties de bons de souscription d&#x2019;actions, ou de tout instrument financier pr&#x00E9;sentant des caract&#x00E9;ristiques &#x00E9;quivalentes, d&#x00E8;s lors que le nombre ou le prix des actions issues de la conversion ou de l&#x2019;exercice de ces instruments est d&#x00E9;termin&#x00E9; par r&#x00E9;f&#x00E9;rence au cours de bourse constat&#x00E9; post&#x00E9;rieurement &#x00E0; leur &#x00E9;mission, et que cette personne souscrit ou acquiert ces instruments en se r&#x00E9;servant la possibilit&#x00E9; de leur cession ult&#x00E9;rieure.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Toute op&#x00E9;ration conclue en m&#x00E9;connaissance du deuxi&#x00E8;me alin&#x00E9;a du pr&#x00E9;sent I est frapp&#x00E9;e de nullit&#x00E9;. Cette nullit&#x00E9; ne peut &#x00EA;tre invoqu&#x00E9;e par la personne ayant propos&#x00E9; ou r&#x00E9;alis&#x00E9; l&#x2019;op&#x00E9;ration de financement d&#x00E9;finie &#x00E0; l&#x2019;alin&#x00E9;a pr&#x00E9;c&#x00E9;dent.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Tout manquement &#x00E0; l&#x2019;interdiction pr&#x00E9;vue au deuxi&#x00E8;me alin&#x00E9;a du pr&#x00E9;sent I est passible des sanctions pr&#x00E9;vues au&nbsp;III. a) de l&#x2019;article&nbsp;L.&nbsp;621&#x2011;15 du pr&#x00E9;sent code.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Par cet amendement, le groupe insoumis propose de remplacer cette timor&#x00E9;e et hypocrite obligation d&#x2019;agr&#x00E9;ment pour r&#x00E9;aliser des OCABSA par une interdiction pleine et enti&#x00E8;re de ce type de pratique.</p><p>L&#x2019;UDR, qui se pose en pourfendeur de la bureaucratie, n&#x2019;a pas plus de cr&#x00E9;dibilit&#x00E9; qu&#x2019;un Don Quichotte chargeant des moulins &#x00E0; vent. Alors que cette formation politique promeut une d&#x00E9;r&#x00E9;gulation incontr&#x00F4;l&#x00E9;e, voici qu&#x2019;elle cherche &#x00E0; introduire une nouvelle &#x00AB; norme &#x00BB; par cette proposition de loi, d&#x00E8;s lors qu&#x2019;il s&#x2019;agit de d&#x00E9;fendre des actionnaires trop imprudents.</p><p>Nous l&#x2019;avons &#x00E9;tabli lors de la commission d&#x2019;enqu&#x00EA;te sur la pr&#x00E9;dation des capacit&#x00E9;s productives fran&#x00E7;aises par les fonds sp&#x00E9;culatifs : les obligations convertibles en actions assorties de bons de souscription d&#x2019;actions sont des instruments de nature toxique.</p><p>Ce sont des instruments de dernier recours, employ&#x00E9;s lorsqu&#x2019;une entreprise ne parvient plus &#x00E0; emprunter ou &#x00E0; lever des fonds. Et pourtant, ce recours aux OCABSA est une op&#x00E9;ration d&#x2019;augmentation indirecte de capital.</p><p>Alors pourquoi un &#x00AB; investisseur &#x00BB; priv&#x00E9; serait-il pr&#x00EA;t &#x00E0; engager des moyens pour obtenir une option sur des actions qu&#x2019;il n&#x2019;a pas &#x00E9;t&#x00E9; possible d&#x2019;&#x00E9;couler par lev&#x00E9;e de fonds ? Il ne peut qu&#x2019;avoir int&#x00E9;r&#x00EA;t &#x00E0; d&#x00E9;gager une plus-value rapide sur cette option, sans avoir &#x00E0; assumer le risque de la d&#x00E9;tention de ces actions, sans quoi l&#x2019;investisseur serait pr&#x00EA;t &#x00E0; participer &#x00E0; une lev&#x00E9;e.</p><p>Cette question de l&#x2019;agr&#x00E9;ment ne r&#x00E9;sout donc pas grand-chose. L&#x2019;enjeu est de v&#x00E9;ritablement obtenir la fin de cette pratique financi&#x00E8;re malsaine. Pour cela, nous proposons donc d&#x2019;interdire clairement le recours aux OCABSA.</p><p>Les larmes de crocodile des n&#x00E9;olib&#x00E9;raux et des libertariens ne changent pas la situation &#x00E9;conomique dans laquelle nous nous trouvons : ce sont eux qui ont livr&#x00E9; nos PME aux banques priv&#x00E9;es et aux march&#x00E9;s financiers qui peuvent attendre une rentabilit&#x00E9; absurde des soci&#x00E9;t&#x00E9;s. Ils sont… [truncated 919 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-22",
+        "datePublication": "2026-06-24",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2938P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c monétaire financier",
+        "divisionCodeLoi": "L532-1"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938",
+  "directory_json_file_count": 33,
+  "ignored_json_files_count": 32,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54313/PIONANR5L17BTC2938/AMANR5L17PO838901BTC2938P0D1N000021.json"
+  ]
+}

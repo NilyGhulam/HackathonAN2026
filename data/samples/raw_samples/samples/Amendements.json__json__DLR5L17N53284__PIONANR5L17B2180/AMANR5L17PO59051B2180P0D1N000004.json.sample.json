@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000004.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2180P0D1N000004",
+      "chronotag": "1770800763552",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL4",
+        "numeroOrdreDepot": "4",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2180P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2180",
+      "triAmendement": "aoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841853",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA340343",
+            "PA840665",
+            "PA608264",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "Mme&#160;C&#233;line&#160;Hervieu,  M.&#160;Saulignac, Mme&#160;Allemand, Mme&#160;Capdevielle, M.&#160;Christophle, Mme&#160;Karamanli, M.&#160;Pena, Mme&#160;Thi&#233;bault-Martinez, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2180.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe Socialiste entend supprimer l'article 1er de cette proposition de loi.&nbsp;</p><p>D&#x00E8;s lors que le Pr&#x00E9;fet dispose, en l'&#x00E9;tat actuel du droit, d'un pouvoir de d&#x00E9;cider d'une hospitalisation sans le consentement de la personne vis&#x00E9;e, c'est l'int&#x00E9;r&#x00EA;t m&#x00EA;me du texte qui est questionn&#x00E9;e.&nbsp;</p><p>Les crit&#x00E8;res fix&#x00E9;s par cet article quant aux personnes concern&#x00E9;es sont les suivants : il existe des raisons s&#x00E9;rieuses de penser que son comportement constitue une menace grave pour l'ordre et la s&#x00E9;curit&#x00E9; publics, &#x00E0; raison de son adh&#x00E9;sion &#x00E0; des th&#x00E9;ories incitant ou faisant l'apologie d'actes de terrorisme et d'agissements susceptibles d&#x2019;&#x00EA;tre en tout ou partie li&#x00E9;s &#x00E0; des troubles mentaux...</p><p>On peut remarquer d'une part la grande confusion qui r&#x00E9;sulte de la lecture de ces crit&#x00E8;res : que sont ces agissements susceptibles d'&#x00EA;tre en tout ou partie li&#x00E9;s &#x00E0; des troubles mentaux ?&nbsp;</p><p>Or, le caract&#x00E8;re ind&#x00E9;termin&#x00E9; des termes utilis&#x00E9;s - s'ajoutant &#x00E0; l'absence d'infraction commises comme point de d&#x00E9;clenchement de la proc&#x00E9;dure - conduirait &#x00E0; offrir au Pr&#x00E9;fet un pouvoir confinant &#x00E0; l'arbitraire puisque ce dernier prendrait cette d&#x00E9;cision sans disposer d'un certificat m&#x00E9;dical.&nbsp;</p><p>Cela devrait d&#x00E9;j&#x00E0; suffire &#x00E0; nous convaincre de la n&#x00E9;cessit&#x00E9; de supprimer ce dispositif.&nbsp;</p><p>Enfin, on comprend mal en quoi cette mesure serait n&#x00E9;cessaire : l'existence d'un pouvoir du Pr&#x00E9;fet - sur la base d'un certificat m&#x00E9;dical circonstanci&#x00E9; - de prononcer une hospitalisation sans consentement en vertu de l'article L3212-1 du code de la sant&#x00E9; publique devrait suffire amplement.&nbsp;</p><p>En effet, il suffit d'un comportement dangereux sur la voie publique pour justifier que la personne soit accompagn&#x00E9;e aux urgences et qu'un certificat atteste la n&#x00E9;cessit&#x00E9; d'hospitaliser la personne concern&#x00E9;e. Cette proc&#x00E9;dure a l'avantage d'associer un m&#x00E9;decin &#x00E0; la d&#x00E9;cision du Pr&#x00E9;fet et aussi celui de reposer sur des faits constat&#x00E9;s sur la voie publiques justifiant l'intervention des forces de l'ordre.&nbsp;</p><p>A tous &#x00E9;gard, et compte tenu des… [truncated 175 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-05",
+        "datePublication": "2026-02-10",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-11T10:05:54+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2180P0D1N000004?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "86581",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180",
+  "directory_json_file_count": 74,
+  "ignored_json_files_count": 73,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17B2180/AMANR5L17PO59051B2180P0D1N000024.json"
+  ]
+}

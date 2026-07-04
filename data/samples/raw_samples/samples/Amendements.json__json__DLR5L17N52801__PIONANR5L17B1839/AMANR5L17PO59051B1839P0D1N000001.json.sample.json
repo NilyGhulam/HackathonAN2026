@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1839P0D1N000001",
+      "chronotag": "1761124123421",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1839P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1839",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721896",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795998",
+            "PA720838",
+            "PA794710",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Faucillon,  Mme&#160;K/Bidi, Mme&#160;Bourouaha, M.&#160;Brugerolles, M.&#160;Castor, M.&#160;B&#233;nard, Mme&#160;Lebon, M.&#160;Lecoq, M.&#160;Maillot, M.&#160;Maurel, M.&#160;Monnet, M.&#160;Nadeau, Mme&#160;Reid&#160;Arbelot, M.&#160;Peu, M.&#160;Rimane, M.&#160;Sansu et M.&#160;Tjibaou"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1839.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Les auteurs de cet amendement s'opposent &#x00E0; cet article qui r&#x00E9;tablit le d&#x00E9;lit de s&#x00E9;jour irr&#x00E9;gulier.</p><p>Ils rappellent que cette infraction avait &#x00E9;t&#x00E9; supprim&#x00E9;e par la&nbsp;loi du 31 d&#x00E9;cembre 2012 afin que la France se mettent en&nbsp; conformit&#x00E9; avec le droit europ&#x00E9;en (arr&#x00EA;ts de la CJUE&nbsp;El Dridi, 28 avr.2012, aff.c-61/11 PPU&nbsp;et&nbsp;Achughbadian, 6 d&#x00E9;c. 2011, aff. C-329/11) et les arr&#x00EA;ts de principe&nbsp;rendus par la premi&#x00E8;re chambre civile de la Cour de cassation&nbsp;(notamment, Cass. 1&#x00E8;re&nbsp;civ. 5 juill.2012, n&#x00B0;11-19.250) qui s&#x2019;opposaient clairement a&#x0300; ce que le se&#x0301;jour irre&#x0301;gulier puisse e&#x0302;tre sanctionne&#x0301; d&#x2019;une peine privative de liberte&#x0301;.</p><p>L'article&nbsp;unique de cette proposition de loi r&#x00E9;tablit le d&#x00E9;lit de s&#x00E9;jour irr&#x00E9;gulier qui serait puni d&#x2019;une peine d&#x2019;amende de 3 750 euros, assortie le cas &#x00E9;ch&#x00E9;ant, d'une peine compl&#x00E9;mentaire de 3 ans d&#x2019;interdiction du territoire fran&#x00E7;ais.</p><p>Les auteurs de cet amendement r&#x00E9;futent vivement cette p&#x00E9;nalisation croissante du droit des &#x00E9;trangers.&nbsp;</p><p>Ils rappellent que la peine d'interdiction du territoire fran&#x00E7;ais s'applique en principe pour des infractions graves (violences graves, viols, actes de terrorisme...). Or, la r&#x00E9;daction de l'article&nbsp;unique est tr&#x00E8;s large et susceptible de concerner un nombre important d'&#x00E9;trangers qui seront priv&#x00E9;s de perspective de r&#x00E9;gularisation pendant plusieurs ann&#x00E9;es alors m&#x00EA;me qu'ils ne constituent pas une menace pour l'ordre public.</p><p>Les auteurs de cet amendement propose donc la suppression de cet article qui r&#x00E9;tablit le d&#x00E9;lit de s&#x00E9;jour irr&#x00E9;gulier au m&#x00E9;pris du respect des droits fondamentaux des personnes &#x00E9;trang&#x00E8;res et des principes de gradation et de proportionnalit&#x00E9; dans l&#x2019;usage des mesures de contrainte.&nbsp;&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-10-16",
+        "datePublication": "2025-10-21",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-10-22T11:08:34+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1839P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "81371",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839",
+  "directory_json_file_count": 157,
+  "ignored_json_files_count": 156,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO59051B1839P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO838901B1839P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO838901B1839P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO838901B1839P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO838901B1839P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO838901B1839P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO838901B1839P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO838901B1839P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52801/PIONANR5L17B1839/AMANR5L17PO838901B1839P0D1N000009.json"
+  ]
+}

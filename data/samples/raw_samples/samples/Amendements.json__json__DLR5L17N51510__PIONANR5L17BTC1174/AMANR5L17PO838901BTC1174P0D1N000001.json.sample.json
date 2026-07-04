@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1174P0D1N000001",
+      "chronotag": "1743610857414",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1174P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1174",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794022",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Iordanoff"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1174.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Substituer &#x00E0; l&#x2019;alin&#x00E9;a&nbsp;2 les deux alin&#x00E9;as suivants&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;4 <i>octies</i></i>. &#x2013; Les parlementaires ont, en cette seule qualit&#x00E9;, int&#x00E9;r&#x00EA;t &#x00E0; agir devant la juridiction administrative contre tout acte administratif de nature &#x00E0; m&#x00E9;conna&#x00EE;tre les comp&#x00E9;tences et pr&#x00E9;rogatives li&#x00E9;es aux fonctions normatives et de contr&#x00F4;le du Parlement.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Entrent notamment dans la cat&#x00E9;gorie mentionn&#x00E9;e au premier alin&#x00E9;a du pr&#x00E9;sent article, les actes li&#x00E9;s &#x00E0; l&#x2019;ex&#x00E9;cution de la loi, les actes mentionn&#x00E9;s aux 1&#x00B0;&nbsp;&#x00E0; 3&#x00B0;&nbsp;du II de l&#x2019;article&nbsp;5 <i>quater</i> pris lorsque le Gouvernement exp&#x00E9;die les affaires courantes dans les conditions pr&#x00E9;vues au I du m&#x00EA;me article&nbsp;5 <i>quater</i> ou encore les actes pris en application de la loi organique n&#x00B0;&nbsp;2001&#x2011;692 du 1<sup>er</sup> ao&#x00FB;t 2001 relative aux lois de finances.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du Groupe Ecologiste et social vient introduire dans cette proposition de loi le dispositif pr&#x00E9;vu dans la proposition de loi n&#x00B0; 756 relative &#x00E0; l&#x2019;int&#x00E9;r&#x00EA;t &#x00E0; agir des parlementaires.</p><p>&nbsp;</p><p>En effet, de jurisprudence constante, le Conseil d&#x2019;&#x00C9;tat estime qu&#x2019;un parlementaire n&#x2019;a pas, en cette seule qualit&#x00E9;, int&#x00E9;r&#x00EA;t &#x00E0; agir contre les actes administratifs, y compris le refus du pouvoir r&#x00E9;glementaire d&#x2019;&#x00E9;dicter un d&#x00E9;cret d&#x2019;application d&#x2019;une loi pourtant vot&#x00E9;e par le Parlement et promulgu&#x00E9;e par le pr&#x00E9;sident de la R&#x00E9;publique (CE, 23 novembre 2011, Masson, n&#x00B0; 341258).</p><p>&nbsp;</p><p>La justification de cette jurisprudence restrictive pour les droits des parlementaires serait, selon Jean Massot que le parlementaire en tant qu&#x2019;il est le repr&#x00E9;sentant de la nation tout enti&#x00E8;re &#x00AB; fait partie d&#x2019;un cercle d&#x2019;int&#x00E9;r&#x00EA;t trop vaste pour que son action ne se confonde pas avec l&#x2019;action populaire &#x00BB; (Conclusions sur CE, 2 f&#x00E9;vrier 1987, Joxe et Bollon, n&#x00B0; 82436).</p><p>&nbsp;</p><p>Alors que les membres d&#x2019;une assembl&#x00E9;e d&#x00E9;lib&#x00E9;rante locale ont toujours int&#x00E9;r&#x00EA;t &#x00E0; agir contre les actes de l&#x2019;ex&#x00E9;cutif local (CE, 4 avril 2014, D&#x00E9;partement de Tarn-et-Garonne, n&#x00B0; 358994), alors que soixante parlementaires peuvent d&#x00E9;f&#x00E9;rer une loi vot&#x00E9;e au Conseil constitutionnel avant sa promulgation, le pr&#x00E9;toire du juge administratif demeure ferm&#x00E9; aux parlementaires sauf &#x00E0; se pr&#x00E9;valoir d&#x2019;une autre qualit&#x00E9;, ce qui aboutit soit &#x00E0; des situations ubuesques, soit &#x00E0; un d&#x00E9;ni de justice.</p><p>&nbsp;</p><p>C&#x2019;est la raison pour laquelle l&#x2019;ancien pr&#x00E9;sident de la Section du contentieux du Conseil d&#x2019;&#x00C9;tat, Daniel Labetoulle, avait propos&#x00E9; de faire &#x00E9;voluer cette jurisprudence en reconnaissant aux parlementaires un int&#x00E9;r&#x00EA;t &#x00E0; agir contre les actes administratifs de nature &#x00E0; m&#x00E9;conna&#x00EE;tre les comp&#x00E9;tences et pr&#x00E9;rogatives li&#x00E9;es aux fonctions normatives et de contr&#x00F4;le du Parlement (Daniel Labetoulle, &#x00AB; Le recours pour exc&#x00E8;s de pouvoir du parlementaire… [truncated 490 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-26",
+        "datePublication": "2025-03-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2025-04-02T18:20:36+02:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1174P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS29262",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "0.1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174",
+  "directory_json_file_count": 20,
+  "ignored_json_files_count": 19,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51510/PIONANR5L17BTC1174/AMANR5L17PO838901BTC1174P0D1N000020.json"
+  ]
+}

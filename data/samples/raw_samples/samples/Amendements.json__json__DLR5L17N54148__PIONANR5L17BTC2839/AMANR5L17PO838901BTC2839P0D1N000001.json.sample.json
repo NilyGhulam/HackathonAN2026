@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2839P0D1N000001",
+      "chronotag": "1780521316341",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2839P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2839",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaakm",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794798",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA719890",
+            "PA720342"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Buffet,  Mme&#160;Brulebois et Mme&#160;Le&#160;Peih"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2839.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "3",
+            "alineaDesignation": "Alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>I.&nbsp;&#x2013;&nbsp;&#x00C0; l&#x2019;alin&#x00E9;a 3, substituer au nombre&nbsp;:</p><p>&#x00AB;&nbsp;40&nbsp;&#x00BB;,</p><p>le nombre&nbsp;:</p><p>&#x00AB;&nbsp;60&nbsp;&#x00BB;.</p><p>II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, substituer aux alin&#x00E9;as 5 &#x00E0; 7 l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p>&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Le I n&#x2019;est pas applicable aux produits qui font l&#x2019;objet de restrictions ou d&#x2019;interdictions diff&#x00E9;rentes en raison de leur teneur en cadmium, en vigueur ou pr&#x00E9;vues, &#x00E9;nonc&#x00E9;es en application de r&#x00E9;glementations europ&#x00E9;ennes.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le cadmium, dont l&#x2019;impr&#x00E9;gnation semble augmenter au sein de la population fran&#x00E7;aise, est suspect&#x00E9; de causer de bon nombre d&#x2019;atteintes r&#x00E9;nales, osseuses, et de cancers parmi les plus agressifs comme le cancer du pancr&#x00E9;as. Les donn&#x00E9;es de l&#x2019;enqu&#x00EA;te Esteban montrent ainsi que 18,14&nbsp;% des enfants (6&#x2013;17&nbsp;ans) ont des concertations urinaires de cadmium sup&#x00E9;rieures au seuil HBM-I (en-dessous duquel il n&#x2019;y a aucun risque d&#x2019;effets d&#x00E9;favorables sur la sant&#x00E9; selon les connaissances du moment), et 12,15&nbsp;% des adultes (18&#x2013;74&nbsp;ans).</p><p>L&#x2019;Agence nationale de s&#x00E9;curit&#x00E9; sanitaire de l&#x2019;alimentation, de l&#x2019;environnement et du travail (Anses) rappelle que pour faire d&#x00E9;cro&#x00EE;tre la teneur des sols en&nbsp;cadmium, il faut que le flux net annuel soit n&#x00E9;gatif, ce qui est atteint d&#x00E8;s lors que les apports annuels de cadmium ne d&#x00E9;passent pas 2&nbsp;grammes de cadmium par hectare. Pour atteindre cette limite, les mod&#x00E9;lisations de l'Anses&nbsp;conduisent &#x00E0; limiter la teneur des&nbsp;engrais min&#x00E9;raux phosphat&#x00E9;s en cadmium &#x00E0; 20&nbsp;milligrammes par kilogramme d&#x2019;anhydride phosphorique (P<sub>2</sub>O<sub>5</sub>).</p><p>Aujourd&#x2019;hui,&nbsp;les engrais phosphat&#x00E9;s &#x00E9;tiquet&#x00E9;s&nbsp;&#x00AB;&nbsp;CE&nbsp;&#x00BB; doivent contenir au maximum 60&nbsp;mg/kg&nbsp;P<sub>2</sub>O<sub>5</sub>&nbsp;et les engrais phosphat&#x00E9;s produits pour le march&#x00E9; national doivent contenir au maximum 90&nbsp;mg/kg&nbsp;P<sub>2</sub>O<sub>5</sub>. Toutefois, l&#x2019;article 49 du r&#x00E8;glement (UE) 2019/1009 pr&#x00E9;voit un r&#x00E9;examen des valeurs limites pour la teneur en cadmium des engrais phosphat&#x00E9;s au plus tard le 16 juillet 2026. Ce r&#x00E9;examen devrait aboutir &#x00E0; un nouveau seuil europ&#x00E9;en &#x00E0; 40&nbsp;mg/kg&nbsp;P<sub>2</sub>O<sub>5</sub> en 2027, avant d&#x2019;atteindre une limitation &#x00E0; 20&nbsp;mg/kg&nbsp;P<sub>2</sub>O<sub>5</sub> &#x00E0; un horizon 2032.</p><p>Le pr&#x00E9;sent amendement propose de fixer dans la loi un seuil maximal &#x00E0;&nbsp;60&nbsp;mg/kg&nbsp;P<sub>2</sub>O<sub>5</sub>, comme le r&#x00E8;glement europ&#x00E9;en le pr&#x00E9;voit aujourd'hui, ce qui mettrait un terme au r&#x00E9;gime d&#x00E9;rogatoire dont jouissent aujourd'hui les engrais phosphat&#x00E… [truncated 591 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-28",
+        "datePublication": "2026-06-02",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-03T23:14:49+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2839P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30663",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "38927",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839",
+  "directory_json_file_count": 30,
+  "ignored_json_files_count": 29,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N54148/PIONANR5L17BTC2839/AMANR5L17PO838901BTC2839P0D1N000023.json"
+  ]
+}

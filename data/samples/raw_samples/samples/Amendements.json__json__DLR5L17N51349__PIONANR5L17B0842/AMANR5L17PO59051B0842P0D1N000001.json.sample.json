@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0842P0D1N000001",
+      "chronotag": "1742988480776",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0842P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0842",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaau",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720386",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Di&#160;Filippo"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0842.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "15",
+            "alineaDesignation": "Après l'alinéa 15"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter cet article par les deux alin&#x00E9;as suivants&nbsp;: </p><p style=\"text-align: justify;\">&#x00AB;&nbsp;5&#x00B0;&nbsp;Apr&#x00E8;s l&#x2019;article&nbsp;222&#x2011;23, il est ins&#x00E9;r&#x00E9; un article&nbsp;222&#x2011;23&#x2011;1 A ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;222&#x2011;23&#x2011;1 A.</i>&nbsp;&#x2013;&nbsp;Tout acte de p&#x00E9;n&#x00E9;tration sexuelle, de quelque nature qu&#x2019;il soit, commis par une personne majeure sur une personne de moins de quinze&nbsp;ans est un viol.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">En France, il n&#x2019;existe &#x00E0; ce jour aucun seuil d&#x2019;&#x00E2;ge de non-consentement de l&#x2019;enfant aux abus sexuels. L&#x2019;enfant victime doit prouver qu&#x2019;il a &#x00E9;t&#x00E9; contraint par son agresseur pour ne pas &#x00EA;tre consid&#x00E9;r&#x00E9; comme consentant.</p><p style=\"text-align: justify;\">L&#x2019;&#x00E2;ge de la majorit&#x00E9; sexuelle &#x00E9;tant fix&#x00E9; &#x00E0; quinze&nbsp;ans en France, en r&#x00E9;f&#x00E9;rence &#x00E0; l&#x2019;&#x00E2;ge de la pubert&#x00E9;, il est raisonnable de d&#x00E9;finir qu&#x2019;en&#x2011;dessous de cette limite, toute relation sexuelle avec un majeur &#x00E9;quivaut &#x00E0; un viol, m&#x00EA;me si le mineur donne des signes ext&#x00E9;rieurs de consentement, pouvant &#x00EA;tre plong&#x00E9; dans un &#x00E9;tat de sid&#x00E9;ration ou de dissociation</p><p style=\"text-align: justify;\">Cet amendement vise donc &#x00E0; introduire clairement une pr&#x00E9;somption de non-consentement en cas de relations sexuelles entre un adulte et un mineur de moins de quinze ans.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-18",
+        "datePublication": "2025-03-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0842P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842",
+  "directory_json_file_count": 57,
+  "ignored_json_files_count": 56,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51349/PIONANR5L17B0842/AMANR5L17PO59051B0842P0D1N000021.json"
+  ]
+}

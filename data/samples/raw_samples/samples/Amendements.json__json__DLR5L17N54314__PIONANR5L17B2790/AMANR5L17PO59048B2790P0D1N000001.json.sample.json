@@ -1,0 +1,187 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO59048B2790P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B2790P0D1N000001",
+      "chronotag": "1781693255771",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B2790P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2790",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Rapporteur",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841067",
+          "groupePolitiqueRef": "PO872880",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Allegret-Pilot, rapporteur"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2790.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Le code de la s&#x00E9;curit&#x00E9; sociale est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;Le III de l&#x2019;article&nbsp;L.&nbsp;136&#x2011;1&#x2011;1 est compl&#x00E9;t&#x00E9; par un 9&#x00B0; ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;9&#x00B0;&nbsp;Les gratifications allou&#x00E9;es aux vieux travailleurs &#x00E0; l&#x2019;occasion de la d&#x00E9;livrance de la m&#x00E9;daille d&#x2019;honneur par le minist&#x00E8;re des affaires sociales, dans la limite du salaire mensuel de base du b&#x00E9;n&#x00E9;ficiaire.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;Le II de l&#x2019;article&nbsp;L.&nbsp;242&#x2011;1 est compl&#x00E9;t&#x00E9; par un 8&#x00B0; ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;8&#x00B0;&nbsp;Les gratifications allou&#x00E9;es aux vieux travailleurs &#x00E0; l&#x2019;occasion de la d&#x00E9;livrance de la m&#x00E9;daille d&#x2019;honneur par le minist&#x00E8;re des affaires sociales, dans la limite du salaire mensuel de base du b&#x00E9;n&#x00E9;ficiaire.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;Le pr&#x00E9;sent article est abrog&#x00E9; le dernier jour du trente-sixi&#x00E8;me mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi.&nbsp;</p><p style=\"text-align: justify;\">III.&nbsp;&#x2013;&nbsp;La perte de recettes pour les organismes de s&#x00E9;curit&#x00E9; sociale est compens&#x00E9;e &#x00E0; due concurrence par la majoration de l&#x2019;accise sur les tabacs pr&#x00E9;vue au chapitre&nbsp;IV du titre&nbsp;I<sup>er</sup> du livre&nbsp;III du code des impositions sur les biens et services.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement vise &#x00E0; maintenir l&#x2019;exemption d&#x2019;assiette des cotisations et contributions sociales applicable aux gratifications&nbsp;vers&#x00E9;es &#x00E0; l&#x2019;occasion de la remise de la m&#x00E9;daille d&#x2019;honneur du travail, dont la suppression a &#x00E9;t&#x00E9; annonc&#x00E9;e&nbsp;&#x2013;&nbsp;&#x00E0; compter du&nbsp;31&nbsp;d&#x00E9;cembre&nbsp;2026&nbsp;&#x2013;&nbsp;dans un&nbsp;communiqu&#x00E9; publi&#x00E9; le 10&nbsp;avril&nbsp;2026 au bulletin officiel de la s&#x00E9;curit&#x00E9; sociale (BOSS).&nbsp;</p><p style=\"text-align: justify;\">Cette tol&#x00E9;rance administrative, dont les contours sont d&#x00E9;finis&nbsp;par la lettre-circulaire n&#x00B0; 2000&#x2011;103 du&nbsp;22&nbsp;novembre&nbsp;2000 de l&#x2019;Urssaf Caisse nationale (ex-Acoss), n&#x2019;est pr&#x00E9;vue par aucune disposition l&#x00E9;gislative ou r&#x00E9;glementaire.&nbsp;</p><p style=\"text-align: justify;\">Le co&#x00FB;t de l&#x2019;exemption d&#x2019;assiette n&#x2019;est pas &#x00E9;valu&#x00E9; dans les documents annex&#x00E9;s au projet de loi de financement de la s&#x00E9;curit&#x00E9; sociale (PLFSS) annuel.&nbsp;En effet, les primes vers&#x00E9;es aux salari&#x00E9;s ne sont pas d&#x00E9;clar&#x00E9;es par les employeurs aux organismes de recouvrement, ce qui explique l&#x2019;absence de donn&#x00E9;es. En tout &#x00E9;tat de cause,&nbsp;les enjeux financiers associ&#x00E9;s &#x00E0; ce r&#x00E9;gime favorable seraient relativement faibles d&#x2019;apr&#x00E8;s la direction de la s&#x00E9;curit&#x00E9; sociale.</p><p style=\"text-align: justify;\">En coh&#x00E9;rence avec le r&#x00E9;tablissement de l&#x2019;exon&#x00E9;ration d&#x2019;imp&#x00F4;t pr&#x00E9;vu &#x00E0; l&#x2019;article&nbsp;1<sup>er</sup> de la proposition, il est propos&#x00E9; de donner un fondement l&#x00E9;gislatif &#x00E0; l&#x2019;exemption d&#x2019;assiette des cotisations et contributions sociales dont b&#x00E9;n&#x00E9;ficient les r&#x00E9;cipiendaires de la m&#x00E9;daille d&#x2019;honneur du travail. Les gratifications demeureraient exclues de l&#x2019;assiette des cotisations sociales (article&nbsp;L.&nbsp;242&#x2011;1 du code de la s&#x00E9;curit&#x00E9; sociale), de la CSG et de la CRDS (article&nbsp;L.&nbsp;136&#x2011;1&#x2011;1 du m&#x00EA;me code) et, par cons&#x00E9;quent, du forfait social en application de l&#x2019;article&nbsp;L.&nbsp;137&#x2011;15 du m&#x00EA;me code.&nbsp;</p><p style=\"text-ali… [truncated 745 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-16",
+        "datePublication": "2026-06-17",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-17T12:47:29+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B2790P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c sécurité sociale",
+        "divisionCodeLoi": "L136-1-1"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790",
+  "directory_json_file_count": 17,
+  "ignored_json_files_count": 16,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54314/PIONANR5L17B2790/AMANR5L17PO838901B2790P0D1N000016.json"
+  ]
+}

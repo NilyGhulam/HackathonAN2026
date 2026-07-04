@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000002.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0935P0D1N000002",
+      "chronotag": "1739891096271",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "2",
+        "numeroOrdreDepot": "2",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0935P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0935",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaj",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720386",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642847",
+            "PA722390",
+            "PA793094",
+            {
+              "__truncated_items__": 2
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Di&#160;Filippo,  M.&#160;Bazin, Mme&#160;Corneloup, M.&#160;Ray, M.&#160;Cordier et M.&#160;Jeanbrun"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0935.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>En 2024, pr&#x00E8;s de 153 600 demandes de protection internationale ont &#x00E9;t&#x00E9; introduites &#x00E0; l&#x2019;Ofpra, soit une augmentation de 7,7% par rapport &#x00E0; 2023.</p><p>Alors que nos capacit&#x00E9;s d'accueil et d'int&#x00E9;gration sont satur&#x00E9;es, il est essentiel d'&#x00E9;radiquer la clandestinit&#x00E9; et de fixer des quotas d'accueil conformes &#x00E0; nos standards d'int&#x00E9;gration, comme le souhaite une majorit&#x00E9; de Fran&#x00E7;ais. Or, faciliter l'acc&#x00E8;s des demandeurs d&#x2019;asile au march&#x00E9; du travail rendra d'autant plus difficile l'expulsion de ceux qui seront d&#x00E9;bout&#x00E9;s de leur demande.</p><p>Il convient donc de supprimer cet article</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-14",
+        "datePublication": "2025-02-18",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0935P0D1N000002?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75654",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935",
+  "directory_json_file_count": 15,
+  "ignored_json_files_count": 14,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17BTC0935/AMANR5L17PO838901BTC0935P0D1N000016.json"
+  ]
+}

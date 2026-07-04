@@ -1,0 +1,179 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2701/AMANR5L17PO838901BTC2701P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2701P0D1N000001",
+      "chronotag": "1778002231479",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2701P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2701",
+      "triAmendement": "cjiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA608416",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Hetzel"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 9 undecies",
+          "articleDesignationCourte": "ART. 9 UNDECIES",
+          "articleDesignation": "ARTICLE 9 UNDECIES",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2701.asp#D_Article_9_undecies"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>A l&#x2019;alin&#x00E9;a 1, apr&#x00E8;s le mot&nbsp;:</p><p>&nbsp;&#x00AB;&nbsp;fiscales&nbsp;&#x00BB;,</p><p>ins&#x00E9;rer les mots&nbsp;:</p><p>&#x00AB;, dans sa r&#x00E9;daction r&#x00E9;sultant de l&#x2019;ordonnance n&#x00B0;&nbsp;2025-1247 du 17 d&#x00E9;cembre 2025 portant recodification de la taxe sur la valeur ajout&#x00E9;e et diverses modifications du code des impositions sur les biens et services,&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Amendement de coordination visant &#x00E0; tenir compte des cons&#x00E9;quences de l'entr&#x00E9;e en vigueur de l&#x2019;ordonnance n&#x00B0; 2025-1247 du 17 d&#x00E9;cembre 2025 portant recodification de la taxe sur la valeur ajout&#x00E9;e et diverses modifications du code des impositions sur les biens et services.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-05",
+        "datePublication": "2026-05-05",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-05-05T19:30:03+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2701P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Accord"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2701",
+  "directory_json_file_count": 5,
+  "ignored_json_files_count": 4,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2701/AMANR5L17PO838901BTC2701P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2701/AMANR5L17PO838901BTC2701P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2701/AMANR5L17PO838901BTC2701P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2701/AMANR5L17PO838901BTC2701P0D1N000005.json"
+  ]
+}

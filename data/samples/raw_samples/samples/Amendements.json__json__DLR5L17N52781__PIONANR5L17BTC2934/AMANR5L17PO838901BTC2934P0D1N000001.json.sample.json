@@ -1,0 +1,173 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52781/PIONANR5L17BTC2934/AMANR5L17PO838901BTC2934P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2934P0D1N000001",
+      "chronotag": "1782915725929",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2934P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2934",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841075",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793432",
+            "PA841495",
+            "PA796118",
+            {
+              "__truncated_items__": 118
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Josserand,  M.&#160;Allisio, M.&#160;Amblard, Mme&#160;Auzanot, M.&#160;Ballard, Mme&#160;Bamana, M.&#160;Baubry, M.&#160;Beaurain, M.&#160;Bentz, M.&#160;Bernhardt, M.&#160;Bigot, M.&#160;Bilde, M.&#160;Blairy, Mme&#160;Blanc, M.&#160;Boccaletti, M.&#160;Boulogne, Mme&#160;Bouquin, M.&#160;Bovet, M.&#160;Buisson, M.&#160;Casterman, M.&#160;Chaumeil, M.&#160;Chenu, M.&#160;Chudeau, M.&#160;Clavet, Mme&#160;Colombier, Mme&#160;Da&#160;Conceicao&#160;Carvalho, M.&#160;de&#160;Fleurian, M.&#160;de&#160;L&#233;pinau, Mme&#160;Dellong&#160;Meng, M.&#160;Dessigny, Mme&#160;Diaz, Mme&#160;Dogor-Such, M.&#160;Dragon, M.&#160;Dufosset, M.&#160;Dussausaye, M.&#160;Dutremble, M.&#160;Evrard, M.&#160;Falcon, M.&#160;Florquin, M.&#160;Fouquart, M.&#160;Frapp&#233;, M.&#160;Gabarron, Mme&#160;Galzy, M.&#160;Gery, M.&#160;Giletti, M.&#160;Gillet, M.&#160;Christian&#160;Girard, M.&#160;Golliot, M.&#160;Gonzalez, Mme&#160;Florence&#160;Goulet, Mme&#160;Grangier, Mme&#160;Griseti, M.&#160;Guibert, M.&#160;Guiniot, M.&#160;Guitton, Mme&#160;Hamelet, M.&#160;Houssin, M.&#160;Humbert, M.&#160;Jacobelli, M.&#160;Jenft, M.&#160;Jolly, Mme&#160;Joncour, M.&#160;Jordan, Mme&#160;Joubert, Mme&#160;Laporte, Mme&#160;Lavalette, M.&#160;Le&#160;Bourgeois, Mme&#160;Le&#160;Pen, Mme&#160;Lechanteux, Mme&#160;Lechon, Mme&#160;Lelouis, Mme&#160;Levavasseur, M.&#160;Limongi, M.&#160;Lioret, Mme&#160;Loir, Mme&#160;Lorho, M.&#160;Lottiaux, M.&#160;Loubet, M.&#160;David&#160;Magnier, Mme&#160;Marais-Beuil, M.&#160;Marchio, M.&#160;Markowsky, M.&#160;Patrice&#160;Martin, Mme&#160;Martinez, M.&#160;Mauvieux, M.&#160;Meizonnet, M.&#160;Meurin, M.&#160;Monnier, M.&#160;Muller, Mme&#160;M&#233;lin, Mme&#160;M&#233;nach&#233;, M.&#160;M&#233;nag&#233;, M.&#160;Odoul, Mme&#160;Parmentier, M.&#160;Perez, M.&#160;Pfeffer, Mme&#160;Pollet, M.&#160;Rambaud, Mme&#160;Ranc, M.&#160;Rancoule, M.&#160;Renault, Mme&#160;Rimbert, M.&#160;Rivi&#232;re, Mme&#160;Robert-Dehault, Mme&#160;Roullaud, Mme&#160;Roy, Mme&#160;Sabatini, M.&#160;Sabatou, M.&#160;Salmon, M.&#160;Schreck, Mme&#160;Sicard, M.&#160;Emmanuel&#160;Tach&#233;, M.&#160;Jean-Philippe&#160;Tanguy, M.&#160;Taverne, M.&#160;Tesson, M.&#160;Tivoli, M.&#160;Tomatis, M.&#160;Tonussi, M.&#160;Tribuiani, M.&#160;Villedieu, M.&#160;Vos et M.&#160;Weber"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2 bis",
+          "articleDesignationCourte": "ART. 2 BIS",
+          "articleDesignation": "ARTICLE 2 BIS",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2934.asp#D_Article_2_bis"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; supprimer le report au 6 janvier 2027, introduit en premi&#x00E8;re lecture au S&#x00E9;nat, de l&#x2019;entr&#x00E9;e en vigueur du pr&#x00E9;sent texte.&nbsp;</p><p>La mise en oeuvre imm&#x00E9;diate du texte ne soul&#x00E8;ve pas, en l'esp&#x00E8;ce, de difficult&#x00E9; mat&#x00E9;rielle insurmontable de nature &#x00E0; justifier le diff&#x00E9;r&#x00E9; de son entr&#x00E9;e en vigueur.</p><p>L&#x2019;application de la r&#x00E8;gle g&#x00E9;n&#x00E9;rale selon laquelle la loi s&#x2019;applique le lendemain de sa publication doit pr&#x00E9;valoir.</p><p>Les contingences mat&#x00E9;rielles et organisationnelles ne sauraient diff&#x00E9;rer la protection de l'int&#x00E9;r&#x00EA;t des enfants.</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-19",
+        "datePublication": "2026-06-29",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-07-01T16:21:50+02:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2934P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30819",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52781/PIONANR5L17BTC2934",
+  "directory_json_file_count": 1,
+  "ignored_json_files_count": 0,
+  "ignored_json_files_preview": []
+}

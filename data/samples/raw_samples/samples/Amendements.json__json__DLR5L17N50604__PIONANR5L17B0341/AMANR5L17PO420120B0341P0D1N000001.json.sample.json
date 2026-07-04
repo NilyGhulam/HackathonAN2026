@@ -1,0 +1,184 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50604/PIONANR5L17B0341/AMANR5L17PO420120B0341P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0341P0D1N000001",
+      "chronotag": "1739874682650",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0341P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0341",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793736",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Clouet,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "APRÈS ART. 2",
+          "articleDesignation": "APRÈS L'ARTICLE 2, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0341.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai de six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport pr&#x00E9;sentant de fa&#x00E7;on exhaustive l&#x2019;ensemble des moyens humains et financiers allou&#x00E9;s aux diff&#x00E9;rents centres hospitaliers universitaires de France et notamment au nouveau centre hospitalier universitaire de Corse. Ce rapport pr&#x00E9;sente, le cas &#x00E9;ch&#x00E9;ant, les manques constat&#x00E9;s ainsi que des propositions afin d&#x2019;y rem&#x00E9;dier.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement, le groupe LFI-NFP souhaite s&#x2019;assurer que l&#x2019;ouverture d&#x2019;un CHU en Corse - principe que nous soutenons - s&#x2019;accompagne des moyens humains et financiers ad&#x00E9;quats afin que cette obligation soit r&#x00E9;ellement effective. Cette question se pose d&#x2019;autant plus qu&#x2019;au niveau national, on assiste &#x00E0; une v&#x00E9;ritable saign&#x00E9;e des moyens de l&#x2019;h&#x00F4;pital public.</p><p style=\"text-align: justify;\">Selon une &#x00E9;tude de la Direction de la Recherche, des Etudes, de l&#x2019;Evaluation et des Statistiques (DREES) d&#x2019;octobre 2024, pr&#x00E8;s de 4 900 lits d&#x2019;hospitalisation compl&#x00E8;te ont &#x00E9;t&#x00E9; ferm&#x00E9;s en 2023 en France. En 2023, le recul du nombre de lits en &#x00E9;tat d&#x2019;accueillir des patients s&#x2019;est donc poursuivi (-1,3&nbsp;%, apr&#x00E8;s -1,8&nbsp;% en 2022 et -1,4&nbsp;% en 2021) et est rest&#x00E9; plus rapide qu&#x2019;avant la crise sanitaire (-0,9&nbsp;% par an en moyenne entre 2013 et 2019). Le repli du nombre de lits confirme selon la Drees &#x00AB;&nbsp;une tendance observ&#x00E9;e depuis plusieurs ann&#x00E9;es&nbsp;&#x00BB;, refl&#x00E9;tant d&#x2019;une part la volont&#x00E9; des pouvoirs publics de &#x00AB;&nbsp;r&#x00E9;organiser&nbsp;&#x00BB; les soins vers plus &#x00AB;&nbsp;d&#x2019;ambulatoire&nbsp;&#x00BB;, et d&#x2019;autre part des p&#x00E9;nuries de personnel, qui ne &#x00AB;&nbsp;permettent pas de maintenir&nbsp;&#x00BB; tous les lits ouverts. Au total, depuis fin 2013, les &#x00E9;tablissements de sant&#x00E9; ont ainsi perdu 43 500 lits d&#x2019;hospitalisation compl&#x00E8;te, soit une diminution de l&#x2019;offre de 10,5&nbsp;% en dix ans. S&#x2019;ajoutent &#x00E0; cette situation d&#x00E9;j&#x00E0; d&#x00E9;grad&#x00E9;e d&#x2019;autres difficult&#x00E9;s&nbsp;: manque de personnels m&#x00E9;dicaux (m&#x00E9;decins hospitaliers) et non-m&#x00E9;dicaux (infirmi&#x00E8;res et infirmiers&#x2026;) par manque d&#x2019;attractivit&#x00E9; du statut et de la r&#x00E9;mun&#x00E9;ration&#x2026;</p><p style=\"text-align: justify;\">Cette situation n&#x2019;est pas pr&#x00EA;te de s&#x2019;am&#x00E9;liorer. D&#x2019;apr&#x00E8;s la F&#x00E9;d&#x00E9;ration Hospitali&#x00E8;re de France (8/10/24), si l&#x2019;&#x00E9;volution en 2025 de l&#x2019;ONDAM global de 2,8&nbsp;% (d&#x00E9;j&#x00E0; insuffisant) et du sous-objectif de l&#x2019;ONDAM &#x00C9;tablissements de sant&#x0… [truncated 1104 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-21",
+        "datePublication": "2024-11-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2024-11-26T17:12:43+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0341P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "zzz",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50604/PIONANR5L17B0341",
+  "directory_json_file_count": 5,
+  "ignored_json_files_count": 4,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50604/PIONANR5L17B0341/AMANR5L17PO420120B0341P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50604/PIONANR5L17B0341/AMANR5L17PO420120B0341P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50604/PIONANR5L17B0341/AMANR5L17PO420120B0341P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50604/PIONANR5L17B0341/AMANR5L17PO420120B0341P0D1N000005.json"
+  ]
+}

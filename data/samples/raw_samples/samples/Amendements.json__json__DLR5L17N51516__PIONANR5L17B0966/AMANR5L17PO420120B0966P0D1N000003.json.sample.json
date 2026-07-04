@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000003.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0966P0D1N000003",
+      "chronotag": "1742983977294",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS3",
+        "numeroOrdreDepot": "3",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0966P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0966",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabb",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719286",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Colombani"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0966.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet article de la proposition de loi vise &#x00E0; orienter l&#x2019;installation des m&#x00E9;decins, g&#x00E9;n&#x00E9;ralistes comme sp&#x00E9;cialistes, vers les territoires o&#x00F9; l&#x2019;offre de soins est insuffisante. Ainsi, la libert&#x00E9; d&#x2019;installation ne serait garantie que dans ces zones sous-dot&#x00E9;es, sous le contr&#x00F4;le des Agences R&#x00E9;gionales de Sant&#x00E9; (ARS).</p><p style=\"text-align: justify;\">Toutefois, ce dispositif soul&#x00E8;ve plusieurs interrogations majeures.</p><p style=\"text-align: justify;\">En p&#x00E9;riode de p&#x00E9;nurie m&#x00E9;dicale, aucune &#x00E9;tude n&#x2019;a d&#x00E9;montr&#x00E9; que des mesures contraignantes favorisent l&#x2019;installation des jeunes m&#x00E9;decins dans les zones sous-dot&#x00E9;es. &#x00C0; l&#x2019;inverse, elles risquent d&#x2019;accentuer un ph&#x00E9;nom&#x00E8;ne d&#x00E9;j&#x00E0; observable&nbsp;: le basculement vers le salariat pour &#x00E9;viter ces contraintes, que ce soit &#x00E0; l&#x2019;h&#x00F4;pital ou en centre de sant&#x00E9;. Or, ces structures ne permettent pas d&#x2019;assurer un nombre suffisant de m&#x00E9;decins traitants, dont le besoin est pourtant criant. Lorsqu&#x2019;ils exercent en centre de sant&#x00E9;, les m&#x00E9;decins ont une patient&#x00E8;le r&#x00E9;duite (700 patients en moyenne contre 1 100 pour un m&#x00E9;decin lib&#x00E9;ral, selon un rapport de l&#x2019;IGAS), ce qui aggrave les difficult&#x00E9;s d&#x2019;acc&#x00E8;s aux soins et alourdit les finances publiques, ces centres &#x00E9;tant largement d&#x00E9;ficitaires.&nbsp;</p><p style=\"text-align: justify;\">La d&#x00E9;finition m&#x00EA;me des zones sous-dot&#x00E9;es soul&#x00E8;ve une autre probl&#x00E9;matique. Est-ce une zone d&#x2019;intervention prioritaire (ZIP) ou bien 87&nbsp;% du territoire national en 2023&nbsp;? Actuellement, les p&#x00E9;rim&#x00E8;tres des zones ZIP et ZAC sont d&#x00E9;termin&#x00E9;s en fonction des capacit&#x00E9;s budg&#x00E9;taires des aides, et non exclusivement en fonction des difficult&#x00E9;s d&#x2019;acc&#x00E8;s aux soins. Or, un territoire ayant perdu 40&nbsp;% de ses m&#x00E9;decins traitants et sp&#x00E9;cialistes peut-il &#x00EA;tre consid&#x00E9;r&#x00E9; comme non sous-dot&#x00E9;&nbsp;? Aujourd&#x2019;hui, il n&#x2019;existe plus de zones sur-dot&#x00E9;es en m&#x00E9;decins traitants, et les zones dites &#x00AB;&nbsp;normo-dot&#x00E9;es&nbsp;&#x00BB; deviennent de plus en plus rar… [truncated 2181 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-17",
+        "datePublication": "2025-03-25",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-03-26T11:12:29+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0966P0D1N000003?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "76456",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966",
+  "directory_json_file_count": 79,
+  "ignored_json_files_count": 78,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000024.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17B0966/AMANR5L17PO420120B0966P0D1N000025.json"
+  ]
+}

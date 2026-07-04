@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0438P0D1N000001",
+      "chronotag": "1739874673465",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0438P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0438",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795920",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793270",
+            "PA840713",
+            "PA720154",
+            {
+              "__truncated_items__": 8
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Thevenot,  M.&#160;Rousset, Mme&#160;Delorme&#160;Duret, Mme&#160;Dubr&#233;-Chirat, M.&#160;Lauzzana, M.&#160;Le&#160;Gac, Mme&#160;Le&#160;Nabour, Mme&#160;Liso, Mme&#160;Missoffe, M.&#160;Mongardien, Mme&#160;Rist et Mme&#160;Vidal"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0438.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement propose la suppression de l&#x2019;article&nbsp;1 de la proposition de loi, qui vise &#x00E0; abroger le report de l&#x2019;&#x00E2;ge l&#x00E9;gal de d&#x00E9;part &#x00E0; la retraite de 62 &#x00E0; 64 ans, ainsi que l&#x2019;augmentation de la dur&#x00E9;e d&#x2019;assurance requise. La loi de financement rectificative de la s&#x00E9;curit&#x00E9; sociale du 14 avril 2023 a &#x00E9;t&#x00E9; con&#x00E7;ue pour faire face aux d&#x00E9;fis d&#x00E9;mographiques et &#x00E9;conomiques auxquels notre syst&#x00E8;me de retraite est confront&#x00E9;. Elle s&#x2019;inscrit dans une d&#x00E9;marche de pr&#x00E9;servation de l&#x2019;&#x00E9;quilibre financier du r&#x00E9;gime, tout en introduisant des mesures d&#x2019;&#x00E9;quit&#x00E9; et de soutien pour les assur&#x00E9;s les plus modestes. La r&#x00E9;forme actuellement en vigueur introduit des ajustements progressifs indispensables pour r&#x00E9;pondre &#x00E0; ces d&#x00E9;fis afin de garantir la p&#x00E9;rennit&#x00E9; de notre syst&#x00E8;me de retraite.<br>&nbsp;<br>La r&#x00E9;forme introduit un rel&#x00E8;vement graduel de l&#x2019;&#x00E2;ge l&#x00E9;gal de d&#x00E9;part, qui passera de 62 &#x00E0; 64 ans d&#x2019;ici 2030, avec une augmentation de trois mois par an. En parall&#x00E8;le, l&#x2019;&#x00E2;ge d&#x2019;annulation de la d&#x00E9;cote reste fix&#x00E9; &#x00E0; 67 ans, assurant ainsi une protection pour ceux qui n&#x2019;ont pas pu cotiser suffisamment longtemps. En acc&#x00E9;l&#x00E9;rant &#x00E9;galement l&#x2019;allongement de la dur&#x00E9;e de cotisation &#x00E0; 43 ans pour b&#x00E9;n&#x00E9;ficier d&#x2019;une retraite &#x00E0; taux plein d&#x00E8;s 2027, la r&#x00E9;forme instaure une solidarit&#x00E9; entre g&#x00E9;n&#x00E9;rations, favorisant la viabilit&#x00E9; du syst&#x00E8;me sans impacter injustement les actifs actuels.<br>&nbsp;<br>De plus, la r&#x00E9;forme revalorise la retraite minimale pour les carri&#x00E8;res compl&#x00E8;tes cotis&#x00E9;es au Smic, en portant cette pension &#x00E0; 1 200&nbsp;&#x20AC; brut par mois, soit 85&nbsp;% du Smic net. Cette disposition, qui b&#x00E9;n&#x00E9;ficiera chaque ann&#x00E9;e &#x00E0; 180 000 &#x00E0; 200 000 personnes, contribue &#x00E0; r&#x00E9;duire les in&#x00E9;galit&#x00E9;s sociales et soutient les plus modestes. &#x00C0; l&#x2019;automne 2024, ce sont d&#x00E9;j&#x00E0; 850 000 petites retraites qui seront revaloris&#x00E9;es, t&#x00E9;moignant d&#x2019;un engagement conc… [truncated 2206 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-15",
+        "datePublication": "2024-11-20",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2024-11-20T11:14:19+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0438P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438",
+  "directory_json_file_count": 18,
+  "ignored_json_files_count": 17,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50684/PIONANR5L17B0438/AMANR5L17PO420120B0438P0D1N000018.json"
+  ]
+}

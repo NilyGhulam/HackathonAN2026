@@ -1,0 +1,178 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53879/PIONANR5L17B2570/AMANR5L17PO59051B2570P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2570P0D1N000001",
+      "chronotag": "1778662768332",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2570P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2570",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA607619",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841017",
+            "PA2952"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Molac,  M.&#160;Huwart et M.&#160;Warsmann"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2570.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "3",
+            "alineaDesignation": "Après l'alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;3, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Les avis du Conseil d&#x2019;&#x00C9;tat rendus sur les projets d&#x2019;amendements du Gouvernement sont d&#x00E9;pos&#x00E9;s sur le bureau de la premi&#x00E8;re assembl&#x00E9;e saisie concomitamment &#x00E0; leur d&#x00E9;p&#x00F4;t.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; assurer la transmission syst&#x00E9;matique&nbsp;au Parlement des avis du Conseil d&#x2019;&#x00C9;tat rendus sur les projets d&#x2019;amendements du Gouvernement d&#x00E8;s leur d&#x00E9;p&#x00F4;t sur un projet de loi ou une proposition de loi inscrit &#x00E0; l&#x2019;ordre du jour.</p><p style=\"text-align: justify;\">En application de l&#x2019;article&nbsp;L.&nbsp;112&#x2011;2 du code de justice administrative, le Gouvernement peut saisir le Conseil d&#x2019;&#x00C9;tat afin d&#x2019;appr&#x00E9;cier la conformit&#x00E9; des amendements qu&#x2019;il envisage de d&#x00E9;poser au cours de la discussion parlementaire.&nbsp;Or, ces amendements sont susceptibles d&#x2019;avoir une port&#x00E9;e sensible sur les d&#x00E9;bats parlementaires.&nbsp;A titre d&#x2019;exemple, derni&#x00E8;rement, le Gouvernement a sollicit&#x00E9; le Conseil d&#x2019;&#x00C9;tat sur des amendements relatifs au&#x00AB;&nbsp;dossier coffre&nbsp;&#x00BB; dans le cadre du projet de loi &#x00AB;&nbsp;Narcotrafic&nbsp;&#x00BB;&nbsp;ou encore sur la r&#x00E9;tention administrative des &#x00E9;trangers.&nbsp;La publicit&#x00E9; de ces avis ne devrait pas &#x00EA;tre laiss&#x00E9;e &#x00E0; la discr&#x00E9;tion du ministre.</p><p style=\"text-align: justify;\">Cet amendement vise &#x00E0; assurer la publicit&#x00E9; des avis du Conseil d&#x2019;&#x00C9;tat rendus sur les amendements d&#x00E9;pos&#x00E9;s par le Gouvernement sur un projet de loi ou une proposition de loi inscrit &#x00E0; l&#x2019;ordre du jour parlementaire.En application de l&#x2019;article&nbsp;L.&nbsp;112&#x2011;2 du code de justice administrative, le Gouvernement peut saisir le Conseil d&#x2019;&#x00C9;tat afin d&#x2019;appr&#x00E9;cier la conformit&#x00E9; des amendements qu&#x2019;il envisage de d&#x00E9;poser au cours de la discussion parlementaire.&nbsp;Or, ces amendements sont susceptibles d&#x2019;avoir une port&#x00E9;e sensible sur les d&#x00E9;bats parlementaires.&nbsp;A titre d&#x2019;exemple, derni&#x00E8;rement, le Gouvernement a sollicit&#x00E9; le Conseil d&#x2019;&#x00C9;tat sur des amendements relatifs au&#x00AB;&nbsp;dossier coffre&nbsp;&#x00BB; dans le cadre du projet de loi &#x00AB;&nbsp;Narcotrafic&nbsp;&#x00BB;&nbsp;ou encore sur la r&#x00E9;tention administrative des &#x00E9;trangers.&nbsp;La publicit&#x00E9; de ces avis ne devrait pas &#x00EA;tre laiss&#x00E9;e &#x00E0; la discr&#x00E9;tion du ministre.En l&#x2019;&#x00E9;tat, l&#x2019;a… [truncated 521 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-07",
+        "datePublication": "2026-05-12",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-13T10:59:12+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2570P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "38435",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53879/PIONANR5L17B2570",
+  "directory_json_file_count": 5,
+  "ignored_json_files_count": 4,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53879/PIONANR5L17B2570/AMANR5L17PO59051B2570P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53879/PIONANR5L17B2570/AMANR5L17PO59051B2570P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53879/PIONANR5L17B2570/AMANR5L17PO59051B2570P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53879/PIONANR5L17B2570/AMANR5L17PO59051B2570P0D1N000005.json"
+  ]
+}

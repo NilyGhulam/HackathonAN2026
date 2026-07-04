@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2707P0D1N000001",
+      "chronotag": "1780560766331",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2707P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2707",
+      "triAmendement": "boaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841717",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Runel,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, Mme&#160;Dombre&#160;Coste, Mme&#160;Froger, Mme&#160;Godard, M.&#160;Guedj, M.&#160;Houli&#233; et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 3",
+          "articleDesignationCourte": "ART. 3",
+          "articleDesignation": "ARTICLE 3",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2707.asp#D_Article_3"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;I.&nbsp;&#x2013;&nbsp;Le code du travail est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;Apr&#x00E8;s le 6&#x00B0; de l&#x2019;article&nbsp;L.&nbsp;2242&#x2011;20, il est ins&#x00E9;r&#x00E9; un&nbsp;7&#x00B0; ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;7&#x00B0;&nbsp;La sinistralit&#x00E9; au travail, en prenant en compte les indicateurs publi&#x00E9;s par l&#x2019;entreprise en application de l&#x2019;article&nbsp;L.&nbsp;4144&#x2011;1, et l&#x2019;am&#x00E9;lioration de leurs conditions de travail.&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;Le titre IV du livre I<sup>er</sup> de la quatri&#x00E8;me partie est compl&#x00E9;t&#x00E9; par un chapitre IV ainsi r&#x00E9;dig&#x00E9;&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Chapitre IV&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Index de sinistralit&#x00E9; des entreprises</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;L.&nbsp;4144&#x2011;1</i>.&nbsp;&#x2013;&nbsp;Dans les entreprises d&#x2019;au moins cinquante&nbsp;salari&#x00E9;s, l&#x2019;employeur publie chaque ann&#x00E9;e des indicateurs relatifs &#x00E0; la sant&#x00E9; et &#x00E0; la s&#x00E9;curit&#x00E9; au travail. Ces indicateurs comportent au minimum des&nbsp;informations relatives aux accidents du travail, aux maladies professionnelles et aux arr&#x00EA;ts de travail.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;La liste des indicateurs et leur m&#x00E9;thode de calcul sont d&#x00E9;termin&#x00E9;s par d&#x00E9;cret.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Une convention ou un accord de branche &#x00E9;tendu peut d&#x00E9;terminer la liste des indicateurs suppl&#x00E9;mentaires mentionn&#x00E9;s au premier alin&#x00E9;a et leur m&#x00E9;thode de calcul, qui s&#x2019;ajoutent alors &#x00E0; celles d&#x00E9;termin&#x00E9;es par le d&#x00E9;cret mentionn&#x00E9; au deuxi&#x00E8;me alin&#x00E9;a pour les entreprises de la branche concern&#x00E9;e.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Un d&#x00E9;cret d&#x00E9;termine les conditions d&#x2019;application du pr&#x00E9;sent article, notamment les modalit&#x00E9;s de mise en &#x0153;uvre du troisi&#x00E8;me alin&#x00E9;a, la date et les modalit&#x00E9;s de publication des indicateur… [truncated 3336 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement de r&#x00E9;&#x00E9;criture g&#x00E9;n&#x00E9;rale des d&#x00E9;put&#x00E9;s Socialistes et apparent&#x00E9;s vise &#x00E0; s&#x00E9;curiser la construction et l'application de l'indicateur relatif &#x00E0; la sinistralit&#x00E9; dans les entreprises.</p><p>En effet, en l'&#x00E9;tat de cet article, seules <i>\"des&nbsp;informations relatives\"</i> &#x00E0; la sinistralit&#x00E9; seraient &#x00E0; publier sur le RNE (registre national des entreprises) ; sans que la m&#x00E9;thodologie de construction de ces informations soient pr&#x00E9;cis&#x00E9;es ou renvoy&#x00E9;es &#x00E0; un acte r&#x00E9;glementaire, ni que des sanctions soient pr&#x00E9;vues.</p><p>Afin de renforcer la mise en oeuvre de cet article, et dans une d&#x00E9;marche constructive, il est propos&#x00E9; de r&#x00E9;&#x00E9;crire cet article afin :&nbsp;</p><ul><li>De cr&#x00E9;er un index de sinistralit&#x00E9; des entreprises dans le code du travail, et de pr&#x00E9;voir l'obligation pour chaque entreprise de plus de 50 salari&#x00E9;s de le publier ; cet index comportant des indicateurs&nbsp;a minima&nbsp;sur&nbsp;les accidents du travail,&nbsp;les&nbsp;maladies professionnelles et&nbsp;les&nbsp;arr&#x00EA;ts de travail ;</li><li>De renvoyer &#x00E0; un d&#x00E9;cret la m&#x00E9;thodologie de construction de ces indicateurs ; pris&nbsp;apr&#x00E8;s&nbsp;une concertation avec les partenaires sociaux ;</li><li>De donner la possibilit&#x00E9; aux branches ou aux conventions d'ajouter des indicateurs &#x00E0; cet index ;&nbsp;</li><li>De pr&#x00E9;voir une sanction administrative d'au maximum 1% de la masse salariale pour les entreprises ne publiant pas cet index ;</li><li>De pr&#x00E9;voir l'obligation pour les entreprises ayant un index de mauvaise qualit&#x00E9; d'entreprendre des n&#x00E9;gociations pour am&#x00E9;liorer ledit index.</li></ul><p>Tels sont les objets de cet amendement de r&#x00E9;&#x00E9;criture g&#x00E9;n&#x00E9;rale visant &#x00E0; renforcer la mise en oeuvre de cet article 3.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-28",
+        "datePublication": "2026-06-01",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-06-04T10:12:38+02:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2707P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707",
+  "directory_json_file_count": 41,
+  "ignored_json_files_count": 40,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54226/PIONANR5L17B2707/AMANR5L17PO420120B2707P0D1N000021.json"
+  ]
+}

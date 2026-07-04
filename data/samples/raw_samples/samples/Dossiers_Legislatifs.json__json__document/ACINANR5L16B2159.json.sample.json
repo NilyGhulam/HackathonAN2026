@@ -1,0 +1,109 @@
+{
+  "source_file": "Dossiers_Legislatifs.json/json/document/ACINANR5L16B2159.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "document"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "document": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xsi:type": "accordInternational_Type",
+      "uid": "ACINANR5L16B2159",
+      "legislature": "16",
+      "cycleDeVie": {
+        "chrono": {
+          "dateCreation": "2024-02-07T00:00:00.000+01:00",
+          "dateDepot": "2024-02-07T00:00:00.000+01:00",
+          "datePublication": "2024-04-10T00:00:00.000+02:00",
+          "datePublicationWeb": "2024-02-09T14:56:00.000+01:00"
+        }
+      },
+      "denominationStructurelle": "Projet de loi",
+      "provenance": "Texte Déposé",
+      "titres": {
+        "titrePrincipal": "Accord international sur le projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de l’Etat indépendant de Papouasie-Nouvelle-Guinée relatif à la coopération en matière de défense et au statut des forces",
+        "titrePrincipalCourt": "accord Papouasie Nouvelle Guinée défense"
+      },
+      "divisions": null,
+      "dossierRef": "DLR5L16N49392",
+      "redacteur": null,
+      "classification": {
+        "famille": {
+          "depot": {
+            "code": "INITDEP",
+            "libelle": "Initiative en 1er Dépôt"
+          },
+          "classe": {
+            "code": "PRJLOI",
+            "libelle": "Projet de loi"
+          },
+          "espece": {
+            "code": "AUTRATCONV",
+            "libelle": "autorisant la ratification d'une convention"
+          }
+        },
+        "type": {
+          "code": "ACIN",
+          "libelle": "Accord international"
+        },
+        "sousType": {
+          "code": "AUTRATCONV",
+          "libelle": "autorisant la ratification d'une convention",
+          "libelleEdition": "autorisant la ratification d'une convention"
+        },
+        "statutAdoption": null
+      },
+      "auteurs": {
+        "auteur": {
+          "acteur": {
+            "acteurRef": "PA722190",
+            "qualite": "auteur"
+          }
+        }
+      },
+      "correction": null,
+      "notice": {
+        "numNotice": "2159",
+        "formule": "autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de l’Etat indépendant de Papouasie-Nouvelle-Guinée relatif à la coopération en matière de défense et au statut des forces",
+        "adoptionConforme": "false"
+      },
+      "indexation": null,
+      "imprimerie": {
+        "ISSN": null,
+        "ISBN": null,
+        "DIAN": null,
+        "nbPage": "0",
+        "prix": null
+      }
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Dossiers_Legislatifs.json/json/document",
+  "directory_json_file_count": 6845,
+  "ignored_json_files_count": 6844,
+  "ignored_json_files_preview": [
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L16B2347.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L16B2442.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L16B2628.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L16B2654.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0535.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0536.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0566.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0567.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0621.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0847.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0942.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0944.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B0969.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B1028.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B1109.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B1110.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B1154.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B1257.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B1434.json",
+    "Dossiers_Legislatifs.json/json/document/ACINANR5L17B1450.json"
+  ]
+}

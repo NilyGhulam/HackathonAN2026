@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2442P0D1N000001",
+      "chronotag": "1772015305377",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2442P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2442",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841681",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 7
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Sother,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, Mme&#160;Dombre&#160;Coste, Mme&#160;Froger, Mme&#160;Godard, M.&#160;Guedj, M.&#160;Houli&#233;, Mme&#160;Runel et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2442.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "11",
+            "alineaDesignation": "Alinéa 11"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer l&#x2019;alin&#x00E9;a&nbsp;11.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; interdire l&#x2019;ajout de sucre dans&nbsp;les laits infantiles et les laits de croissance.</p><p style=\"text-align: justify;\">En effet, les laits infantiles et les laits de croissance font l&#x2019;objet par les industriels d&#x2019;ajouts de sucre parfois tr&#x00E8;s &#x00E9;lev&#x00E9;s&nbsp;:&nbsp;tel est le cas de Nestl&#x00E9; r&#x00E9;cemment.</p><p style=\"text-align: justify;\">Or l&#x2019;OMS appelle &#x00E0; limiter drastiquement l&#x2019;apport de sucre dans l&#x2019;alimentation des jeunes enfants, et m&#x00EA;me &#x00E0; bannir les sucres ajout&#x00E9;s dans la nourriture des nourrissons&nbsp;:&nbsp;</p><p style=\"text-align: justify;\"><i>&#x00AB;&nbsp;L&#x2019;OMS avertit qu&#x2019;une exposition pr&#x00E9;coce au sucre peut cr&#x00E9;er une pr&#x00E9;f&#x00E9;rence nocive pour les produits sucr&#x00E9;s qui durera tout au long de la vie, et augmente le risque de d&#x00E9;velopper des probl&#x00E8;mes de sant&#x00E9;, tels que l&#x2019;ob&#x00E9;sit&#x00E9; et d&#x2019;autres maladies chroniques associ&#x00E9;es&nbsp;&#x00BB;</i></p><p style=\"text-align: justify;\">C&#x2019;est la raison pour laquelle cet amendement &#x00E9;tend l&#x2019;interdiction d&#x2019;ajout de sucre&nbsp;dans les laits infantiles et les laits de croissance.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-13",
+        "datePublication": "2026-02-24",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-25T11:28:19+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2442P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442",
+  "directory_json_file_count": 31,
+  "ignored_json_files_count": 30,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53717/PIONANR5L17B2442/AMANR5L17PO420120B2442P0D1N000021.json"
+  ]
+}

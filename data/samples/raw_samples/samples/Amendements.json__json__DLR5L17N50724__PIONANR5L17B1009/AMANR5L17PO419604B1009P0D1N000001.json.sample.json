@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B1009P0D1N000001",
+      "chronotag": "1757947471195",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B1009P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1009",
+      "triAmendement": "eiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794058",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA794994",
+            "PA840979",
+            "PA793094",
+            {
+              "__truncated_items__": 2
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Gruet,  M.&#160;Portier, M.&#160;Le&#160;Fur, M.&#160;Ray, Mme&#160;Sylvie&#160;Bonnet et Mme&#160;Corneloup"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 3",
+          "articleDesignationCourte": "ART. 3",
+          "articleDesignation": "ARTICLE 3",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1009.asp#D_Article_3"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "20",
+            "alineaDesignation": "Alinéa 20"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00E9;tablissement&nbsp;&#x00BB;,</p><p style=\"text-align: justify;\">r&#x00E9;diger ainsi la fin de l&#x2019;alin&#x00E9;a&nbsp;20&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;ou&nbsp;par&nbsp;l&#x2019;utilisation d&#x2019;un service de communication au public en ligne, d&#x2019;un support num&#x00E9;rique ou &#x00E9;lectronique,&nbsp;sont passibles d&#x2019;une sanction disciplinaire lorsqu&#x2019;ils pr&#x00E9;sentent soit un lien suffisant avec l&#x2019;&#x00E9;tablissement soit avec les activit&#x00E9;s qu&#x2019;il organise ou qu&#x2019;il accueille.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\"><b>Dans un monde hyperconnect&#x00E9;, les groupes de messagerie priv&#x00E9;e li&#x00E9;s aux &#x00E9;tablissements scolaires&nbsp;&#x2013;&nbsp;souvent par classe, promotion ou via des associations&nbsp;&#x2013;&nbsp;deviennent des prolongements num&#x00E9;riques de la vie scolaire.&nbsp;</b></p><p style=\"text-align: justify;\">Lorsqu&#x2019;ils servent de cadre &#x00E0; des actes de harc&#x00E8;lement ou d&#x2019;autres comportements r&#x00E9;pr&#x00E9;hensibles, l&#x2019;&#x00E9;tablissement doit pouvoir&nbsp;intervenir.&nbsp;</p><p style=\"text-align: justify;\">Ignorer ces espaces reviendrait &#x00E0; nier une part importante de la r&#x00E9;alit&#x00E9; sociale des &#x00E9;l&#x00E8;ves et des &#x00E9;tudiants.</p><p style=\"text-align: justify;\">Inclure ces groupes dans le champ disciplinaire permettrait d&#x2019;aligner les responsabilit&#x00E9;s num&#x00E9;riques sur celles du cadre scolaire physique.&nbsp;</p><p style=\"text-align: justify;\">L&#x2019;&#x00C9;ducation nationale ne peut se permettre de fermer les yeux sur ces nouveaux lieux d&#x2019;interaction, au risque de banaliser les violences qui y naissent, les incitations &#x00E0; la haine ou encore les contenus pros&#x00E9;lytes non sollicit&#x00E9;s qui perturbent le bon d&#x00E9;roulement des &#x00E9;changes et la s&#x00E9;r&#x00E9;nit&#x00E9; au sein de la communaut&#x00E9; &#x00E9;ducative.&nbsp;</p><p style=\"text-align: justify;\">Qu&#x2019;il s&#x2019;agisse d&#x2019;un &#x00E9;v&#x00E9;nement directement organis&#x00E9; par l&#x2019;&#x00E9;tablissement ou d&#x2019;un groupe en ligne dont les membres participent &#x00E0; des activit&#x00E9;s li&#x00E9;es &#x00E0; cet &#x00E9;tablissement, la r&#x00E8;gle doit &#x00EA;tre claire.&nbsp;</p><p style=\"text-align: justify;\"><b>Sanctionner les comportements inappropri&#x00E9;s, y compris en ligne, c&#x2019;est affirmer une continuit&#x00E9; &#x00E9;ducative et prot&#x00E9;ger tous les membres de la communaut&#x00E9; scolaire.</b></p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-04-14",
+        "datePublication": "2025-04-30",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2025-04-30T12:45:19+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B1009P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009",
+  "directory_json_file_count": 106,
+  "ignored_json_files_count": 105,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17B1009/AMANR5L17PO419604B1009P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1907P0D1N000001",
+      "chronotag": "1761576793390",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1907P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B1907",
+      "triAmendement": "bbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaby",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA1567",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 65
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Guedj,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, Mme&#160;Dombre&#160;Coste, Mme&#160;Froger, Mme&#160;Godard, M.&#160;Houli&#233;, Mme&#160;Runel, M.&#160;Simion, M.&#160;Philippe&#160;Brun, Mme&#160;Allemand, M.&#160;Baptiste, M.&#160;Barusseau, Mme&#160;Battistel, M.&#160;Baumel, M.&#160;Belhaddad, M.&#160;Benbrahim, M.&#160;Bouloux, Mme&#160;Capdevielle, M.&#160;Christophle, M.&#160;Courbon, M.&#160;David, M.&#160;Delaporte, M.&#160;Delautrette, Mme&#160;Diop, M.&#160;Dufau, M.&#160;Echaniz, M.&#160;Eskenazi, M.&#160;Faure, M.&#160;F&#233;gn&#233;, M.&#160;Garot, M.&#160;Gokel, Mme&#160;Got, M.&#160;Emmanuel&#160;Gr&#233;goire, M.&#160;Hablot, Mme&#160;Hadizadeh, Mme&#160;Herouin-L&#233;autey, Mme&#160;C&#233;line&#160;Hervieu, M.&#160;Hollande, Mme&#160;Jourdan, Mme&#160;Karamanli, Mme&#160;Keloua&#160;Hachi, M.&#160;Leseul, M.&#160;Lhardit, Mme&#160;Mercier, M.&#160;Naillet, M.&#160;Oberti, Mme&#160;Pantel, M.&#160;Pena, Mme&#160;Pic, Mme&#160;Pir&#232;s&#160;Beaune, M.&#160;Potier, M.&#160;Pribetich, M.&#160;Proen&#231;a, Mme&#160;R&#233;calde, Mme&#160;Rossi, Mme&#160;Rouaux, M.&#160;Aur&#233;lien&#160;Rousseau, M.&#160;Roussel, M.&#160;Saint-Pasteur, Mme&#160;Santiago, M.&#160;Saulignac, M.&#160;Sother, Mme&#160;Thi&#233;bault-Martinez, Mme&#160;Thomin, M.&#160;Vallaud, M.&#160;Vicot et M.&#160;William"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 7",
+          "articleDesignationCourte": "APRÈS ART. 7",
+          "articleDesignation": "APRÈS L'ARTICLE 7, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1907.asp#D_Article_7"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">La section XVIII du chapitre III du titre premier de la premi&#x00E8;re partie du code g&#x00E9;n&#x00E9;ral des imp&#x00F4;ts est ainsi r&#x00E9;tablie&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Section XVIII</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Contribution additionnelle &#x00E0; la charge de certains &#x00E9;tablissements d&#x2019;h&#x00E9;bergement pour personnes &#x00E2;g&#x00E9;es d&#x00E9;pendantes priv&#x00E9;s &#x00E0; but lucratif</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;235&nbsp;</i>ter&nbsp;<i>ZB</i>.&nbsp;&#x2013;&nbsp;I.&nbsp;&#x2013;&nbsp;Les &#x00E9;tablissements d&#x2019;h&#x00E9;bergement pour personnes &#x00E2;g&#x00E9;es d&#x00E9;pendantes mentionn&#x00E9;s au&nbsp;I de l&#x2019;article&nbsp;L.&nbsp;313&#x2011;12 du code de l&#x2019;action sociale et des familles g&#x00E9;r&#x00E9;s par un organisme de droit priv&#x00E9; &#x00E0; but lucratif sont assujettis &#x00E0; une contribution additionnelle &#x00E0; l&#x2019;imp&#x00F4;t sur les soci&#x00E9;t&#x00E9;s dont le taux varie en fonction du niveau de leur rentabilit&#x00E9; financi&#x00E8;re.&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;La contribution additionnelle correspond &#x00E0; une fraction de cet imp&#x00F4;t calcul&#x00E9; sur leurs r&#x00E9;sultats imposables, aux taux mentionn&#x00E9;s &#x00E0; l&#x2019;article&nbsp;219 du pr&#x00E9;sent code, au titre du dernier exercice clos.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Elle est &#x00E9;gale &#x00E0; 20&nbsp;% de l&#x2019;imp&#x00F4;t sur les soci&#x00E9;t&#x00E9;s d&#x00FB;, d&#x00E9;termin&#x00E9; avant imputation des r&#x00E9;ductions et cr&#x00E9;dits d&#x2019;imp&#x00F4;t et des cr&#x00E9;ances fiscales de toute nature, lorsque le r&#x00E9;sultat net de l&#x2019;&#x00E9;tablissement est sup&#x00E9;rieur &#x00E0; 10&nbsp;% du montant des capitaux propres de l&#x2019;entreprise. Le taux est port&#x00E9; &#x00E0; 30&nbsp;% lorsque le r&#x00E9;sultat net est sup&#x00E9;rieur &#x00E0; 15&nbsp;% des capitaux propres.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Pour les redevables qui sont plac&#x00E9;s sous le r&#x00E9;gime pr&#x00E9;vu &#x00E0; l&#x2019;article&nbsp;223 A ou &#x00E0; l&#x2019;article&nbsp;223 A&nbsp;<i>bis</i>, la contribution est due par la soci&#x00E9;t&#x00E9; m&#x00E8;re. Elle est assise sur l&#x2019;imp&#x00F4;t sur les soci&#x00E9;t&#x00E9;s aff&#x00E9;rent au r&#x00E9;sultat d&#x2019;ensemble et &#x00E0… [truncated 864 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; cr&#x00E9;er une taxe sur les superprofits r&#x00E9;alis&#x00E9;s par les &#x00E9;tablissements d&#x2019;h&#x00E9;bergement pour personnes &#x00E2;g&#x00E9;es d&#x00E9;pendantes (EHPAD) priv&#x00E9;s &#x00E0; but lucratif.</p><p style=\"text-align: justify;\">La financiarisation dans le domaine de la sant&#x00E9;, en particulier dans le secteur des EHPAD, nous am&#x00E8;ne aujourd&#x2019;hui &#x00E0; constater les pires exc&#x00E8;s&nbsp;: gestion purement financi&#x00E8;re au d&#x00E9;triment de la qualit&#x00E9; des soins et du facteur humain, d&#x00E9;gradation des conditions de travail des soignantes et des soignants, hausse excessive des tarifs, etc. Le scandale ORPEA est d&#x2019;ailleurs particuli&#x00E8;rement r&#x00E9;v&#x00E9;lateur de ces graves abus.</p><p style=\"text-align: justify;\">Entre 1986 et 2015, si le nombre de places en &#x00E9;tablissements m&#x00E9;dico-sociaux m&#x00E9;dicalis&#x00E9;s s&#x2019;est accru de 85&nbsp;%, il s&#x2019;est accru de plus de 560&nbsp;% dans le secteur priv&#x00E9; lucratif&nbsp;!</p><p style=\"text-align: justify;\">Le secteur de la prise en charge des personnes &#x00E2;g&#x00E9;es, largement impact&#x00E9; par ce ph&#x00E9;nom&#x00E8;ne de financiarisation, est aujourd&#x2019;hui devenu un secteur &#x00E9;conomique porteur et particuli&#x00E8;rement lucratif pour certains. A cet &#x00E9;gard, les cinq plus grands groupes fran&#x00E7;ais sont, aujourd&#x2019;hui, d&#x00E9;tenus par des fonds de capital investissement.</p><p style=\"text-align: justify;\">Il convient aujourd&#x2019;hui de r&#x00E9;guler ces mastodontes financiers et de remettre la protection et la bonne prise en charge de nos plus &#x00E2;g&#x00E9;s au centre du jeu. Il est ainsi n&#x00E9;cessaire de mieux redistribuer les superprofits r&#x00E9;alis&#x00E9;s par ces acteurs. D&#x2019;autant plus que le mod&#x00E8;le &#x00E9;conomique des EHPAD repose en partie sur le versement de fonds publics, vers&#x00E9;s par les Agences r&#x00E9;gionales de sant&#x00E9; pour les soins et par les conseils d&#x00E9;partementaux pour la d&#x00E9;pendance.</p><p style=\"text-align: justify;\">Le produit de cette contribution additionnelle est affect&#x00E9; &#x00E0; la Caisse nationale de solidarit&#x00E9; pour l&#x2019;autonomie (CNSA).</p><p style=\"text-align: justify;\">*</p><p>Cet amendement s'inscrit en compl&#x00E9;ment des propositions budg&… [truncated 4813 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-10-15",
+        "datePublication": "2025-10-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-10-27T15:53:10+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1907P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "CGI",
+        "divisionCodeLoi": "235 ter ZB"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907",
+  "directory_json_file_count": 4464,
+  "ignored_json_files_count": 4463,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N52922/PRJLANR5L17B1907/AMANR5L17PO420120B1907P0D1N000022.json"
+  ]
+}

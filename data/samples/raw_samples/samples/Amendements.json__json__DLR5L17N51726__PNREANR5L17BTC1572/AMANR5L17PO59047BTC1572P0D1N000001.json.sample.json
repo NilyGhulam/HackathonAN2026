@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59047BTC1572P0D1N000001",
+      "chronotag": "1757950195887",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_AFETR",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59047BTC1572P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC1572",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA335612",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": "PA795876"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Lecoq et M.&#160;Rimane"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1572.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "19",
+            "alineaDesignation": "Après l'alinéa 19"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;19, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Invite le Gouvernement a&#x0300; proposer l&#x2019;extension de la Convention internationale de 1973 sur l&#x2019;e&#x0301;limination et la re&#x0301;pression du crime d&#x2019;apartheid a&#x0300; l&#x2019;apartheid de genre&nbsp;;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; faire &#x00E9;voluer le droit international pour prendre en compte l'apartheid de genre, ce que revendiquent des associations, organisations et personnes de la soci&#x00E9;t&#x00E9; civile. Qualifier ce type d'apartheid permet de mettre en exergue la pers&#x00E9;cution des femmes afin de la rendre plus visible pour qu'elle soit mieux prise en compte et combattue.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-07-04",
+        "datePublication": "2025-07-08",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-07-08T18:01:36+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59047BTC1572P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572",
+  "directory_json_file_count": 32,
+  "ignored_json_files_count": 31,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51726/PNREANR5L17BTC1572/AMANR5L17PO59047BTC1572P0D1N000021.json"
+  ]
+}

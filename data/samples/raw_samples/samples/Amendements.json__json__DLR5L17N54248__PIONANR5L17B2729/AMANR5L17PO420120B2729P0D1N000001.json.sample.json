@@ -1,0 +1,185 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54248/PIONANR5L17B2729/AMANR5L17PO420120B2729P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2729P0D1N000001",
+      "chronotag": "1780476736354",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2729P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2729",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA791824",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Legrain,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, Mme&#160;Bentorki, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 4",
+          "articleDesignationCourte": "ART. 4",
+          "articleDesignation": "ARTICLE 4",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2729.asp#D_Article_4"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "4",
+            "alineaDesignation": "Alinéa 4"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter l&#x2019;alin&#x00E9;a&nbsp;4 par les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;et aux organisations professionnelles repr&#x00E9;sentatives des secteurs concern&#x00E9;s&nbsp;&#x00BB;.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement d&#x2019;appel, le groupe La France insoumise souhaite rappeler l&#x2019;importance de consulter les organisations professionnelles, notamment syndicales de salari&#x00E9;s, repr&#x00E9;sentatives du spectacle vivant, du cin&#x00E9;ma et de l&#x2019;audiovisuel avant toute &#x00E9;volution des conditions d&#x2019;affiliation au r&#x00E9;gime des intermittents du spectacle, dans les territoires ultramarins comme dans l&#x2019;Hexagone.</p><p style=\"text-align: justify;\">Les syndicats alertent&nbsp;: le r&#x00E9;gime des intermittents du spectacle, cr&#x00E9;&#x00E9; en 1936 sous le Front Populaire, est de plus en plus fragilis&#x00E9;. En particulier, en f&#x00E9;vrier dernier, le MEDEF a propos&#x00E9; de durcir les r&#x00E8;gles et de relever &#x00E0; 557 le seuil d&#x2019;heures n&#x00E9;cessaires pour b&#x00E9;n&#x00E9;ficier de l&#x2019;assurance ch&#x00F4;mage dans le cadre du r&#x00E9;gime de l&#x2019;intermittence, entra&#x00EE;nant une forte mobilisation du secteur culturel. Selon les chiffres de l&#x2019;Un&#x00E9;dic, cette augmentation de 50 heures aurait fait sortir environ 10&nbsp;000 personnes du r&#x00E9;gime de l&#x2019;intermittence et 23&nbsp;000 autres auraient vu leurs droits d&#x00E9;cal&#x00E9;s de plusieurs mois. Selon la CGT Spectacle ce sont ainsi plus d&#x2019;1 artiste sur 3 qui ne pourraient pas ouvrir de droits &#x00E0; l&#x2019;annexe 10 et 1 technicien&#x00B7;e sur 6 &#x00E0; l&#x2019;annexe 8, soit au total 1 intermittent&#x00B7;e sur 4.</p><p style=\"text-align: justify;\">Le 16&nbsp;f&#x00E9;vrier&nbsp;2026, dans un courrier commun adress&#x00E9; au Premier Ministre, les organisations syndicales repr&#x00E9;sentatives des employeurs et des salari&#x00E9;s du spectacle vivant public exprimaient leur &#x00AB;&nbsp;inqui&#x00E9;tude majeure autour des annexes 8 et 10&nbsp;&#x00BB;, d&#x00E9;non&#x00E7;ant la demande du MEDEF &#x00AB;&nbsp;hors de tout cadrage&nbsp;&#x00BB; et rappelant que &#x00AB;&nbsp;ce r&#x00E9;gime n&#x2019;est pas un privil&#x00E8;ge&nbsp;: il est l&#x2019;architecture m&#x00EA;me de l&#x2019;&#x00E9;conomie du spectacle vivant. Le fragiliser dans une p&#x00E9;riode de contraction budg&#x00E9;taire et d&#x2019;effondrement de la diffusion reviendrait &#x00E0; d&#x00E9;stabiliser d&#x00E9;finitivement l&#x2019;emploi artistique et technique. Nous ne pouvons accepter que l&#x2019;intermittence devienne une variable d&#x2019;ajustement budg&#x00E9;taire. Nou… [truncated 2755 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-28",
+        "datePublication": "2026-06-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-06-03T10:52:14+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2729P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54248/PIONANR5L17B2729",
+  "directory_json_file_count": 5,
+  "ignored_json_files_count": 4,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54248/PIONANR5L17B2729/AMANR5L17PO420120B2729P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54248/PIONANR5L17B2729/AMANR5L17PO420120B2729P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54248/PIONANR5L17B2729/AMANR5L17PO420120B2729P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54248/PIONANR5L17B2729/AMANR5L17PO420120B2729P0D1N000005.json"
+  ]
+}

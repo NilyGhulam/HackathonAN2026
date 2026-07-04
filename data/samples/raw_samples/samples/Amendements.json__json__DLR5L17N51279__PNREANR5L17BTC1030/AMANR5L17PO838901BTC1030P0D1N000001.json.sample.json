@@ -1,0 +1,192 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1030P0D1N000001",
+      "chronotag": "1741891495776",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1030P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC1030",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841845",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Saint-Martin,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1030.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "2",
+            "alineaDesignation": "Après l'alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;2, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;<i>bis</i>&nbsp;D&#x2019;&#x00E9;valuer les effets potentiellement nocifs sur la sant&#x00E9; mentale des utilisateurs, notamment des mineurs, de l&#x2019;usage d&#x2019;interfaces truqu&#x00E9;es qui renforcent leur exposition &#x00E0; des contenus dangereux&nbsp;;&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement, le groupe LFI-NFP souhaite interroger plus fondamentalement un aspect essentiel de la lutte contre les effets psychologiques n&#x00E9;fastes induits par l&#x2019;usage des plateformes comme TikTok&nbsp;: leur mod&#x00E8;le &#x00E9;conomique fond&#x00E9; sur la captation de l&#x2019;attention, et dans lequel l&#x2019;usage des &#x00AB;&nbsp;darks patterns&nbsp;&#x00BB; (ou interfaces truqu&#x00E9;es) jouent un r&#x00F4;le pr&#x00E9;pond&#x00E9;rant.</p><p style=\"text-align: justify;\">Un &#x00AB;&nbsp;dark pattern&nbsp;&#x00BB; est une interface utilisateur qui a &#x00E9;t&#x00E9; volontairement con&#x00E7;ue pour tromper ou manipuler un utilisateur, en usant notamment des biais cognitifs. L&#x2019;objet d&#x2019;une &#x00AB;&nbsp;interface truqu&#x00E9;e&nbsp;&#x00BB; est d&#x2019;orienter l&#x2019;utilisateur vers des choix qu&#x2019;il n&#x2019;aurait probablement pas faits en connaissance de cause, et qui sont dans l&#x2019;int&#x00E9;r&#x00EA;t de la plateforme. Alors m&#x00EA;me que les plateformes utilisent d&#x00E9;j&#x00E0; des algorithmes de recommandation de plus en plus sophistiqu&#x00E9;s, capables de jouer avec les biais psychologiques des utilisateurs afin de proposer les contenus les plus &#x00AB;&nbsp;proches&nbsp;&#x00BB; des centres d&#x2019;int&#x00E9;r&#x00EA;ts de chacun de leurs utilisateurs et qui tend &#x00E0; les enfermer dans des &#x00AB;&nbsp;bulles de filtre&nbsp;&#x00BB; - des individus en difficult&#x00E9;s pouvant &#x00EA;tre enferm&#x00E9;s dans des &#x00AB;&nbsp;bulles de filtre&nbsp;&#x00BB; de contenus n&#x00E9;fastes pour leur sant&#x00E9; - la mise en place de nombreux &#x00E9;l&#x00E9;ments de &#x00AB;&nbsp;darks patterns&nbsp;&#x00BB; n&#x2019;a qu&#x2019;un seul but&nbsp;: retenir l&#x2019;attention des utilisateurs le plus longtemps possible (pour pouvoir vendre par exemple toujours plus d&#x2019;espaces publicitaires, qui repr&#x00E9;sentent l&#x2019;essentiel des recettes des plateformes num&#x00E9;riques).</p><p style=\"text-align: justify;\">TikTok utilise par exemple le &#x00AB;&nbsp;scroll infini&nbsp;&#x00BB; (ou d&#x00E9;filement infini) de la page. Son usage a tendance &#x00E0; faire augmenter le temps pass&#x00E9; sur l&#x2019;application&nbsp;: en effet, en utilisant le biais de cl&#x00F4;ture et le m&#x00E9;canisme de r&#x00E9;compenses al&#x00E9;atoire, il pousse l&#x2019;utilisateur &#x00E0; rester sur le service afin de d&#x00E9;couvrir, hypoth&#x00E9;t… [truncated 942 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-06",
+        "datePublication": "2025-03-10",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-03-13T19:44:51+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1030P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS29165",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030",
+  "directory_json_file_count": 18,
+  "ignored_json_files_count": 17,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51279/PNREANR5L17BTC1030/AMANR5L17PO838901BTC1030P0D1N000018.json"
+  ]
+}

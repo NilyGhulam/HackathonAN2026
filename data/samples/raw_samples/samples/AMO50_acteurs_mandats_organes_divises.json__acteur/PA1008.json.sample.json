@@ -1,0 +1,112 @@
+{
+  "source_file": "AMO50_acteurs_mandats_organes_divises.json/acteur/PA1008.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "acteur"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "acteur": {
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "uid": {
+        "@xsi:type": "IdActeur_type",
+        "#text": "PA1008"
+      },
+      "etatCivil": {
+        "ident": {
+          "civ": "M.",
+          "prenom": "Alain",
+          "nom": "David",
+          "alpha": "DavidA",
+          "trigramme": "ADA"
+        },
+        "infoNaissance": {
+          "dateNais": "1949-06-02",
+          "villeNais": "Libourne",
+          "depNais": "Gironde",
+          "paysNais": "France"
+        },
+        "dateDeces": null
+      },
+      "profession": {
+        "libelleCourant": "Ingénieur",
+        "socProcINSEE": {
+          "catSocPro": "Cadres d'entreprise",
+          "famSocPro": "Cadres et professions intellectuelles supérieures"
+        }
+      },
+      "uri_hatvp": null,
+      "adresses": {
+        "adresse": [
+          {
+            "@xsi:type": "AdressePostale_Type",
+            "uid": "AD719586",
+            "type": "0",
+            "typeLibelle": "Adresse officielle",
+            "poids": "1",
+            "adresseDeRattachement": null,
+            "intitule": "Assemblée nationale,",
+            "numeroRue": "126",
+            "nomRue": "Rue de l'Université,",
+            "complementAdresse": null,
+            "codePostal": "75355",
+            "ville": "Paris 07 SP"
+          },
+          {
+            "@xsi:type": "AdressePostale_Type",
+            "uid": "AD726542",
+            "type": "2",
+            "typeLibelle": "Adresse publiée de circonscription",
+            "poids": "22",
+            "adresseDeRattachement": null,
+            "intitule": "Permanence",
+            "numeroRue": "7",
+            "nomRue": "Avenue Roger Schwob",
+            "complementAdresse": null,
+            "codePostal": "33150",
+            "ville": "Cenon"
+          },
+          {
+            "@xsi:type": "AdresseTelephonique_Type",
+            "uid": "AD726544",
+            "type": "11",
+            "typeLibelle": "Téléphone",
+            "poids": "22",
+            "adresseDeRattachement": "AD726542",
+            "valElec": "07 88 44 06 75"
+          },
+          {
+            "__truncated_items__": 2
+          }
+        ]
+      }
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "AMO50_acteurs_mandats_organes_divises.json/acteur",
+  "directory_json_file_count": 577,
+  "ignored_json_files_count": 576,
+  "ignored_json_files_preview": [
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA1327.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA1567.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA1592.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA1630.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA1654.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA227089.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA266793.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA266797.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA266808.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267042.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267200.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267285.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267306.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267318.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267561.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267763.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267780.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA267794.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA2940.json",
+    "AMO50_acteurs_mandats_organes_divises.json/acteur/PA2952.json"
+  ]
+}

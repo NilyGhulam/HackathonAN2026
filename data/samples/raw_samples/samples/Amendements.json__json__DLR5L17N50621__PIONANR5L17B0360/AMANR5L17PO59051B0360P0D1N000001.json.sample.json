@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0360P0D1N000001",
+      "chronotag": "1739874676251",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0360P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0360",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA822617",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Froger"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0360.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le premier alin&#x00E9;a de l&#x2019;article&nbsp;222&#x2011;22 du code p&#x00E9;nal est remplac&#x00E9; par quatre alin&#x00E9;as ainsi r&#x00E9;dig&#x00E9;s&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Constitue une agression sexuelle toute atteinte sexuelle commise sans le consentement volontaire, libre et &#x00E9;clair&#x00E9; de la victime ou, dans les cas pr&#x00E9;vus par la loi, commise sur un mineur par un majeur.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Le consentement est donn&#x00E9; concomitamment &#x00E0; l&#x2019;acte sexuel&nbsp;; il peut &#x00EA;tre retir&#x00E9; &#x00E0; tout moment au cours de l&#x2019;acte.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Le consentement ne peut &#x00EA;tre pr&#x00E9;sum&#x00E9; du silence de la victime, de son absence de r&#x00E9;sistance physique ou verbale ou de son comportement sexuel pass&#x00E9;.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Le consentement est vici&#x00E9; s&#x2019;il est obtenu par violence, contrainte, menace ou surprise ou dans des circonstances ne permettant pas d&#x2019;&#x00E9;tablir la volont&#x00E9; libre et &#x00E9;clair&#x00E9;e de la victime, ou s&#x2019;il est obtenu en abusant de la vuln&#x00E9;rabilit&#x00E9; de la victime due notamment &#x00E0; la consommation d&#x2019;alcool, &#x00E0; la consommation de substances psychoactives, &#x00E0; son &#x00E9;tat de peur ou de sid&#x00E9;ration, &#x00E0; son &#x00E9;tat d&#x2019;inconscience ou &#x00E0; une d&#x00E9;ficience physique ou psychique.&nbsp;&#x00BB;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; inscrire le consentement dans la d&#x00E9;finition p&#x00E9;nale de toutes les agressions sexuelles, y compris le viol.</p><p style=\"text-align: justify;\">La nouvelle d&#x00E9;finition propos&#x00E9;e retient plusieurs principes&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">- Inscrire explicitement la n&#x00E9;cessit&#x00E9; d&#x2019;un consentement volontaire libre et &#x00E9;clair&#x00E9;, afin de mettre fin au flou de notre droit actuel qui fait presque peser sur les victimes&nbsp;une pr&#x00E9;somption de consentement.&nbsp;<br>- Rappeler que le consentement doit &#x00EA;tre obtenu au moment de l&#x2019;acte et peut toujours &#x00EA;tre retir&#x00E9;.<br>- Pr&#x00E9;voir que le consentement ne peut jamais &#x00EA;tre pr&#x00E9;sum&#x00E9; d&#x2019;un silence ou d&#x2019;une absence de r&#x00E9;sistance.<br>- Lister les cas o&#x00F9; le consentement est vici&#x00E9;&nbsp;: en plus des quatre &#x00E9;l&#x00E9;ments alternatifs&nbsp;d&#x00E9;j&#x00E0; pr&#x00E9;vus par la loi&nbsp;(violence, contrainte, menace ou surprise), sont ajout&#x00E9;s les cas o&#x00F9; l&#x2019;agresseur a abus&#x00E9; d&#x2019;une vuln&#x00E9;rabilit&#x00E9; de la victime (alcool, drogues, victime endormie ou inconsciente, etc.).</p><p style=\"text-align: justify;\">Cette d&#x00E9;finition vise &#x00E0; faire en sorte que notre loi p&#x00E9;nale soit enfin du c&#x00F4;t&#x00E9; des femmes victimes d&#x2019;agressions sexuelles.&nbsp;L&#x2019;objectif de cet amendement est aussi de faire avancer le d&#x00E9;bat parlementaire sur le sujet, il permet de mettre en &#x00E9;vidence certaines omissions dans la d&#x00E9;finition propos&#x00E9;e par les auteurs de la pr&#x00E9;sente proposition de loi.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-15",
+        "datePublication": "2024-11-20",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0360P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": "dc"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360",
+  "directory_json_file_count": 36,
+  "ignored_json_files_count": 35,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO59051B0360P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO838901B0360P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N50621/PIONANR5L17B0360/AMANR5L17PO838901B0360P0D1N000002.json"
+  ]
+}

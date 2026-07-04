@@ -1,0 +1,200 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0521P0D1N000001",
+      "chronotag": "1739874684457",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0521P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0521",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721442",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA794178",
+            "PA722390",
+            "PA642847",
+            {
+              "__truncated_items__": 2
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Petex,  M.&#160;Taite, Mme&#160;Corneloup, M.&#160;Bazin, Mme&#160;Bay et Mme&#160;Kremer"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "APRÈS ART. 2",
+          "articleDesignation": "APRÈS L'ARTICLE 2, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0521.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Afin de garantir l&#x2019;accessibilit&#x00E9; et l&#x2019;utilisation effective du &#x00AB;&nbsp;pass premiers secours en sant&#x00E9; mentale&nbsp;&#x00BB;, le Gouvernement met en place un programme national de sensibilisation &#x00E0; destination des &#x00E9;tablissements d&#x2019;enseignement secondaire et sup&#x00E9;rieur, des centres de formation et des employeurs pouvant accueillir des jeunes &#x00E2;g&#x00E9;s de seize &#x00E0; vingt-cinq ans.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; renforcer l&#x2019;efficacit&#x00E9; du &#x00AB;&nbsp;Pass Premiers secours en sant&#x00E9; mentale&nbsp;&#x00BB; en impliquant activement les &#x00E9;tablissements d&#x2019;enseignement, les centres de formation, et les employeurs accueillant des jeunes de 16 &#x00E0; 25 ans. Ces structures jouent un r&#x00F4;le cl&#x00E9; dans l&#x2019;information et l&#x2019;accompagnement des b&#x00E9;n&#x00E9;ficiaires potentiels.</p><p style=\"text-align: justify;\">Ce dispositif garantit une sensibilisation proactive des jeunes, en s&#x2019;appuyant sur les acteurs qui les accompagnent quotidiennement. En ciblant ces relais strat&#x00E9;giques, il maximise l&#x2019;impact du &#x00AB;&nbsp;Pass&nbsp;&#x00BB; et favorise son appropriation par un public plus large.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-22",
+        "datePublication": "2024-12-04",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2024-12-04T16:33:32+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0521P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "zdisp",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521",
+  "directory_json_file_count": 25,
+  "ignored_json_files_count": 24,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17B0521/AMANR5L17PO420120B0521P0D1N000021.json"
+  ]
+}

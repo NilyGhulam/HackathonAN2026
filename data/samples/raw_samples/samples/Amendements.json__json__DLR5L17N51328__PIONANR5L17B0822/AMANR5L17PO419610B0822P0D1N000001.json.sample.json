@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0822P0D1N000001",
+      "chronotag": "1739974886057",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0822P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0822",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA331973",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA607553",
+            "PA342415",
+            "PA841315",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Got,  M.&#160;Potier, Mme&#160;Battistel, M.&#160;Benbrahim, M.&#160;Echaniz, M.&#160;Lhardit, M.&#160;Naillet, Mme&#160;Rossi et Mme&#160;Thomin"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "APRÈS ART. UNIQUE",
+          "articleDesignation": "APRÈS L'ARTICLE UNIQUE, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0822.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Au premier alin&#x00E9;a de l&#x2019;article L.&nbsp;201&#x2011;4 du code rural et de la p&#x00EA;che maritime, apr&#x00E8;s le mot&nbsp;: &#x00AB;&nbsp;administrative&nbsp;&#x00BB; sont ins&#x00E9;r&#x00E9;s les mots&nbsp;: &#x00AB;&nbsp;, dans les meilleurs d&#x00E9;lais au regard de la situation sanitaire,&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe Socialistes et apparent&#x00E9;s vise, en cas de risques sanitaires li&#x00E9;s au d&#x00E9;veloppement d'une maladie v&#x00E9;g&#x00E9;tale, &#x00E0; faire en sorte que l'autorit&#x00E9; administrative soit tenue de prendre rapidement un arr&#x00EA;t&#x00E9; de restrictions dans une logique de pr&#x00E9;vention et de pr&#x00E9;servation du vignoble.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-14",
+        "datePublication": "2025-02-18",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-02-19T15:21:18+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0822P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c rural",
+        "divisionCodeLoi": "L201-4"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822",
+  "directory_json_file_count": 12,
+  "ignored_json_files_count": 11,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51328/PIONANR5L17B0822/AMANR5L17PO419610B0822P0D1N000012.json"
+  ]
+}

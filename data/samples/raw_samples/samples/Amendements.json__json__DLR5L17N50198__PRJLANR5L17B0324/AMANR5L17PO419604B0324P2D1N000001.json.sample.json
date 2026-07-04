@@ -1,0 +1,232 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B0324P2D1N000001",
+      "chronotag": "1739874568100",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "II-AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B0324P2D1",
+      "texteLegislatifRef": "PRJLANR5L17B0324",
+      "triAmendement": "abeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabhzzzzzzzx",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794658",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Fait"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "ÉTAT B",
+          "articleDesignationCourte": "ART. 42",
+          "articleDesignation": "ARTICLE 42",
+          "type": "ANNEXE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": "ARTICLE 42",
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0324C.asp#D_Etat_B"
+        },
+        "missionVisee": {
+          "codeEtat": "B",
+          "codeMissionMinefi": "CB",
+          "libelleMission": "Culture",
+          "missionRef": "2856"
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositifAmdtCreditPLF": {
+            "listeProgrammes": {
+              "programme": [
+                {
+                  "libelle": "Patrimoines",
+                  "programmeRef": "384896",
+                  "autorisationEngagement": "0",
+                  "creditPaiement": "0",
+                  "action": "modification",
+                  "lignesCredits": {
+                    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "@xsi:nil": "true"
+                  }
+                },
+                {
+                  "libelle": "Création",
+                  "programmeRef": "384898",
+                  "autorisationEngagement": "0",
+                  "creditPaiement": "0",
+                  "action": "modification",
+                  "lignesCredits": {
+                    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "@xsi:nil": "true"
+                  }
+                },
+                {
+                  "libelle": "Transmission des savoirs et démocratisation de la culture",
+                  "programmeRef": "384900",
+                  "autorisationEngagement": "500000",
+                  "creditPaiement": "500000",
+                  "action": "modification",
+                  "lignesCredits": {
+                    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "@xsi:nil": "true"
+                  }
+                },
+                {
+                  "__truncated_items__": 1
+                }
+              ]
+            },
+            "soldeAE": "0",
+            "soldeCP": "0",
+            "cpEgalAe": "true"
+          },
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le patrimoine vivant d&#x00E9;signe les pratiques, les expressions, les connaissances et les savoir-faire transmis d&#x2019;une g&#x00E9;n&#x00E9;ration &#x00E0; l&#x2019;autre qui sont recr&#x00E9;&#x00E9;s en permanence comme les chants, les rituels, les f&#x00EA;tes, les savoir-faire li&#x00E9;s &#x00E0; l&#x2019;artisanat traditionnel ou encore les connaissances li&#x00E9;es &#x00E0; la nature et &#x00E0; l&#x2019;univers. Les fanfares, harmonies, danses et jeux traditionnels font ainsi partie du patrimoine culturel immat&#x00E9;riel, aussi appel&#x00E9; patrimoine vivant.</p><p style=\"text-align: justify;\">Ces fanfares, harmonies, danses et jeux traditionnels sont l&#x2019;&#x00E2;me de notre Nation et repr&#x00E9;sentent une richesse inestimable, tant en m&#x00E9;tropole qu&#x2019;en Outre-mer. Ils sont le reflet de notre diversit&#x00E9; et un vecteur essentiel de lien social et de coh&#x00E9;sion interg&#x00E9;n&#x00E9;rationnelle. Au-del&#x00E0; de leur valeurs culturelles et historiques, ils jouent un r&#x00F4;le crucial particuli&#x00E8;rement dans les territoires ruraux.</p><p style=\"text-align: justify;\">Ces fanfares, harmonies, danses et jeux traditionnels sont souvent le c&#x0153;ur vibrant des f&#x00EA;tes locales, rassemblant toutes les g&#x00E9;n&#x00E9;rations autour d&#x2019;un patrimoine immat&#x00E9;riel commun. Ils sont une source in&#x00E9;puisable de joie, et de partage. Ils ont le pouvoir de combattre l&#x2019;isolement et de renforcer le sentiment d&#x2019;appartenance &#x00E0; un territoire.</p><p style=\"text-align: justify;\">Nous sommes chaque jour les t&#x00E9;moins de cette r&#x00E9;alit&#x00E9; au niveau local. Mais ces arts et traditions n&#x00E9;cessitent un soutien accru pour &#x00EA;tre pr&#x00E9;serv&#x00E9;es et transmises aux g&#x00E9;n&#x00E9;rations futures.</p><p style=\"text-align: justify;\">Comme l&#x2019;illustre le succ&#x00E8;s du Plan Fanfare pilot&#x00E9; par chaque Direction r&#x00E9;gionale des Affaires culturelles (DRAC), il est possible d&#x2019;agir efficacement. Mis en place pour la premi&#x00E8;re fois en 2021 dans le cadre du plan de relance, puis sanctuaris&#x00E9; par la Ministre de la Culture &#x00E0; hauteur de 1 million d&#x2019;euros au sein des projets de loi de finances pour 2022, 2023 et 2024, des centaines de projets locaux ont pu &#x00EA;tre soutenus en trois ann&#x00E9;es, sachant que pr&#x00E8;s de 50&nbsp;% des cr&#x00E9;dits ont &#x00E9;t&#x00E9; orient&#… [truncated 2406 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-10-15",
+        "datePublication": "2024-11-15",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2024-10-23T09:46:19+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B0324P2D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324",
+  "directory_json_file_count": 14499,
+  "ignored_json_files_count": 14498,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000002.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000003.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000004.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000005.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000006.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000007.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000008.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000009.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000010.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000011.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000012.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000013.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000014.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000015.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000016.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000017.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000018.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000019.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000020.json",
+    "Amendements.json/json/DLR5L17N50198/PRJLANR5L17B0324/AMANR5L17PO419604B0324P2D1N000021.json"
+  ]
+}

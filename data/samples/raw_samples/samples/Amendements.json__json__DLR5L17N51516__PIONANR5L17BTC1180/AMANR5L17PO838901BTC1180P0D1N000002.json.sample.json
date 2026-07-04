@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000002.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1180P0D1N000002",
+      "chronotag": "1757948008587",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "2",
+        "numeroOrdreDepot": "2",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1180P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1180",
+      "triAmendement": "kaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719286",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Colombani"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 4",
+          "articleDesignationCourte": "ART. 4",
+          "articleDesignation": "ARTICLE 4",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1180.asp#D_Article_4"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet article r&#x00E9;tablit l&#x2019;obligation de permanence des soins ambulatoires (PDSA). Or, une telle mesure appara&#x00EE;t inopportune, voire contre-productive, lorsque l&#x2019;on constate que 96&nbsp;% du territoire est d&#x00E9;j&#x00E0; couvert pour la PDSA. Ce r&#x00E9;sultat remarquable repose sur deux piliers&nbsp;: d&#x2019;une part, la responsabilit&#x00E9; collective des m&#x00E9;decins g&#x00E9;n&#x00E9;ralistes, qui assurent l&#x2019;acc&#x00E8;s aux soins en dehors des horaires d&#x2019;ouverture des cabinets&nbsp;; d&#x2019;autre part, l&#x2019;existence de textes r&#x00E9;glementaires permettant aux pr&#x00E9;fets de r&#x00E9;quisitionner un m&#x00E9;decin en cas de tableau de garde incomplet.</p><p style=\"text-align: justify;\">Contrairement aux chiffres avanc&#x00E9;s, la participation des m&#x00E9;decins g&#x00E9;n&#x00E9;ralistes &#x00E0; la PDSA ne s&#x2019;&#x00E9;l&#x00E8;ve pas &#x00E0; 38,1&nbsp;%, mais bien &#x00E0; 39,34&nbsp;%, comme l&#x2019;a d&#x00E9;montr&#x00E9; l&#x2019;enqu&#x00EA;te du Conseil National de l&#x2019;Ordre des M&#x00E9;decins (CNOM) en 2024. Si l&#x2019;on se concentre uniquement sur les m&#x00E9;decins traitants, plus de 8 sur 10 participent d&#x00E9;j&#x00E0; &#x00E0; cet effort collectif. Ce taux pourrait &#x00EA;tre encore am&#x00E9;lior&#x00E9; si les m&#x00E9;decins salari&#x00E9;s des centres de sant&#x00E9; y prenaient part, ce qui n&#x2019;est pas le cas aujourd&#x2019;hui. Leur absence de participation cr&#x00E9;e une in&#x00E9;galit&#x00E9; et rend l&#x2019;exercice lib&#x00E9;ral moins attractif, accentuant ainsi le d&#x00E9;s&#x00E9;quilibre entre les diff&#x00E9;rents modes d&#x2019;exercice.</p><p style=\"text-align: justify;\">D&#x00E8;s lors que la mission est remplie, pourquoi imposer une obligation qui risque de d&#x00E9;courager encore davantage les m&#x00E9;decins de s&#x2019;installer en lib&#x00E9;ral&nbsp;? Plut&#x00F4;t que de contraindre uniquement ces derniers, il serait plus pertinent de r&#x00E9;affirmer une responsabilit&#x00E9; collective des m&#x00E9;decins g&#x00E9;n&#x00E9;ralistes, qu&#x2019;ils soient lib&#x00E9;raux ou salari&#x00E9;s, afin d&#x2019;assurer la PDSA sur l&#x2019;ensemble du territoire. Cette mission devrait &#x00EA;tre encadr&#x00E9;e par les Conseils D&#x00E9;partementaux de l&#x2019;Ordre des M&#x00E9;decins (CDOM) en lien avec les Agences R&#x00E9;gionales de Sant&#x00E9; (ARS).</p><p style=\"text-align: justify;\">Si l… [truncated 478 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-26",
+        "datePublication": "2025-05-07",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-05-07T22:06:44+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1180P0D1N000002?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS29362",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "76850",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180",
+  "directory_json_file_count": 125,
+  "ignored_json_files_count": 124,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51516/PIONANR5L17BTC1180/AMANR5L17PO838901BTC1180P0D1N000022.json"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0633P0D1N000001",
+      "chronotag": "1739874712471",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0633P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0633",
+      "triAmendement": "qaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaboi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719922",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA794206",
+            "PA795722",
+            "PA643175"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Causse,  M.&#160;Marion, M.&#160;Olive et Mme&#160;Dupont"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 4",
+          "articleDesignationCourte": "APRÈS ART. 4",
+          "articleDesignation": "APRÈS L'ARTICLE 4, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0633.asp#D_Article_4"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I. &#x2013; La premi&#x00E8;re phrase du dernier alin&#x00E9;a de l&#x2019;article L.&nbsp;221&#x2011;9 du code de l&#x2019;&#x00E9;nergie est compl&#x00E9;t&#x00E9;e par les mots&nbsp;: &#x00AB;&nbsp;, le pourcentage d&#x2019;op&#x00E9;rations devant faire l&#x2019;objet d&#x2019;un contr&#x00F4;le vid&#x00E9;o &#x00E0; distance&nbsp;&#x00BB;.&nbsp;</p><p style=\"text-align: justify;\">II. &#x2013; Dans un d&#x00E9;lai d'un an &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, une exp&#x00E9;rimentation est men&#x00E9;e pour une p&#x00E9;riode d&#x2019;un an pour d&#x00E9;finir les modalit&#x00E9;s pr&#x00E9;cises du recours au contr&#x00F4;le vid&#x00E9;o &#x00E0; distance.</p><p style=\"text-align: justify;\">Au terme de cette exp&#x00E9;rimentation, le Gouvernement remet au Parlement un rapport d&#x2019;&#x00E9;valuation sur l&#x2019;efficacit&#x00E9; du dispositif.</p><p style=\"text-align: justify;\">&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement propose de reconna&#x00EE;tre le contr&#x00F4;le vid&#x00E9;o &#x00E0; distance comme moyen de lutte contre la fraude aux certificats d&#x2019;&#x00E9;conomies d&#x2019;&#x00E9;nergie. Par sa simplicit&#x00E9; de mise en &#x0153;uvre, sans sacrifier &#x00E0; la fiabilit&#x00E9;, et son caract&#x00E8;re &#x00E9;conomique, tant sur le plan humain que financier, le contr&#x00F4;le vid&#x00E9;o &#x00E0; distance permettrait de massifier le contr&#x00F4;le des travaux financ&#x00E9;s par les CEE.<br>&nbsp;<br>Il s&#x2019;agit de contr&#x00F4;ler un chantier &#x00E0; partir de photos ou de vid&#x00E9;os horodat&#x00E9;es et g&#x00E9;olocalis&#x00E9;es, judicieusement prises en fonction des points &#x00E0; contr&#x00F4;ler vis&#x00E9;s par le r&#x00E9;f&#x00E9;rentiel de contr&#x00F4;le et &#x00E0; des moments pr&#x00E9;cis lors de la r&#x00E9;alisation des chantiers. <br>&nbsp;<br>Le CVAD poss&#x00E8;de un panel d&#x2019;atouts ind&#x00E9;niables :<br>- Son prix est bien plus attractif, dans un ratio de 1 &#x00E0; 4, et permettrait donc de massifier les contr&#x00F4;les pour toucher un &#x00E9;chantillon plus repr&#x00E9;sentatif<br>- La conclusion du contr&#x00F4;le est connue tr&#x00E8;s rapidement &#x00E0; l&#x2019;issue du chantier, ce qui permet au professionnel ayant r&#x00E9;alis&#x00E9; les travaux de r&#x00E9;intervenir imm&#x00E9;diatement avant de quitter les lieux ou rapidement apr&#x00E8;s la fin du chantier sur la base des conseils communiqu&#x00E9;s par le contr&#x00F4;leur qui visualisent les photos/vid&#x00E9;os &#x00E0; distance. Il permet &#x00E9;galement au contr&#x00F4;leur de visualiser certains d&#x00E9;fauts qui ne sont plus visibles une fois le chantier achev&#x00E9; en int&#x00E9;grant dans le protocole des prises de vues en cours de travaux.<br>- Son impact carbone est consid&#x00E9;rablement r&#x00E9;duit par rapport au contr&#x00F4;le in situ (r&#x00E9;duction estim&#x00E9;e &#x00E0; 95%) puisque les contr&#x00F4;leurs n&#x2019;ont plus &#x00E0; se rendre sur le chantier<br>- Il permet une optimisation du travail du contr&#x00F4;leur qui peut viser 30 ou 40 fois plus de chantiers qu&#x2019;un contr&#x00F4;leur in situ. Ce recentrage du m&#x00E9;tier sur l&#x2019;expertise permettrait de faciliter le recrutement de sp&#x00E9;cialistes, ce qui augmenterait la qualit&#x00E9; d&#x2019;un contr&#x00F4;le et rassurerait les professionnels et les b&#x00E9;n&#x00E9;ficiaires.</p><p>Cet amendement est le fruit d'une exp&#x00… [truncated 93 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-28",
+        "datePublication": "2025-01-27",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2025-01-27T22:58:50+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0633P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS28899",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c énergie",
+        "divisionCodeLoi": "L221-9"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633",
+  "directory_json_file_count": 100,
+  "ignored_json_files_count": 99,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17BTC0633/AMANR5L17PO838901BTC0633P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2840P0D1N000001",
+      "chronotag": "1780506016457",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2840P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2840",
+      "triAmendement": "ooaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA330008",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA721410",
+            "PA608416",
+            "PA719968",
+            {
+              "__truncated_items__": 8
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Breton,  Mme&#160;Bonnivard, M.&#160;Hetzel, Mme&#160;Sylvie&#160;Bonnet, M.&#160;Cordier, M.&#160;Le&#160;Fur, M.&#160;Ray, M.&#160;Descoeur, Mme&#160;Fruchon, Mme&#160;de&#160;Maistre, M.&#160;Tryzna et Mme&#160;Corneloup"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 6",
+          "articleDesignationCourte": "ART. 6",
+          "articleDesignation": "ARTICLE 6",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2840.asp#D_Article_6"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "4",
+            "alineaDesignation": "Alinéa 4"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;4, substituer aux mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;soixante &nbsp;&#x00BB;&nbsp;</p><p style=\"text-align: justify;\">le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;trente&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Les experts judiciaires sont des collaborateurs essentiels mais souvent invisibles de la justice, intervenant dans les tribunaux, les services de police et de gendarmerie, les prisons et centres de d&#x00E9;tention, les centres de r&#x00E9;tention administrative, les h&#x00F4;pitaux, aupr&#x00E8;s des services d&#x2019;incendie et de secours, ainsi que dans les proc&#x00E9;dures d&#x2019;instruction judiciaire.</p><p>C'est une des seules cat&#x00E9;gories de collaborateurs de la justice devant &#x00EA;tre &#x00E0; la disposition totale des services de l&#x2019;&#x00C9;tat&nbsp;vingt-quatre heures sur vingt-quatre, sept jours sur sept.</p><p>Ils exercent des missions d&#x00E9;licates et parfois risqu&#x00E9;es aux c&#x00F4;t&#x00E9;s des autorit&#x00E9;s judiciaires, des officiers de police judiciaire, des magistrats, des agents de l&#x2019;administration p&#x00E9;nitentiaire et des forces de l&#x2019;ordre.</p><p>L'article 6 de la proposition de loi instaure un d&#x00E9;lai maximal de paiement de 180 jours pour les missions d&#x2019;expertise judiciaire.</p><p>Si cette disposition &#x00E9;tait adopt&#x00E9;e, seuls les collaborateurs occasionnels de la justice seraient soumis &#x00E0; un d&#x00E9;lai de paiement de 180 jours (six mois), alors que tous les autres prestataires de l&#x2019;&#x00C9;tat b&#x00E9;n&#x00E9;ficient des d&#x00E9;lais impos&#x00E9;s par la directive 2011/7/UE et sa transposition en droit fran&#x00E7;ais (Code de commerce, art. L.441-10).</p><p>Cette disposition cr&#x00E9;e une rupture d&#x2019;&#x00E9;galit&#x00E9; flagrante, p&#x00E9;nalisant une cat&#x00E9;gorie de collaborateurs de l&#x2019;&#x00C9;tat d&#x00E9;j&#x00E0; tr&#x00E8;s fragilis&#x00E9;e.</p><p>Cela aurait des cons&#x00E9;quences dramatiques : pr&#x00E9;carisation accrue, d&#x00E9;motivation, d&#x00E9;sengagement, difficult&#x00E9;s de tr&#x00E9;sorerie insurmontables, impossibilit&#x00E9; de planifier l&#x2019;activit&#x00E9;, et risques majeurs pour la continuit&#x00E9; du service public de la justice.</p><p>Aussi, il&nbsp;semble l&#x00E9;gitime d'instaurer un d&#x00E9;lai maximal de paiement de 30 jours pour les experts judiciaires.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-28",
+        "datePublication": "2026-06-02",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-03T19:00:11+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2840P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30662",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "38981",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "90805",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840",
+  "directory_json_file_count": 63,
+  "ignored_json_files_count": 62,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N53159/PIONANR5L17BTC2840/AMANR5L17PO838901BTC2840P0D1N000022.json"
+  ]
+}

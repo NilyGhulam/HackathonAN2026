@@ -1,0 +1,207 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0703P0D1N000001",
+      "chronotag": "1739874714996",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0703P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0703",
+      "triAmendement": "daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721442",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA718884",
+            "PA842117",
+            "PA608826",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Petex,  Mme&#160;Bazin-Malgras, M.&#160;Jeanbrun, Mme&#160;Duby-Muller, M.&#160;Fabrice&#160;Brun, Mme&#160;Sylvie&#160;Bonnet, M.&#160;Boucard, M.&#160;Forissier, M.&#160;Bony et Mme&#160;Corneloup"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0703.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;&#x00C0; la deuxi&#x00E8;me phrase de l&#x2019;alin&#x00E9;a&nbsp;1, substituer aux deux premi&#x00E8;res occurrences du mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;et&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">le signe&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, &#x00E0; la m&#x00EA;me deuxi&#x00E8;me phrase du m&#x00EA;me alin&#x00E9;a 1, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;sup&#x00E9;rieur&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;, les centres de formation&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; renforcer l'efficacit&#x00E9; du \"Pass Premiers Secours en sant&#x00E9; mentale\" en int&#x00E9;grant les centres de formation. Ces structures jouent un r&#x00F4;le cl&#x00E9; dans la pr&#x00E9;vention et l'information aupr&#x00E8;s des jeunes.</p><p>Ce dispositif garantit une sensibilisation proactive des jeunes, en s'appuyant sur les acteurs fondamentaux&nbsp;qui les accompagnent tout au long de leur parcours. En ciblant les centres de formation, l'impact de ce dispositif est maximis&#x00E9; et permet de favoriser son appropriation.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-06",
+        "datePublication": "2025-01-22",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0703P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "2",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703",
+  "directory_json_file_count": 18,
+  "ignored_json_files_count": 17,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50781/PIONANR5L17BTC0703/AMANR5L17PO838901BTC0703P0D1N000018.json"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2119P0D1N000001",
+      "chronotag": "1765395112268",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2119P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2119",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795240",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA720838",
+            "PA794710",
+            "PA796106",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Reid&#160;Arbelot,  Mme&#160;Bourouaha, M.&#160;Brugerolles, M.&#160;B&#233;nard, M.&#160;Castor, Mme&#160;Faucillon, Mme&#160;K/Bidi, Mme&#160;Lebon, M.&#160;Lecoq, M.&#160;Maillot, M.&#160;Maurel, M.&#160;Monnet, M.&#160;Nadeau, M.&#160;Peu, M.&#160;Rimane, M.&#160;Sansu et M.&#160;Tjibaou"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2119.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer l'alin&#x00E9;a 2.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Les articles 34 et 37 de la Constitution consacrent le principe fondamental de la hi&#x00E9;rarchie des normes, selon lequel toute norme &#x00E9;dict&#x00E9;e par une autorit&#x00E9; inf&#x00E9;rieure doit &#x00EA;tre conforme &#x00E0; celle &#x00E9;manant d&#x2019;une autorit&#x00E9; sup&#x00E9;rieure. Ce principe garantit la coh&#x00E9;rence et la s&#x00E9;curit&#x00E9; juridique de l&#x2019;ordre normatif fran&#x00E7;ais. Permettre &#x00E0; une commune d&#x2019;y d&#x00E9;roger, m&#x00EA;me indirectement, constituerait une source de confusion et d&#x2019;ins&#x00E9;curit&#x00E9; juridique, mais surtout un risque de contrari&#x00E9;t&#x00E9; avec la Constitution. Toute loi organique &#x00E9;tant soumise au contr&#x00F4;le syst&#x00E9;matique du Conseil constitutionnel, une telle disposition pourrait tr&#x00E8;s probablement &#x00EA;tre censur&#x00E9;e.</p><p>Les lois du pays, en Polyn&#x00E9;sie fran&#x00E7;aise, interviennent dans des domaines relevant soit du l&#x00E9;gislateur (article 34 de la Constitution), soit du pouvoir r&#x00E9;glementaire (article 37). Ces textes ont une valeur juridique sup&#x00E9;rieure aux actes pris par les communes, qui demeurent tenues de respecter les r&#x00E8;gles nationales et territoriales en vigueur, conform&#x00E9;ment au code des communes. D&#x00E8;s lors, il ne saurait &#x00EA;tre envisag&#x00E9; de remettre en cause le principe constitutionnel de la hi&#x00E9;rarchie des normes par le biais de cette proposition de loi organique (PPLO).</p><p>Certes, le second paragraphe de la PPLO mentionne que l&#x2019;action des communes doit s&#x2019;exercer &#x00AB; dans le respect de la r&#x00E9;glementation &#x00E9;dict&#x00E9;e par la Polyn&#x00E9;sie fran&#x00E7;aise &#x00BB;. Cependant, la suppression du premier alin&#x00E9;a de l&#x2019;article 43-II de la loi organique soul&#x00E8;ve une v&#x00E9;ritable ambigu&#x00EF;t&#x00E9; : l&#x2019;absence explicite de r&#x00E9;f&#x00E9;rence aux lois du pays affaiblit la clart&#x00E9; du dispositif et pourrait &#x00EA;tre interpr&#x00E9;t&#x00E9;e comme une volont&#x00E9; de soustraire certaines d&#x00E9;cisions communales &#x00E0; la hi&#x00E9;rarchie juridique en vigueur.</p><p>Il appara&#x00EE;t donc n&#x00E9;cessaire, pour garantir la coh&#x00E9;rence du cadre institutionnel et la conformit&#x00E9; constitutionnelle du texte, de maintenir une r&#x00E9;f&#x00E9;rence explicite aux lois du pays dans la r&#x00E9;daction de l&#x2019;article concern&#x00E9;. Cela permettrait … [truncated 339 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-12-03",
+        "datePublication": "2025-12-09",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-12-10T20:31:39+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2119P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30041",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "0",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "85477",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119",
+  "directory_json_file_count": 11,
+  "ignored_json_files_count": 10,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51173/PIONANR5L17BTC2119/AMANR5L17PO838901BTC2119P0D1N000011.json"
+  ]
+}

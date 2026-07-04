@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1190P0D1N000001",
+      "chronotag": "1743516867679",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1190P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1190",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721896",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795998",
+            "PA720838",
+            "PA796106",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Faucillon,  Mme&#160;K/Bidi, Mme&#160;Bourouaha, M.&#160;B&#233;nard, M.&#160;Castor, M.&#160;Chassaigne, Mme&#160;Lebon, M.&#160;Lecoq, M.&#160;Maillot, M.&#160;Maurel, M.&#160;Monnet, M.&#160;Nadeau, M.&#160;Peu, Mme&#160;Reid&#160;Arbelot, M.&#160;Rimane, M.&#160;Sansu et M.&#160;Tjibaou"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1190.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement supprime l'article 1 de la pr&#x00E9;sente proposition de loi qui vise &#x00E0; doubler l&#x2019;amende forfaitaire d&#x00E9;lictuelle due en cas d&#x2019;installation sans titre et&nbsp;pr&#x00E9;voir la saisie, de mani&#x00E8;re syst&#x00E9;matique, des v&#x00E9;hicules automobiles ayant permis l&#x2019;installation sans titre.</p><p>Les r&#x00E9;dacteurs de cet amendement consid&#x00E8;rent que cette mesure&nbsp;inique s'inscrit dans une&nbsp; volont&#x00E9; de durcissement continu de la l&#x00E9;gislation anti-voyageurs.</p><p>Cet article ne traite pas la p&#x00E9;nurie de places de stationnement licites.&nbsp;Plus de vingt ans apr&#x00E8;s l'entr&#x00E9;e en vigueur de la loi Besson II,&nbsp;ses obligations ne sont toujours pas respect&#x00E9;es. Selon le dernier bilan officiel de 2020, seulement 77 % des places prescrites par les sch&#x00E9;mas d&#x00E9;partementaux &#x00E9;taient r&#x00E9;alis&#x00E9;es et 22 d&#x00E9;partements avaient totalement rempli leurs obligations. L&#x2019;atteinte des objectifs d&#x2019;accueil varie &#x00E9;galement selon le type d&#x2019;accueil. En 2023, elle &#x00E9;tait de 80,1% pour les aires d&#x2019;accueil permanentes, 62,2% pour les aires de grand passage et 21,3% pour les terrains familiaux. Par ailleurs, la mise en &#x0153;uvre du pouvoir de substitution du pr&#x00E9;fet en cas de non-respect est une modalit&#x00E9; &#x00E0; laquelle il n&#x2019;a &#x00E9;t&#x00E9; fait recours qu&#x2019;une seule fois depuis l&#x2019;ann&#x00E9;e 2000.&nbsp;</p><p>Cette mesure r&#x00E9;pressive en plus d'&#x00EA;tre dangereuse s'av&#x00E8;re donc &#x00EA;tre inutile.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-28",
+        "datePublication": "2025-03-31",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1190P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "76874",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190",
+  "directory_json_file_count": 115,
+  "ignored_json_files_count": 114,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51455/PIONANR5L17BTC1190/AMANR5L17PO838901BTC1190P0D1N000021.json"
+  ]
+}

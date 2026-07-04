@@ -1,0 +1,182 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2807P0D1N000001",
+      "chronotag": "1779291568538",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2807P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2807",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795176",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Metzdorf"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2807.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Le I de l&#x2019;article&nbsp;188 de la loi organique n&#x00B0;&nbsp;99&#x2011;209 du&nbsp;19&nbsp;mars&nbsp;1999 relative &#x00E0; la Nouvelle-Cal&#x00E9;donie est compl&#x00E9;t&#x00E9; par un <i>e</i> ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>e)</i> &#x00CA;tre inscrit sur la liste &#x00E9;lectorale g&#x00E9;n&#x00E9;rale et &#x00EA;tre le p&#x00E8;re ou la m&#x00E8;re d&#x2019;une personne n&#x00E9;e en Nouvelle-Cal&#x00E9;donie.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;int&#x00E9;gration des natifs cal&#x00E9;doniens au corps &#x00E9;lectoral sp&#x00E9;cial est une mesure de justice &#x00E9;l&#x00E9;mentaire.&nbsp;</p><p>Toutefois, l'application stricte et restrictive de cette mesure par le texte gouvernemental cr&#x00E9;e une rupture d&#x2019;&#x00E9;galit&#x00E9; caract&#x00E9;ris&#x00E9;e et inacceptable au sein de la cellule familiale : il est institutionnellement, juridiquement et moralement incoh&#x00E9;rent qu'un enfant n&#x00E9; sur le territoire dispose du droit de vote aux &#x00E9;lections provinciales, tandis que ses propres parents, qui l'y &#x00E9;l&#x00E8;vent, y investissent et y vivent depuis des d&#x00E9;cennies, en soient d&#x00E9;lib&#x00E9;r&#x00E9;ment exclus.</p><p>Cette scission politique des foyers cal&#x00E9;doniens viole des principes juridiques fondamentaux :</p><p>- Le principe constitutionnel et conventionnel d'unit&#x00E9; de la famille : Le dixi&#x00E8;me alin&#x00E9;a du Pr&#x00E9;ambule de la Constitution de 1946 dispose que &#x00AB; La Nation assure &#x00E0; l'individu et &#x00E0; la famille les conditions n&#x00E9;cessaires &#x00E0; leur d&#x00E9;veloppement &#x00BB;.&nbsp;De m&#x00EA;me, l'article 8 de la Convention europ&#x00E9;enne des droits de l'homme (CEDH) prot&#x00E8;ge le droit au respect de la vie priv&#x00E9;e et familiale.&nbsp;</p><p>Cr&#x00E9;er une s&#x00E9;gr&#x00E9;gation civique entre parents et enfants au sein d&#x2019;un m&#x00EA;me domicile rompt directement cette obligation de sauvegarde de l'unit&#x00E9; familiale.<br><br></p><p>- En droit r&#x00E9;publicain, le lien de filiation avec un b&#x00E9;n&#x00E9;ficiaire du droit du sol ou de la nationalit&#x00E9; emporte des droits protecteurs imm&#x00E9;diats pour les ascendants.&nbsp;</p><p>L'article L. 423-7 du CESEDA accorde ainsi de plein droit un titre de s&#x00E9;jour au parent &#x00E9;tranger d'un enfant fran&#x00E7;ais. De plus, l'article 21-13-1 du Code civil permet aux ascendants directs de r&#x00E9;clamer la nationalit&#x00E9; fran&#x00E7;aise.&nbsp;</p><p>Il est juridiquement insoutenable que la l&#x00E9;gislation fran&#x00E7;aise se montre plus protectrice de l'unit&#x00E9; familiale des ressortissants &#x00E9;trangers en m&#x00E9;tropole qu'elle ne l'est pour ses propres citoyens fran&#x00E7;ais en Nouvelle-Cal&#x00E9;donie.<br><br></p><p>Le pr&#x00E9;sent amendement r&#x00E9;pare cette anomalie majeure en int&#x00E9;grant les parents des natifs au corps &#x00E9;lectoral provincial, garantissa… [truncated 306 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-19",
+        "datePublication": "2026-05-20",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-20T17:39:03+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2807P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30603",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "L 99-209 Nv C",
+        "divisionCodeLoi": "188"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807",
+  "directory_json_file_count": 15,
+  "ignored_json_files_count": 14,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17BTC2807/AMANR5L17PO838901BTC2807P0D1N000015.json"
+  ]
+}

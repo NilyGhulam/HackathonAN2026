@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2816P0D1N000001",
+      "chronotag": "1779981612788",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2816P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2816",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaagi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794008",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 33
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Chatelain,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, M.&#160;Roum&#233;gas, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2816.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;2, substituer au taux&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;20&nbsp;%&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">le taux&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;30&nbsp;%&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe Ecologiste et social vise &#x00E0; maintenir &#x00E0; 30% du prix d&#x2019;acquisition le seuil minimal de travaux ouvrant droit au dispositif fiscal du bailleur priv&#x00E9; dans l&#x2019;ancien.</p><p>L'article assouplit excessivement les conditions d&#x2019;acc&#x00E8;s au dispositif, au risque de soutenir des r&#x00E9;novations peu ambitieuses sans garanties suffisantes sur la qualit&#x00E9; des logements concern&#x00E9;s. L&#x2019;abaissement du seuil minimal de travaux &#x00E0; 20 % pourrait conduire &#x00E0; financer des op&#x00E9;rations limit&#x00E9;es, sans am&#x00E9;lioration r&#x00E9;elle de la qualit&#x00E9; &#x00E9;nerg&#x00E9;tique des logements, tout en ouvrant droit &#x00E0; un avantage fiscal important. Si la nouvelle r&#x00E9;daction introduite en commission a ajout&#x00E9; une condition de gain de classes &#x00E9;nerg&#x00E9;tiques, celle-ci ne suffit pas&nbsp;&#x00E0; compenser l&#x2019;affaiblissement du niveau minimal d&#x2019;investissement exig&#x00E9; dans les travaux.</p><p>Le groupe Ecologiste et social rappelle que les dispositifs de soutien &#x00E0; l&#x2019;investissement locatif doivent &#x00EA;tre strictement encadr&#x00E9;s et conditionn&#x00E9;s &#x00E0; de v&#x00E9;ritables contreparties sociales et environnementales. &#x00C0; d&#x00E9;faut, ils risquent de reproduire les effets d&#x2019;aubaine observ&#x00E9;s avec certains dispositifs ant&#x00E9;rieurs, comme le Pinel, dont le co&#x00FB;t budg&#x00E9;taire &#x00E9;lev&#x00E9; et l&#x2019;efficacit&#x00E9; limit&#x00E9;e ont notamment &#x00E9;t&#x00E9; soulign&#x00E9;s par la Cour des comptes en 2024.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-21",
+        "datePublication": "2026-05-27",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-05-28T17:19:58+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2816P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30672",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "38889",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "90675",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816",
+  "directory_json_file_count": 88,
+  "ignored_json_files_count": 87,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N54144/PIONANR5L17BTC2816/AMANR5L17PO838901BTC2816P0D1N000022.json"
+  ]
+}

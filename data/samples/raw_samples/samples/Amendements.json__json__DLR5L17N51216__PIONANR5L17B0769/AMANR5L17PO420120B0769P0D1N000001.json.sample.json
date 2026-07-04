@@ -1,0 +1,200 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0769P0D1N000001",
+      "chronotag": "1739874709735",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0769P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0769",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841419",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 31
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Damien&#160;Girard,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0769.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai d&#x2019;un an &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport sur l&#x2019;opportunit&#x00E9; d&#x2019;une r&#x00E9;vision&nbsp;:</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;Des modalit&#x00E9;s d&#x2019;information et de consultation du comit&#x00E9; social et &#x00E9;conomique dans le cadre de l&#x2019;&#x00E9;laboration et de la mise en &#x0153;uvre d&#x2019;un projet de licenciement collectif pour motif &#x00E9;conomique&nbsp;;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;Des dispositions encadrant la recherche d&#x2019;un repreneur dans l&#x2019;hypoth&#x00E8;se d&#x2019;une fermeture d&#x2019;&#x00E9;tablissement.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Aujourd&#x2019;hui les d&#x00E9;lais pour chercher un repreneur sont, de l&#x2019;avis des organisations syndicales, trop courts. La loi Florange fixe ce d&#x00E9;lai &#x00E0; deux &#x00E0; quatre mois, ce qui n&#x2019;est pas suffisant pour trouver un repreneur pour des entreprises dans des situations &#x00E9;conomiques parfois tr&#x00E8;s fragiles.</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">Dans 90&nbsp;% des cas, la recherche du repreneur se fait concomitamment &#x00E0; la n&#x00E9;gociation du PSE et cela pose un probl&#x00E8;me de temporalit&#x00E9; non n&#x00E9;gligeable.</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">Cet amendement propose donc que soit remis au Parlement un rapport permettant d&#x2019;&#x00E9;clairer cette question de la dur&#x00E9;e de recherche d&#x2019;un repreneur.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-05",
+        "datePublication": "2025-02-12",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-02-12T10:40:53+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0769P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "zzz",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769",
+  "directory_json_file_count": 29,
+  "ignored_json_files_count": 28,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51216/PIONANR5L17B0769/AMANR5L17PO420120B0769P0D1N000021.json"
+  ]
+}

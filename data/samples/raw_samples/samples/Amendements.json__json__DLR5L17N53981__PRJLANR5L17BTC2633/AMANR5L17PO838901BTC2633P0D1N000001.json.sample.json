@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2633P0D1N000001",
+      "chronotag": "1776361081720",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2633P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2633",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793174",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA774962",
+            "PA720838",
+            "PA794710",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Monnet,  Mme&#160;Lebon, Mme&#160;Bourouaha, M.&#160;Brugerolles, M.&#160;B&#233;nard, M.&#160;Castor, Mme&#160;Faucillon, Mme&#160;K/Bidi, M.&#160;Lecoq, M.&#160;Maillot, M.&#160;Maurel, M.&#160;Nadeau, M.&#160;Peu, Mme&#160;Reid&#160;Arbelot, M.&#160;Rimane, M.&#160;Sansu et M.&#160;Tjibaou"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2633.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">L&#x2019;article unique du pr&#x00E9;sent projet de loi introduit une nouvelle modulation&nbsp;de la dur&#x00E9;e d&#x2019;indemnisation de l&#x2019;assurance ch&#x00F4;mage, cette fois-ci en fonction du motif de rupture du contrat de travail. Or, sanctionner les salari&#x00E9;s sur le seul motif que leur contrat a pris fin par une rupture conventionnelle, en r&#x00E9;duisant jusqu&#x2019;&#x00E0; 6,5 mois leurs droits &#x00E0; l&#x2019;allocation ch&#x00F4;mage, constitue d&#x2019;une part une rupture d&#x2019;&#x00E9;galit&#x00E9; de traitement avec l&#x2019;ensemble des allocataires et d&#x2019;autre part, une r&#x00E9;orientation de la rupture conventionnelle &#x00E0; l&#x2019;avantage exclusif des seuls employeurs. En effet, le contournement du licenciement par les employeurs n&#x2019;est ici pas remis en cause. En outre, les salari&#x00E9;s les plus &#x00E2;g&#x00E9;s sont les plus durement p&#x00E9;nalis&#x00E9;s alors m&#x00EA;me qu&#x2019;ils sont parmi ceux rencontrant les plus grandes difficult&#x00E9;s du maintien dans l&#x2019;emploi et du retour &#x00E0; l&#x2019;emploi. Enfin, les &#x00E9;conomies escompt&#x00E9;es, support&#x00E9;es par les seuls allocataires, reposent sur une appr&#x00E9;ciation volontairement fauss&#x00E9;e du d&#x00E9;ficit de l&#x2019;Un&#x00E9;dic&nbsp;; en effet, la trajectoire &#x00E9;conomique de l&#x2019;assurance ch&#x00F4;mage souffre non pas de suppos&#x00E9;es d&#x00E9;rives ou &#x00AB;&nbsp;abus&nbsp;&#x00BB; dans le recours &#x00E0; la rupture conventionnelle, mais des d&#x00E9;cisions &#x00E9;tatiques comme suffit &#x00E0; le d&#x00E9;montrer le dernier rapport financier de l&#x2019;Un&#x00E9;dic&nbsp;:&nbsp;sans les pr&#x00E9;l&#x00E8;vements de l&#x2019;&#x00C9;tat, le solde du r&#x00E9;gime aurait &#x00E9;t&#x00E9; de +2,0 Md&#x20AC; en 2026.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-09",
+        "datePublication": "2026-04-14",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-04-16T19:37:36+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2633P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30490",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "89501",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633",
+  "directory_json_file_count": 72,
+  "ignored_json_files_count": 71,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2633/AMANR5L17PO838901BTC2633P0D1N000021.json"
+  ]
+}

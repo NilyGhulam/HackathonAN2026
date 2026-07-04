@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0771P0D1N000001",
+      "chronotag": "1739874721131",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0771P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0771",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaj",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA718784",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642847",
+            "PA722390",
+            "PA774954",
+            {
+              "__truncated_items__": 4
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Pauget,  M.&#160;Bazin, Mme&#160;Corneloup, Mme&#160;Blin, M.&#160;Brigand, M.&#160;Portier, M.&#160;Boucard et M.&#160;Di&#160;Filippo"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0771.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le contr&#x00F4;le de l&#x2019;immigration est un enjeu majeur pour l&#x2019;avenir de notre pays.</p><p>Notre syst&#x00E8;me d&#x2019;accueil est &#x00E0; bout de souffle et il est imp&#x00E9;ratif d&#x2019;agir pour reprendre le contr&#x00F4;le de notre destin en mati&#x00E8;re migratoire&nbsp;et mettre le frein d&#x2019;urgence.</p><p>J&#x2019;estime qu&#x2019;il faut adresser aujourd&#x2019;hui un signal clair aux trois quart des Fran&#x00E7;ais qui consid&#x00E8;rent &#x00E0; juste titre que les flux migratoires ne sont pas maitris&#x00E9;s</p><p>Or la proposition de loi que nous examinons, en facilitant des demandeurs d&#x2019;asile au march&#x00E9; du travail, organise l&#x2019;impuissance publique et rend encore plus inexpulsables les demandeurs d&#x2019;asile qui seront d&#x00E9;bout&#x00E9;s en leur permettant de travailler d&#x00E8;s le d&#x00E9;p&#x00F4;t de leur demande.</p><p>De plus, le texte cr&#x00E9;e un nouvel appel d&#x2019;air migratoire qui, contrairement &#x00E0; ce qui est pr&#x00E9;tendu dans l&#x2019;expos&#x00E9; des motifs n&#x2019;est pas un mythe : en 2023, pr&#x00E8;s de 142 500 demandes de protection internationale ont &#x00E9;t&#x00E9; introduites &#x00E0; l&#x2019;Ofpra, toutes proc&#x00E9;dures confondues. Parmi elles, on d&#x00E9;nombre quelque 123 400 premi&#x00E8;res demandes d&#x2019;asile et pr&#x00E8;s de 470 demandes de statut d&#x2019;apatride. En augmentation de 8,6 % par rapport &#x00E0; 2022.&nbsp;</p><p>Parce que la France n&#x2019;est pas un eldorado, et parce que je pr&#x00E9;f&#x00E8;rerai toujours une immigration de travail, qualifi&#x00E9;e et choisie, il est imp&#x00E9;ratif aujourd&#x2019;hui de couper les pompes aspirantes que cette proposition de loi amorce et alimente. Il porte atteinte &#x00E0; la coh&#x00E9;sion du pays et ne r&#x00E9;pond pas &#x00E0; la question majeure : quid&nbsp;du traitement des d&#x00E9;bout&#x00E9;s ? Si ce texte est adopt&#x00E9; et appliqu&#x00E9; nous n&#x2019;aurons plus aucune possibilit&#x00E9; de choix.</p><p>R&#x00E9;formons plut&#x00F4;t le droit d&#x2019;asile en encadrant notamment d&#x2019;une part le droit des demandeurs d&#x2019;asile dans un d&#x00E9;lai strict, en limitant dans le temps l&#x2019;instruction de la demande et en pr&#x00E9;voyant d&#x2019;autre part que les demandes soient pr&#x00E9;sent&#x00E9;es et instruites dans les repr&#x00E9;sentations diplomatiques ou les postes consulaires avant de pouvoir entrer sur le territoire national.</p><p>Po… [truncated 210 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-04",
+        "datePublication": "2025-02-12",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-02-12T15:43:12+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0771P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75602",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771",
+  "directory_json_file_count": 15,
+  "ignored_json_files_count": 14,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51218/PIONANR5L17B0771/AMANR5L17PO59051B0771P0D1N000015.json"
+  ]
+}

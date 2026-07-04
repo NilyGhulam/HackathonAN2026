@@ -1,0 +1,189 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000002.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1487P0D1N000002",
+      "chronotag": "1757950024156",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL2",
+        "numeroOrdreDepot": "2",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1487P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1487",
+      "triAmendement": "eiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841717",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Runel"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1487.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "5",
+            "alineaDesignation": "Alinéa 5"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi&nbsp;l&#x2019;alin&#x00E9;a&nbsp;5&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<b>Tableau des secteurs pour l&#x2019;&#x00E9;lection des membres des conseils d&#x2019;arrondissement de Lyon</b></p><table style=\"border-collapse: collapse; width: 569px;\"><tbody><tr><td style=\"white-space: normal; border: 1px solid #000000; width: 252.141px; text-align: center;\">D&#x00E9;signation des secteurs&nbsp;</td><td style=\"white-space: normal; border: 1px solid #000000; width: 229.859px; text-align: center;\"><br>Arrondissements&nbsp;constituant les secteurs<br><br></td><td style=\"white-space: normal; border: 1px solid #000000; width: 212px; text-align: center;\">Nombre de si&#x00E8;ges&nbsp;</td></tr><tr><td style=\"white-space: normal; border: 1px solid #000000; width: 252.141px; text-align: center;\">1er secteur</td><td style=\"white-space: normal; border: 1px solid #000000; width: 229.859px; text-align: center;\">1er</td><td style=\"white-space: normal; border: 1px solid #000000; width: 212px; text-align: center;\">4</td></tr><tr><td style=\"white-space: normal; border: 1px solid #000000; width: 252.141px; text-align: center;\">2e secteur</td><td style=\"white-space: normal; border: 1px solid #000000; width: 229.859px; text-align: center;\">2e</td><td style=\"white-space: normal; border: 1px solid #000000; width: 212px; text-align: center;\">4</td></tr><tr><td style=\"white-space: normal; border: 1px solid #000000; width: 252.141px; text-align: center;\">3e secteur</td><td style=\"white-space: normal; border: 1px solid #000000; width: 229.859px; text-align: center;\">3e</td><td style=\"white-space: normal; border: 1px solid #000000; width: 212px; text-align: center;\">15</td></tr><tr><td style=\"white-space: normal; border: 1px solid #000000; width: 252.141px; text-align: center;\">4e secteur</td><td style=\"white-space: normal; border: 1px solid #000000; width: 229.859px; text-align: center;\">4e</td><td style=\"white-space: normal; border: 1px solid #000000; width: 212px; text-align: center;\">5</td></tr><tr><td style=\"white-space: normal; border: 1px solid #000000; width: 252.141px; text-align: center;\">5e secteur</td><td style=\"white-space: normal; border: 1px solid #000000; width: 229.859px; text-align: center;\">5e</td><td style=\"white-space: normal; border: 1px solid #000000; width: 212px; text-align: center;\">7</td></tr><tr><td style=\"white-space: normal; border: 1px solid #000000; width: 252.141px; text-align: center;… [truncated 1553 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement, en coh&#x00E9;rence avec notre volont&#x00E9; de maintenir le mode de scrutin municipal actuellement applicable &#x00E0; la ville de Lyon, profite de la pr&#x00E9;sente proposition de loi pour actualiser le tableau de r&#x00E9;partition des conseillers municipaux de Lyon par arrondissement, au regard des &#x00E9;volutions d&#x00E9;mographiques de la ville depuis 1983, qui rendent le tableau actuel obsol&#x00E8;te.</p><p>En effet, on constate aujourd&#x2019;hui que le rapport du nombre des conseillers municipaux &#x00E0; la population de l&#x2019;arrondissement s&#x2019;&#x00E9;carte de la moyenne constat&#x00E9;e &#x00E0; Lyon de mani&#x00E8;re manifestement disproportionn&#x00E9;e. Cette situation est particuli&#x00E8;rement probl&#x00E9;matique dans les troisi&#x00E8;me et septi&#x00E8;me arrondissements de Lyon qui ont tous deux connu une &#x00E9;volution d&#x00E9;mographique importante depuis 1982, avec une &#x00E9;volution de population de respectivement +55,93 % et +67,86 % (chiffres du recensement 2025 sur la population de 2022), sans que cela ne s&#x2019;accompagne pour autant d&#x2019;une &#x00E9;volution du nombre de leurs conseillers municipaux.</p><p>Ainsi, dans le troisi&#x00E8;me arrondissement, le nombre d&#x2019;habitants par conseiller municipal est pass&#x00E9; d&#x2019;un conseiller pour 5 425 habitants en 1982 &#x00E0; un conseiller pour 8 460 habitants en 2025 et dans le septi&#x00E8;me arrondissement, d&#x2019;un conseiller pour 5 791 habitants &#x00E0; un conseiller pour 9 721 habitants. Aucun autre arrondissement n&#x2019;a connu une distorsion de repr&#x00E9;sentativit&#x00E9; aussi spectaculaire.</p><p>Pour y rem&#x00E9;dier, cet amendement a pour objet de corriger le nombre et la r&#x00E9;partition des si&#x00E8;ges de conseillers municipaux dans les neuf arrondissements de la commune de Lyon, de mani&#x00E8;re conforme au principe d&#x2019;&#x00E9;galit&#x00E9; devant le suffrage d&#x00E9;fini par le Conseil constitutionnel, sans augmenter le nombre global de conseillers municipaux de Lyon (fix&#x00E9; &#x00E0; 73) et sans modifier le nombre global d&#x2019;&#x00E9;lus des conseils d&#x2019;arrondissement. Cette m&#x00E9;thode permet ainsi une r&#x00E9;forme de revitalisation d&#x00E9;mocratique &#x00E0; co&#x00FB;ts constants, dans une p&#x00E9;riode budg&#x00E9;taire difficile pour les collectivit&#x00E9;s territoriales et l&#x2019;&#x00C9;tat.</p><p>Le choix est fait de conserver la m&#x00E9;t… [truncated 1575 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-06-27",
+        "datePublication": "2025-07-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2025-07-02T09:47:02+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1487P0D1N000002?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487",
+  "directory_json_file_count": 15,
+  "ignored_json_files_count": 14,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50692/PIONANR5L17B1487/AMANR5L17PO59051B1487P0D1N000016.json"
+  ]
+}

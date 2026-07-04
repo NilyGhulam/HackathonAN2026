@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2809P0D1N000001",
+      "chronotag": "1779813328591",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2809P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2809",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadc",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840939",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841717",
+            "PA642764",
+            "PA842211",
+            {
+              "__truncated_items__": 64
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "Mme&#160;Godard,  Mme&#160;Runel, M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, Mme&#160;Dombre&#160;Coste, Mme&#160;Froger, M.&#160;Guedj, M.&#160;Houli&#233;, M.&#160;Simion, M.&#160;Benbrahim, Mme&#160;Allemand, M.&#160;Baptiste, M.&#160;Barusseau, Mme&#160;Battistel, M.&#160;Baumel, M.&#160;Belhaddad, M.&#160;Bouloux, Mme&#160;Bregman, M.&#160;Philippe&#160;Brun, Mme&#160;Capdevielle, M.&#160;Christophle, M.&#160;Courbon, M.&#160;David, M.&#160;Delaporte, M.&#160;Delautrette, Mme&#160;Diop, M.&#160;Dufau, M.&#160;Echaniz, M.&#160;Eskenazi, M.&#160;Faure, M.&#160;F&#233;gn&#233;, M.&#160;Garot, Mme&#160;Got, M.&#160;Hablot, Mme&#160;Hadizadeh, Mme&#160;Herouin-L&#233;autey, Mme&#160;C&#233;line&#160;Hervieu, M.&#160;Hollande, Mme&#160;Jourdan, Mme&#160;Karamanli, Mme&#160;Keloua&#160;Hachi, M.&#160;Leseul, M.&#160;Lhardit, Mme&#160;Mercier, M.&#160;Naillet, M.&#160;Oberti, Mme&#160;Pantel, M.&#160;Pena, Mme&#160;Pic, Mme&#160;Pir&#232;s&#160;Beaune, M.&#160;Potier, M.&#160;Pribetich, M.&#160;Proen&#231;a, Mme&#160;Rossi, Mme&#160;Rouaux, M.&#160;Aur&#233;lien&#160;Rousseau, M.&#160;Roussel, Mme&#160;R&#233;calde, M.&#160;Saint-Pasteur, Mme&#160;Santiago, M.&#160;Saulignac, M.&#160;Sother, Mme&#160;Thi&#233;bault-Martinez, Mme&#160;Thomin, M.&#160;Vallaud, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2809.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apre&#x0300;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;inte&#x0301;resse&#x0301;s&nbsp;&#x00BB;,</p><p style=\"text-align: justify;\">inse&#x0301;rer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;a&#x0302;ge&#x0301;s de moins de 55 ans&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; exclure les demandeurs d'emploi &#x00E2;g&#x00E9;s de 55 ans et plus et ayant sign&#x00E9; une rupture conventionnelle individuelle de la r&#x00E9;forme r&#x00E9;duisant&nbsp;la dur&#x00E9;e maximale d&#x2019;indemnisation au ch&#x00F4;mage ; et ainsi &#x00E0; prot&#x00E9;ger cette cat&#x00E9;gorie de la population active fragile.</p><p>En l'&#x00E9;tat, la r&#x00E9;forme r&#x00E9;duit la dur&#x00E9;e maximale d&#x2019;indemnisation&nbsp;des demandeurs d'emploi ayant sign&#x00E9;&nbsp;une rupture conventionnelle individuelle (RCI), notamment pour&nbsp;ceux seniors.&nbsp;</p><p>En effet, la dur&#x00E9;e de 20,5 mois d&#x2019;indemnisation serait applicable &#x00E0; compter de 55 ans, ce qui repr&#x00E9;senterait :&nbsp;</p><ul><li>Pour les personnes &#x00E2;g&#x00E9;es de 55 &#x00E0; 57 ans une baisse de&nbsp;2 mois ;</li><li>Pour les personnes de plus de 57 ans &#x00E2;g&#x00E9;es une baisse de 6,5 mois.</li></ul><p>Une telle baisse est forte et inconcevable pour des personnes davantage expos&#x00E9;es au risque de se retrouver sans emploi et sans retraite&nbsp;: selon l&#x2019;Insee (2021), cette situation concerne 20&nbsp;% des personnes &#x00E2;g&#x00E9;es de plus de 55 ans.</p><p>Pour toutes ces raisons, il est donc propos&#x00E9; de ne rendre ce dispositif applicable qu&#x2019;aux personnes &#x00E2;g&#x00E9;es de moins de 55 ans, afin de garantir &#x00E0; tous les travailleurs seniors une dur&#x00E9;e d'indemnisation proportionn&#x00E9;e, &#x00E0; la hauteur des risques de non-retour &#x00E0; l&#x2019;emploi.</p><p>Tel est le sens de cet amendement.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-20",
+        "datePublication": "2026-05-26",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-26T18:35:14+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2809P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30611",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "38809",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "90673",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809",
+  "directory_json_file_count": 25,
+  "ignored_json_files_count": 24,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17BTC2809/AMANR5L17PO838901BTC2809P0D1N000021.json"
+  ]
+}

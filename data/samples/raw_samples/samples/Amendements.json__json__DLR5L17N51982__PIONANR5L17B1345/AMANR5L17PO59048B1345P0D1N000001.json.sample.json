@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B1345P0D1N000001",
+      "chronotag": "1757948565071",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B1345P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1345",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795778",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": "et les membres du groupe Rassemblement National",
+        "libelle": "M.&#160;Jean-Philippe&#160;Tanguy et les membres du groupe Rassemblement National"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1345.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;L&#x2019;article&nbsp;L.&nbsp;312&#x2011;1&#x2011;3 du code mon&#x00E9;taire et financier est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;I.&nbsp;&#x2013;&nbsp;&#x00C0; la premi&#x00E8;re phrase du premier alin&#x00E9;a, apr&#x00E8;s les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;des irr&#x00E9;gularit&#x00E9;s de fonctionnement d&#x2019;un compte bancaire&nbsp;&#x00BB;,</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;ins&#x00E9;rer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;et les facturations de frais et de services bancaires&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;2, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Les plafonds, par mois et par op&#x00E9;ration, mentionn&#x00E9;s au premier alin&#x00E9;a de cet article, y compris les plafonds sp&#x00E9;cifiques concernant les personnes physiques souscrivant &#x00E0; une offre mentionn&#x00E9;e au pr&#x00E9;sent alin&#x00E9;a sont appliqu&#x00E9;s uniform&#x00E9;ment dans tous les &#x00E9;tablissements de cr&#x00E9;dit et sont d&#x00E9;termin&#x00E9;s par une d&#x00E9;cision annuelle de la Banque de France prise apr&#x00E8;s consultation du ministre charg&#x00E9; de l&#x2019;&#x00C9;conomie. Chaque ann&#x00E9;e, avant le 1<sup>er</sup>&nbsp;novembre, la Banque de France fixe les plafonds pour l&#x2019;ann&#x00E9;e suivante.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;III.&nbsp;&#x2013;&nbsp;Supprimer l&#x2019;alin&#x00E9;a&nbsp;3.&nbsp;&#x00BB;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le groupe Rassemblement National propose une r&#x00E9;&#x00E9;criture de cet article correspondant pour correspondre &#x00E0; la solution efficace et juste qu&#x2019;il propose pour r&#x00E9;soudre le probl&#x00E8;me de la hausse des frais bancaires.&nbsp;</p><p style=\"text-align: justify;\">Les frais bancaires appliqu&#x00E9;s aux particuliers repr&#x00E9;sentent une charge abusive, particuli&#x00E8;rement pour les m&#x00E9;nages en situation de fragilit&#x00E9; financi&#x00E8;re. Ces frais bancaires injustes et exorbitants p&#x00E8;sent fortement sur le pouvoir d&#x2019;achat des m&#x00E9;nages.</p><p style=\"text-align: justify;\">Dans un contexte o&#x00F9; &#x00AB;&nbsp;chaque euro compte&nbsp;&#x00BB;, il est inadmissible que les clients se retrouvent pris au pi&#x00E8;ge par des frais abusifs. Cette proposition de loi entend mettre un terme aux pratiques bancaires pr&#x00E9;datrices qui transforment chaque incident en une source de profits.</p><p style=\"text-align: justify;\">Les gouvernements successifs de Fran&#x00E7;ois Hollande et d&#x2019;Emmanuel Macron ont promis &#x00E0; plusieurs reprises, et sans succ&#x00E8;s, de mettre fin aux frais bancaires abusifs. Le sujet du plafonnement des frais bancaires est devenu peu &#x00E0; peu une arl&#x00E9;sienne qu&#x2019;aucun Gouvernement n&#x2019;a su traiter.</p><p style=\"text-align: justify;\">La premi&#x00E8;re tentative date de 2013 via la loi du&nbsp;26&nbsp;juillet&nbsp;2013 de s&#x00E9;paration et de r&#x00E9;gulation des activit&#x00E9;s bancaires. L&#x2019;article&nbsp;52 de cette loi introduit un plafonnement des commissions d&#x2019;intervention en cas de d&#x00E9;passement du d&#x00E9;couvert autoris&#x00E9; pour les personnes physiques n&#x2019;agissant pas pour des besoins professionnels. Ces plafonds ont &#x00E9;t&#x00E9; pr&#x00E9;cis&#x00E9;s par le d&#x00E9;cret du&nbsp;17&nbsp;octobre&nbsp;2013.</p><p style=\"text-align: justify;\">Or, la loi de 2013 s&#x2019;est r&#x00E9;v&#x00E9;l&#x00E9;e totalement inefficace pour lutter contre les frais bancaires abusifs. En cons&#x00E9;quence, Emmanuel Macron s&#x2019;&#x00E9;tait engag&#x00E9;, en pleine crise des Gilets Jaunes, &#x00E0; plafonner les frais bancaires pour les plus modestes. Le ministre de l&#x2019;Economie, Bruno Le Maire, promet de nouveau en 2018&nbsp;: &#x00AB;&nbsp;Je suivrai avec attention l&#x2019;engagement des banques &#x00E0; plafonner &#x00E0; 200&nbsp;euros par an et 20&nbsp;euros par mois le… [truncated 4654 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-05-22",
+        "datePublication": "2025-05-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-05-28T12:56:12+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B1345P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345",
+  "directory_json_file_count": 32,
+  "ignored_json_files_count": 31,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51982/PIONANR5L17B1345/AMANR5L17PO59048B1345P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2681P0D1N000001",
+      "chronotag": "1780940176175",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2681P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2681",
+      "triAmendement": "aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaft",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA266797",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Gosselin"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2681.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "8",
+            "alineaDesignation": "Alinéa 8"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;&#x00C0; la premi&#x00E8;re phrase de l&#x2019;alin&#x00E9;a&nbsp;8, substituer aux mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;sauf opposition&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;avec l&#x2019;accord expr&#x00E8;s et non &#x00E9;quivoque&nbsp;&#x00BB;.&nbsp;</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, substituer aux alin&#x00E9;as 10 et 11 l'alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le juge d&#x2019;instruction recueille l&#x2019;accord de la partie civile au cours d&#x2019;une audition tenue en pr&#x00E9;sence de son avocat. Lors de cette audition, le juge d&#x2019;instruction informe la partie civile, de mani&#x00E8;re claire et compl&#x00E8;te, des cons&#x00E9;quences de son accord sur le d&#x00E9;roulement de la proc&#x00E9;dure, notamment de l&#x2019;abandon du jugement par une cour d&#x2019;assises ou une cour criminelle d&#x00E9;partementale compos&#x00E9;e selon le droit commun, de la limitation des d&#x00E9;bats sur les faits et sur la personnalit&#x00E9; de l&#x2019;auteur, ainsi que des droits qui lui sont reconnus dans le cadre de la proc&#x00E9;dure de jugement des crimes reconnus. L&#x2019;accord de la partie civile est constat&#x00E9; par proc&#x00E8;s-verbal sign&#x00E9; par elle et son avocat. L&#x2019;absence d&#x2019;accord vaut opposition et met fin &#x00E0; la proc&#x00E9;dure de jugement des crimes reconnus.&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vise &#x00E0; renforcer la protection de la partie civile dans le cadre de la nouvelle proc&#x00E9;dure de jugement des crimes reconnus institu&#x00E9;e par l'article 1er de la pr&#x00E9;sente loi.</p><p>Dans sa r&#x00E9;daction issue du S&#x00E9;nat, l'article 181-1-1 permet au juge d'instruction de mettre en &#x0153;uvre cette proc&#x00E9;dure &#x00AB; sauf opposition de la partie civile &#x00BB;. Ce m&#x00E9;canisme d'opposition implicite est insuffisant pour garantir un consentement &#x00E9;clair&#x00E9; de la victime. En faisant peser sur la partie civile la charge d'exprimer un refus dans un d&#x00E9;lai de vingt jours &#x00E0; compter d'un simple avis, le texte cr&#x00E9;e un risque r&#x00E9;el que le silence de la victime, li&#x00E9; &#x00E0; son &#x00E9;tat de choc, &#x00E0; des pressions ext&#x00E9;rieures ou &#x00E0; une information insuffisante, soit assimil&#x00E9; &#x00E0; un accord tacite.</p><p>Le pr&#x00E9;sent amendement inverse cette logique en exigeant un accord expr&#x00E8;s et non &#x00E9;quivoque de la partie civile, recueilli au cours d'une audition d&#x00E9;di&#x00E9;e, tenue en pr&#x00E9;sence de son avocat et devant le juge d'instruction. Ce cadre garantit, d'une part, que la partie civile dispose d'une information compl&#x00E8;te sur les cons&#x00E9;quences proc&#x00E9;durales de son accord et d'autre part, que cet accord est donn&#x00E9; sans pression et de mani&#x00E8;re formalis&#x00E9;e.</p><p>La suppression du d&#x00E9;lai de vingt jours initialement pr&#x00E9;vu pour l'opposition est la cons&#x00E9;quence logique de ce renversement : d&#x00E8;s lors que l'accord doit &#x00EA;tre positivement exprim&#x00E9;, l'absence de r&#x00E9;ponse de la partie civile vaut refus, sans qu'il soit n&#x00E9;cessaire de lui impartir un d&#x00E9;lai pour s'y opposer.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-03",
+        "datePublication": "2026-06-08",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-06-08T19:35:49+02:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2681P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "6.09",
+        "divisionCodeLoi": "dc"
+      },
+      "discussionCommune": {
+        "idDiscussion": "39183",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681",
+  "directory_json_file_count": 823,
+  "ignored_json_files_count": 822,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53940/PRJLANR5L17B2681/AMANR5L17PO59051B2681P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53315/PIONANR5L17BTC2578/AMANR5L17PO838901BTC2578P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2578P0D1N000001",
+      "chronotag": "1775816222551",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2578P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2578",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841885",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 33
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Arnaud&#160;Bonnet,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, M.&#160;Roum&#233;gas, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2578.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "6",
+            "alineaDesignation": "Après l'alinéa 6"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;6, ins&#x00E9;rer les trois&nbsp;alin&#x00E9;as suivants&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Le dispositif permettant &#x00E0; un commissaire de justice de d&#x00E9;livrer un titre ex&#x00E9;cutoire pour le recouvrement de cr&#x00E9;ances non s&#x00E9;rieusement contestables est applicable uniquement lorsque le cr&#x00E9;ancier r&#x00E9;pond &#x00E0; la d&#x00E9;finition des petites et moyennes entreprises au sens de la recommandation de la Commission du&nbsp;6&nbsp;mai&nbsp;2003 concernant la d&#x00E9;finition des micro, petites et moyennes entreprises (2003/361/CE).</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00C0; ce titre, sont concern&#x00E9;es les entreprises qui emploient&nbsp;moins de 250 personnes et qui r&#x00E9;alisent soit un chiffre d&#x2019;affaires annuel n&#x2019;exc&#x00E9;dant pas 50 millions d&#x2019;euros, soit un total de bilan n&#x2019;exc&#x00E9;dant pas 43 millions d&#x2019;euros.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le pr&#x00E9;sent dispositif est applicable aux cr&#x00E9;ances certaines, liquides et exigibles r&#x00E9;sultant d&#x2019;une relation contractuelle, y compris lorsque celle-ci rel&#x00E8;ve d&#x2019;une activit&#x00E9; civile, artisanale, agricole, lib&#x00E9;rale, associative ou de l&#x2019;&#x00E9;conomie sociale et solidaire.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, compl&#x00E9;ter cet article par les cinq alin&#x00E9;as suivants&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;III.&nbsp;&#x2013;&nbsp;Dans un d&#x00E9;lai de deux ans &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport d&#x2019;&#x00E9;valuation portant notamment sur&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;L&#x2019;utilisation du dispositif selon la taille et la nature des entit&#x00E9;s concern&#x00E9;es&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;Son impact sur les d&#x00E9;lais de paiement&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;3&#x00B0;&nbsp;Ses effets sur les relations &#x00E9;conomiques entre cr&#x00E9;anciers et d&#x00E9;biteurs&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;4&#x00B0;&nbsp;Le nombre et l&#x2019;issue des contestations form&#x00E9;es.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le groupe &#x00C9;cologiste et social r&#x00E9;it&#x00E8;re ses r&#x00E9;serves sur la forme de la pr&#x00E9;sente proposition de loi, qui permet d&#x2019;&#x00E9;viter un d&#x00E9;bat d&#x2019;ensemble sur la justice civile et commerciale, aujourd&#x2019;hui fragilis&#x00E9;e et insuffisamment dot&#x00E9;e.</p><p style=\"text-align: justify;\">&#x00C0; titre de repli, le pr&#x00E9;sent amendement propose de r&#x00E9;server le dispositif de d&#x00E9;livrance de titres ex&#x00E9;cutoires par les commissaires de justice aux seules petites et moyennes entreprises, afin d&#x2019;&#x00E9;viter qu&#x2019;il ne soit principalement mobilis&#x00E9; par de grandes entreprises au d&#x00E9;triment de leurs partenaires &#x00E9;conomiques, notamment les plus fragiles.</p><p style=\"text-align: justify;\">Cette limitation s&#x2019;appuie sur la d&#x00E9;finition des petites et moyennes entreprises issue du droit de l&#x2019;Union europ&#x00E9;enne, fix&#x00E9;e par la Recommandation 2003/361/CE de la Commission du 6 mai 2003, qui constitue la r&#x00E9;f&#x00E9;rence commune en mati&#x00E8;re &#x00E9;conomique et juridique au sein de l&#x2019;Union. Cette d&#x00E9;finition est reprise en droit interne, notamment aux articles D.123-200 et suivants du code de commerce, qui en assurent la transposition pour les besoins statistiques, &#x00E9;conomiques et de politiques publiques.</p><p style=\"text-align: justify;\">Ce ciblage permet de mieux r&#x00E9;pondre &#x00E0; l&#x2019;objectif affich&#x00E9; de r&#x00E9;duction des d&#x00E9;lais de paiement, qui affectent prioritairement la tr&#x00E9;sorerie des PME, tout en limitant les risques d&#x2019;un d&#x00E9;s&#x00E9;quilibre accru dans les relations &#x00E9;conomiques, dans un contexte o&#x00F9; les grandes entreprises disposent d&#x00E9;j&#x00E0; d&#x2019;outils juridiques et financiers plus robustes pour le recouvrement de leurs cr&#x00E9;ances.</p><p style=\"text-align: justify;\">L&#x2019;amendement &#x00E9;tend par ailleurs explicitement le champ du dispositif &#x00E0; l&#x2019;ensemble des relations contractuelles, y compris dans les secteurs civil, agricole, lib&#x00E9;ral, associatif ou relevant de l&#x2019;&#x00E9;conomie sociale et solidaire, afin de ne pas en limiter le b&#x00E9;n&#x00E9;fice aux seules relations commerciales.</p><p style=\"text-align: justify;\">Enfin, il pr&#x00E9;voit la remise d&#x2019;un rapport d&#x2019;&#x00E9;valuation permettant d&#x2019;appr&#x00E9;cier les effets r&… [truncated 239 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-02",
+        "datePublication": "2026-04-08",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-04-10T12:16:49+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2578P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30438",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53315/PIONANR5L17BTC2578",
+  "directory_json_file_count": 3,
+  "ignored_json_files_count": 2,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53315/PIONANR5L17BTC2578/AMANR5L17PO838901BTC2578P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53315/PIONANR5L17BTC2578/AMANR5L17PO838901BTC2578P0D1N000003.json"
+  ]
+}

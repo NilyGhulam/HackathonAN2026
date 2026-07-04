@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0763P0D1N000001",
+      "chronotag": "1739874715010",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0763P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0763",
+      "triAmendement": "faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA796062",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Portes,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0763.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement, le groupe LFI-NFP souhaite r&#x00E9;affirmer sa volont&#x00E9; de faire un bilan global du dispositif des concours \"Talents\" au plus vite, afin de d&#x00E9;terminer s'il a r&#x00E9;ellement eu un effet structurant sur la diversification des profils int&#x00E9;grant la haute fonction publique.</p><p style=\"text-align: justify;\">La haute fonction publique fran&#x00E7;aise est particuli&#x00E8;rement marqu&#x00E9;e par de fortes in&#x00E9;galit&#x00E9;s de recrutement et reste tr&#x00E8;s &#x00E9;litiste. Tout d'abord, elle est marqu&#x00E9;e par de fortes in&#x00E9;galit&#x00E9;s de classes sociales d'origine : &#x00E0; titre d'illustration, selon le rapport de la \"mission Haute Fonction Publique\" - aussi appel&#x00E9;e mission \"Thiriez\" du nom de son rapporteur - rendu le 30 janvier 2020, un candidat issu des &#x00AB; classes sup&#x00E9;rieures &#x00BB; a une chance sur 10 d&#x2019;int&#x00E9;grer l&#x2019;ENA (d&#x00E9;sormais INSP), celui issu des &#x00AB; classes moyennes &#x00BB; une sur 15 et celui issu des &#x00AB; classes populaires &#x00BB; une sur 18. Pire, pour le concours externe, ces taux de chance deviennent respectivement : 1/13, 1/28 et 1/43&#x2026; Par ailleurs, les &#x00E9;l&#x00E8;ves int&#x00E9;grant des cursus comme celui de l'INSP sont aujourd'hui encore toujours issu des m&#x00EA;mes cursus : par exemple, les &#x00E9;tudiants de Sciences Po Paris repr&#x00E9;sentent 76 % des admis au concours externe de l&#x2019;ENA, les deux-tiers des admis aux concours de l&#x2019;Assembl&#x00E9;e nationale et du S&#x00E9;nat, presque la moiti&#x00E9; des re&#x00E7;us au concours de l&#x2019;INET, un tiers des admis au concours de directeur d&#x2019;h&#x00F4;pital.</p><p style=\"text-align: justify;\">Face &#x00E0; ce constat, le Pr&#x00E9;sident de la R&#x00E9;publique a annonc&#x00E9; la mise en place le jeudi 11 f&#x00E9;vrier 2021 du dispositif des \"pr&#x00E9;pas Talents\", cens&#x00E9;s pr&#x00E9;parer les &#x00E9;l&#x00E8;ves s&#x00E9;lectionn&#x00E9;s - sur crit&#x00E8;res sociaux notamment - aux concours \"Talents\" ouverts dans 5 &#x00E9;coles sp&#x00E9;cifiques de la fonction publique (INSP, INET, EHESP, ENSP et ENAP). N&#x00E9;anmoins, les r&#x00E9;sultats obtenus restent limit&#x00E9;s : comme le souligne par exemple le rapport de la commission de s&#x00E9;lection des &#x00AB; pr&#x00E9;pas Talents &#x00BB; 2023-2024 : &#x00AB; Alors qu&#x2019;en 2017, 1 candidat sur 10 &#x00E9;tait admis en … [truncated 2576 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-31",
+        "datePublication": "2025-02-05",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-02-05T11:43:30+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0763P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75344",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763",
+  "directory_json_file_count": 27,
+  "ignored_json_files_count": 26,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N51161/PIONANR5L17B0763/AMANR5L17PO59051B0763P0D1N000023.json"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2233P0D1N000001",
+      "chronotag": "1766093362433",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2233P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2233",
+      "triAmendement": "daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841367",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Proen&#231;a"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 11",
+          "articleDesignationCourte": "APRÈS ART. 11",
+          "articleDesignation": "APRÈS L'ARTICLE 11, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2233.asp#D_Article_11"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">La section&nbsp;3 du chapitre&nbsp;II du titre&nbsp;II du livre&nbsp;I<sup>er</sup> du code du sport est compl&#x00E9;t&#x00E9;e par un article&nbsp;L.&nbsp;122&#x2011;20 ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;L.&nbsp;122&#x2011;20</i>.&nbsp;&#x2013;&nbsp;Les associations et soci&#x00E9;t&#x00E9;s sportives mentionn&#x00E9;es aux articles L.&nbsp;122&#x2011;2 et L.&nbsp;122&#x2011;12 sont tenues de mettre &#x00E0; disposition leurs sportifs de nationalit&#x00E9; fran&#x00E7;aise lorsque ces derniers font l&#x2019;objet d&#x2019;une convocation ayant pour but leur participation aux jeux Olympiques et Paralympiques.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Les f&#x00E9;d&#x00E9;rations sportives constatent et sanctionnent, le cas &#x00E9;ch&#x00E9;ant, tout manquement &#x00E0; cette obligation dans les conditions pr&#x00E9;vues par leurs r&#x00E8;glements.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Lorsque la f&#x00E9;d&#x00E9;ration a confi&#x00E9; l&#x2019;organisation des comp&#x00E9;titions ou manifestations sportives professionnelles &#x00E0; une ligue professionnelle cr&#x00E9;&#x00E9;e en application de l&#x2019;article&nbsp;L.&nbsp;132&#x2011;1, les conditions de mise &#x00E0; disposition des joueurs mentionn&#x00E9;es au premier alin&#x00E9;a du pr&#x00E9;sent article sont fix&#x00E9;es par la convention de subd&#x00E9;l&#x00E9;gation mentionn&#x00E9;e &#x00E0; l&#x2019;article&nbsp;L.&nbsp;131&#x2011;14.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; ins&#x00E9;rer un nouvel article dans le code du sport pour assurer la mise &#x00E0; disposition des sportifs de nationalit&#x00E9; fran&#x00E7;aise convoqu&#x00E9;s pour leur participation aux Jeux olympiques et paralympiques. Cet article reprend tr&#x00E8;s largement le contenu de l&#x2019;article&nbsp;1<sup>er</sup> B de la proposition de loi relative &#x00E0; l&#x2019;organisation, &#x00E0; la gestion et au financement du sport professionnel adopt&#x00E9;e par le S&#x00E9;nat le 11&nbsp;juin&nbsp;2025 et dont l&#x2019;examen par l&#x2019;Assembl&#x00E9;e nationale n&#x2019;est, &#x00E0; ce jour, pas programm&#x00E9;.</p><p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;inverse de certains pays comme l&#x2019;Espagne et de certaines organisations internationales comme la Fifa, la France ne poss&#x00E8;de pas dans son corpus juridique de disposition permettant de contraindre les clubs nationaux &#x00E0; mettre &#x00E0; disposition leurs joueurs de nationalit&#x00E9; fran&#x00E7;aise convoqu&#x00E9;s pour participer sous les couleurs nationales aux jeux Olympiques et Paralympiques.&nbsp;Cette situation a notamment &#x00E9;t&#x00E9; constat&#x00E9;e et d&#x00E9;plor&#x00E9;e lors de la pr&#x00E9;paration des JOP 2024 o&#x00F9; plusieurs clubs ont refus&#x00E9; de mettre des joueurs &#x00E0; disposition de l&#x2019;&#x00E9;quipe de France olympique de football.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-12-11",
+        "datePublication": "2025-12-15",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-12-18T22:28:52+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2233P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30065",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c sport",
+        "divisionCodeLoi": "L122-20"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "85627",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233",
+  "directory_json_file_count": 329,
+  "ignored_json_files_count": 328,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N52100/PRJLANR5L17BTC2233/AMANR5L17PO838901BTC2233P0D1N000023.json"
+  ]
+}

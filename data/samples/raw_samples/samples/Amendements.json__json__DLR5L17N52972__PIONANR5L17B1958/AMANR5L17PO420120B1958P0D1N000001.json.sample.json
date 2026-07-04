@@ -1,0 +1,185 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1958P0D1N000001",
+      "chronotag": "1763460911544",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1958P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1958",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841295",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841471",
+            "PA642764",
+            "PA720362",
+            {
+              "__truncated_items__": 9
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Courbon,  M.&#160;Hablot, M.&#160;Aviragnet, M.&#160;Belhaddad, Mme&#160;Bellay, M.&#160;Califer, Mme&#160;Dombre&#160;Coste, Mme&#160;Froger, Mme&#160;Godard, M.&#160;Guedj, M.&#160;Houli&#233;, Mme&#160;Runel, M.&#160;Simion et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1958.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": "Cet amendement a été déclaré irrecevable au titre de l’article 40 de la Constitution.",
+        "contenuAuteur": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-14",
+        "datePublication": "2025-11-17",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "IR",
+            "libelle": "Irrecevable 40"
+          },
+          "sousEtat": {
+            "code": "IR",
+            "libelle": "Charge"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1958P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958",
+  "directory_json_file_count": 17,
+  "ignored_json_files_count": 16,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52972/PIONANR5L17B1958/AMANR5L17PO420120B1958P0D1N000018.json"
+  ]
+}

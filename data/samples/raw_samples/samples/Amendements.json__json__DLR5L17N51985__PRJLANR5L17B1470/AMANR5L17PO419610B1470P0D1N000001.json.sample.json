@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B1470P0D1N000001",
+      "chronotag": "1757949907297",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B1470P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B1470",
+      "triAmendement": "cbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793832",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841495",
+            "PA794562",
+            "PA793238",
+            {
+              "__truncated_items__": 15
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Gillet,  M.&#160;Amblard, M.&#160;Ballard, M.&#160;Barth&#232;s, M.&#160;de&#160;L&#233;pinau, M.&#160;Falcon, M.&#160;Gabarron, M.&#160;Golliot, Mme&#160;Grangier, Mme&#160;Hamelet, Mme&#160;Laporte, M.&#160;Le&#160;Bourgeois, M.&#160;Loubet, M.&#160;Patrice&#160;Martin, M.&#160;Meizonnet, M.&#160;Rivi&#232;re, M.&#160;Tivoli, M.&#160;Vos et M.&#160;Weber"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 10",
+          "articleDesignationCourte": "ART. 10",
+          "articleDesignation": "ARTICLE 10",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1470.asp#D_Article_10"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "4",
+            "alineaDesignation": "Alinéa 4"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;la premi&#x00E8;re phrase de l'alin&#x00E9;a&nbsp;4, supprimer le mot&nbsp;:</p><p style=\"text-align: justify;\">&nbsp;&#x00AB;&nbsp;graves&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vise &#x00E0; supprimer la qualification de &#x00AB; graves &#x00BB; dans l&#x2019;&#x00E9;nonc&#x00E9; des risques pesant sur la salubrit&#x00E9;, la s&#x00E9;curit&#x00E9; ou la tranquillit&#x00E9; publiques afin de permettre une action administrative plus rapide et adapt&#x00E9;e face &#x00E0; l&#x2019;habitat informel &#x00E0; Mayotte.</p><p>L&#x2019;introduction de ce seuil de gravit&#x00E9; limite l&#x2019;efficacit&#x00E9; de la mesure, alors que le contexte local ne le justifie pas. &#x00C0; Mayotte, l&#x2019;urbanisation informelle progresse &#x00E0; un rythme soutenu, dans un environnement d&#x00E9;j&#x00E0; marqu&#x00E9; par une extr&#x00EA;me densit&#x00E9;, une forte pr&#x00E9;carit&#x00E9; (avec plus de 80 % de la population vivant sous le seuil de pauvret&#x00E9; national) et un habitat tr&#x00E8;s largement insalubre. En 2022, pr&#x00E8;s d&#x2019;un tiers des logements principaux &#x00E9;taient des habitations de fortune, dont la fragilit&#x00E9; structurelle, l&#x2019;implantation ill&#x00E9;gale et l&#x2019;absence de normes &#x00E9;l&#x00E9;mentaires cr&#x00E9;ent des risques permanents pour l&#x2019;ordre public.</p><p>Dans ces conditions, exiger que les risques soient &#x00AB; graves &#x00BB; pour permettre l&#x2019;intervention de l&#x2019;autorit&#x00E9; administrative cr&#x00E9;e une entrave injustifi&#x00E9;e &#x00E0; l&#x2019;action publique.</p><p>Ainsi, il est propos&#x00E9; de modifier l&#x2019;alin&#x00E9;a concern&#x00E9;.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-06-04",
+        "datePublication": "2025-06-11",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-06-11T09:46:03+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B1470P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470",
+  "directory_json_file_count": 587,
+  "ignored_json_files_count": 586,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17B1470/AMANR5L17PO419610B1470P0D1N000021.json"
+  ]
+}

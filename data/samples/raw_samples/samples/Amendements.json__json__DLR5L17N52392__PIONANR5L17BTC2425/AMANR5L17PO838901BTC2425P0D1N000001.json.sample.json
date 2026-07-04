@@ -1,0 +1,210 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2425P0D1N000001",
+      "chronotag": "1770722043451",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2425P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2425",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721816",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA608016",
+            "PA722390",
+            "PA774954",
+            {
+              "__truncated_items__": 3
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Boucard,  Mme&#160;Louwagie, Mme&#160;Corneloup, Mme&#160;Blin, Mme&#160;Duby-Muller, M.&#160;Breton et Mme&#160;Minard"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2425.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer l&#x2019;alin&#x00E9;a&nbsp;2.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;alin&#x00E9;a 2 de l&#x2019;article 1er a pour objet d&#x2019;inscrire dans la loi que nos &#x00E9;coles doivent garantir une formation visant &#x00E0; transmettre les enjeux li&#x00E9;s &#x00E0; la transition &#x00E9;cologique et climatique ainsi qu&#x2019;&#x00E0; la pr&#x00E9;servation de la biodiversit&#x00E9;.</p><p>&nbsp;</p><p>Or, comme l&#x2019;&#x00E9;nonce l&#x2019;expos&#x00E9; sommaire, 4&nbsp;jeunes sur&nbsp;5 d&#x00E9;clarent accorder une grande importance aux sujets environnementaux et 68&nbsp;% de l&#x2019;ensemble des jeunes interrog&#x00E9;s citent les professeurs comme des contributeurs &#x00E0; leur sensibilit&#x00E9; environnementale.</p><p>&nbsp;</p><p>Il n'est donc pas n&#x00E9;cessaire d'imposer par la loi une obligation sp&#x00E9;cifique. Nos enseignants n'ont pas besoin d'injonction l&#x00E9;gislative pour transmettre ces savoirs essentiels et remplir pleinement leur mission.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-04",
+        "datePublication": "2026-02-10",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2425P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "0",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "86673",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425",
+  "directory_json_file_count": 40,
+  "ignored_json_files_count": 39,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52392/PIONANR5L17BTC2425/AMANR5L17PO838901BTC2425P0D1N000021.json"
+  ]
+}

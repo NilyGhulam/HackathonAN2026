@@ -1,0 +1,169 @@
+{
+  "source_file": "Amendements.json/json/incorrect_data/PRJLANR5L17BTC1355/AMANR5L17PO838901BTC1355P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1355P0D1N000001",
+      "chronotag": "1760546863442",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1355P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC1355",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841023",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Cadalen"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1355.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer cet article.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement tend &#x00E0; supprimer l&#x2019;article unique du projet de loi autorisant la ratification de la convention n&#x00B0; 155 de l&#x2019;Organisation internationale du travail, &#x00E0; titre d&#x2019;appel.</p><p>Il ne remet pas en cause la n&#x00E9;cessit&#x00E9; pour la France de ratifier la convention soumise au vote de l&#x2019;Assembl&#x00E9;e nationale, mais vise &#x00E0; obtenir du Gouvernement des garanties explicites sur le maintien du droit existant.</p><p>En effet, l&#x2019;&#x00E9;tude d&#x2019;impact fournie par le Gouvernement pr&#x00E9;voit d&#x2019;exclure le personnel navigant de l&#x2019;a&#x00E9;ronautique civile de l&#x2019;application du droit de retrait d&#x00E8;s lors que la mission a d&#x00E9;but&#x00E9;, au m&#x00E9;pris d&#x2019;une pratique constante depuis plus de quarante ans et d&#x2019;une jurisprudence protectrice.</p><p>Une telle exclusion, qui n&#x2019;est justifi&#x00E9;e ni par la s&#x00E9;curit&#x00E9; des vols ni par le droit positif, introduirait une r&#x00E9;gression inacceptable des droits des travailleurs.</p><p>Cet amendement d&#x2019;appel invite donc le Gouvernement &#x00E0; confirmer solennellement que la ratification de la convention interviendra &#x00E0; droit constant et que le personnel navigant de l&#x2019;a&#x00E9;ronautique civile ne sera pas exclu de l&#x2019;exercice du droit de retrait.</p><p>&#x00C0; d&#x00E9;faut d&#x2019;un engagement clair en ce sens, la repr&#x00E9;sentation nationale ne saurait approuver une ratification dont l&#x2019;ambition affich&#x00E9;e masquerait en r&#x00E9;alit&#x00E9; un affaiblissement du droit.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-10-14",
+        "datePublication": "2025-10-15",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2025-10-15T18:47:33+02:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1355P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS29820",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "81343",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/incorrect_data/PRJLANR5L17BTC1355",
+  "directory_json_file_count": 2,
+  "ignored_json_files_count": 1,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/incorrect_data/PRJLANR5L17BTC1355/AMANR5L17PO838901BTC1355P0D1N000002.json"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2757P0D1N000001",
+      "chronotag": "1778486912995",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2757P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2757",
+      "triAmendement": "boaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795318",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA721960",
+            "PA795228",
+            "PA793262",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Boyard,  Mme&#160;Obono, Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, Mme&#160;Bentorki, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 1er bis",
+          "articleDesignationCourte": "ART. 1ER BIS",
+          "articleDesignation": "ARTICLE 1ER BIS",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2757.asp#D_Article_1er_bis"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement nous proposons de supprimer l'article 1 bis, introduit par un amendement de la rapporteure lors de l'examen en commission.</p><p style=\"text-align: justify;\">Cet article vise &#x00E0; compl&#x00E9;ter la partie du code civil relative au don de gam&#x00E8;tes afin de s&#x00E9;curiser la communication des informations aux clients par les soci&#x00E9;t&#x00E9;s fournissant les tests. Il pr&#x00E9;cise que le principe d&#x2019;anonymat du don ne fait pas obstacle &#x00E0; la communication &#x00E0; la personne n&#x00E9;e du don qui a fait un test g&#x00E9;n&#x00E9;tique &#x00E0; vis&#x00E9;e g&#x00E9;n&#x00E9;alogique d&#x2019;informations sur ses ascendants. De la m&#x00EA;me fa&#x00E7;on, il pr&#x00E9;cise que l&#x2019;anonymat ne fait pas obstacle &#x00E0; la communication au tiers donneur ayant fait un test d&#x2019;informations sur ses ascendants.</p><p style=\"text-align: justify;\">D'une part, cet article n'a plus lieu d'&#x00EA;tre puisque l'article 1er d&#x00E9;p&#x00E9;nalisant les tests g&#x00E9;n&#x00E9;tiques &#x00E0; vis&#x00E9;e g&#x00E9;n&#x00E9;alogique a &#x00E9;t&#x00E9; supprim&#x00E9; lors de l'examen en commission. En coh&#x00E9;rence avec notre opposition &#x00E0; la lib&#x00E9;ralisation de ces tests et &#x00E0; notre opposition &#x00E0; cette proposition de loi, nous demandons la suppression du pr&#x00E9;sent article qui allait de pair avec l'article 1er.</p><p style=\"text-align: justify;\">D'autre part, au del&#x00E0; de cette coh&#x00E9;rence de forme, cet article soul&#x00E8;ve des probl&#x00E9;matiques li&#x00E9;es &#x00E0; ces tests et &#x00E0; la notion de consentement et d'anonymat. Si un donneur a refus&#x00E9; de communiquer son identit&#x00E9; ou ses donn&#x00E9;es identifiantes (ce qui &#x00E9;tait possible pour les dons r&#x00E9;alis&#x00E9;s avant 2022), une personne pourrait malgr&#x00E9; tout le retrouver gr&#x00E2;ce &#x00E0; ces tests, sans que lui-m&#x00EA;me ait fait un test (et donc consenti &#x00E0; un possible \"match\"), par exemple en retrouvant des parents du donneur avec qui il y aurait un &#x00AB; match &#x00BB; g&#x00E9;n&#x00E9;tique. Nous n'approuvons pas une telle logique qui r&#x00E9;v&#x00E8;le les cons&#x00E9;quences en cha&#x00EE;ne de la d&#x00E9;p&#x00E9;nalisation lib&#x00E9;rale propos&#x00E9;e par le pr&#x00E9;sent texte.</p><p style=\"text-align: justify;\">Nous demandons la suppression de l'article 1er bis.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-07",
+        "datePublication": "2026-05-09",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2757P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757",
+  "directory_json_file_count": 21,
+  "ignored_json_files_count": 20,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53429/PIONANR5L17BTC2757/AMANR5L17PO838901BTC2757P0D1N000021.json"
+  ]
+}

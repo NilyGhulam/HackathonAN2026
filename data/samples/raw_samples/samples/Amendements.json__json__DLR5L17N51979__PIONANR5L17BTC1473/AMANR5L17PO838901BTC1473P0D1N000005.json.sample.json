@@ -1,0 +1,192 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000005.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1473P0D1N000005",
+      "chronotag": "1757949858442",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "5",
+        "numeroOrdreDepot": "5",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1473P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1473",
+      "triAmendement": "laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaw",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA1567",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA840665",
+            "PA643143",
+            {
+              "__truncated_items__": 62
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Guedj,  M.&#160;Aviragnet, Mme&#160;Allemand, M.&#160;Baptiste, M.&#160;Barusseau, Mme&#160;Battistel, M.&#160;Baumel, Mme&#160;Bellay, M.&#160;Benbrahim, M.&#160;Bouloux, M.&#160;Philippe&#160;Brun, M.&#160;Califer, Mme&#160;Capdevielle, M.&#160;Christophle, M.&#160;Courbon, M.&#160;David, M.&#160;Delaporte, M.&#160;Delautrette, Mme&#160;Diop, Mme&#160;Dombre&#160;Coste, M.&#160;Dufau, M.&#160;Echaniz, M.&#160;Eskenazi, M.&#160;Faure, M.&#160;F&#233;gn&#233;, M.&#160;Garot, Mme&#160;Godard, M.&#160;Gokel, Mme&#160;Got, M.&#160;Emmanuel&#160;Gr&#233;goire, M.&#160;Hablot, Mme&#160;Hadizadeh, Mme&#160;Herouin-L&#233;autey, Mme&#160;C&#233;line&#160;Hervieu, M.&#160;Hollande, Mme&#160;Jourdan, Mme&#160;Karamanli, Mme&#160;Keloua&#160;Hachi, M.&#160;Leseul, M.&#160;Lhardit, Mme&#160;Mercier, M.&#160;Naillet, M.&#160;Oberti, Mme&#160;Pantel, M.&#160;Pena, Mme&#160;Pic, Mme&#160;Pir&#232;s&#160;Beaune, M.&#160;Potier, M.&#160;Pribetich, M.&#160;Proen&#231;a, Mme&#160;Rossi, Mme&#160;Rouaux, M.&#160;Aur&#233;lien&#160;Rousseau, M.&#160;Roussel, Mme&#160;Runel, Mme&#160;R&#233;calde, M.&#160;Saint-Pasteur, Mme&#160;Santiago, M.&#160;Saulignac, M.&#160;Simion, M.&#160;Sother, Mme&#160;Thi&#233;bault-Martinez, Mme&#160;Thomin, M.&#160;Vallaud, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1473.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "1",
+            "alineaDesignation": "Après l'alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter cet article par l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Les 1&#x00B0; et 2&#x00B0; du&nbsp;II de l&#x2019;article&nbsp;L.&nbsp;242&#x2011;1 du code de la s&#x00E9;curit&#x00E9; sociale sont compl&#x00E9;t&#x00E9;s par les mots&nbsp;:&nbsp;&#x00AB;&nbsp;dans la limite annuelle de&nbsp;deux fois le salaire minimum de croissance.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0;&nbsp;int&#x00E9;grer les sommes vers&#x00E9;es au-del&#x00E0; de 2 SMIC au titre de&nbsp;l'int&#x00E9;ressement et de la participation&nbsp;dans l'assiette de calcul de la r&#x00E9;duction g&#x00E9;n&#x00E9;rale d&#x00E9;gressive de cotisations sociales, et ainsi &#x00E0; financer dans la justice les co&#x00FB;ts g&#x00E9;n&#x00E9;r&#x00E9;s par cette proposition de loi.&nbsp;</p><p>Cette mesure est une des recommandations de la Cour des comptes dans son rapport rendu il y a quelques jours sur les lois de financement de la S&#x00E9;curit&#x00E9; sociale.</p><p>Elle indique en effet :<i> \"</i><i>&#x00C0; comportements inchang&#x00E9;s, l&#x2019;&#x00E9;conomie li&#x00E9;e &#x00E0; l&#x2019;&#x00E9;largissement de l&#x2019;assiette aux versements relevant de la participation aux r&#x00E9;sultats de l&#x2019;entreprise et de l&#x2019;int&#x00E9;ressement peut &#x00EA;tre estim&#x00E9;e &#x00E0; pr&#x00E8;s de <b>3 milliards d'euros&nbsp;en 2025.</b></i></p><p><i>Cette piste d&#x2019;&#x00E9;conomie pourrait &#x00EA;tre consid&#x00E9;r&#x00E9;e comme &#x00E9;tant de nature &#x00E0; limiter le caract&#x00E8;re d&#x00E9;rogatoire de l&#x2019;exemption de cotisations sociales r&#x00E9;serv&#x00E9;e &#x00E0; ces compl&#x00E9;ments de salaire\"</i></p><p>De mani&#x00E8;re &#x00E0; ne pas impacter le pouvoir d'achat des m&#x00E9;nages des classes populaires et des classes moyennes, nous proposons que ne soient assujetties que les sommes d&#x00E9;passant 2 fois le SMIC (soit plus de&nbsp;2&nbsp;800 euros net environ).</p><p>Cet amendement garantit donc &#x00E0; la fois&nbsp;le reciblage des exon&#x00E9;rations de cotisations sociales, finance la proposition de loi, et ne r&#x00E9;duit pas d'1 euro le pouvoir d'achat des m&#x00E9;nages des classes populaires et des classes moyennes.</p><p>Plus largement, les d&#x00E9;put&#x00E9;s socialistes ne peuvent qu'&#x00EA;tre d'accord avec le constat de la Cour des comptes dans son rapport de mai 2024 : <i>\"L&#x2019;ampleur prise par les r&#x00E9;gimes sociaux d&#x00E9;rogatoires pour les compl&#x00E9;ments de salaire en modifie leur port&#x00E9;e. Ils portent d&#x00E9;sormais atteinte aux &#x00E9;quilibres financiers de la s&#x00E9;curit&#x00E9; sociale et &#x00E0; l&#x2019;&#x00E9;quit&#x00E9; du pr&#x00E9;l&#x00E8;vement social entre les entreprises et entre les salari&#x00E9;s. Dans un contexte de d&#x00E9;ficits croissants d&#x2019;i… [truncated 232 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-06-02",
+        "datePublication": "2025-06-05",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-06-05T17:03:13+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1473P0D1N000005?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS29504",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473",
+  "directory_json_file_count": 45,
+  "ignored_json_files_count": 44,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000024.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000025.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17BTC1473/AMANR5L17PO838901BTC1473P0D1N000026.json"
+  ]
+}

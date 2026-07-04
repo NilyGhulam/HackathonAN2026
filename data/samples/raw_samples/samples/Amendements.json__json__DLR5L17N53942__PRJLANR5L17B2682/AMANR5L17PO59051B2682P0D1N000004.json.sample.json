@@ -1,0 +1,204 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000004.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2682P0D1N000004",
+      "chronotag": "1781082047701",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL4",
+        "numeroOrdreDepot": "4",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2682P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2682",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaxw",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794734",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA721932",
+            "PA794886",
+            "PA840107",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Guiniot,  Mme&#160;Lorho, Mme&#160;Blanc, M.&#160;Chaumeil, M.&#160;Gery, M.&#160;Gillet, Mme&#160;Griseti, M.&#160;Guitton, Mme&#160;Lelouis, Mme&#160;Levavasseur, Mme&#160;Pollet, M.&#160;Rambaud, M.&#160;Rancoule, M.&#160;Taverne, M.&#160;Tomatis, M.&#160;Tribuiani et M.&#160;Villedieu"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2682.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "32",
+            "alineaDesignation": "Alinéa 32"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;32, substituer au mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;trois&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">le mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;quatre&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; rehausser le niveau de qualification universitaire n&#x00E9;cessaire afin de postuler pour devenir citoyen assesseur.</p><p>L'exigence d'un plus fort niveau universitaire qu'une simple licence est rendue n&#x00E9;cessaire par la mission juridique complexe qui leur est confi&#x00E9;e.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-03",
+        "datePublication": "2026-06-08",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-10T11:00:37+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2682P0D1N000004?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "6.5",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682",
+  "directory_json_file_count": 39,
+  "ignored_json_files_count": 38,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N53942/PRJLANR5L17B2682/AMANR5L17PO59051B2682P0D1N000024.json"
+  ]
+}

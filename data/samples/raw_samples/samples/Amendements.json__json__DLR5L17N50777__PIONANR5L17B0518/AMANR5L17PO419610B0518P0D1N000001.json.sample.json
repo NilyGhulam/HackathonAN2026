@@ -1,0 +1,196 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0518P0D1N000001",
+      "chronotag": "1739874676191",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0518P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0518",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795636",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA335999",
+            "PA840997",
+            "PA794008",
+            {
+              "__truncated_items__": 3
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Lucas-Lundy,  Mme&#160;Batho, M.&#160;Biteau, Mme&#160;Chatelain, M.&#160;Fournier, Mme&#160;Laernoes et M.&#160;Tavernier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0518.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Par d&#x00E9;rogation &#x00E0; l&#x2019;article L.&nbsp;134&#x2011;1 du Code de la construction et de l&#x2019;habitation, les dispositions de la pr&#x00E9;sente loi s&#x2019;appliquent aux ascenseurs &#x00E9;quipant les puits de mine, aux &#x00E9;l&#x00E9;vateurs de machinerie de th&#x00E9;&#x00E2;tre, aux ascenseurs install&#x00E9;s dans des moyens de transport, aux ascenseurs li&#x00E9;s &#x00E0; une machine et exclusivement destin&#x00E9;s &#x00E0; l&#x2019;acc&#x00E8;s au poste de travail de celle-ci et aux ascenseurs de chantier.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Les auteurs de cet amendement saluent l&#x2019;initiative du d&#x00E9;put&#x00E9; Philippe BRUN et du groupe socialiste d&#x2019;inscrire dans sa journ&#x00E9;e r&#x00E9;serv&#x00E9;e un texte portant sur la lutte contre les pannes d&#x2019;ascenseurs non prises en charge.</p><p style=\"text-align: justify;\"><br>Cet amendement propose d&#x2019;&#x00E9;tendre les dispositions du pr&#x00E9;sent article &#x00E0; l&#x2019;ensemble des ascenseurs y compris ceux mis en service dans le cadre du travail ou dans les moyens de transport. L&#x2019;initiative de cette proposition &#x00E9;tant salutaire, il convient d&#x2019;&#x00E9;tendre le dispositif &#x00E0; l&#x2019;ensemble des ascenseurs mis en service &#x00E0; destination du public ainsi que des travailleurs civils.</p><p style=\"text-align: justify;\"><br>Cet amendement vise &#x00E0; rendre pleinement accessible et praticable l&#x2019;espace public et les lieux de travail.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-29",
+        "datePublication": "2024-12-04",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2024-12-04T16:56:45+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0518P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c construction habitation",
+        "divisionCodeLoi": "L134-1"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518",
+  "directory_json_file_count": 20,
+  "ignored_json_files_count": 19,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50777/PIONANR5L17B0518/AMANR5L17PO419610B0518P0D1N000020.json"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B1135P0D1N000001",
+      "chronotag": "1769539113370",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B1135P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1135",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793796",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA227089",
+            "PA720976"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Taupiac,  Mme&#160;L&#233;tard et M.&#160;Mathiasin"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "APRÈS ART. UNIQUE",
+          "articleDesignation": "APRÈS L'ARTICLE UNIQUE, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1135.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Dans les territoires couverts par une op&#x00E9;ration de revitalisation de territoire mentionn&#x00E9;e &#x00E0; l&#x2019;article&nbsp;L.&nbsp;303&#x2011;2 du code de la construction et de l&#x2019;habitation, dans un quartier prioritaire de la politique de la ville au sens de l&#x2019;article&nbsp;5 de la loi n&#x00B0; 2014&#x2011;173 du&nbsp;21&nbsp;f&#x00E9;vrier&nbsp;2014, ou dans une zone France ruralit&#x00E9;s revitalisation mentionn&#x00E9;e par la loi, au sein des p&#x00E9;rim&#x00E8;tres de sauvegarde du commerce et de l&#x2019;artisanat de proximit&#x00E9; d&#x00E9;finis &#x00E0; l&#x2019;article&nbsp;L.&nbsp;214&#x2011;1 du code de l&#x2019;urbanisme, le maire peut d&#x00E9;cider de soumettre &#x00E0; un avis conforme qu&#x2019;il rend&nbsp;:</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;Les projets d&#x2019;implantation commerciale&nbsp;;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;Les cessions de fonds de commerce ou de baux commerciaux entra&#x00EE;nant un changement d&#x2019;activit&#x00E9;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;Tout avis d&#x00E9;favorable fait l&#x2019;objet d&#x2019;une motivation &#x00E9;crite, pr&#x00E9;cise et circonstanci&#x00E9;e.</p><p style=\"text-align: justify;\">Cette motivation est fond&#x00E9;e sur des crit&#x00E8;res d&#x2019;appr&#x00E9;ciation explicites, tenant notamment &#x00E0; l&#x2019;un ou plusieurs des &#x00E9;l&#x00E9;ments suivants&nbsp;:</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;L&#x2019;absence de contribution du projet &#x00E0; la diversit&#x00E9; commerciale locale&nbsp;;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;Le risque d&#x2019;aggravation d&#x2019;une situation de mono-activit&#x00E9; commerciale av&#x00E9;r&#x00E9;e&nbsp;;</p><p style=\"text-align: justify;\">3&#x00B0;&nbsp;L&#x2019;atteinte port&#x00E9;e &#x00E0; la vitalit&#x00E9; du centre-ville ou du centre-bourg&nbsp;;</p><p style=\"text-align: justify;\">4&#x00B0;&nbsp;La compromission du maintien d&#x2019;une offre commerciale ou artisanale de proximit&#x00E9; existante.</p><p style=\"text-align: justify;\">III.&nbsp;&#x2013;&nbsp;La d&#x00E9;cision et les motifs qui la justifient sont rendus accessibles au public dans des conditions garantissant leur lisibilit&#x00E9; et leur accessibilit&#x00E9;, conform&#x00E9;ment au code des relations entre le public et l&#x2019;administration.</p><p style=\"text-align: justify;\">IV.&nbsp;&#x2013;&nbsp… [truncated 474 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vise &#x00E0; renforcer les moyens d&#x2019;action des maires dans les territoires prioritaires de revitalisation afin de leur permettre d&#x2019;agir plus efficacement sur l&#x2019;&#x00E9;volution de l&#x2019;offre commerciale dans les centres-villes et centres-bourgs, dans le respect de la libert&#x00E9; d&#x2019;entreprendre. Il s&#x2019;inscrit dans une logique de territorialisation des politiques d&#x2019;attractivit&#x00E9; et de coh&#x00E9;sion territoriale, et r&#x00E9;pond &#x00E0; une asym&#x00E9;trie aujourd&#x2019;hui largement document&#x00E9;e entre les attentes exprim&#x00E9;es par les habitants, les responsabilit&#x00E9;s confi&#x00E9;es aux &#x00E9;lus locaux et les leviers juridiques dont ils disposent pour y r&#x00E9;pondre.</p><p>La qualit&#x00E9;, la diversit&#x00E9; et la p&#x00E9;rennit&#x00E9; de l&#x2019;offre commerciale de proximit&#x00E9; constituent un d&#x00E9;terminant majeur de l&#x2019;attractivit&#x00E9; r&#x00E9;sidentielle des communes et de la coh&#x00E9;sion sociale. Or, de nombreux centres-villes et centres-bourgs connaissent aujourd&#x2019;hui des ph&#x00E9;nom&#x00E8;nes de d&#x00E9;vitalisation commerciale, li&#x00E9;s notamment &#x00E0; l&#x2019;&#x00E9;volution des modes de consommation, marqu&#x00E9;e par la mont&#x00E9;e en puissance du commerce en ligne et des zones commerciales p&#x00E9;riph&#x00E9;riques, et &#x00E0; l&#x2019;augmentation des charges pesant sur les commer&#x00E7;ants.</p><p>Les outils actuellement &#x00E0; la disposition des communes pour agir sur la vitalit&#x00E9; de leurs centralit&#x00E9;s sont insuffisants. Le droit en vigueur permet l&#x2019;instauration de p&#x00E9;rim&#x00E8;tres de sauvegarde du commerce et de l&#x2019;artisanat de proximit&#x00E9;, mais ceux-ci reposent principalement sur le recours au droit de pr&#x00E9;emption, qui implique pour la collectivit&#x00E9; l&#x2019;acquisition du fonds, du bail ou du terrain, son portage financier et juridique, puis la recherche d&#x2019;un repreneur conforme &#x00E0; la strat&#x00E9;gie locale. Compte tenu des contraintes financi&#x00E8;res et techniques que cela suppose, cet outil demeure peu mobilis&#x00E9; et in&#x00E9;galement accessible, privant de fait de nombreuses communes de toute capacit&#x00E9; d&#x2019;action en amont sur la composition de leur tissu commercial.</p><p>L&#x2019;amendement propose donc d&#x2019;introduire dans certaines communes, au sein des p&#x00E9;rim&#x00E8;tres de sauve… [truncated 1941 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-23",
+        "datePublication": "2026-01-27",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-01-27T19:38:05+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B1135P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c construction habitation",
+        "divisionCodeLoi": "L303-2"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135",
+  "directory_json_file_count": 10,
+  "ignored_json_files_count": 9,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51713/PIONANR5L17B1135/AMANR5L17PO419610B1135P0D1N000010.json"
+  ]
+}

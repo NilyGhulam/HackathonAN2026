@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO420120B1827P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1827P0D1N000001",
+      "chronotag": "1761121753214",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1827P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1827",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795010",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 32
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Garin,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1827.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cette proposition de loi, sous couvert de simplification administrative, introduit dans notre droit des crit&#x00E8;res d&#x2019;acc&#x00E8;s aux droits fondamentalement discriminatoires et contraires aux principes r&#x00E9;publicains.</p><p style=\"text-align: justify;\">En r&#x00E9;servant le b&#x00E9;n&#x00E9;fice de la simplification aux seules personnes handicap&#x00E9;es de nationalit&#x00E9; fran&#x00E7;aise ou, &#x00E0; titre d&#x00E9;rogatoire, aux &#x00E9;trangers ayant travaill&#x00E9; &#x00E0; temps plein pendant cinq ann&#x00E9;es sur le territoire national, le texte rompt avec le principe d&#x2019;&#x00E9;galit&#x00E9; devant la loi et avec l&#x2019;universalit&#x00E9; des droits sociaux. Une telle distinction fond&#x00E9;e sur la nationalit&#x00E9; et la situation professionnelle est indigne de notre R&#x00E9;publique et contraire &#x00E0; la Convention internationale relative aux droits des personnes handicap&#x00E9;es, ratifi&#x00E9;e par la France en 2010.</p><p style=\"text-align: justify;\">En outre, la proposition de loi subordonne le maintien des droits &#x00E0; &#x00AB;&nbsp;l&#x2019;&#x00E9;volution des donn&#x00E9;es de la science&nbsp;&#x00BB;, ouvrant la voie &#x00E0; une r&#x00E9;vision arbitraire des droits des personnes handicap&#x00E9;es au motif qu&#x2019;un progr&#x00E8;s m&#x00E9;dical pourrait, un jour, &#x00AB;&nbsp;remettre en cause le caract&#x00E8;re irr&#x00E9;versible&nbsp;&#x00BB; de leur handicap. Cette approche biom&#x00E9;dicale du handicap est contraire &#x00E0; la philosophie de la loi du&nbsp;11&nbsp;f&#x00E9;vrier&nbsp;2005, qui reconna&#x00EE;t la personne handicap&#x00E9;e dans sa dignit&#x00E9; et son autonomie, ind&#x00E9;pendamment de toute logique de gu&#x00E9;rison.</p><p style=\"text-align: justify;\">Enfin, cette initiative n&#x2019;apporte aucune r&#x00E9;elle simplification&nbsp;: elle renvoie &#x00E0; un d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat la d&#x00E9;finition des conditions d&#x2019;application et des r&#x00E9;visions, alors m&#x00EA;me que la l&#x00E9;gislation actuelle permet d&#x00E9;j&#x00E0; d&#x2019;attribuer sans limitation de dur&#x00E9;e certaines prestations lorsque le handicap est reconnu comme irr&#x00E9;versible.</p><p style=\"text-align: justify;\">Pour toutes ces raisons, le pr&#x00E9;sent amendement vise &#x00E0; supprimer l&#x2019;article unique de cette proposition de loi, qui sous couvert d&#x2019;efficacit&#x00E9; administrative, porte attein… [truncated 190 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-10-16",
+        "datePublication": "2025-10-21",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-10-22T10:28:50+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1827P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827",
+  "directory_json_file_count": 25,
+  "ignored_json_files_count": 24,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52777/PIONANR5L17B1827/AMANR5L17PO838901B1827P0D1N000020.json"
+  ]
+}

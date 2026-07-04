@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2805P0D1N000001",
+      "chronotag": "1779265318478",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2805P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2805",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA796018",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793452",
+            "PA795010",
+            "PA793708",
+            {
+              "__truncated_items__": 34
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Simonnet,  M.&#160;Davi, Mme&#160;Garin, M.&#160;Peytavie, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Batho, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Duplessy, M.&#160;Fournier, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, M.&#160;Roum&#233;gas, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2805.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le groupe Ecologiste et social s'oppose &#x00E0; la r&#x00E9;duction de la dur&#x00E9;e d'indemnisation des demandeurs d'emploi suite &#x00E0; une rupture conventionnelle.&nbsp;&nbsp;</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent PJL, en rendant possible l'agr&#x00E9;ment de l'avenant &#x00E0; l'accord sur l'assurance chomage, conduira aux dur&#x00E9;es d'indemnisation suivantes :&nbsp;</p><p style=\"text-align: justify;\">- 15 mois pour les allocataires &#x00E2;g&#x00E9;s de moins de 55 ans, au lieu de 18 mois (20 mois pour les allocataires r&#x00E9;sidant en outre-mer, hors Mayotte) ;</p><p style=\"text-align: justify;\">- 20,5 mois pour les allocataires &#x00E2;g&#x00E9;s de 55 ans et plus, au lieu de 22,5 mois pour les 55-56 ans et de 27 mois pour les plus de 57 ans (30 mois pour les allocataires r&#x00E9;sidant en outre-mer, hors Mayotte).</p><p style=\"text-align: justify;\">Cet avenant, sign&#x00E9; par une partie seulement des syndicats, a &#x00E9;t&#x00E9; obtenu par le gouvernement Lecornu en agitant la menace d'appliquer la r&#x00E9;forme Bayrou qui aurait conduit &#x00E0; 2 &#x00E0; 2,5 milliards de coupes aveugles.&nbsp;Un dialogue social sous une telle pression ne conduit pas &#x00E0; un accord librement consenti : il s'agit ni plus ni moins que d'une prise en otage des salari&#x00E9;s.</p><p style=\"text-align: justify;\">L'objectif initial de 400 millions d'euros d'&#x00E9;conomies, affich&#x00E9; par le gouvernement fin 2025, a &#x00E9;t&#x00E9; presque doubl&#x00E9; avec cet accord, atteignant 600 &#x00E0; 800 millions en ann&#x00E9;e pleine, sur le dos des ch&#x00F4;meurs.</p><p style=\"text-align: justify;\">Cette r&#x00E9;forme remet en cause l&#x2019;&#x00E9;gal acc&#x00E8;s des demandeurs d'emploi &#x00E0; l&#x2019;assurance ch&#x00F4;mage en introduisant une diff&#x00E9;renciation selon la cause de fin du contrat. Notre groupe soutient au contraire que les signataires de ruptures conventionnelles doivent b&#x00E9;n&#x00E9;ficier des m&#x00EA;mes droits que les salari&#x00E9;s perdant leur CDI en raison d'un licenciement.</p><p style=\"text-align: justify;\">Le&nbsp;dispositif pr&#x00E9;tend lutter contre les effets d&#x2019;aubaine de la rupture conventionnelle. En r&#x00E9;alit&#x00E9;, il ne p&#x00E9;nalise&nbsp;que les employ&#x00E9;s, et non les employeurs qui repr&#x00E9;sentent pourtant l&#x2019;autre partie de ces accords mutuels.</p><p style=\"text-align: justify;\">Bien des leviers autres que la r&#… [truncated 648 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-19",
+        "datePublication": "2026-05-19",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-20T10:21:47+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2805P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "90613",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805",
+  "directory_json_file_count": 30,
+  "ignored_json_files_count": 29,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53981/PRJLANR5L17B2805/AMANR5L17PO420120B2805P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0522P0D1N000001",
+      "chronotag": "1739874677731",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0522P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0522",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA643157",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Naillet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0522.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "14",
+            "alineaDesignation": "Alinéa 14"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Substituer &#x00E0; l&#x2019;alin&#x00E9;a&nbsp;14&nbsp;les trois&nbsp;alin&#x00E9;as suivants&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le III est ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le prix global de la liste mentionn&#x00E9;e au I, tel qu&#x2019;il est pratiqu&#x00E9;, est affich&#x00E9; en application de l&#x2019;article L.&nbsp;112&#x2011;1 du code de la consommation, de mani&#x00E8;re lisible et visible &#x00E0; l&#x2019;entr&#x00E9;e de la surface de vente par le moyen d&#x2019;un support d&#x2019;une superficie au moins &#x00E9;gal &#x00E0; un m&#x00E8;tre carr&#x00E9; d&#x2019;une liste limitative de produits de consommation courante.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Pour chaque produit composant la liste mentionn&#x00E9;e au I et expos&#x00E9;e &#x00E0; la vente au d&#x00E9;tail, un balisage d&#x2019;identification est appos&#x00E9; de mani&#x00E8;re permanente &#x00E0; proximit&#x00E9; imm&#x00E9;diate de celui-ci.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cette nouvelle r&#x00E9;daction permet&nbsp; de pr&#x00E9;ciser les modalit&#x00E9;s d'affichage des prix : caract&#x00E8;re, position, moyen et dimension, pour une meilleure information du consommateur.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-29",
+        "datePublication": "2024-12-04",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2024-12-04T11:29:31+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0522P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "RG",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522",
+  "directory_json_file_count": 47,
+  "ignored_json_files_count": 46,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N50779/PIONANR5L17B0522/AMANR5L17PO419610B0522P0D1N000022.json"
+  ]
+}

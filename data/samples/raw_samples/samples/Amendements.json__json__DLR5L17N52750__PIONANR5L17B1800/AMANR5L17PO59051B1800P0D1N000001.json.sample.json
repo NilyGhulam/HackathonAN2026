@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1800P0D1N000001",
+      "chronotag": "1774883610958",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1800P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1800",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794786",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Fernandes,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1800.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement de suppression nous manifestons notre opposition au pr&#x00E9;sent article qui vise &#x00E0; permettre la cr&#x00E9;ation de collectivit&#x00E9;s uniques.</p><p style=\"text-align: justify;\">L'article 1 propose en effet de cr&#x00E9;er une collectivit&#x00E9; territoriale unique exer&#x00E7;ant &#x00E0; la fois les comp&#x00E9;tences d&#x00E9;partementales et r&#x00E9;gionales, par la fusion de d&#x00E9;partements compris dans le p&#x00E9;rim&#x00E8;tres des anciennes r&#x00E9;gions (avant la r&#x00E9;forme de 2015).</p><p style=\"text-align: justify;\">De mani&#x00E8;re globale, le texte qui nous est pr&#x00E9;sent&#x00E9; organise la suppression de l'&#x00E9;chelon d&#x00E9;partemental au profit d'une d&#x00E9;centralisation asym&#x00E9;trique illisible et desservant l'int&#x00E9;r&#x00EA;t de certains r&#x00E9;gionalismes, ici alsacien. Il est port&#x00E9; par la logique de diff&#x00E9;renciation territoriale qui amenuise l'unit&#x00E9; et l'indivisibilit&#x00E9; de la R&#x00E9;publique, principes qui permettent de garantir une &#x00E9;galit&#x00E9; des droits pour les citoyens. La r&#x00E9;forme des grandes r&#x00E9;gions &#x00E9;tait une erreur que nous d&#x00E9;non&#x00E7;ons, mais qui ne peut servir de pr&#x00E9;texte &#x00E0; une telle d&#x00E9;centralisation &#x00E0; la carte au gr&#x00E9; des individualismes locaux. Le sch&#x00E9;ma territorial doit &#x00EA;tre repens&#x00E9; de fa&#x00E7;on collective &#x00E0; l'&#x00E9;chelle nationale afin de gagner en lisibilit&#x00E9; et proximit&#x00E9; pour les citoyens. Cela implique de s'appuyer notamment sur les d&#x00E9;partements, tandis que le pr&#x00E9;sent texte m&#x00E8;ne &#x00E0; leur disparition, en ressuscitant le conseiller territorial d&#x00E9;fendu par Nicolas Sarkozy.</p><p style=\"text-align: justify;\">Le d&#x00E9;tail de cet article est aussi probl&#x00E9;matique.</p><p style=\"text-align: justify;\">La consultation des citoyens sur ce transfert de comp&#x00E9;tences ne serait que facultative, sur d&#x00E9;cision de l'assembl&#x00E9;e de la collectivit&#x00E9; issue du regroupement de d&#x00E9;partements. Les &#x00E9;lus pourraient ainsi passer outre l'avis des citoyens, et s'ils sont consult&#x00E9;s rien ne pr&#x00E9;cise que le r&#x00E9;sultat devra &#x00EA;tre respect&#x00E9;. La PPL va d'ailleurs contre le vote qui a eu lieu en 2013, lors duquel les citoyens s'&#x00E9;taient oppos&#x00E9;s &#x00E0; la fusion de la r&#x00E9;gion Alsace et … [truncated 1016 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-25",
+        "datePublication": "2026-03-30",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-03-30T17:13:00+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1800P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "87711",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800",
+  "directory_json_file_count": 65,
+  "ignored_json_files_count": 64,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52750/PIONANR5L17B1800/AMANR5L17PO59051B1800P0D1N000021.json"
+  ]
+}

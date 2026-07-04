@@ -1,0 +1,58 @@
+{
+  "source_file": "AMO50_acteurs_mandats_organes_divises.json/organe/PO191887.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "organe"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "organe": {
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "uid": "PO191887",
+      "codeType": "ORGEXTPARL",
+      "libelle": "Commission nationale pour l'élimination des mines antipersonnel",
+      "libelleEdition": "de la Commission nationale pour l'élimination des mines antipersonnel",
+      "libelleAbrege": "Mines antipersonnel",
+      "libelleAbrev": "160",
+      "viMoDe": {
+        "dateDebut": "1999-05-11",
+        "dateAgrement": null,
+        "dateFin": null
+      },
+      "organeParent": null,
+      "chambre": null,
+      "regime": "5ème République",
+      "legislature": null,
+      "regimeJuridique": "Article L. 2345-1 du code de la défense",
+      "siteInternet": "https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/desarmement-et-non-proliferation/la-france-et-l-elimination-des-mines-antipersonnel/article/la-politique-francaise-en-matiere",
+      "nombreReunionsAnnuelles": "2"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "AMO50_acteurs_mandats_organes_divises.json/organe",
+  "directory_json_file_count": 6192,
+  "ignored_json_files_count": 6191,
+  "ignored_json_files_preview": [
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO201115.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO201269.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO201361.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO205834.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO206064.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO211490.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO211491.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO211492.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO211493.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO211494.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO211495.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO215413.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO218793.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO218801.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO218806.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO221678.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO223397.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO226722.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO226723.json",
+    "AMO50_acteurs_mandats_organes_divises.json/organe/PO226840.json"
+  ]
+}

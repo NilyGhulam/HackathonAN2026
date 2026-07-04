@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2773P0D1N000001",
+      "chronotag": "1780928056603",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2773P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2773",
+      "triAmendement": "aeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaf",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA642847",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA719968",
+            "PA608416",
+            "PA346782",
+            {
+              "__truncated_items__": 2
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Bazin,  Mme&#160;Sylvie&#160;Bonnet, M.&#160;Hetzel, M.&#160;Juvin, M.&#160;End et Mme&#160;Gruet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2773.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">L&#x2019;objet de cet amendement est de supprimer la codification de l&#x2019;euthanasie et du suicide assist&#x00E9; telle que propos&#x00E9;e par la pr&#x00E9;sente proposition de loi.</p><p style=\"text-align: justify;\">L&#x2019;euthanasie et le suicide assist&#x00E9; ne sont pas des soins.</p><p style=\"text-align: justify;\">Selon l&#x2019;Acad&#x00E9;mie de M&#x00E9;decine, le Soin est l&#x2019; &#x00AB;&nbsp;ensemble des mesures et actes visant &#x00E0; faire b&#x00E9;n&#x00E9;ficier une personne des moyens de diagnostic et de traitement lui permettant d&#x2019;am&#x00E9;liorer et de maintenir sa sant&#x00E9; physique et mentale.&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">En octobre&nbsp;2007, la Haute Autorit&#x00E9; de Sant&#x00E9; d&#x00E9;finissait un &#x00AB;&nbsp;un acte de soins&nbsp;&#x00BB; comme &#x00AB;&nbsp;ensemble coh&#x00E9;rent d&#x2019;actions et de pratiques mises en &#x0153;uvre pour participer au r&#x00E9;tablissement ou &#x00E0; l&#x2019;entretien de la sant&#x00E9; d&#x2019;une personne. Un acte de soins peut se d&#x00E9;composer en t&#x00E2;ches d&#x00E9;finie et limit&#x00E9;es, qui peuvent &#x00EA;tre ind&#x00E9;pendantes dans leur r&#x00E9;alisation. Dans un m&#x00EA;me acte de soin, certaines t&#x00E2;ches peuvent &#x00EA;tre r&#x00E9;alis&#x00E9;es par des professionnels de sant&#x00E9; diff&#x00E9;rents&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">Les soins ne nient pas la mort, mais ils ne la donnent pas. Ils la consid&#x00E8;rent &#x00AB;&nbsp;comme un processus normal, n&#x2019;entend[ant] ni acc&#x00E9;l&#x00E9;rer ni repousser la mort&nbsp;&#x00BB; (d&#x2019;apr&#x00E8;s l&#x2019;OMS, sur les soins palliatifs plus particuli&#x00E8;rement).</p><p style=\"text-align: justify;\">En accord avec toutes ces d&#x00E9;finitions, cet amendement propose de supprimer cet article pour ne plus assimiler l&#x2019;euthanasie et le suicide assist&#x00E9; &#x00E0; des soins et ainsi prot&#x00E9;ger les codes d&#x00E9;ontologiques des professionnels de sant&#x00E9;. Il invite ainsi &#x00E0; trouver un nouveau cadre normatif, autre que le code de la sant&#x00E9; publique, par exemple celui de l&#x2019;action sociale et des familles.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-03",
+        "datePublication": "2026-06-08",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-08T16:13:44+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2773P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "90863",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773",
+  "directory_json_file_count": 723,
+  "ignored_json_files_count": 722,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2773/AMANR5L17PO420120B2773P0D1N000021.json"
+  ]
+}

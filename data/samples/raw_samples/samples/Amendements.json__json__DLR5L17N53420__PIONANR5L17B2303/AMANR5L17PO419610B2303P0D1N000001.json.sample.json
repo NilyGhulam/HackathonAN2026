@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B2303P0D1N000001",
+      "chronotag": "1770197794167",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B2303P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2303",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840765",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA342415",
+            "PA841315",
+            "PA793394",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Lhardit,  Mme&#160;Battistel, M.&#160;Benbrahim, M.&#160;Delaporte, M.&#160;Echaniz, M.&#160;Naillet, M.&#160;Potier, Mme&#160;Rossi, Mme&#160;Thomin et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2303.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "3",
+            "alineaDesignation": "Alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;3, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00E9;galement&nbsp;&#x00BB;,</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;apr&#x00E8;s avis du repr&#x00E9;sentant de l&#x2019;&#x00C9;tat dans le d&#x00E9;partement,&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement des d&#x00E9;put&#x00E9;s Socialistes et apparent&#x00E9;s vise, par parall&#x00E9;lisme avec le dispositif de r&#x00E9;quisition &#x00E0; la main du Pr&#x00E9;fet, &#x00E0; pr&#x00E9;voir le recueil de l&#x2019;avis simple du Pr&#x00E9;fet lorsque c&#x2019;est le Maire qui fait usage du pouvoir de r&#x00E9;quisition pr&#x00E9;vu par l&#x2019;article&nbsp;1<sup>er</sup>.</p><p style=\"text-align: justify;\">Le pouvoir de r&#x00E9;quisition des logements vacants est un outil sous-utilis&#x00E9; pour r&#x00E9;pondre aux graves difficult&#x00E9;s de logement qui existent dans notre pays. Les conditions &#x00E0; remplir ainsi que la n&#x00E9;cessit&#x00E9; d&#x2019;indemniser le propri&#x00E9;taire le temps de l&#x2019;occupation des locaux repr&#x00E9;sentent des contraintes souvent ind&#x00E9;passables, lorsque ce n&#x2019;est pas la justice administrative elle-m&#x00EA;me qui fait obstacle. Ce n&#x2019;est pas l&#x2019;objet de cette proposition de loi que de r&#x00E9;soudre ces difficult&#x00E9;s techniques, qui m&#x00E9;riteraient d&#x2019;&#x00EA;tre simplifi&#x00E9;es dans un texte qui porterait plus largement sur l&#x2019;am&#x00E9;lioration de la mise en oeuvre op&#x00E9;rationnelle des pouvoirs de police en mati&#x00E8;re d&#x2019;habitat, une d&#x00E9;cennie apr&#x00E8;s la loi ALUR.</p><p style=\"text-align: justify;\">&#x00C0;&nbsp;minima, afin de fluidifier l&#x2019;articulation entre le pouvoir de r&#x00E9;quisition du maire et celui du Pr&#x00E9;fet, le pr&#x00E9;sent amendement entend pr&#x00E9;voir l&#x2019;information et le recueil de l&#x2019;avis du Pr&#x00E9;fet, par parall&#x00E9;lisme avec l&#x2019;avis du maire que ce dernier doit recueillir.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-30",
+        "datePublication": "2026-02-04",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-02-04T10:36:25+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B2303P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "36667",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303",
+  "directory_json_file_count": 132,
+  "ignored_json_files_count": 131,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53420/PIONANR5L17B2303/AMANR5L17PO419610B2303P0D1N000021.json"
+  ]
+}

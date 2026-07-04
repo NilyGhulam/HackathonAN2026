@@ -1,0 +1,195 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2697P0D1N000001",
+      "chronotag": "1780420517379",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2697P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2697",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaauii",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719286",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Colombani"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2697.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;2, substituer aux mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00E0; sa communaut&#x00E9; historique, linguistique, culturelle&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;aux caract&#x00E9;ristiques historiques, linguistiques et culturelles du peuple corse, composante du peuple fran&#x00E7;ais&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; substituer &#x00E0; la notion de &#x00AB; communaut&#x00E9; &#x00BB; celle de &#x00AB; peuple corse, composante du peuple fran&#x00E7;ais &#x00BB;.</p><p>Cette r&#x00E9;daction ne rel&#x00E8;ve ni de la surench&#x00E8;re politique, ni d&#x2019;une innovation hasardeuse. Elle reprend, en l&#x2019;adaptant au cadre d&#x2019;une r&#x00E9;vision constitutionnelle, la formulation retenue par la loi n&#x00B0; 91-428 du 13 mai 1991 portant statut de la collectivit&#x00E9; territoriale de Corse, qui reconnaissait d&#x00E9;j&#x00E0; &#x00AB; la communaut&#x00E9; historique et culturelle vivante que constitue le peuple corse, composante du peuple fran&#x00E7;ais &#x00BB;.</p><p>Cette formule avait alors constitu&#x00E9; un point d&#x2019;&#x00E9;quilibre politique et institutionnel : elle reconnaissait l&#x2019;existence historique, culturelle et politique du peuple corse, tout en l&#x2019;inscrivant explicitement comme composante du peuple fran&#x00E7;ais. Le Conseil constitutionnel l&#x2019;a censur&#x00E9;e en 1991, non sur le terrain de son opportunit&#x00E9; politique, mais parce qu&#x2019;elle figurait dans une loi ordinaire, alors que la Constitution ne comportait pas elle-m&#x00EA;me une telle reconnaissance.</p><p>Le pr&#x00E9;sent amendement tire pr&#x00E9;cis&#x00E9;ment les cons&#x00E9;quences de cette difficult&#x00E9; : il ne s&#x2019;agit plus d&#x2019;introduire cette reconnaissance par la loi ordinaire, mais de l&#x2019;inscrire dans la Constitution. La mention du &#x00AB; peuple corse, composante du peuple fran&#x00E7;ais &#x00BB; garantit que cette reconnaissance s&#x2019;inscrit dans l&#x2019;unit&#x00E9; de la R&#x00E9;publique.</p><p>Une telle reconnaissance n&#x2019;est pas &#x00E9;trang&#x00E8;re aux d&#x00E9;mocraties europ&#x00E9;ennes. Ainsi, dans le cadre portugais par exemple, les A&#x00E7;ores b&#x00E9;n&#x00E9;ficient d&#x2019;un statut politico-administratif propre, approuv&#x00E9; par l&#x2019;Assembl&#x00E9;e de la R&#x00E9;publique. La Constitution portugaise fonde le r&#x00E9;gime propre des A&#x00E7;ores et de Mad&#x00E8;re sur leurs caract&#x00E9;ristiques g&#x00E9;ographiques, &#x00E9;conomiques, sociales et culturelles, ainsi que sur les aspirations autonomistes historiques des populations insulaires. Le statut politico-administratif des A&#x00E7;ores reconna&#x00EE;t, quant &#x00E0; lui, les aspirations autonomistes historiques du <i>povo a&#x00E7;oriano</i>, l&#x2019;identit&#x00E9; a&#x00E7;o… [truncated 1494 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-28",
+        "datePublication": "2026-06-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-02T19:15:13+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2697P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": null,
+        "divisionCodeLoi": "dc2"
+      },
+      "discussionCommune": {
+        "idDiscussion": "38975",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697",
+  "directory_json_file_count": 164,
+  "ignored_json_files_count": 163,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N54218/PRJLANR5L17B2697/AMANR5L17PO59051B2697P0D1N000024.json"
+  ]
+}

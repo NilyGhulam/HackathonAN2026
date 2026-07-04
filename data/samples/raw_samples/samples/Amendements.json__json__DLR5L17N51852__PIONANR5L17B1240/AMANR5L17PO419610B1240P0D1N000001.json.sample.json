@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B1240P0D1N000001",
+      "chronotag": "1757948325397",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B1240P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1240",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719890",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Brulebois"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1240.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Le III de l&#x2019;article&nbsp;L.&nbsp;515&#x2011;3 du code de l&#x2019;environnement est compl&#x00E9;t&#x00E9; par un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Lorsque la cr&#x00E9;ation ou l&#x2019;extension d&#x2019;une carri&#x00E8;re compatible avec le sch&#x00E9;ma r&#x00E9;gional des carri&#x00E8;res est contraire au sch&#x00E9;ma de coh&#x00E9;rence territoriale, au plan local d&#x2019;urbanisme, au document en tenant lieu ou &#x00E0; la carte communale en vigueur, ce sch&#x00E9;ma, ce plan, ce document ou cette carte peut, &#x00E0; l&#x2019;initiative de l&#x2019;autorit&#x00E9; comp&#x00E9;tente en mati&#x00E8;re de documents d&#x2019;urbanisme, &#x00EA;tre mis en compatibilit&#x00E9; avec le sch&#x00E9;ma r&#x00E9;gional des carri&#x00E8;res dans les conditions d&#x00E9;finies &#x00E0; l&#x2019;article&nbsp;L.&nbsp;300&#x2011;6&#x2011;1 du code de l&#x2019;urbanisme.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Dans le prolongement de l&#x2019;article 1er qui facilite l&#x2019;&#x00E9;volution des PLU, le pr&#x00E9;sent amendement &nbsp;vise &#x00E0; simplifier pour les &#x00E9;lus locaux qui le souhaitent la mise en compatibilit&#x00E9; des SCOT et PLU avec les sch&#x00E9;mas r&#x00E9;gionaux de carri&#x00E8;res (SRC), en leur ouvrant la possibilit&#x00E9; de recourir pour ce faire &#x00E0; la proc&#x00E9;dure int&#x00E9;gr&#x00E9;e de l&#x2019;article L.300-6-1 du code de l&#x2019;urbanisme.<br>&nbsp;<br>En effet, le droit commun fait de la d&#x00E9;claration de projet pr&#x00E9;vue par l&#x2019;article 300-6 du code de l&#x2019;urbanisme la proc&#x00E9;dure de r&#x00E9;f&#x00E9;rence pour la mise en compatibilit&#x00E9; d&#x2019;un SCOT, et d&#x2019;un PLU en l&#x2019;absence de SCOT. Or&nbsp;:<br>&nbsp;<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; les carri&#x00E8;res sont majoritairement sises dans de petites communes rurales pour lesquelles cette proc&#x00E9;dure appara&#x00EE;t particuli&#x00E8;rement lourde et laborieuse &#x00E0; mettre en &#x0153;uvre, et d&#x00E9;courage les maires ou les incite &#x00E0; trouver des contournements parfois eux-m&#x00EA;mes fort complexes. Et cela alors que la grande majorit&#x00E9; des projets de carri&#x00E8;res porte en r&#x00E9;alit&#x00E9; sur l&#x2019;extension de carri&#x00E8;res existantes dans le prolongement des parcelles d&#x00E9;j&#x00E0; exploit&#x00E9;es et remises en &#x00E9;tat.<br>&nbsp;<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; depuis 2020, l&#x2019;article L.515-3 du code de l&#x2019;environnement dispose que &#x00AB;&nbsp;Les sch&#x00E9;mas de coh&#x00E9;rence territoriale et, en leur absence, les plans locaux d'urbanisme, les documents en tenant lieu et les cartes communales sont compatibles avec les sch&#x00E9;mas r&#x00E9;gionaux des carri&#x00E8;res dans les conditions fix&#x00E9;es aux articles L. 131-1 et L. 131-6 du code de l'urbanisme&nbsp;&#x00BB;. Les collectivit&#x00E9;s sont donc tenues de mettre en compatibilit&#x00E9; les SCOT/PLU avec le SRC. <br>&nbsp;<br>Le pr&#x00E9;sent amendement vise donc, par l&#x2019;ajout d&#x2019;une disposition juste apr&#x00E8;s ces lignes de l&#x2019;article 515-3, &#x00E0; simplifier l&#x2019;effectivit&#x00E9; de la compatibilit&#x00E9; ainsi affirm&#x00E9;e.<br>&nbsp;<br>Il mobilise pour cela la proc&#x00E9;dure int&#x00E9;gr&#x00E9;e de l&#x2019;article L.300-6-1 qui a d&#x… [truncated 455 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-04-29",
+        "datePublication": "2025-05-07",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-05-07T11:39:50+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B1240P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c environnement",
+        "divisionCodeLoi": "L515-3"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "78208",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240",
+  "directory_json_file_count": 73,
+  "ignored_json_files_count": 72,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51852/PIONANR5L17B1240/AMANR5L17PO419610B1240P0D1N000021.json"
+  ]
+}

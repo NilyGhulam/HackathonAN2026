@@ -1,0 +1,184 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53690/PIONANR5L17BTC2576/AMANR5L17PO838901BTC2576P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2576P0D1N000001",
+      "chronotag": "1774860571569",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2576P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2576",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA842187",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Cathala,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2576.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;la fin de la seconde phrase de l&#x2019;alin&#x00E9;a&nbsp;2, substituer aux mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;peut ne retenir qu&#x2019;une partie de ces frais lorsqu&#x2019;ils s&#x2019;av&#x00E8;rent manifestement excessifs au regard des prestations effectivement accomplies, des pi&#x00E8;ces et des justificatifs produits ou de la nature des difficult&#x00E9;s pr&#x00E9;sent&#x00E9;es par le compte de campagne.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;ne retient que la partie de ces frais inf&#x00E9;rieure &#x00E0; une fois et demie le montant moyen des frais d&#x2019;expertise comptable li&#x00E9;s &#x00E0; l&#x2019;application du pr&#x00E9;sent article d&#x00E9;clar&#x00E9;s par l&#x2019;ensemble des comptes de campagne pour l&#x2019;&#x00E9;lection consid&#x00E9;r&#x00E9;e.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Par cet amendement d&#x2019;appel, le groupe LFI interroge la volont&#x00E9; du rapporteur de produire un fonctionnement l&#x00E9;gal discr&#x00E9;tionnaire dans le cadre du remboursement des frais d&#x2019;expertise-comptable obligatoires.</p><p>Nous n&#x2019;exprimons aucune difficult&#x00E9; &#x00E0; ce que cette proposition de loi soit agr&#x00E9;ment&#x00E9;e d&#x2019;un garde-fou : il faut en effet n&#x2019;assurer que les frais obligatoires d&#x2019;expert-comptable &#x00AB; normaux &#x00BB;. N&#x00E9;anmoins l&#x2019;actuelle r&#x00E9;daction soul&#x00E8;ve des interrogations.</p><p>Telle que r&#x00E9;dig&#x00E9;e, l&#x2019;actuelle proposition de loi pr&#x00E9;voit que &#x00AB; la Commission nationale des comptes de campagne et des financements politiques peut ne retenir qu&#x2019;une partie de ces frais lorsqu&#x2019;ils s&#x2019;av&#x00E8;rent manifestement excessifs &#x00BB;, sans que cette notion de manifestement excessif ne fasse l&#x2019;objet d&#x2019;une quelconque d&#x00E9;finition.</p><p>Une telle r&#x00E9;daction laisse une marge d&#x2019;interpr&#x00E9;tation massive &#x00E0; la CNCCFP pour d&#x00E9;terminer ce qu&#x2019;elle consid&#x00E8;re &#x00AB; manifestement excessif &#x00BB;. Elle ne garantit en outre aucune coh&#x00E9;rence entre ses appr&#x00E9;ciations d&#x2019;excessivit&#x00E9; : il lui sera tout &#x00E0; fait possible de consid&#x00E9;rer des d&#x00E9;penses excessives pour un candidat et de d&#x00E9;terminer que les d&#x00E9;penses de m&#x00EA;me montant d&#x2019;un concurrent sont parfaitement raisonnables. Le rapport s&#x00E9;natorial nous informe que \"en pratique, la CNCCFP consid&#x00E8;re g&#x00E9;n&#x00E9;ralement raisonnables des frais n'exc&#x00E9;dant pas 20 % du montant des d&#x00E9;penses de campagne, sous r&#x00E9;serve des comptes de faible volume\". Une telle approche, si elle devait &#x00EA;tre maintenue avec le fonctionnement futur, nous appara&#x00EE;t comme &#x00E0; la fois rudimentaire et source d'abus.</p><p>Il aurait pourtant &#x00E9;t&#x00E9; possible de d&#x00E9;finir une r&#x00E9;daction assurant une meilleure s&#x00E9;curit&#x00E9; en objectivant ce qui d&#x00E9;finit une d&#x00E9;pense &#x00AB; excessive &#x00BB; au-del&#x00E0; de laquelle chaque candidat.e ne saurait &#x00EA;tre rembours&#x00E9;. Par exemple, le montant maximal de frais rembours&#x00E9;s en fonction de diff&#x00E9;rents crit&#x00E8;res aurait pu &#x00EA;tre renvoy&#x00E9; &#x00E0; un d&#x00E9;cret.</p><p>Ou encore, et c&#x201… [truncated 1104 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-26",
+        "datePublication": "2026-03-27",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-03-30T10:49:25+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2576P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30482",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "37473",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53690/PIONANR5L17BTC2576",
+  "directory_json_file_count": 7,
+  "ignored_json_files_count": 6,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53690/PIONANR5L17BTC2576/AMANR5L17PO838901BTC2576P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53690/PIONANR5L17BTC2576/AMANR5L17PO838901BTC2576P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53690/PIONANR5L17BTC2576/AMANR5L17PO838901BTC2576P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53690/PIONANR5L17BTC2576/AMANR5L17PO838901BTC2576P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53690/PIONANR5L17BTC2576/AMANR5L17PO838901BTC2576P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53690/PIONANR5L17BTC2576/AMANR5L17PO838901BTC2576P0D1N000007.json"
+  ]
+}

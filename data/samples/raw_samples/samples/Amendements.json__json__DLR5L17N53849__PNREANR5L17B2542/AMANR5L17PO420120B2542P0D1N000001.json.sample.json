@@ -1,0 +1,183 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53849/PNREANR5L17B2542/AMANR5L17PO420120B2542P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2542P0D1N000001",
+      "chronotag": "1780479646266",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2542P0D1",
+      "texteLegislatifRef": "PNREANR5L17B2542",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721062",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Ratenon,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, Mme&#160;Bentorki, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2542.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter l&#x2019;alin&#x00E9;a unique par les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;ainsi que les effets des conventions, des partenariats, des prestations et des aides mobilis&#x00E9;s au profit des entreprises, d&#x2019;organismes de formation, de structures d&#x2019;accueil ou d&#x2019;op&#x00E9;rateurs de logement situ&#x00E9;s sur le territoire fran&#x00E7;ais et &#x00E0; l&#x2019;&#x00E9;tranger sur l&#x2019;emploi local, sur la valorisation des comp&#x00E9;tences r&#x00E9;unionnaises et sur l&#x2019;&#x00E9;galit&#x00E9; d&#x2019;acc&#x00E8;s des b&#x00E9;n&#x00E9;ficiaires aux dispositifs de mobilit&#x00E9;&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement vise &#x00E0; permettre &#x00E0; la commission d&#x2019;enqu&#x00EA;te d&#x2019;&#x00E9;valuer le mod&#x00E8;le &#x00E9;conomique et territorial du CNARM, au-del&#x00E0; des seuls dysfonctionnements internes de gouvernance, de gestion financi&#x00E8;re ou de ressources humaines.</p><p style=\"text-align: justify;\">Les dispositifs de mobilit&#x00E9; professionnelle doivent servir prioritairement les R&#x00E9;unionnaises et R&#x00E9;unionnais. Il ne doivent pas devenir un syst&#x00E8;me dans lequel des financements publics b&#x00E9;n&#x00E9;ficient principalement &#x00E0; des organismes, structures d&#x2019;accueil, prestataires ou op&#x00E9;rateurs de logement, sans &#x00E9;valuation suffisante de leur utilit&#x00E9; r&#x00E9;elle pour les personnes accompagn&#x00E9;es.</p><p style=\"text-align: justify;\">Le rapport de la Cour r&#x00E9;gionale des comptes, qui inspire cette proposition de cr&#x00E9;ation de commission d&#x2019;enqu&#x00EA;te, pointe plusieurs probl&#x00E8;mes structurels de la mobilit&#x00E9; professionnelle.</p><p style=\"text-align: justify;\">Premi&#x00E8;rement, le logement constitue une difficult&#x00E9; historique non r&#x00E9;solue li&#x00E9;es &#x00E0; une p&#x00E9;nurie d&#x2019;offres dans les r&#x00E9;gions o&#x00F9; se concentrent les mobilit&#x00E9;s et aux capacit&#x00E9;s financi&#x00E8;res limit&#x00E9;es des b&#x00E9;n&#x00E9;ficiaires du dispositif.</p><p style=\"text-align: justify;\">Deuxi&#x00E8;mement, seuls les contrats &#x00E0; dur&#x00E9;e ind&#x00E9;termin&#x00E9;e et les contrats &#x00E0; dur&#x00E9;e d&#x00E9;termin&#x00E9;e sont en principe &#x00E9;ligibles &#x00E0; l&#x2019;accompagnement du CNARM. Pourtant, r&#x00E9;guli&#x00E8;rement des offres d&#x2019;emploi sont &#x00E9;mises par des agences d&#x2019;int&#x00E9;rim ou concernent des emplois saisonniers sans qu&#x2019;aucune r&#x00E9;flexion ne soit men&#x00E9;e sur la pertinence de ce type de proposition qui ne s&#x2019;inscrivent, par nature, pas dans la dur&#x00E9;e. En ce sens &#x00E9;galement, le comit&#x00E9; a tendance &#x00E0; favoriser, ces derni&#x00E8;res ann&#x00E9;es, le d&#x00E9;part des &#x00AB;&nbsp;demandeurs d&#x2019;emploi en prospection&nbsp;&#x00BB; (DEEP) plut&#x00F4;t que les demandeurs d&#x2019;emploi avec contrat de travail (DEAC).</p><p style=\"text-align: justify;\">Troisi&#x00E8;mement, le rapport souligne qu&#x2019;il est plus facile pour les apprentis de trouver une entrepris… [truncated 1343 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-29",
+        "datePublication": "2026-06-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-06-03T11:40:20+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2542P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53849/PNREANR5L17B2542",
+  "directory_json_file_count": 3,
+  "ignored_json_files_count": 2,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53849/PNREANR5L17B2542/AMANR5L17PO420120B2542P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53849/PNREANR5L17B2542/AMANR5L17PO420120B2542P0D1N000003.json"
+  ]
+}

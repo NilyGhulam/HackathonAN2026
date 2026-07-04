@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765/AMANR5L17PO420120B0765P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0765P0D1N000001",
+      "chronotag": "1739874718174",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0765P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0765",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaav",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840939",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Godard,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, M.&#160;Delaporte, Mme&#160;Dombre&#160;Coste, M.&#160;Guedj, Mme&#160;Runel et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0765.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Supprimer l&#x2019;alin&#x00E9;a&nbsp;2.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, supprimer l&#x2019;alin&#x00E9;a&nbsp;8.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; supprimer le&nbsp;plafonnement du montant vers&#x00E9; au titre du RSA et des APL &#x00E0; 70&nbsp;% du SMIC.</p><p style=\"text-align: justify;\">Au moins 3 raisons nous conduisent &#x00E0; nous opposer fermement &#x00E0; l&#x2019;instauration d&#x2019;un tel plafonnement.</p><p style=\"text-align: justify;\"><b>Tout d&#x2019;abord, cette proposition de loi est d&#x00E9;magogique</b> en ce qu&#x2019;elle repose sur le mythe de &#x00AB;&nbsp;l&#x2019;assistanat&nbsp;&#x00BB; selon lequel il serait plus profitable d&#x2019;&#x00EA;tre allocataire de prestations sociales que de travailler.</p><p style=\"text-align: justify;\">Or de r&#x00E9;cents travaux ont d&#x00E9;montr&#x00E9; &#x2013; s&#x2019;il le fallait&nbsp;&#x2013;&nbsp;l&#x2019;impossibilit&#x00E9; pour un m&#x00E9;nage de gagner davantage en &#x00E9;tant allocataire de prestations sociales qu&#x2019;en travaillant.</p><p style=\"text-align: justify;\">En ce qui concerne le RSA et les APL (l&#x2019;objet principal de la proposition de loi), le constat est sans appel&nbsp;: <i>&#x00AB;&nbsp;quelle que soit la composition familiale, le revenu disponible augmente avec le salaire et il est plus &#x00E9;lev&#x00E9; avec un salaire au Smic que sans salaire&nbsp;&#x00BB;[1].</i></p><p style=\"text-align: justify;\">Prenons l&#x2019;exemple d&#x2019;une personne seule, locataire, sans enfant&nbsp;:&nbsp;</p><ul style=\"text-align: justify;\"><li><p>Sans revenus d&#x2019;activit&#x00E9;, cette personne per&#x00E7;oit 559&nbsp;euros de revenu de solidarit&#x00E9; active (RSA), compl&#x00E9;t&#x00E9;s par 292&nbsp;euros d&#x2019;allocation logement (APL). Son revenu est donc de 851&nbsp;euros et est inf&#x00E9;rieur au seuil de grande pauvret&#x00E9; - fix&#x00E9; &#x00E0; 873&nbsp;euros par mois.</p></li><li><p>Si cette m&#x00EA;me personne travaille &#x00E0; temps plein au SMIC, elle gagne alors 1 425&nbsp;euros nets par mois. Elle b&#x00E9;n&#x00E9;ficie alors d&#x2019;un compl&#x00E9;ment de revenus de 258&nbsp;euros gr&#x00E2;ce &#x00E0; la prime d&#x2019;activit&#x00E9;. Son revenu mensuel atteint 1 683&nbsp;euros nets par mois, soit quasiment 2 fois plus qu&#x2019;avec le RSA et les APL.</p></li></ul><p style=\"text-align: justify;\"><b>En outre, cette proposition de loi est dangereuse.</b></p><p style=\"text-align: justify;\">En plafonnant le montant du RSA et des aides au logement vers&#x00E9; &#… [truncated 1258 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-24",
+        "datePublication": "2025-01-29",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-01-29T11:02:38+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0765P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765",
+  "directory_json_file_count": 8,
+  "ignored_json_files_count": 7,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765/AMANR5L17PO420120B0765P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765/AMANR5L17PO420120B0765P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765/AMANR5L17PO420120B0765P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765/AMANR5L17PO420120B0765P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765/AMANR5L17PO420120B0765P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765/AMANR5L17PO420120B0765P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51163/PIONANR5L17B0765/AMANR5L17PO420120B0765P0D1N000008.json"
+  ]
+}

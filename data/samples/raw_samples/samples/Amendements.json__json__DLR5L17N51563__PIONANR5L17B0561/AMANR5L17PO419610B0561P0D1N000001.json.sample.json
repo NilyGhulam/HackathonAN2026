@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0561P0D1N000001",
+      "chronotag": "1739957966214",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0561P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0561",
+      "triAmendement": "aoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadc",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793872",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Oziol,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0561.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "8",
+            "alineaDesignation": "Alinéa 8"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Substituer aux alin&#x00E9;as&nbsp;8 et 9&nbsp;les deux alin&#x00E9;as suivants&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Pour l&#x2019;application du pr&#x00E9;sent article, on entend par consentement toute manifestation de volont&#x00E9; libre, sp&#x00E9;cifique, &#x00E9;clair&#x00E9;e, univoque et r&#x00E9;vocable par laquelle une personne accepte, par un acte positif clair, que des donn&#x00E9;es &#x00E0; caract&#x00E8;re personnel la concernant soient utilis&#x00E9;es aux fins de prospection commerciale par voie t&#x00E9;l&#x00E9;phonique. Les conditions pr&#x00E9;vues &#x00E0; l&#x2019;article&nbsp;7 du r&#x00E8;glement (UE) n&#x00B0;&nbsp;2016/679 du Parlement europ&#x00E9;en et du Conseil du 27 avril 2016 relatif &#x00E0; la protection des personnes physiques &#x00E0; l&#x2019;&#x00E9;gard du traitement des donn&#x00E9;es &#x00E0; caract&#x00E8;re personnel et &#x00E0; la libre circulation de ces donn&#x00E9;es, et abrogeant la directive 95/46/CE s&#x2019;appliquent.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;L&#x2019;interdiction pr&#x00E9;vue au premier alin&#x00E9;a de l&#x2019;article L.&nbsp;223&#x2011;1 du code de la consommation n&#x2019;est pas applicable lorsque la sollicitation intervient dans le cadre de l&#x2019;ex&#x00E9;cution d&#x2019;un contrat en cours et ayant un rapport direct avec l&#x2019;objet de ce contrat.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement, les d&#x00E9;put&#x00E9;.es LFI-NFP souhaitent doter l'article 1er d'une d&#x00E9;finition du consentement qui soit compl&#x00E8;te, op&#x00E9;rationnelle, et suffisamment protectrice pour les consommateurs. Nous appelons &#x00E9;galement &#x00E0; limiter l'exception client pr&#x00E9;vue par ce m&#x00EA;me article.</p><p style=\"text-align: justify;\">En effet, la r&#x00E9;daction actuelle de cet article risque de rendre inapplicable dans les faits le r&#x00E9;gime d'opt-in propos&#x00E9; et donc de continuer &#x00E0; exposer les consommateurs au fl&#x00E9;au que constitue le d&#x00E9;marchage t&#x00E9;l&#x00E9;phonique.</p><p style=\"text-align: justify;\">Nous proposons ainsi une d&#x00E9;finition du consentement qui int&#x00E8;gre l&#x2019;int&#x00E9;gralit&#x00E9; des crit&#x00E8;res entourant le recueil du consentement tels que pr&#x00E9;vus par le r&#x00E9;glement g&#x00E9;n&#x00E9;ral de protection des donn&#x00E9;es, &#x00E0; ceux pr&#x00E9;vus pour le recueil du consentement au d&#x00E9;marchage t&#x00E9;l&#x00E9;phonique. L'article 4 du RGPD dispose en effet que \"le &#x00AB;consentement&#x00BB; d'une personne d&#x00E9;signe toute manifestation de volont&#x00E9;, libre, sp&#x00E9;cifique, &#x00E9;clair&#x00E9;e et univoque par laquelle cette personne accepte, par une d&#x00E9;claration ou par un acte positif clair, que des donn&#x00E9;es &#x00E0; caract&#x00E8;re personnel la concernant fassent l'objet d'un traitement\".</p><p style=\"text-align: justify;\">Le professionnel doit recueillir un consentement du consommateur qui soit donn&#x00E9; de mani&#x00E8;re univoque, c'est-&#x00E0;-dire d&#x00E9;couler d'un acte positif clair et non-ambigu marquant son accord &#x00E0; ce que ses donn&#x00E9;es soient utilis&#x00E9;es aux fins de prospection commerciale par voie t&#x00E9;l&#x00E9;phonique. La CNIL souligne explicitement que l'acceptation des CGU ne peut pas suffire. Cette proposition de loi oublie cet &#x00E9;l&#x00E9;ment, au risque d'ouvrir &#x00E0; une marge d'interpr&#x00E9;tation excessive, et notamment celle de pr&#x00E9;somption de consentement.</p><p style=\"text-align: justify;\">De m&#x00EA;me, le consentement doit pouvoir &#x00EA;tre r&#x00E9;vocable, comme le pr&#x00E9;voit l'article 7 du RGPD. Le consommateur doit pouvoir retirer son consentement &#x00E0; tout moment, aussi facilement qu'il ne l'a donn&#x00E9; en premier lieu. Il doit &#x00EA;tre inform&#x00E9; de cette possibilit&#x00E9; d… [truncated 2955 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-14",
+        "datePublication": "2025-02-18",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-02-19T10:39:09+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0561P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "28896",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561",
+  "directory_json_file_count": 47,
+  "ignored_json_files_count": 46,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17B0561/AMANR5L17PO419610B0561P0D1N000021.json"
+  ]
+}

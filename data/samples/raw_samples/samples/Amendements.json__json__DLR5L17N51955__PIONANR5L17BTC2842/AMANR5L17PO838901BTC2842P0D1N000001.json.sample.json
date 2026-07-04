@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2842P0D1N000001",
+      "chronotag": "1780569530374",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2842P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2842",
+      "triAmendement": "gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793708",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 33
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Peytavie,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, M.&#160;Roum&#233;gas, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 4",
+          "articleDesignationCourte": "APRÈS ART. 4",
+          "articleDesignation": "APRÈS L'ARTICLE 4, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2842.asp#D_Article_4"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>La sous-section 3 de la section 3 du chapitre II du titre III du livre II du code rural et de la p&#x00EA;che maritime est compl&#x00E9;t&#x00E9;e par un article&nbsp;L.&nbsp;732&#x2011;41&#x2011;1 ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p>&#x00AB;&nbsp;<i>Art.&nbsp;L.&nbsp;732&#x2011;41&#x2011;1</i>.&nbsp;&#x2013;&nbsp;I.&nbsp;&#x2013;&nbsp;Lorsqu&#x2019;il a connaissance du d&#x00E9;c&#x00E8;s d&#x2019;un assur&#x00E9;,&nbsp;la caisse de la mutualit&#x00E9; sociale agricole ou le r&#x00E9;gime compl&#x00E9;mentaire obligatoire d&#x2019;assurance retraite des non-salari&#x00E9;s agricoles&nbsp;informe sans d&#x00E9;lai son conjoint survivant ou divorc&#x00E9; des conditions dans lesquelles il peut pr&#x00E9;tendre au b&#x00E9;n&#x00E9;fice d&#x2019;une pension de r&#x00E9;version.</p><p>&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Les modalit&#x00E9;s d&#x2019;application du pr&#x00E9;sent article, notamment les conditions dans lesquelles les organismes mentionn&#x00E9;s au premier alin&#x00E9;a peuvent se procurer les renseignements leur permettant d&#x2019;assurer leur obligation d&#x2019;information sont d&#x00E9;termin&#x00E9;es par d&#x00E9;cret.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement de repli vise &#x00E0; lutter contre le non-recours au droit &#x00E0; la pension de r&#x00E9;version pour les conjoints d&#x2019;une personne non salari&#x00E9;e agricole, en particulier les conjointes, en syst&#x00E9;matisant l&#x2019;information des b&#x00E9;n&#x00E9;ficiaires par la MSA et les caisses de retraite compl&#x00E9;mentaire sur la possibilit&#x00E9; de son b&#x00E9;n&#x00E9;fice lors du d&#x00E9;c&#x00E8;s de leur conjoint ou ex-conjoint.</p><p>Comme le rappelle, &#x00E0; juste titre, la pr&#x00E9;sente proposition de loi, malgr&#x00E9; les avanc&#x00E9;es port&#x00E9;es par les lois Chassaigne 1 et 2, les agricultrices demeurent victimes d&#x2019;in&#x00E9;galit&#x00E9;s structurelles affectant leurs capacit&#x00E9;s &#x00E0; percevoir une pension de retraite d&#x00E9;cente.</p><p>Elles sont encore fortement impact&#x00E9;es par une vision du travail des femmes dans l&#x2019;agriculture comme une &#x00AB;&nbsp;aide&nbsp;&#x00BB;, un &#x00AB;&nbsp;compl&#x00E9;ment&nbsp;&#x00BB;, faisant l&#x2019;objet d&#x2019;une d&#x00E9;valorisation de leur travail -qui s&#x2019;ajoute au travail domestique et administratif indispensable pour faire fonctionner une exploitation- et d&#x2019;un statut encore pr&#x00E9;caire.</p><p>Seulement 24&nbsp;% des chef&#x00B7;fes d&#x2019;exploitations sont des femmes. Entre 2000 et 5000 femmes agricultrices ne b&#x00E9;n&#x00E9;ficient toujours pas de statut, selon la MSA. Lorsqu&#x2019;elles cessent leur activit&#x00E9;, les cons&#x00E9;quences pour leur pouvoir de bien vivre sont catastrophiques. Alors que les retraites agricoles sont d&#x00E9;j&#x00E0; 2,5 fois plus faibles que le reste de la population, les pensions des agricultrices ne s&#x2019;&#x00E9;l&#x00E8;vent en moyenne qu&#x2019;&#x00E0; 789&nbsp;euros par mois, contre 958&nbsp;&#x20AC; pour les agriculteurs en comprenant la retraite compl&#x00E9;mentaire obligatoire. 16&nbsp;000 agricultrices n&#x2019;ont pas de retraite et sont donc totalement d&#x00E9;pendantes des revenus de leurs conjoints. Le statut de conjointe collaboratrice a &#x00E9;t&#x00E9; cr&#x00E9;&#x00E9; il y a bient&#x00F4;t 30 ans pour pallier les in&#x00E9;galit&#x00E9;s de traitement. Mais ce statut reste encore fortement in&#x00E9;galitaire et doit faire l&#x2019;objet d&#x2019;une r&#x00E9;forme majeure visant &#x00E0; l&#x2019;instauration d&#x2019;un statut unique d&#x2019;actif&#x00B7;ve agricole avec les m&#x00EA;mes droits sociaux et cotisations pour toutes … [truncated 2931 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-28",
+        "datePublication": "2026-06-02",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-06-04T12:38:34+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2842P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30664",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c rural",
+        "divisionCodeLoi": "L732-41-1"
+      },
+      "discussionCommune": {
+        "idDiscussion": "38935",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842",
+  "directory_json_file_count": 21,
+  "ignored_json_files_count": 20,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51955/PIONANR5L17BTC2842/AMANR5L17PO838901BTC2842P0D1N000021.json"
+  ]
+}

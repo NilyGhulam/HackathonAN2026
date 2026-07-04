@@ -1,0 +1,227 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B1906P2D1N000001",
+      "chronotag": "1761776863227",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "II-AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B1906P2D1",
+      "texteLegislatifRef": "PRJLANR5L17B1906",
+      "triAmendement": "afaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahqi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794982",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA794206",
+            "PA720190",
+            "PA721750",
+            {
+              "__truncated_items__": 16
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Delpech,  M.&#160;Marion, M.&#160;Sorre, Mme&#160;Calvez, Mme&#160;Spillebout, M.&#160;Patrier-Leitus, M.&#160;Mazars, M.&#160;Falorni, Mme&#160;Miller, M.&#160;Bothorel, Mme&#160;Vidal, M.&#160;Buchou, M.&#160;Martineau, Mme&#160;Morel, Mme&#160;Ronceret, M.&#160;Woerth, Mme&#160;Le&#160;Feur, M.&#160;Brosse, Mme&#160;Melchior et Mme&#160;Bellamy"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "ETAT B",
+          "articleDesignationCourte": "ART. 49",
+          "articleDesignation": "ARTICLE 49",
+          "type": "ANNEXE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": "ARTICLE 49",
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1906C.asp#D_Etat_B"
+        },
+        "missionVisee": {
+          "codeEtat": "B",
+          "codeMissionMinefi": "MA",
+          "libelleMission": "Médias, livre et industries culturelles",
+          "missionRef": "3347"
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositifAmdtCreditPLF": {
+            "listeProgrammes": {
+              "programme": [
+                {
+                  "libelle": "Presse et médias",
+                  "programmeRef": "587315",
+                  "autorisationEngagement": "15700000",
+                  "creditPaiement": "15700000",
+                  "action": "modification",
+                  "lignesCredits": {
+                    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "@xsi:nil": "true"
+                  }
+                },
+                {
+                  "libelle": "Livre et industries culturelles",
+                  "programmeRef": "587317",
+                  "autorisationEngagement": "-15700000",
+                  "creditPaiement": "-15700000",
+                  "action": "modification",
+                  "lignesCredits": {
+                    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "@xsi:nil": "true"
+                  }
+                }
+              ]
+            },
+            "soldeAE": "0",
+            "soldeCP": "0",
+            "cpEgalAe": "true"
+          },
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Les radios associatives locales jouent un r&#x00F4;le essentiel dans le paysage m&#x00E9;diatique fran&#x00E7;ais, en particulier dans les zones rurales, les quartiers prioritaires et les territoires d&#x2019;outre-mer. V&#x00E9;ritables vecteurs de coh&#x00E9;sion sociale, elles animent la vie locale, donnent la parole aux citoyens et aux acteurs du territoire, et contribuent &#x00E0; la diversit&#x00E9; culturelle.</p><p style=\"text-align: justify;\">Elles m&#x00E8;nent &#x00E9;galement des actions d&#x00E9;terminantes d&#x2019;&#x00E9;ducation aux m&#x00E9;dias et &#x00E0; l&#x2019;information, de lutte contre la d&#x00E9;sinformation et de formation, notamment aupr&#x00E8;s des jeunes. Avec pr&#x00E8;s de 3&nbsp;000 emplois directs, dont 270 journalistes professionnels, elles constituent le deuxi&#x00E8;me employeur du secteur radiophonique apr&#x00E8;s le service public.</p><p style=\"text-align: justify;\">Or, le projet de loi de finances pour 2026 pr&#x00E9;voit une diminution importante des cr&#x00E9;dits du Fonds de soutien &#x00E0; l&#x2019;expression radiophonique (FSER), relevant de l&#x2019;action 6 &#x00AB;&nbsp;Soutien &#x00E0; l&#x2019;expression radiophonique locale&nbsp;&#x00BB; du programme 180 &#x00AB;&nbsp;Presse et m&#x00E9;dias&nbsp;&#x00BB; de la mission &#x00AB;&nbsp;M&#x00E9;dias, livre et industries culturelles&nbsp;&#x00BB;. Cette r&#x00E9;duction mettrait en p&#x00E9;ril la p&#x00E9;rennit&#x00E9; de nombreuses radios associatives et des emplois qu&#x2019;elles soutiennent sur l&#x2019;ensemble du territoire.</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement vise &#x00E0; abonder de 15,7 millions d&#x2019;euros l&#x2019;action 6 du programme 180 &#x00AB;&nbsp;Presse et m&#x00E9;dias&nbsp;&#x00BB;, afin de r&#x00E9;tablir les cr&#x00E9;dits du FSER &#x00E0; leur niveau de 2025. Cet abondement est int&#x00E9;gralement gag&#x00E9; par une minoration &#x00E0; due concurrence des cr&#x00E9;dits de l&#x2019;action 2 &#x00AB;&nbsp;Industries culturelles&nbsp;&#x00BB; du programme 334 &#x00AB;&nbsp;Livre et industries culturelles&nbsp;&#x00BB;, au sein de la m&#x00EA;me mission.</p><p style=\"text-align: justify;\">Cette mesure vise &#x00E0; pr&#x00E9;server le fragile &#x00E9;quilibre &#x00E9;conomique des radios associatives, essentielles &#x00E0; la vitalit&#x00E9; d&#x00E9;mocratique et culturelle des territoires, sans remettre en cause les autres priorit&#x00E9;s de la mission.</p><p style=… [truncated 422 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-10-17",
+        "datePublication": "2025-10-29",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2025-10-29T23:27:37+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B1906P2D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "corrigé",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "33539",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906",
+  "directory_json_file_count": 13676,
+  "ignored_json_files_count": 13675,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000002.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000003.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000004.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000005.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000006.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000007.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000008.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000009.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000010.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000011.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000012.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000013.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000014.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000015.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000016.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000017.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000018.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000019.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000020.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B1906/AMANR5L17PO419604B1906P2D1N000022.json"
+  ]
+}

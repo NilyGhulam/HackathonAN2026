@@ -1,0 +1,178 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51351/PIONANR5L17BTC2244/AMANR5L17PO838901BTC2244P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2244P0D1N000001",
+      "chronotag": "1766058772394",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2244P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2244",
+      "triAmendement": "kaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794778",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA841701",
+            "PA794022",
+            {
+              "__truncated_items__": 33
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Regol,  M.&#160;Amirshahi, Mme&#160;Balage&#160;El&#160;Mariky, M.&#160;Iordanoff, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Voynet, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, M.&#160;Roum&#233;gas, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier et M.&#160;Thierry"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "APRÈS ART. 2",
+          "articleDesignation": "APRÈS L'ARTICLE 2, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2244.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai d&#x2019;un an &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport &#x00E9;valuant le co&#x00FB;t de la mise en place d&#x2019;une r&#x00E9;paration financi&#x00E8;re pour les personnes ayant subi un pr&#x00E9;judice sur le fondement de la l&#x00E9;gislation p&#x00E9;nalisant l&#x2019;avortement.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement d&#x2019;appel vise &#x00E0; attirer l&#x2019;attention sur l&#x2019;absence de r&#x00E9;paration financi&#x00E8;re pour le pr&#x00E9;judice subi par les personnes condamn&#x00E9;es sur le fondement des dispositions p&#x00E9;nalisant l&#x2019;avortement.&nbsp;</p><p><br>Cette absence, que les parlementaires ne peuvent compenser en raison de l&#x2019;article 40 de la Constitution, appara&#x00EE;t profond&#x00E9;ment injuste puisque le principe d&#x2019;une telle r&#x00E9;paration figure dans la version initiale de la loi portant r&#x00E9;paration des personnes condamn&#x00E9;es pour homosexualit&#x00E9;. Il pourrait donc y avoir une in&#x00E9;galit&#x00E9; de traitement entre les personnes condamn&#x00E9;es pour homosexualit&#x00E9; et pour avortement.</p><p><br>Les &#x00E9;cologistes proposent donc la remise d&#x2019;un rapport &#x00E9;valuant le co&#x00FB;t que repr&#x00E9;senterait la mise en place d&#x2019;une telle r&#x00E9;paration financi&#x00E8;re, qui semble indispensable.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-12-16",
+        "datePublication": "2025-12-17",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2025-12-18T12:52:21+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2244P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30063",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "Z3",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51351/PIONANR5L17BTC2244",
+  "directory_json_file_count": 2,
+  "ignored_json_files_count": 1,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51351/PIONANR5L17BTC2244/AMANR5L17PO838901BTC2244P0D1N000002.json"
+  ]
+}

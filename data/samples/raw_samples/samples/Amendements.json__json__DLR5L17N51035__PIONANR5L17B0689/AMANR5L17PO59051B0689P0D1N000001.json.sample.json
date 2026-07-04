@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0689P0D1N000001",
+      "chronotag": "1739874706861",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0689P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0689",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabc",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840903",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA340343",
+            "PA840665",
+            "PA608264",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Christophle,  M.&#160;Saulignac, Mme&#160;Allemand, Mme&#160;Capdevielle, Mme&#160;Karamanli, M.&#160;Pena, Mme&#160;Thi&#233;bault-Martinez, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0689.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe Socialistes et apparent&#x00E9;s vise &#x00E0; supprimer l'article unique de cette proposition de loi.&nbsp;</p><p>Ce texte entend supprimer le titre de s&#x00E9;jour pour &#x00E9;tranger malade.&nbsp;</p><p>Apr&#x00E8;s la loi de janvier 2024 qui satisfaisait les attentes de l'extr&#x00EA;me droite au m&#x00E9;pris du respect des droits fondamentaux reconnus &#x00E0; toute personne, ce texte marque un affaiblissement de la droite \"r&#x00E9;publicaine\" qui signe ici son effacement, l'oubli de ses valeurs. </p><p>Pr&#x00E9;vue &#x00E0; l&#x2019;article&nbsp;L 425&#x2011;9 du code de l&#x2019;entr&#x00E9;e et du s&#x00E9;jour des &#x00E9;trangers et du droit d&#x2019;asile, la proc&#x00E9;dure d&#x2019;admission au s&#x00E9;jour pour soin suppose pour en b&#x00E9;n&#x00E9;ficier de remplir une s&#x00E9;rie de conditions fix&#x00E9;es par le CESEDA. </p><p>Une telle abrogation aurait pour effet de porter une atteinte manifeste au droit &#x00E0; la sant&#x00E9;. Pour rappel, le droit &#x00E0; la sant&#x00E9; est garanti par le Pr&#x00E9;ambule de la Constitution de 1946 &#x00E0; toute personne sans condition de nationalit&#x00E9;&nbsp;: &#x00AB;&nbsp;Elle garantit &#x00E0; tous, notamment &#x00E0; l'enfant, &#x00E0; la m&#x00E8;re et aux vieux travailleurs, la protection de la sant&#x00E9;, la s&#x00E9;curit&#x00E9; mat&#x00E9;rielle, le repos et les loisirs&#x2026;&nbsp;&#x00BB; (alin&#x00E9;a 11).&nbsp;</p><p>Ce droit a &#x00E9;t&#x00E9; consacr&#x00E9; au sortir de la 2nd guerre mondiale, \"au lendemain de la victoire remport&#x00E9;e par les peuples libres sur les r&#x00E9;gimes qui ont tent&#x00E9; d'asservir et de d&#x00E9;grader la personne humaine\".&nbsp;</p><p>Cet amendement vise &#x00E0; rappeler l'existence de ce droit et le contexte de sa cons&#x00E9;cration. &nbsp; </p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-23",
+        "datePublication": "2025-01-29",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-01-29T17:37:49+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0689P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75074",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689",
+  "directory_json_file_count": 25,
+  "ignored_json_files_count": 24,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO59051B0689P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51035/PIONANR5L17B0689/AMANR5L17PO838901B0689P0D1N000011.json"
+  ]
+}

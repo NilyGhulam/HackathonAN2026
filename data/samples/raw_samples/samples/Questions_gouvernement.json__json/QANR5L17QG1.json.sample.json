@@ -1,0 +1,116 @@
+{
+  "source_file": "Questions_gouvernement.json/json/QANR5L17QG1.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "question"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "question": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xsi:type": "QuestionGouvernement_Type",
+      "uid": "QANR5L17QG1",
+      "identifiant": {
+        "numero": "1",
+        "regime": "5eme Republique",
+        "legislature": "17"
+      },
+      "type": "QG",
+      "indexationAN": {
+        "rubrique": "outre-mer",
+        "teteAnalyse": null,
+        "analyses": {
+          "analyse": "Situation à Mayotte"
+        }
+      },
+      "auteur": {
+        "identite": {
+          "acteurRef": "PA842279",
+          "mandatRef": "PM843779"
+        },
+        "groupe": {
+          "organeRef": "PO845401",
+          "abrege": "RN",
+          "developpe": "Rassemblement National"
+        }
+      },
+      "minInt": {
+        "organeRef": "PO847643",
+        "abrege": "Intérieur",
+        "developpe": "Ministère de l'intérieur"
+      },
+      "minAttribs": {
+        "minAttrib": {
+          "infoJO": {
+            "typeJO": "JO_DEBAT",
+            "dateJO": "2024-10-03",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO847643",
+            "abrege": "Intérieur",
+            "developpe": "Ministère de l'intérieur"
+          }
+        }
+      },
+      "textesQuestion": null,
+      "textesReponse": {
+        "texteReponse": {
+          "infoJO": {
+            "typeJO": "JO_DEBAT",
+            "dateJO": "2024-10-03",
+            "pageJO": "5283",
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "texte": "</p><p align=\"CENTER\"> SITUATION À MAYOTTE <a name=PG1></a> </p><br><strong>Mme la présidente . </strong>La parole est à Mme Anchya Bamana.<br><br><strong>Mme Anchya Bamana . </strong>C'est avec émotion que je prends la parole, au nom du groupe Rassemblement national, pour la première question au Gouvernement de cette session. À la suite de Marine Le Pen qui, ces dernières années, a défendu avec ardeur Mayotte, je souhaite vous alerter sur la situation extrêmement difficile que vit ce morceau de France au-delà des mers.<br><br>Mayotte condense en effet à elle seule l'ensemble des problèmes qui touchent notre pays : immigration sans contrôle – la moitié de la population de l'île est clandestine ; insécurité omniprésente, qui touche même les bus scolaires et ceux des soignants, régulièrement caillassés – ce fut encore le cas la semaine dernière ; prison surpeuplée, où le taux d'occupation atteint 260 % ; services publics submergés – l'hôpital est débordé et manque de personnel dans tous les services ; diplomatie atone, qui laisse les Comores imposer leur politique à la France ; pouvoir d'achat en baisse, sans perspective de développement économique.<br><br>Monsieur le Premier ministre, Mayotte est aujourd'hui en situation d'urgence vitale. Il apparaît que l'urgence des urgences, c'est de mettre un terme à cette immigration hors de contrôle qui gangrène notre territoire. Êtes-vous prêt à mobiliser la marine nationale pour instaurer un contrôle drastique de nos frontières dès la haute mer, afin de repousser les dizaines de bateaux qui déversent à Mayotte des étrangers que nous n'avons pas les moyens d'accueillir sur notre sol d'autant que beaucoup d'entre eux, hélas, perdent la vie en tentant la traversée ? <i>(Les députés des groupes RN et UDR se lèvent et applaudissent.)</i><br><br><strong>Mme la présidente . </strong>La parole est à M. le ministre de l'intérieur.<br><br><strong>M. Bruno Retailleau,</strong><i> ministre de l'intérieur . </i>Vous avez raison : Mayotte est en situation d'urgence. Souvenez-vous : j'y étais en mai dernier – j'y ai consacré un voyage pour me rendre compte de la situation sur place. Mayotte est malheureusement le triste exemple de ce qu'une immigration totalement incontrôlée <i>(Murmures sur les bancs du groupe LFI-NFP) </i>peut provoquer en matière de désordre,…<br><br><strong>M. Pierre Cordier .</strong> CQFD !<br><br><strong>M. Sylvain Maillard .</strong> Il a raison !<br><br><strong>M. Bruno Retailleau,</strong><i> ministre . … [truncated 2323 chars]"
+        }
+      },
+      "cloture": {
+        "codeCloture": "REP_PUB",
+        "libelleCloture": "Réponse publiée",
+        "dateCloture": "2024-10-03",
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2024-10-03",
+          "pageJO": "5283",
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        }
+      }
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Questions_gouvernement.json/json",
+  "directory_json_file_count": 1569,
+  "ignored_json_files_count": 1568,
+  "ignored_json_files_preview": [
+    "Questions_gouvernement.json/json/QANR5L17QG10.json",
+    "Questions_gouvernement.json/json/QANR5L17QG100.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1000.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1001.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1002.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1003.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1004.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1005.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1006.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1007.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1008.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1009.json",
+    "Questions_gouvernement.json/json/QANR5L17QG101.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1010.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1011.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1012.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1013.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1014.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1015.json",
+    "Questions_gouvernement.json/json/QANR5L17QG1016.json"
+  ]
+}

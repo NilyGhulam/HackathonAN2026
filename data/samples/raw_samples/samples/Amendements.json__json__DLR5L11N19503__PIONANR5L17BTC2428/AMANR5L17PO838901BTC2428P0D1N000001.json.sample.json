@@ -1,0 +1,200 @@
+{
+  "source_file": "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2428P0D1N000001",
+      "chronotag": "1770718353372",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2428P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2428",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaii",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721816",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA722390",
+            "PA719272",
+            "PA642725",
+            {
+              "__truncated_items__": 10
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Boucard,  Mme&#160;Corneloup, Mme&#160;Fr&#233;d&#233;rique&#160;Meunier, M.&#160;Li&#233;geon, M.&#160;Rolland, M.&#160;Brigand, Mme&#160;Bonnivard, M.&#160;Portier, Mme&#160;Minard, M.&#160;Ray, M.&#160;Juvin, Mme&#160;Duby-Muller, M.&#160;Hetzel et M.&#160;Ceccoli"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2428.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": "Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité",
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer cet article</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;article 1er propose d&#x2019;accorder le droit de vote et d&#x2019;&#x00E9;ligibilit&#x00E9; aux &#x00E9;lections municipales aux &#x00E9;trangers, au-del&#x00E0; des citoyens de l&#x2019;Union europ&#x00E9;enne d&#x00E9;j&#x00E0; couverts.&nbsp;</p><p>La citoyennet&#x00E9; fran&#x00E7;aise constitue le fondement du suffrage universel direct. L'Union europ&#x00E9;enne justifie son exception par une r&#x00E9;ciprocit&#x00E9; parfaite entre &#x00C9;tats membres, ce qui est d&#x00E9;j&#x00E0; discutable en soit. Cependant, un tel m&#x00E9;canisme n'existe pas avec les pays tiers, ce qui rend cette g&#x00E9;n&#x00E9;ralisation incoh&#x00E9;rente, non r&#x00E9;ciproque et contraire au principe national de souverainet&#x00E9; &#x00E9;lectorale.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-04",
+        "datePublication": "2026-02-09",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "ET",
+            "libelle": "En traitement"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2428P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428",
+  "directory_json_file_count": 501,
+  "ignored_json_files_count": 500,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000002.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000003.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000004.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000005.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000006.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000007.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000008.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000009.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000010.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000011.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000012.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000013.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000014.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000015.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000016.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000017.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000018.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000019.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000020.json",
+    "Amendements.json/json/DLR5L11N19503/PIONANR5L17BTC2428/AMANR5L17PO838901BTC2428P0D1N000021.json"
+  ]
+}

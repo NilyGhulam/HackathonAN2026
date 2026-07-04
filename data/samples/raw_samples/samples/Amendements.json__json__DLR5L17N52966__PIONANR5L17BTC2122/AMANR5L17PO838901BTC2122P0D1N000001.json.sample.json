@@ -1,0 +1,204 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2122P0D1N000001",
+      "chronotag": "1764191026331",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2122P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2122",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaas",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720342",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795864",
+            "PA720154",
+            "PA719736",
+            {
+              "__truncated_items__": 9
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Le&#160;Peih,  M.&#160;Pierre&#160;Cazeneuve, Mme&#160;Dubr&#233;-Chirat, Mme&#160;Galliard-Minier, M.&#160;Lauzzana, M.&#160;Le&#160;Gac, Mme&#160;Le&#160;Nabour, Mme&#160;Liso, Mme&#160;Missoffe, M.&#160;Mongardien, Mme&#160;Pannier-Runacher, M.&#160;Rousset et Mme&#160;Vidal"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2122.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "1",
+            "alineaDesignation": "Après l'alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": "Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité",
+        "contenuAuteur": {
+          "dispositif": "<p>Avant l&#x2019;entr&#x00E9;e en vigueur de la pr&#x00E9;sente loi, un rapport d&#x2019;&#x00E9;valuation sur l'impact de l'assujettissement &#x00E0; la CSG/CRDS pour les apprentis est remis au Parlement par le Gouvernement, dans un d&#x00E9;lai de six mois.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vise &#x00E0; apporter au Parlement une information compl&#x00E8;te et objectiv&#x00E9;e avant l&#x2019;&#x00E9;ventuelle suppression de l&#x2019;assujettissement des r&#x00E9;mun&#x00E9;rations des apprentis &#x00E0; la CSG et &#x00E0; la CRDS.</p><p>Alors que l&#x2019;apprentissage constitue l&#x2019;un des leviers majeurs de l&#x2019;insertion professionnelle des jeunes et qu&#x2019;il a connu un essor historique ces derni&#x00E8;res ann&#x00E9;es, il appara&#x00EE;t indispensable d&#x2019;&#x00E9;valuer pr&#x00E9;cis&#x00E9;ment les cons&#x00E9;quences &#x00E9;conomiques et sociales d&#x2019;une telle mesure.</p><p>Afin de garantir une loi adapt&#x00E9;e et proportionn&#x00E9;e, le pr&#x00E9;sent amendement pr&#x00E9;voit ainsi que le Gouvernement remettra au Parlement, dans un d&#x00E9;lai de six mois avant l&#x2019;entr&#x00E9;e en vigueur de la loi, un rapport d&#x2019;&#x00E9;valuation d&#x00E9;taillant les effets potentiels de l&#x2019;assujettissement &#x00E0; la CSG/CRDS pour les apprentis.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-24",
+        "datePublication": "2025-11-25",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "ET",
+            "libelle": "En traitement"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2122P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "Z3",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122",
+  "directory_json_file_count": 53,
+  "ignored_json_files_count": 52,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52966/PIONANR5L17BTC2122/AMANR5L17PO838901BTC2122P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1482P0D1N000001",
+      "chronotag": "1770219123541",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1482P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC1482",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaas",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841681",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA840665",
+            "PA642764",
+            "PA643143",
+            {
+              "__truncated_items__": 65
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Sother,  Mme&#160;Allemand, M.&#160;Aviragnet, M.&#160;Baptiste, M.&#160;Barusseau, Mme&#160;Battistel, M.&#160;Baumel, M.&#160;Belhaddad, Mme&#160;Bellay, M.&#160;Benbrahim, M.&#160;Bouloux, M.&#160;Philippe&#160;Brun, M.&#160;Califer, Mme&#160;Capdevielle, M.&#160;Christophle, M.&#160;Courbon, M.&#160;David, M.&#160;Delaporte, M.&#160;Delautrette, Mme&#160;Diop, Mme&#160;Dombre&#160;Coste, M.&#160;Dufau, M.&#160;Echaniz, M.&#160;Eskenazi, M.&#160;Faure, Mme&#160;Froger, M.&#160;F&#233;gn&#233;, M.&#160;Garot, Mme&#160;Godard, M.&#160;Gokel, Mme&#160;Got, M.&#160;Emmanuel&#160;Gr&#233;goire, M.&#160;Guedj, M.&#160;Hablot, Mme&#160;Hadizadeh, Mme&#160;Herouin-L&#233;autey, Mme&#160;C&#233;line&#160;Hervieu, M.&#160;Hollande, M.&#160;Houli&#233;, Mme&#160;Jourdan, Mme&#160;Karamanli, Mme&#160;Keloua&#160;Hachi, M.&#160;Leseul, M.&#160;Lhardit, Mme&#160;Mercier, M.&#160;Naillet, M.&#160;Oberti, Mme&#160;Pantel, M.&#160;Pena, Mme&#160;Pic, Mme&#160;Pir&#232;s&#160;Beaune, M.&#160;Potier, M.&#160;Pribetich, M.&#160;Proen&#231;a, Mme&#160;Rossi, Mme&#160;Rouaux, M.&#160;Aur&#233;lien&#160;Rousseau, M.&#160;Roussel, Mme&#160;Runel, Mme&#160;R&#233;calde, M.&#160;Saint-Pasteur, Mme&#160;Santiago, M.&#160;Saulignac, M.&#160;Simion, Mme&#160;Thi&#233;bault-Martinez, Mme&#160;Thomin, M.&#160;Vallaud, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1482.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "A",
+            "numero": "27",
+            "alineaDesignation": "Alinéa 27"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;27, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;kurde&nbsp;&#x00BB;,</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;y compris dans les pays limitrophes,&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe Socialistes et apparent&#x00E9;s vise &#x00E0; alerter sur la situation des Kurdes en Syrie, en compl&#x00E9;tant l'alin&#x00E9;a qui invite \"la Commission europ&#x00E9;enne, le Conseil de l&#x2019;UE ainsi que les &#x00C9;tats membres, et en particulier le Gouvernement fran&#x00E7;ais &#x00E0; prendre toutes les mesures n&#x00E9;cessaires pour soutenir la population kurde\" par la mention \"y compris dans les pays limitrophes\".&nbsp;</p><p>En effet, depuis 2016, la Turquie a lanc&#x00E9; plusieurs op&#x00E9;rations d&#x2019;envergures contre les Kurdes en Syrie. Notre groupe souhaite rappeler ici le&nbsp;r&#x00F4;le d&#x00E9;terminant jou&#x00E9; par ces derniers dans la lutte contre le terrorisme et l&#x2019;organisation &#x00C9;tat islamique au cours de la derni&#x00E8;re d&#x00E9;cennie.&nbsp;</p><p>Mi-janvier 2026, dans un contexte de reprise par la force de territoires g&#x00E9;r&#x00E9;s par l&#x2019;administration autonome kurde dans le nord-est de la Syrie, la Turquie a salu&#x00E9; &#x00AB;&nbsp;l&#x2019;offensive m&#x00E9;ticuleuse de Damas contre les combattants kurdes en Syrie&nbsp;&#x00BB;, et s&#x2019;est d&#x00E9;clar&#x00E9;e pr&#x00EA;te &#x00E0; apporter le &#x00AB;&nbsp;soutien n&#x00E9;cessaire&nbsp;&#x00BB; &#x00E0; l&#x2019;arm&#x00E9;e syrienne &#x00AB;&nbsp;dans son op&#x00E9;ration antiterroriste&nbsp;&#x00BB;. Rappelons que l&#x2019;int&#x00E9;gration des Kurdes de Syrie au sein des institutions de l&#x2019;&#x00C9;tat syrien est une des principales exigences d&#x2019;Ankara ; la Turquie s'opposant &#x00E0; toute consolidation de&nbsp;leur autonomie.&nbsp;</p><p>Alors que la situation des Kurdes en Syrie est particuli&#x00E8;rement alarmante malgr&#x00E9; les initiatives d'accord et celles visant &#x00E0; reconduire le cessez-le-feu, cet amendement appelle les institutions europ&#x00E9;ennes &#x00E0; une vigilance renforc&#x00E9;e&nbsp;quant &#x00E0; la protection des populations civiles.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-30",
+        "datePublication": "2026-02-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-02-04T16:31:41+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1482P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30194",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482",
+  "directory_json_file_count": 11,
+  "ignored_json_files_count": 10,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51866/PNREANR5L17BTC1482/AMANR5L17PO838901BTC1482P0D1N000011.json"
+  ]
+}

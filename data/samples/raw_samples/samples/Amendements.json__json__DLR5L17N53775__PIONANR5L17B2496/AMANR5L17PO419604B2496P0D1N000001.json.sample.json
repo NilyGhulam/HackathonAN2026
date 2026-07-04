@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B2496P0D1N000001",
+      "chronotag": "1775030341416",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B2496P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2496",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794198",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA796118",
+            "PA794562",
+            "PA793158",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Chudeau,  Mme&#160;Auzanot, M.&#160;Ballard, M.&#160;Beaurain, M.&#160;Bilde, M.&#160;Clavet, Mme&#160;Da&#160;Conceicao&#160;Carvalho, M.&#160;Christian&#160;Girard, M.&#160;Gonzalez, Mme&#160;Joncour, Mme&#160;Joubert, Mme&#160;Lavalette, M.&#160;Odoul, M.&#160;Perez, Mme&#160;Parmentier et Mme&#160;Sicard"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2496.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "A",
+            "numero": "5",
+            "alineaDesignation": "Alinéa 5"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter l&#x2019;alin&#x00E9;a&nbsp;5 par les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;apr&#x00E8;s avis de l&#x2019;inspecteur d&#x2019;acad&#x00E9;mie ou directeur acad&#x00E9;mique des services de l&#x2019;&#x00C9;ducation nationale&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; conditionner l&#x2019;organisation des RPI &#x00E0; l&#x2019;avis de l&#x2019;autorit&#x00E9; acad&#x00E9;mique comp&#x00E9;tente.&nbsp;</p><p style=\"text-align: justify;\">Si l&#x2019;implication des &#x00E9;lus locaux constitue un &#x00E9;l&#x00E9;ment essentiel des regroupements, il est n&#x00E9;cessaire que ce dispositif soit pilot&#x00E9; et coordonn&#x00E9; dans le cadre de l&#x2019;action &#x00E9;ducatrice de l&#x2019;&#x00C9;tat.</p><p style=\"text-align: justify;\">Il appara&#x00EE;t pertinent que la d&#x00E9;cision relative &#x00E0; la cr&#x00E9;ation d&#x2019;un regroupement p&#x00E9;dagogique intercommunal intervienne apr&#x00E8;s avis de l&#x2019;inspecteur d&#x2019;acad&#x00E9;mie (IA-IPR) ou du directeur acad&#x00E9;mique des services de l&#x2019;&#x00E9;ducation nationale (DASEN)</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-24",
+        "datePublication": "2026-03-31",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-04-01T09:58:39+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B2496P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "9",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496",
+  "directory_json_file_count": 14,
+  "ignored_json_files_count": 13,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53775/PIONANR5L17B2496/AMANR5L17PO419604B2496P0D1N000014.json"
+  ]
+}

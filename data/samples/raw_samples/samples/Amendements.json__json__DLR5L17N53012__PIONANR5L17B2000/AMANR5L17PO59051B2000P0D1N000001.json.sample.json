@@ -1,0 +1,190 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2000P0D1N000001",
+      "chronotag": "1764777872867",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2000P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2000",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA817203",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": "PA721584"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Miller et M.&#160;Terlier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2000.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "4",
+            "alineaDesignation": "Alinéa 4"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;la fin de l&#x2019;alin&#x00E9;a&nbsp;4, supprimer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;qui s&#x2019;entend de la libert&#x00E9; de conscience et du respect de toutes les croyances, de la garantie du libre exercice des cultes sous les seules restrictions &#x00E9;dict&#x00E9;es par la loi dans l&#x2019;int&#x00E9;r&#x00EA;t de l&#x2019;ordre public, sans que la R&#x00E9;publique n&#x2019;en reconnaisse ni n&#x2019;en salarie aucun, de l&#x2019;&#x00E9;galit&#x00E9; de tous les citoyens devant la loi sans distinction de religion et de la neutralit&#x00E9; des administrations publiques et de tout organisme investi d&#x2019;une mission de service public &#x00E0; cet &#x00E9;gard, ou &#x00E0; l&#x2019;&#x00E9;gard duquel la loi organique lui attribue des comp&#x00E9;tences&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Inscrire la d&#x00E9;finition du principe de la&#x00EF;cit&#x00E9; au sein m&#x00EA;me de la Constitution et du bloc constitutionnel ne parait pas souhaitable. La d&#x00E9;finition telle propos&#x00E9;e par l&#x2019;article unique reprend celle d&#x00E9;gag&#x00E9;e par le Conseil Constitutionnel par sa d&#x00E9;cision n&#x00B0; 2022-1004 QPC du 22 juillet 2022. Cette d&#x00E9;finition d&#x00E9;tient d&#x00E9;j&#x00E0; une valeur constitutionnelle et n'a pas n&#x00E9;cessairement besoin d'&#x00EA;tre r&#x00E9;p&#x00E9;t&#x00E9;e.&nbsp;</p><p>&nbsp;<br>En outre, avoir une d&#x00E9;finition jurisprudentielle du principe de la&#x00EF;cit&#x00E9; comporte l&#x2019;avantage de pouvoir l&#x2019;adapter plus facilement aux &#x00E9;volutions de la soci&#x00E9;t&#x00E9;&nbsp;et de pouvoir mieux appr&#x00E9;hender des ph&#x00E9;nom&#x00E8;nes nouveaux, sans passer par une r&#x00E9;vision constitutionnelle.</p><p><br>Le pr&#x00E9;sent amendement pr&#x00E9;voit donc de supprimer la d&#x00E9;finition du principe de la&#x00EF;cit&#x00E9; telle qu&#x2019;introduite &#x00E0; l&#x2019;alin&#x00E9;a 4 mais ne remet pas en cause la cr&#x00E9;ation du D&#x00E9;fenseur de la la&#x00EF;cit&#x00E9;.&nbsp;</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-28",
+        "datePublication": "2025-12-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2025-12-03T17:04:31+01:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2000P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000",
+  "directory_json_file_count": 17,
+  "ignored_json_files_count": 16,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO59051B2000P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO838901B2000P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO838901B2000P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO838901B2000P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO838901B2000P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO838901B2000P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53012/PIONANR5L17B2000/AMANR5L17PO838901B2000P0D1N000006.json"
+  ]
+}

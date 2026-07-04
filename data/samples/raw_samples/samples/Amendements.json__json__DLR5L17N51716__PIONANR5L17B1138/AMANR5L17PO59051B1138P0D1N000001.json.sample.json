@@ -1,0 +1,204 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1138P0D1N000001",
+      "chronotag": "1757947780203",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1138P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1138",
+      "triAmendement": "faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841351",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA841701",
+            "PA794022",
+            {
+              "__truncated_items__": 1
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Duplessy,  M.&#160;Amirshahi, Mme&#160;Balage&#160;El&#160;Mariky, M.&#160;Iordanoff et Mme&#160;Regol"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1138.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "9",
+            "alineaDesignation": "Alinéa 9"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0; la fin de l&#x2019;alin&#x00E9;a&nbsp;9, substituer aux mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;simples et accessibles&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;intelligibles et contextualis&#x00E9;s&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe &#x00C9;cologiste et Social propose de substituer aux mots &#x00AB; simples et accessibles &#x00BB; les termes &#x00AB; intelligibles et&nbsp;contextualis&#x00E9;s &#x00BB;, afin de mieux r&#x00E9;pondre &#x00E0; l&#x2019;objectif du texte.</p><p>La formule propos&#x00E9;e permet de mieux cerner les exigences attendues en mati&#x00E8;re de motivation de la d&#x00E9;cision de classement.</p><p>D&#x2019;une part, le terme &#x00AB; intelligibles &#x00BB; recouvre pleinement les notions de simplicit&#x00E9; et d&#x2019;accessibilit&#x00E9;, tout en &#x00E9;vitant la connotation infantilisante que peut parfois v&#x00E9;hiculer le mot &#x00AB; simple &#x00BB;. Il s&#x2019;agit d&#x2019;un terme juridiquement consacr&#x00E9;, qui renvoie &#x00E0; un principe de valeur constitutionnelle : celui de l&#x2019;intelligibilit&#x00E9; de la norme.</p><p>D&#x2019;autre part, exiger des termes &#x00AB; contextualis&#x00E9;s &#x00BB; permet de&nbsp;pr&#x00E9;venir les notifications standardis&#x00E9;es qui donnent &#x00E0; la victime le sentiment d&#x2019;une r&#x00E9;ponse impersonnelle et participent &#x00E0; son incompr&#x00E9;hension.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-04-11",
+        "datePublication": "2025-04-30",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-04-30T10:15:14+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1138P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "7",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138",
+  "directory_json_file_count": 33,
+  "ignored_json_files_count": 32,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51716/PIONANR5L17B1138/AMANR5L17PO59051B1138P0D1N000021.json"
+  ]
+}

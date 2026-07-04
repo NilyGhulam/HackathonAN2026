@@ -1,0 +1,171 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52820/PNREANR5L17BTC2205/AMANR5L17PO59047BTC2205P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59047BTC2205P0D1N000001",
+      "chronotag": "1765965323351",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_AFETR",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59047BTC2205P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC2205",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA345722",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Le&#160;Grip"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2205.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "34",
+            "alineaDesignation": "Après l'alinéa 34"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;34, ins&#x00E9;rer&nbsp;les deux alin&#x00E9;as suivants&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Exprime sa grande inqui&#x00E9;tude au vu des r&#x00E9;v&#x00E9;lations publi&#x00E9;es le 1<sup>er</sup>&nbsp;d&#x00E9;cembre&nbsp;2025 par la British Broadcasting Corporation, faisant &#x00E9;tat de l&#x2019;usage pr&#x00E9;sum&#x00E9; par les forces de l&#x2019;ordre g&#x00E9;orgiennes de cyanure de bromobenzyle&nbsp;&#x2013;&nbsp;substance prohib&#x00E9;e par le droit international&nbsp;&#x2013;&nbsp;contre des manifestants pacifiques &#x00E0; l&#x2019;automne 2024, r&#x00E9;v&#x00E9;lations ayant s&#x00E9;rieusement alert&#x00E9; la communaut&#x00E9; internationale, dont la gravit&#x00E9; est confort&#x00E9;e par une &#x00E9;tude, publi&#x00E9;e dans la revue scientifique internationale Toxicology Reports, relayant des constats m&#x00E9;dicaux accr&#x00E9;ditant les faits &#x00E9;voqu&#x00E9;s&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Appuie les demandes d&#x2019;enqu&#x00EA;te internationale ind&#x00E9;pendante adress&#x00E9;es, comme pr&#x00E9;cis&#x00E9; le 8&nbsp;d&#x00E9;cembre&nbsp;2025 par l&#x2019;ancienne pr&#x00E9;sidente Salom&#x00E9; Zourabichvili, par un collectif de m&#x00E9;decins g&#x00E9;orgiens &#x00E0; de grandes organisations internationales comp&#x00E9;tentes en mati&#x00E8;re de droits de l&#x2019;Homme et d&#x2019;armes chimiques, notamment au Commissaire aux droits de l&#x2019;Homme du Conseil de l&#x2019;Europe et &#x00E0; l&#x2019;Organisation pour l&#x2019;interdiction des armes chimiques&nbsp;;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; actualiser la proposition de r&#x00E9;solution europ&#x00E9;enne &#x00E0; la lumi&#x00E8;re de r&#x00E9;v&#x00E9;lations rendues publiques le 1<sup>er</sup>&nbsp;d&#x00E9;cembre&nbsp;2025 par la British Broadcasting Corporation (BBC), relatives &#x00E0; l&#x2019;usage pr&#x00E9;sum&#x00E9; de cyanure de bromobenzyle (&#x00AB;&nbsp;camite&nbsp;&#x00BB;) par les forces de l&#x2019;ordre g&#x00E9;orgiennes lors des manifestations pacifiques de l&#x2019;automne 2024. Ces r&#x00E9;v&#x00E9;lations ont suscit&#x00E9; une vive attention au niveau international. Si les autorit&#x00E9;s g&#x00E9;orgiennes ont contest&#x00E9; les conclusions du reportage, les qualifiant d&#x2019;&#x00AB;&nbsp;absurdes&nbsp;&#x00BB; et affirmant que les forces de police avaient agi dans un cadre l&#x00E9;gal, les services de s&#x00E9;curit&#x00E9; g&#x00E9;orgiens ont n&#x00E9;anmoins fini par indiquer avoir ouvert une enqu&#x00EA;te afin d&#x2019;&#x00E9;valuer la pertinence et la cr&#x00E9;dibilit&#x00E9; des informations donn&#x00E9;es par la BBC.</p><p style=\"text-align: justify;\">La gravit&#x00E9; des faits &#x00E9;voqu&#x00E9;s est confort&#x00E9;e par des &#x00E9;l&#x00E9;ments issus de la communaut&#x00E9; m&#x00E9;dicale et scientifique. Des m&#x00E9;decins g&#x00E9;orgiens ont fait &#x00E9;tat de sympt&#x00F4;mes persistants et inhabituels observ&#x00E9;s chez de nombreux manifestants expos&#x00E9;s, constats qu&#x2019;un praticien, le Dr Chakhunashvili, a document&#x00E9;s dans une &#x00E9;tude publi&#x00E9;e dans l&#x2019;&#x00E9;dition de d&#x00E9;cembre&nbsp;2025 de la revue scientifique internationale Toxicology Reports. Cette &#x00E9;tude fait &#x00E9;tat de troubles durables, notamment respiratoires et cardiaques, chez une partie significative des personnes concern&#x00E9;es. Ces observations, relay&#x00E9;es et examin&#x00E9;es par la communaut&#x00E9; scientifique, renforcent les interrogations quant &#x00E0; la nature des agents utilis&#x00E9;s et aux m&#x00E9;thodes de maintien de l&#x2019;ordre mises en &#x0153;uvre.</p><p style=\"text-align: justify;\">Dans ce contexte, les d&#x00E9;marches engag&#x00E9;es par un collectif de m&#x00E9;decins g&#x00E9;orgiens aupr&#x00E8;s de grandes organisations internationales comp&#x00E9;tentes en mati&#x00E8;re de droits de l&#x2019;homme et d&#x2019;armes chimiques, en vue de l&#x2019;ouverture d&#x2019;une enqu&#x00EA;te ind&#x00E9;pendante, t&#x00E9;moignent du s… [truncated 820 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-12-16",
+        "datePublication": "2025-12-16",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-12-17T10:55:09+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59047BTC2205P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52820/PNREANR5L17BTC2205",
+  "directory_json_file_count": 1,
+  "ignored_json_files_count": 0,
+  "ignored_json_files_preview": []
+}

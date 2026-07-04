@@ -1,0 +1,182 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2175P0D1N000001",
+      "chronotag": "1768987557330",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2175P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2175",
+      "triAmendement": "kaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841359",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841017",
+            "PA607619"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;de&#160;P&#233;lichy,  M.&#160;Huwart et M.&#160;Molac"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "APRÈS ART. 2",
+          "articleDesignation": "APRÈS L'ARTICLE 2, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2175.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">L&#x2019;article&nbsp;266 du code civil est compl&#x00E9;t&#x00E9; par un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Aucuns dommages et int&#x00E9;r&#x00EA;ts ne peuvent &#x00EA;tre accord&#x00E9;s sur le fondement de l&#x2019;absence ou du refus de relations sexuelles.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Afin de ne laisser aucun angle mort dans cette proposition de loi mettant fin au devoir conjugal, le pr&#x00E9;sent amendement pr&#x00E9;cise que l&#x2019;octroi de dommages et int&#x00E9;r&#x00EA;ts pr&#x00E9;vu &#x00E0; l&#x2019;article&nbsp;266 du code civil ne peut jamais reposer sur l&#x2019;absence ou le refus de relations sexuelles entre &#x00E9;poux.</p><p style=\"text-align: justify;\">En l&#x2019;&#x00E9;tat, l&#x2019;article&nbsp;266 permet l&#x2019;octroi d&#x2019;une r&#x00E9;paration &#x00E0; un &#x00E9;poux lorsque la dissolution du mariage entra&#x00EE;ne des cons&#x00E9;quences d&#x2019;une particuli&#x00E8;re gravit&#x00E9; ou pour alt&#x00E9;ration d&#x00E9;finitive du lien conjugal. En l&#x2019;absence de pr&#x00E9;cision, ce fondement pourrait continuer &#x00E0; &#x00EA;tre invoqu&#x00E9; en se r&#x00E9;f&#x00E9;rant au devoir conjugal. Pour rappel, dans l&#x2019;affaire H.W. c/France de 2025, dans laquelle la France a &#x00E9;t&#x00E9; condamn&#x00E9;e, la Cour europ&#x00E9;enne des droits de l&#x2019;homme a justement reproch&#x00E9; aux juridictions fran&#x00E7;aises d&#x2019;avoir octroy&#x00E9; des dommages et int&#x00E9;r&#x00EA;ts pour inex&#x00E9;cution du devoir conjugal.</p><p style=\"text-align: justify;\">Cet amendement vise &#x00E0; lever toute ambigu&#x00EF;t&#x00E9; en pr&#x00E9;cisant qu&#x2019;aucune r&#x00E9;paration ne peut &#x00EA;tre fond&#x00E9;e sur le refus ou l&#x2019;absence de relations intimes entre &#x00E9;poux. Il permet ainsi de&nbsp;garantir la pleine coh&#x00E9;rence de la proposition de loi.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-14",
+        "datePublication": "2026-01-21",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-01-21T10:25:39+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2175P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c civil",
+        "divisionCodeLoi": "266"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175",
+  "directory_json_file_count": 10,
+  "ignored_json_files_count": 9,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53279/PIONANR5L17B2175/AMANR5L17PO59051B2175P0D1N000010.json"
+  ]
+}

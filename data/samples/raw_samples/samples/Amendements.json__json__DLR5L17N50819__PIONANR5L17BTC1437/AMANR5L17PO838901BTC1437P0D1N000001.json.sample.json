@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1437P0D1N000001",
+      "chronotag": "1757949304163",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1437P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1437",
+      "triAmendement": "aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA335999",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 15
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Batho,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu et M.&#160;Iordanoff"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1437.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;article 2 de cette proposition de loi constitue une r&#x00E9;gression, totalement contraire aux principes de la Charte de l&#x2019;environnement de la Constitution et au principe de non-r&#x00E9;gression inscrit &#x00E0; l&#x2019;article L. 110-1 du code de l&#x2019;environnement qui dispose que &#x00AB; la protection de l&#x2019;environnement, assur&#x00E9;e par les dispositions l&#x00E9;gislatives et r&#x00E9;glementaires relatives &#x00E0; l&#x2019;environnement, ne peut faire l&#x2019;objet que d&#x2019;une am&#x00E9;lioration constante, compte tenu des connaissances scientifiques et techniques du moment &#x00BB;.</p><p>Il institutionnalise un nouvel organe pour \"la protection des cultures\"&nbsp;auquel l'Anses devra rendre compte alors qu'elle est en charge de l'&#x00E9;valuation des risques dans le cadre de la d&#x00E9;livrance des autorisations de mise sur le march&#x00E9; des pesticides.</p><p>Il vise &#x00E9;galement &#x00E0; r&#x00E9;autoriser en France le poison des n&#x00E9;onicotino&#x00EF;des.</p><p>Or les n&#x00E9;onicotino&#x00EF;des sont les insecticides de synth&#x00E8;se les plus puissants jamais utilis&#x00E9;s en agriculture. Leurs dangers pour la biodiversit&#x00E9; et pour la sant&#x00E9; humaine sont des faits &#x00E9;tablis par la science. Leurs impacts &#x00E9;conomiques sur la fili&#x00E8;re apicole (mortalit&#x00E9; de 300 000 ruches par ann&#x00E9;e, division par deux de la production en 20 ans selon l'UNAF) ainsi que sur la pollinisation des cultures est d&#x00E9;sastreux. Les travaux du CNRS de Chiz&#x00E9; ont montr&#x00E9; que sans pollinisateurs, les rendements du colza et du tournesol diminuent de 50 &#x00E0; 70 %.</p><p>La France a &#x00E9;t&#x00E9; pionni&#x00E8;re pour interdire l&#x2019;utilisation de ces produits. L&#x2019;article 125 de la loi n&#x00B0; 2016-1087 du 8 ao&#x00FB;t 2016 pour la reconqu&#x00EA;te de la biodiversit&#x00E9;, modifiant l&#x2019;article L. 253-8 du code rural et de la p&#x00EA;che maritime, constitue la seule avanc&#x00E9;e tangible en mati&#x00E8;re de pesticides depuis des ann&#x00E9;es. La loi fran&#x00E7;aise a entra&#x00EE;n&#x00E9; en 2018 la d&#x00E9;cision europ&#x00E9;enne de retrait, dans l&#x2019;ensemble de l&#x2019;Union europ&#x00E9;enne et pour les cultures de plein champ, des n&#x00E9;onicotino&#x00EF;des qui &#x00E9;taient jusqu&#x2019;ici les plus utilis&#x00E9;s.</p><p>La r&#x00E9;autorisation des n&#x00E9;onicotino&#x00EF;des sur des centaines de milliers d&#… [truncated 135 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-05-18",
+        "datePublication": "2025-05-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1437P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "79278",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437",
+  "directory_json_file_count": 3460,
+  "ignored_json_files_count": 3459,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N50819/PIONANR5L17BTC1437/AMANR5L17PO838901BTC1437P0D1N000022.json"
+  ]
+}

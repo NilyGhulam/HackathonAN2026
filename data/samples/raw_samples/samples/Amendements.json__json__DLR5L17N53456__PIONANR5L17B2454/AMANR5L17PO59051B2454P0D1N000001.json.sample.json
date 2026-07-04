@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2454P0D1N000001",
+      "chronotag": "1772018155333",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2454P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2454",
+      "triAmendement": "beaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793122",
+          "groupePolitiqueRef": "PO845454",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Daubi&#233;"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 3",
+          "articleDesignationCourte": "ART. 3",
+          "articleDesignation": "ARTICLE 3",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2454.asp#D_Article_3"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer les alin&#x00E9;as 1 &#x00E0; 5.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: left;\">Cet amendement vise &#x00E0; maintenir la r&#x00E9;daction en vigueur de l&#x2019;article L. 2113-4 du code g&#x00E9;n&#x00E9;ral des collectivit&#x00E9;s territoriales, afin de pr&#x00E9;server le droit d&#x2019;opposition des conseils d&#x00E9;partementaux et r&#x00E9;gionaux lorsque la cr&#x00E9;ation d&#x2019;une commune nouvelle entra&#x00EE;ne une modification de leurs limites territoriales.<br>&nbsp;<br>Si la cr&#x00E9;ation de communes nouvelles doit &#x00EA;tre encourag&#x00E9;e, une commune nouvelle interd&#x00E9;partementale ou interr&#x00E9;gionale ne constitue pas un simple projet communal : elle emporte des cons&#x00E9;quences structurelles pour les collectivit&#x00E9;s concern&#x00E9;es en mati&#x00E8;re de comp&#x00E9;tences, d&#x2019;organisation des services, de planification et sur le plan de leurs finances.<br>&nbsp;<br>Le droit d&#x2019;opposition actuellement reconnu aux d&#x00E9;partements et r&#x00E9;gions constitue, dans ce contexte, une garantie essentielle de stabilit&#x00E9; et de coh&#x00E9;rence territoriale. Le remettre en cause reviendrait &#x00E0; fragiliser l&#x2019;&#x00E9;quilibre de l&#x2019;organisation territoriale et &#x00E0; transformer les limites d&#x00E9;partementales et r&#x00E9;gionales en variables d&#x2019;ajustement. <br>&nbsp;<br>En supprimant le droit de veto&nbsp;des collectivit&#x00E9;s d&#x00E9;partementales et r&#x00E9;gionales, le dispositif propos&#x00E9; porte atteinte &#x00E0; leur libre administration et &#x00E0; l&#x2019;int&#x00E9;grit&#x00E9; de leur territoire, qui conditionne l&#x2019;exercice effectif de leurs comp&#x00E9;tences. Cela est d&#x2019;autant plus vrai que, dans la proc&#x00E9;dure envisag&#x00E9;e, la modification des limites territoriales serait effectu&#x00E9;e par le pouvoir r&#x00E9;glementaire, alors que seul le l&#x00E9;gislateur, en application des articles 34 et 72 de la Constitution, peut encadrer l&#x2019;exercice de la libre administration des collectivit&#x00E9;s. <br>Il y a l&#x00E0; une fragilit&#x00E9; juridique potentielle, autant qu&#x2019;une question de principe. En d&#x2019;autres termes, introduire une d&#x00E9;rogation au principe de la comp&#x00E9;tence du l&#x00E9;gislateur pour d&#x00E9;limiter le p&#x00E9;rim&#x00E8;tre des d&#x00E9;partements et des r&#x00E9;gions ne manque pas d&#x2019;interroger.<br>&nbsp;<br>Enfin, le droit d&#x2019;opposition des d&#x00E9;partements et des r&#x00E9;gions ne doit pas &#x00EA;tre surestim… [truncated 494 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-18",
+        "datePublication": "2026-02-24",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Non soutenu"
+          }
+        },
+        "dateSort": "2026-02-25T12:15:31+01:00",
+        "sort": "Non soutenu"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2454P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "divisionCodeLoi": "s1 à 5"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "87639",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454",
+  "directory_json_file_count": 64,
+  "ignored_json_files_count": 63,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53456/PIONANR5L17B2454/AMANR5L17PO59051B2454P0D1N000021.json"
+  ]
+}

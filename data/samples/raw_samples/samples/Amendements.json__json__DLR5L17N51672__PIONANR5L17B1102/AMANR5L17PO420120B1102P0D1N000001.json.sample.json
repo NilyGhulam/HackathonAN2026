@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1102P0D1N000001",
+      "chronotag": "1744228947408",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1102P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1102",
+      "triAmendement": "ccaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaw",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA330909",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA722390",
+            "PA642847",
+            "PA841047",
+            {
+              "__truncated_items__": 11
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Descoeur,  Mme&#160;Corneloup, M.&#160;Bazin, M.&#160;Ceccoli, M.&#160;Jean-Pierre&#160;Vigier, M.&#160;Brigand, M.&#160;Breton, M.&#160;Fabrice&#160;Brun, M.&#160;Pauget, M.&#160;Cordier, Mme&#160;Sylvie&#160;Bonnet, M.&#160;Rolland, M.&#160;Forissier, M.&#160;Liger et M.&#160;Juvin"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 6",
+          "articleDesignationCourte": "ART. 6",
+          "articleDesignation": "ARTICLE 6",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1102.asp#D_Article_6"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "2",
+            "alineaDesignation": "Après l'alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter cet article par l'alin&#x00E9;a suivant : </p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Dans un d&#x00E9;lai de six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport sur l&#x2019;&#x00E9;tat des soins palliatifs en France et sur les moyens financiers et humains &#x00E0; mettre en &#x0153;uvre pour garantir l&#x2019;acc&#x00E8;s aux soins palliatifs sur l&#x2019;ensemble du territoire.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Les lois L&#x00E9;onetti et Claeys-L&#x00E9;onetti ont toutes deux demand&#x00E9; le d&#x00E9;veloppement des soins palliatifs. <br>Or nous savons que les soins palliatifs sont &#x00AB;&nbsp;notoirement sous-dot&#x00E9;s. Aujourd&#x2019;hui, 20 d&#x00E9;partements sont encore d&#x00E9;pourvus d&#x2019;Unit&#x00E9;s de Soins Palliatifs (USP).<br>Le 10 avril 2024 a &#x00E9;t&#x00E9; pr&#x00E9;sent&#x00E9; en Conseil des Ministres la strat&#x00E9;gie d&#x00E9;cennale des soins d&#x2019;accompagnement destin&#x00E9;e &#x00E0; renforcer l&#x2019;acc&#x00E8;s aux soins palliatifs en France. Il sera d&#x00E9;ploy&#x00E9; <br>jusqu&#x2019;en 2034, avec un budget port&#x00E9; &#x00E0; terme &#x00E0; 2,7 milliards d&#x2019;euros par an. Si ce projet fait l&#x2019;unanimit&#x00E9; notamment aupr&#x00E8;s du corps m&#x00E9;dical, tant par son ambition que par les moyens qui sontd&#x00E9;ploy&#x00E9;s, il conviendrait d&#x2019;aller plus vite au regard du retard d&#x00E9;j&#x00E0; pris sur le sujet. Aujourd&#x2019;hui, un Fran&#x00E7;ais sur deux qui a besoin de soins palliatifs y a v&#x00E9;ritablement acc&#x00E8;s (&#x2026;) Si l&#x2019;on veut que chacun puisse avoir acc&#x00E8;s aux soins palliatifs, il faudrait en th&#x00E9;orie doubler les moyens.<br><br>Il est donc demand&#x00E9; &#x00E0; travers cet amendement la pr&#x00E9;sentation d&#x2019;un rapport visant &#x00E0; d&#x00E9;finir les moyens n&#x00E9;cessaires financiers et humains afin que toutes personnes, dans tout le territoire, qui souhaitent pouvoir b&#x00E9;n&#x00E9;ficier des soins d&#x2019;accompagnement puissent vraiment y pr&#x00E9;tendre d&#x2019;ici 2030</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-25",
+        "datePublication": "2025-04-08",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2025-04-09T22:02:17+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1102P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102",
+  "directory_json_file_count": 623,
+  "ignored_json_files_count": 622,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51672/PIONANR5L17B1102/AMANR5L17PO420120B1102P0D1N000021.json"
+  ]
+}

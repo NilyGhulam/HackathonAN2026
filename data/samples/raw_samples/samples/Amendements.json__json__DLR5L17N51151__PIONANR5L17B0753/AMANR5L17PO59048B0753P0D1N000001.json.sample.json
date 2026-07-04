@@ -1,0 +1,181 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51151/PIONANR5L17B0753/AMANR5L17PO59048B0753P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B0753P0D1N000001",
+      "chronotag": "1739874713635",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B0753P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0753",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA605745",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA842299",
+            "PA842271",
+            "PA720838",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Sansu,  M.&#160;Tjibaou, M.&#160;Maurel, Mme&#160;Bourouaha, M.&#160;B&#233;nard, M.&#160;Castor, Mme&#160;Faucillon, M.&#160;Chassaigne, Mme&#160;K/Bidi, M.&#160;Rimane, M.&#160;Peu, Mme&#160;Reid&#160;Arbelot, M.&#160;Nadeau, M.&#160;Monnet, M.&#160;Maillot, M.&#160;Lecoq et Mme&#160;Lebon"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0753.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;adoption de cette proposition de loi aurait un co&#x00FB;t important &#x00E0; la fois pour le budget de l&#x2019;Etat, de la s&#x00E9;curit&#x00E9; sociale et des collectivit&#x00E9;s territoriales sans que l&#x2019;utilit&#x00E9; sociale d&#x2019;une telle d&#x00E9;pense ne soit d&#x00E9;montr&#x00E9;e par son auteur. Parall&#x00E8;lement, cette nouvelle incitation au fait de d&#x00E9;roger aux 35h, dans la lign&#x00E9;e de la d&#x00E9;fiscalisation des heures suppl&#x00E9;mentaires, remet en cause un conquis social fondamental, la r&#x00E9;duction du temps de travail.<br>&nbsp;<br>Enfin, l&#x2019;augmentation de la charge reposant sur nos finances publiques, sans qu&#x2019;aucun chiffrage ne soit communiqu&#x00E9;, nous para&#x00EE;t surprenant quand dans le m&#x00EA;me temps le gouvernement Bayrou multiplie les r&#x00E9;ductions de d&#x00E9;penses publiques.<br>&nbsp;<br>Pour ces raisons, nous demandons la suppression de cet article et donc de fait le rejet de cette proposition de loi. &nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-24",
+        "datePublication": "2025-01-29",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-01-29T10:35:30+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B0753P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75112",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51151/PIONANR5L17B0753",
+  "directory_json_file_count": 5,
+  "ignored_json_files_count": 4,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51151/PIONANR5L17B0753/AMANR5L17PO59048B0753P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51151/PIONANR5L17B0753/AMANR5L17PO59048B0753P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51151/PIONANR5L17B0753/AMANR5L17PO59048B0753P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51151/PIONANR5L17B0753/AMANR5L17PO59048B0753P0D1N000005.json"
+  ]
+}

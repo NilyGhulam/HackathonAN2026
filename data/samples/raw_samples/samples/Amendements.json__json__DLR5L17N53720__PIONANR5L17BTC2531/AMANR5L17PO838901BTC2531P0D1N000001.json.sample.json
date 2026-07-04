@@ -1,0 +1,195 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2531P0D1N000001",
+      "chronotag": "1774563060834",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2531P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2531",
+      "triAmendement": "daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayo",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840135",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793432",
+            "PA841487",
+            "PA841605",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Dufosset,  M.&#160;Allisio, M.&#160;Boulogne, M.&#160;Golliot, M.&#160;Casterman, M.&#160;Lottiaux, Mme&#160;Galzy, M.&#160;Mauvieux, M.&#160;Jean-Philippe&#160;Tanguy, Mme&#160;Roy, M.&#160;Salmon, M.&#160;Renault, M.&#160;Dessigny, M.&#160;Fouquart, Mme&#160;Marais-Beuil et Mme&#160;Diaz"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2531.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "7",
+            "alineaDesignation": "Après l'alinéa 7"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;7, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II&nbsp;<i>bis</i>.&nbsp;&#x2013;&nbsp;Le contrat d&#x2019;objectifs et de performance peut comporter une clause de conditionnalit&#x00E9; des subventions pour charges de service public vers&#x00E9;es par l&#x2019;&#x00C9;tat &#x00E0; l&#x2019;organisme. Cette clause pr&#x00E9;voit qu&#x2019;une fraction de ces subventions est subordonn&#x00E9;e &#x00E0; l&#x2019;atteinte des objectifs et des indicateurs d&#x00E9;finis par le contrat. Les modalit&#x00E9;s d&#x2019;application de cette conditionnalit&#x00E9; sont fix&#x00E9;es par d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vise &#x00E0; renforcer la port&#x00E9;e effective des contrats d&#x2019;objectifs et de performance (COP) en introduisant un m&#x00E9;canisme de modulation d&#x2019;une fraction des subventions pour charges de service public en fonction du degr&#x00E9; d&#x2019;atteinte des objectifs contractuellement fix&#x00E9;s. En l&#x2019;&#x00E9;tat actuel, les COP constituent souvent des instruments formels de dialogue strat&#x00E9;gique entre l&#x2019;&#x00C9;tat et ses op&#x00E9;rateurs, mais demeurent d&#x00E9;pourvus de v&#x00E9;ritable levier incitatif. Le rapport de la commission d&#x2019;enqu&#x00EA;te du S&#x00E9;nat sur les missions des agences, op&#x00E9;rateurs et organismes consultatifs de l&#x2019;&#x00C9;tat, remis le 1er juillet 2025, souligne que trop d&#x2019;op&#x00E9;rateurs sont d&#x00E9;pourvus de contrats robustes et que, lorsqu&#x2019;ils existent, ceux-ci comportent fr&#x00E9;quemment des objectifs g&#x00E9;n&#x00E9;raux, insuffisamment assortis d&#x2019;indicateurs pr&#x00E9;cis et sans cons&#x00E9;quence en cas de non-atteinte . Cette faiblesse r&#x00E9;duit la capacit&#x00E9; de l&#x2019;&#x00C9;tat &#x00E0; exercer un pilotage strat&#x00E9;gique r&#x00E9;el et affaiblit le contr&#x00F4;le parlementaire.</p><p>Dans un contexte de contrainte budg&#x00E9;taire accrue et d&#x2019;exigence renforc&#x00E9;e de transparence de la d&#x00E9;pense publique, il appara&#x00EE;t n&#x00E9;cessaire d&#x2019;introduire un m&#x00E9;canisme incitatif proportionn&#x00E9;, permettant d&#x2019;aligner plus &#x00E9;troitement l&#x2019;allocation des cr&#x00E9;dits publics sur la r&#x00E9;alisation effective des objectifs strat&#x00E9;giques.</p><p>La modulation d&#x2019;une fraction des subventions pour charges de service public s&#x2019;inscrit dans une logique contractuelle &#x00E9;quilibr&#x00E9;e, comparable aux pratiques observ&#x00E9;es dans plusieurs pays de l&#x2019;OCDE en mati&#x00E8;re de performance publique, et renvoie &#x00E0; un d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat le soin de pr&#x00E9;ciser les modalit&#x00E9;s d&#x2019;application, notamment la proportion maximale concern&#x00E9;e et les garanties proc&#x00E9;durales.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-04",
+        "datePublication": "2026-03-25",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-03-26T23:10:56+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2531P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30405",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531",
+  "directory_json_file_count": 78,
+  "ignored_json_files_count": 77,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53720/PIONANR5L17BTC2531/AMANR5L17PO838901BTC2531P0D1N000021.json"
+  ]
+}

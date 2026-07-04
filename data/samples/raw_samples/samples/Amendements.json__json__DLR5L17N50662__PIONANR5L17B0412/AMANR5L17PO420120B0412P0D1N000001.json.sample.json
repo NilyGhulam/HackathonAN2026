@@ -1,0 +1,176 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0412P0D1N000001",
+      "chronotag": "1739874682865",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0412P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0412",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840773",
+          "groupePolitiqueRef": "PO847173",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": "PA841183"
+        },
+        "suffixe": "et les membres du groupe UDR",
+        "libelle": "M.&#160;Fayssat,  Mme&#160;Mansouri et les membres du groupe UDR"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0412.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p><b>Cet amendement d&#x00E9;pos&#x00E9; par le Groupe UDR</b> vise &#x00E0; supprimer l'article 1er de ce texte.&nbsp;</p><p>En imposant un cadre strict de r&#x00E9;mun&#x00E9;ration, le l&#x00E9;gislateur va limiter la capacit&#x00E9; des entreprises &#x00E0; fixer des salaires adapt&#x00E9;s aux comp&#x00E9;tences, &#x00E0; l&#x2019;exp&#x00E9;rience, ou aux performances de leurs employ&#x00E9;s. Les dirigeants d&#x2019;entreprise vont perdre la flexibilit&#x00E9; n&#x00E9;cessaire pour r&#x00E9;compenser des employ&#x00E9;s cl&#x00E9;s ou pour attirer des talents rares dans des secteurs hautement comp&#x00E9;titifs.</p><p><br>En standardisant ou en encadrant davantage les r&#x00E9;mun&#x00E9;rations, cette loi va introduire une rigidit&#x00E9; salariale qui freine l&#x2019;innovation et la croissance. Les entreprises innovantes, en particulier dans les secteurs technologiques et cr&#x00E9;atifs, comptent souvent sur des salaires comp&#x00E9;titifs et des avantages pour attirer les meilleurs talents. Des plafonds ou des restrictions strictes vont limiter leur capacit&#x00E9; &#x00E0; innover et &#x00E0; se d&#x00E9;velopper, notamment dans les domaines o&#x00F9; la main-d&#x2019;&#x0153;uvre qualifi&#x00E9;e est rare.<br>&nbsp;<br>Dans un contexte de mondialisation, la rigidit&#x00E9; salariale va rendre les entreprises fran&#x00E7;aises moins capables d'accueillir des talents.</p><p>&nbsp;<br>Les secteurs &#x00E9;conomiques pr&#x00E9;sentent des dynamiques de r&#x00E9;mun&#x00E9;ration tr&#x00E8;s vari&#x00E9;es : les niveaux de salaire dans la finance, la technologie, ou l&#x2019;industrie ne sont pas les m&#x00EA;mes que ceux dans le commerce de d&#x00E9;tail ou les services &#x00E0; la personne. Une loi uniforme sera totalement inadapt&#x00E9;e aux r&#x00E9;alit&#x00E9;s et aux besoins propres &#x00E0; chaque secteur. Certaines industries pourraient &#x00EA;tre davantage p&#x00E9;nalis&#x00E9;es, surtout si elles d&#x00E9;pendent d&#x2019;une main-d&#x2019;&#x0153;uvre tr&#x00E8;s qualifi&#x00E9;e ou de talents sp&#x00E9;cialis&#x00E9;s.</p><p><br>Une telle proposition de loi va de surcroit engendrer un accroissement colossal des proc&#x00E9;dures administratives, avec des contr&#x00F4;les pour s&#x2019;assurer de la conformit&#x00E9; des entreprises. Cette bureaucratie accrue sera co&#x00FB;teuse pour les entreprises comme pour l&#x2019;&#x00C9;tat, d&#x00E9;tournent les ressources de t&#x00E2;ches plus productives. Pour certaines entreprises, not… [truncated 576 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-14",
+        "datePublication": "2024-11-20",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2024-11-20T18:07:39+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0412P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "74296",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412",
+  "directory_json_file_count": 10,
+  "ignored_json_files_count": 9,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17B0412/AMANR5L17PO420120B0412P0D1N000010.json"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B2301P0D1N000001",
+      "chronotag": "1770206223977",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B2301P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2301",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA643104",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Minard"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2301.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; supprimer l&#x2019;article unique du texte qui pr&#x00E9;voit d&#x2019;interdire l&#x2019;usage des engrais phosphat&#x00E9;s min&#x00E9;raux contenant du cadmium en France au 1er janvier 2027.</p><p><br>Les plantes ont besoin d&#x2019;&#x00E9;l&#x00E9;ments nutritifs pour assurer leur croissance. Ces &#x00E9;l&#x00E9;ments (en particulier azote, phosphore et potassium) sont apport&#x00E9;s par les mati&#x00E8;res fertilisantes, dont font partie les engrais min&#x00E9;raux.</p><p><br>Les engrais min&#x00E9;raux sont issus de roches qui contiennent naturellement du cadmium. Cependant, la r&#x00E9;glementation europ&#x00E9;enne et fran&#x00E7;aise encadre strictement les taux de cadmium admis dans les fertilisants, ainsi que les doses admissibles &#x00E0; l&#x2019;&#x00E9;pandage. Par ailleurs, nous constatons une diminution de 43% des apports en engrais phosphat&#x00E9;s entre 1988 et 2022.</p><p><br>Le sujet du cadmium est ainsi suivi et trait&#x00E9; dans le cadre des politiques publiques.&nbsp;En effet, le cadmium est soumis &#x00E0; une r&#x00E9;glementation stricte en Europe et en France avec des suivis des mati&#x00E8;res commercialis&#x00E9;es autant sur les c&#x00E9;r&#x00E9;ales, farines que sur les engrais avec des seuils stricts &#x00E0; ne pas d&#x00E9;passer. La proposition de loi ne ferait qu&#x2019;ajouter aux tensions actuelles sur le march&#x00E9; des engrais dans un contexte d&#x00E9;j&#x00E0; tr&#x00E8;s complexes, mettant en risque la souverainet&#x00E9; alimentaire fran&#x00E7;aise.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-30",
+        "datePublication": "2026-02-03",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-04T12:56:40+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B2301P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "86489",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301",
+  "directory_json_file_count": 10,
+  "ignored_json_files_count": 9,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17B2301/AMANR5L17PO419610B2301P0D1N000010.json"
+  ]
+}

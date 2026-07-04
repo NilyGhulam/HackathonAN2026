@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1831P0D1N000001",
+      "chronotag": "1764755702946",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1831P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1831",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793608",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793844",
+            "PA793374",
+            "PA794886",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Levavasseur,  Mme&#160;Bordes, M.&#160;Baubry, Mme&#160;Blanc, M.&#160;Gery, M.&#160;Gillet, Mme&#160;Griseti, M.&#160;Guitton, Mme&#160;Josserand, Mme&#160;Lorho, M.&#160;Bryan&#160;Masson, Mme&#160;Pollet, M.&#160;Rancoule, M.&#160;Schreck, M.&#160;Taverne et M.&#160;Villedieu"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "APRÈS ART. 2",
+          "articleDesignation": "APRÈS L'ARTICLE 2, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1831.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;article&nbsp;9&#x2011;1 de la loi n&#x00B0; 91&#x2011;647 du&nbsp;10&nbsp;juillet&nbsp;1991 relative &#x00E0; l&#x2019;aide juridique, il est ins&#x00E9;r&#x00E9; un article&nbsp;9&#x2011;1&#x2011;1 ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;9&#x2011;1&#x2011;1.</i>&nbsp;&#x2013;&nbsp;Le mineur assist&#x00E9; d&#x2019;un avocat dans le cadre d&#x2019;une mesure d&#x2019;assistance &#x00E9;ducative b&#x00E9;n&#x00E9;ficie de droit, &#x00E0; tous les stades de la proc&#x00E9;dure, de l&#x2019;aide juridictionnelle.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; inscrire explicitement, dans la loi relative &#x00E0; l&#x2019;aide juridique, le principe selon lequel les mineurs concern&#x00E9;s par une instance relative &#x00E0; une mesure d&#x2019;assistance &#x00E9;ducative b&#x00E9;n&#x00E9;ficient de plein droit de l&#x2019;aide juridictionnelle.</p><p><br>En effet, c'est dans ce texte sp&#x00E9;cifique qu'il importe de pr&#x00E9;voir cette prise en charge syst&#x00E9;matique au titre de l'aide juridictionnelle, non conditionn&#x00E9;e &#x00E0; la situation financi&#x00E8;re des parents, qui peuvent eux-m&#x00EA;mes &#x00EA;tre en grande difficult&#x00E9; sociale, &#x00E9;conomique ou personnelle.</p><p><br>L&#x2019;amendement garantit &#x00E9;galement que l&#x2019;aide juridictionnelle couvre l&#x2019;assistance de l&#x2019;avocat &#x00E0; tous les stades de la proc&#x00E9;dure, et pas seulement lors d&#x2019;une audience ponctuelle, ce qui est essentiel pour assurer un suivi r&#x00E9;el et une d&#x00E9;fense continue des int&#x00E9;r&#x00EA;ts de l&#x2019;enfant.</p><p><br>Ce faisant, il rend effectif l&#x2019;objectif affich&#x00E9; par la proposition de loi : permettre &#x00E0; tous les mineurs concern&#x00E9;s par une mesure de protection judiciaire d&#x2019;&#x00EA;tre effectivement assist&#x00E9;s par un avocat, sans que des consid&#x00E9;rations de ressources ou des incertitudes juridiques viennent limiter l&#x2019;acc&#x00E8;s &#x00E0; ce droit.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-28",
+        "datePublication": "2025-12-02",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2025-12-03T10:54:51+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1831P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "loi 91-647",
+        "divisionCodeLoi": "9-1-1"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831",
+  "directory_json_file_count": 50,
+  "ignored_json_files_count": 49,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52781/PIONANR5L17B1831/AMANR5L17PO59051B1831P0D1N000021.json"
+  ]
+}

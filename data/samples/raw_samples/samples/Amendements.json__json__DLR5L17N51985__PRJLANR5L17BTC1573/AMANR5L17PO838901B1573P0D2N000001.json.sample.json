@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901B1573P0D2N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901B1573P0D2N000001",
+      "chronotag": "1757950783124",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1573P0D2",
+      "texteLegislatifRef": "PRJLANR5L17BTC1573",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Gouvernement",
+          "gouvernementRef": "PO855052",
+          "acteurRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "groupePolitiqueRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "le Gouvernement"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 11",
+          "articleDesignationCourte": "ART. 11",
+          "articleDesignation": "ARTICLE 11",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;tablir cet article dans&nbsp;la r&#x00E9;daction suivante&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le chapitre&nbsp;II du titre&nbsp;IV du livre&nbsp;III du code de la s&#x00E9;curit&#x00E9; int&#x00E9;rieure est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;Au d&#x00E9;but, est ajout&#x00E9;e une section&nbsp;1 intitul&#x00E9;e&nbsp;: &#x00AB;&nbsp;Dispositions g&#x00E9;n&#x00E9;rales&nbsp;&#x00BB; et comprenant l&#x2019;article&nbsp;L.&nbsp;342&#x2011;1&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;Est ajout&#x00E9;e une section&nbsp;2 ainsi r&#x00E9;dig&#x00E9;e&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Section 2</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Visites et saisies</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;A<i>rt.&nbsp;L.&nbsp;342&#x2011;2.</i>&nbsp;&#x2013;&nbsp;&#x00C0; Mayotte, si les circonstances font craindre des troubles graves &#x00E0; l&#x2019;ordre public r&#x00E9;sultant de violences commises sous la menace ou avec usage d&#x2019;une arme, le juge des libert&#x00E9;s et de la d&#x00E9;tention du tribunal judiciaire de Mamoudzou, saisi d&#x2019;une demande motiv&#x00E9;e du repr&#x00E9;sentant de l&#x2019;&#x00C9;tat dans le d&#x00E9;partement, peut, par une ordonnance &#x00E9;crite et motiv&#x00E9;e et apr&#x00E8;s avis du procureur de la R&#x00E9;publique, autoriser la visite de tout lieu lorsqu&#x2019;il existe des raisons s&#x00E9;rieuses de penser qu&#x2019;il est fr&#x00E9;quent&#x00E9; par une personne susceptible de participer &#x00E0; ces troubles, aux seules fins de proc&#x00E9;der &#x00E0; la saisie, en vue de leur destruction, d&#x2019;armes, de munitions ou de leurs &#x00E9;l&#x00E9;ments relevant des cat&#x00E9;gories A &#x00E0; D ainsi que des objets susceptibles de constituer une arme dangereuse pour la s&#x00E9;curit&#x00E9; publique, tels que d&#x00E9;finis &#x00E0; l&#x2019;article&nbsp;L.&nbsp;311&#x2011;2.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Ces op&#x00E9;rations ne peuvent concerner les lieux affect&#x00E9;s &#x00E0; l&#x2019;exercice d&#x2019;un mandat parlementaire ou &#x00E0; l&#x2019;activit&#x00E9; professionnelle des avocats, des magistrats ou des journalistes et les domiciles des personnes concern&#x00E9;es.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Lorsque la visite vise un lieu enclav&#x00E9;, inaccessible depuis la voie publique, du… [truncated 16860 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; r&#x00E9;tablir l&#x2019;article 11 relatif &#x00E0; l&#x2019;encadrement des visites domiciliaires aux fins de recherche d&#x2019;armes, supprim&#x00E9; par la commission des lois de l&#x2019;Assembl&#x00E9;e nationale</p><p>Alors que le nombre de victimes de vols avec arme est en tr&#x00E8;s forte augmentation avec une hausse de 203 % entre 2016 et 2024, la situation s&#x00E9;curitaire &#x00E0; Mayotte rend indispensable l'adoption&nbsp;d'une disposition permettant de saisir les armes utilis&#x00E9;es ou susceptibles de l'&#x00EA;tre pour provoquer des troubles graves &#x00E0; l'ordre public.</p><p>Par ailleurs, la mesure propos&#x00E9;e par le gouvernement est strictement encadr&#x00E9;e. Elle reprend les garanties pr&#x00E9;vues pour le visites domiciliaires prises en application des articles L. 229-1 et suivants du code de la s&#x00E9;curit&#x00E9; int&#x00E9;rieure qui a &#x00E9;t&#x00E9; jug&#x00E9;e conforme &#x00E0; la Constitution par le Conseil constitutionnel dans sa d&#x00E9;cision QPC du 29 mars 2018. Il est notamment&nbsp; pr&#x00E9;vu l'intervention du juge judiciaire, des garanties proc&#x00E9;durales, des voies de recours appropri&#x00E9;es. Le Conseil d&#x2019;&#x00C9;tat, dans son avis sur le projet de loi, a ainsi estim&#x00E9; que la disposition relative aux visites domiciliaires ainsi r&#x00E9;dig&#x00E9;e \"op&#x00E8;re, compte tenu de la situation tr&#x00E8;s sp&#x00E9;cifique de Mayotte, une conciliation qui n'est pas manifestement d&#x00E9;s&#x00E9;quilibr&#x00E9;e entre les exigences des articles 2, 16 et 17 de la D&#x00E9;claration de 1789 et l'objectif de valeur constitutionnelle de sauvegarde de l'ordre public, qu&#x2019;il r&#x00E9;pond aux exigences de pr&#x00E9;vention des troubles graves &#x00E0; l&#x2019;ordre public, et qu&#x2019;il ne m&#x00E9;conna&#x00EE;t pas les stipulations de la convention europ&#x00E9;enne de sauvegarde des droits de l&#x2019;homme et des libert&#x00E9;s fondamentales.\"</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-06-27",
+        "datePublication": "2025-06-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-06-28T00:40:00+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901B1573P0D2N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573",
+  "directory_json_file_count": 728,
+  "ignored_json_files_count": 727,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901B1573P0D2N000002.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901B1573P0D2N000003.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51985/PRJLANR5L17BTC1573/AMANR5L17PO838901BTC1573P0D1N000019.json"
+  ]
+}

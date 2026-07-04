@@ -1,0 +1,179 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51615/PNREANR5L17BTC1241/AMANR5L17PO838901BTC1241P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1241P0D1N000001",
+      "chronotag": "1764170609402",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1241P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC1241",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaat",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793948",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 33
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Thierry,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, M.&#160;Roum&#233;gas, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1241.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "19",
+            "alineaDesignation": "Après l'alinéa 19"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;19, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Demande instamment &#x00E0; la Commission europ&#x00E9;enne de ne pas renouveler et de mettre fin aux accords juridiquement contraignants et ex&#x00E9;cutoires conclus avec les plus grands fabricants mondiaux de tabac.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L'Union europ&#x00E9;enne et l'ensemble de ses pays membres ont sign&#x00E9; des accords juridiquement contraignants et ex&#x00E9;cutoires avec les plus grands fabricants mondiaux de tabac. Ces accords, visant officiellement &#x00E0; lutter contre la contrebande et la contrefa&#x00E7;on de cigarettes, ont &#x00E9;t&#x00E9; conclus avec des entreprises telles que Philip Morris International, Japan Tobacco, British American Tobacco et Imperial Tobacco Limited.</p><p><br>Or, la collaboration &#x00E9;troite entre les institutions de l'UE, comme l'Office europ&#x00E9;en de lutte antifraude, et l'industrie du tabac est consid&#x00E9;r&#x00E9;e par les organisations de sant&#x00E9; comme &#x00E9;tant en conflit direct et fondamentalement irr&#x00E9;conciliable avec l'objectif de la sant&#x00E9; publique. Maintenir ces relations viole les engagements internationaux pris par l'UE dans le cadre de l'Organisation mondiale de la Sant&#x00E9;. Plus pr&#x00E9;cis&#x00E9;ment, cette collaboration contrevient &#x00E0; l'article 5.3 de la Convention-cadre de l&#x2019;Organisation Mondiale de la Sant&#x00E9; et &#x00E0; l'article 8.12 du Protocole de la&nbsp;Convention-cadre de l'Organisation Mondiale de la Sant&#x00E9; pour la lutte antitabac visant &#x00E0; &#x00E9;liminer le commerce illicite des produits du tabac.</p><p><br>Le Protocole&nbsp;de la Convention-cadre de l'Organisation Mondiale de la Sant&#x00E9; pour la lutte antitabac est le principal trait&#x00E9; international de lutte contre la contrebande, que l'UE a ratifi&#x00E9; en 2016 et qui est entr&#x00E9; en vigueur en 2018. L'Union europ&#x00E9;enne s'est efforc&#x00E9;e de jouer un r&#x00F4;le de leader dans la lutte mondiale contre le tabac illicite. Toutefois, le maintien ou le renouvellement d'accords bilat&#x00E9;raux avec les majors du tabac, comme l'a &#x00E9;t&#x00E9; la possibilit&#x00E9; d'extension de l'accord avec Philip Morris International en 2016, mine la cr&#x00E9;dibilit&#x00E9; de l'Union europ&#x00E9;enne. Ces accords compromettent les efforts mondiaux pour combattre le commerce illicite en risquant de retarder la ratification du Protocole de la Convention-cadre de l'Organisation Mondiale de la Sant&#x00E9; pour la lutte antitabac, qui est le seul trait&#x00E9; capable de s'attaquer efficacement &#x00E0; ce probl&#x00E8;me. Continuer de n&#x00E9;gocier avec une industrie qui est parfois en litige avec des gouvernements essayant d'introduire des lois de sant&#x00E9; publique repr&#x00E9;s… [truncated 1896 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-22",
+        "datePublication": "2025-11-25",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-11-26T16:23:07+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1241P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS29980",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51615/PNREANR5L17BTC1241",
+  "directory_json_file_count": 5,
+  "ignored_json_files_count": 4,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51615/PNREANR5L17BTC1241/AMANR5L17PO838901BTC1241P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51615/PNREANR5L17BTC1241/AMANR5L17PO838901BTC1241P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51615/PNREANR5L17BTC1241/AMANR5L17PO838901BTC1241P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51615/PNREANR5L17BTC1241/AMANR5L17PO838901BTC1241P0D1N000005.json"
+  ]
+}

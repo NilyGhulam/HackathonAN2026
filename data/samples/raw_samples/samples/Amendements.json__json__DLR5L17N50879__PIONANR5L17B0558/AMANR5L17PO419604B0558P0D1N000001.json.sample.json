@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B0558P0D1N000001",
+      "chronotag": "1739874687582",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B0558P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0558",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794554",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA840817",
+            "PA721110"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Castiglione,  M.&#160;Bruneau et Mme&#160;Sanquer"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0558.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "9",
+            "alineaDesignation": "Après l'alinéa 9"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;9, ins&#x00E9;rer un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;L&#x2019;aide mentionn&#x00E9;e au I et II du pr&#x00E9;sent article peut &#x00EA;tre utilis&#x00E9;e aupr&#x00E8;s de deux structures ou associations sportives, dans la limite du montant pr&#x00E9;vu.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement propose de rendre le Pass&#x2019;Sport s&#x00E9;cable entre deux clubs ou structures&nbsp;sportives.</p><p style=\"text-align: justify;\">En effet, actuellement, le Pass&#x2019;Sport ne peut &#x00EA;tre utilis&#x00E9; qu&#x2019;aupr&#x00E8;s d&#x2019;une structure. Cette disposition&nbsp;se justifie ais&#x00E9;ment&nbsp;compte tenu du montant actuel de l&#x2019;aide fix&#x00E9; &#x00E0; 50&nbsp;&#x20AC;.</p><p style=\"text-align: justify;\">Toutefois, dans le cas o&#x00F9; le pr&#x00E9;sent article serait adopt&#x00E9;, plusieurs &#x00E9;volutions du Pass&#x2019;Sport plaident pour sa s&#x00E9;cabilit&#x00E9;. D&#x2019;une part, il est propos&#x00E9; d&#x2019;augmenter son montant, en le fixant &#x00E0; 75 ou 150&nbsp;&#x20AC; dans certains cas. Or dans certains territoires, il est tout &#x00E0; fait possible que certaines licences ou adh&#x00E9;sions soient&nbsp;inf&#x00E9;rieures &#x00E0; 150&nbsp;&#x20AC;.&nbsp;</p><p style=\"text-align: justify;\">D&#x2019;autre part, le texte propose de rendre les f&#x00E9;d&#x00E9;rations sportives scolaires &#x00E9;ligibles. Or le co&#x00FB;t annuel moyen s&#x2019;&#x00E9;l&#x00E8;ve &#x00E0; 20&nbsp;&#x20AC; pour les familles, soit bien en-de&#x00E7;a des montants propos&#x00E9;s.</p><p style=\"text-align: justify;\">Aussi, rendre&nbsp;le dispositif du Pass&#x2019;Sport s&#x00E9;cable entre deux associations ou structures sportives permettrait de mieux utiliser l&#x2019;aide financi&#x00E8;re, au b&#x00E9;n&#x00E9;fice &#x00E9;galement des clubs pr&#x00E9;sents sur nos territoires.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-28",
+        "datePublication": "2024-12-04",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2024-12-04T10:45:57+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B0558P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558",
+  "directory_json_file_count": 33,
+  "ignored_json_files_count": 32,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50879/PIONANR5L17B0558/AMANR5L17PO419604B0558P0D1N000021.json"
+  ]
+}

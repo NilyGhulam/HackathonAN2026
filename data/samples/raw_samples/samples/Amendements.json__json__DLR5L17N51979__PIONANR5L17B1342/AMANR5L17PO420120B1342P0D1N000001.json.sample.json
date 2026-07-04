@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1342P0D1N000001",
+      "chronotag": "1757948649129",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1342P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1342",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaado",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA1567",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Guedj,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, M.&#160;Delaporte, Mme&#160;Dombre&#160;Coste, Mme&#160;Godard, Mme&#160;Runel et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1342.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai de six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport d&#x00E9;taillant les pistes de r&#x00E9;forme des allocations familiales. Ce rapport &#x00E9;value plus largement l&#x2019;opportunit&#x00E9;&nbsp;et la faisabilit&#x00E9; d&#x2019;une r&#x00E9;forme plus globale&nbsp;des allocations familiales visant l&#x2019;universalit&#x00E9; de leur acc&#x00E8;s, sans occasionner une diminution du montant des allocations. Il &#x00E9;tudie&nbsp;&#x00E9;galement les pistes de financement de cette r&#x00E9;forme, parmi lesquelles une abrogation de la&nbsp;r&#x00E9;duction appliqu&#x00E9;e sur les cotisations d&#x2019;allocations familiales pour les salaires les plus &#x00E9;lev&#x00E9;s et une r&#x00E9;forme du quotient familial.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet&nbsp;amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; remettre un rapport au Parlement &#x00E9;tudiant le co&#x00FB;t et l&#x2019;impact d&#x2019;une r&#x00E9;forme des allocations familiales r&#x00E9;ellement universelles et vers&#x00E9;es &#x00E0; chaque enfant, sans occasionner une diminution du montant des allocations pour les familles dites &#x00AB;&nbsp;nombreuses&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">Outre l&#x2019;accessibilit&#x00E9; &#x00E0; partir du 2e enfant, notre syst&#x00E8;me d&#x2019;allocations familiales est largement perfectible&nbsp;: effets de seuil des montants li&#x00E9;s &#x00E0; la prise en compte des ressources, majoration des montants li&#x00E9;s &#x00E0; l&#x2019;&#x00E2;ge, non-universalit&#x00E9;, etc.</p><p style=\"text-align: justify;\">Nous proposons donc par la remise d&#x2019;un rapport au Parlement pour r&#x00E9;pondre &#x00E0; ces imperfections et ouvrir une r&#x00E9;flexion plus large sur notre syst&#x00E8;me d&#x2019;allocations familiales.&nbsp;</p><p style=\"text-align: justify;\">Ce rapport pourrait ainsi tracer les contours d&#x2019;une r&#x00E9;forme garantissant l&#x2019;universalit&#x00E9; de leur acc&#x00E8;s, ainsi que la&nbsp;progressivit&#x00E9;&nbsp;des montants avec l&#x2019;&#x00E2;ge des enfants et le revenu.</p><p style=\"text-align: justify;\">Il tracera &#x00E9;galement les pistes du financement d&#x2019;une telle r&#x00E9;forme.</p><p style=\"text-align: justify;\">Tel est l&#x2019;objet du pr&#x00E9;sent amendement.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-05-19",
+        "datePublication": "2025-05-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-05-28T12:10:23+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1342P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "zzz",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "31498",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342",
+  "directory_json_file_count": 19,
+  "ignored_json_files_count": 18,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51979/PIONANR5L17B1342/AMANR5L17PO420120B1342P0D1N000021.json"
+  ]
+}

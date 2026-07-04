@@ -1,0 +1,185 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2872P0D1N000001",
+      "chronotag": "1781175616465",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2872P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2872",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaci",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795778",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": "et les membres du groupe Rassemblement National",
+        "libelle": "M.&#160;Jean-Philippe&#160;Tanguy et les membres du groupe Rassemblement National"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2872.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;I.&nbsp;&#x2013;&nbsp;Est institu&#x00E9;e, au sein du capital de la soci&#x00E9;t&#x00E9; ArcelorMittal France, une action sp&#x00E9;cifique d&#x00E9;tenue par l&#x2019;&#x00C9;tat.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Cette action sp&#x00E9;cifique conf&#x00E8;re au ministre charg&#x00E9; de l&#x2019;&#x00E9;conomie, par arr&#x00EA;t&#x00E9; dans les conditions fix&#x00E9;es par le d&#x00E9;cret n&#x00B0; 2019&#x2011;1071 du&nbsp;22&nbsp;octobre&nbsp;2019, un droit d&#x2019;opposition aux d&#x00E9;cisions de la soci&#x00E9;t&#x00E9; ayant pour effet, direct ou indirect, de porter atteinte aux int&#x00E9;r&#x00EA;ts essentiels de la Nation en mati&#x00E8;re d&#x2019;approvisionnement, d&#x2019;activit&#x00E9; ou d&#x2019;infrastructures strat&#x00E9;giques dans le secteur sid&#x00E9;rurgique.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;III.&nbsp;&#x2013;&nbsp;La valeur de cette action est &#x00E9;gale &#x00E0; 1&nbsp;% de la moyenne des premiers cours c&#x00F4;t&#x00E9;s de cette soci&#x00E9;t&#x00E9; sur la bourse de Paris du&nbsp;1<sup>er</sup>&nbsp;octobre&nbsp;2024 au&nbsp;30&nbsp;septembre&nbsp;2025.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Si l&#x2019;existence d&#x2019;un secteur sid&#x00E9;rurgique p&#x00E9;renne est indispensable &#x00E0; une nation souveraine, la nationalisation est la derni&#x00E8;re cartouche &#x00E0; la main d&#x2019;un Gouvernement.</p><p style=\"text-align: justify;\">S&#x2019;il est &#x00E9;vident que la prise de possession d&#x2019;Arcelor par un acteur &#x00E9;tranger a constitue une lourde erreur, la prise de participation pr&#x00E9;f&#x00E9;rentielle sous la forme d&#x2019;une action sp&#x00E9;cifique, dite &#x00AB;&nbsp;golden share&nbsp;&#x00BB; constitue une r&#x00E9;ponse pr&#x00E9;f&#x00E9;rable avant la nationalisation.</p><p style=\"text-align: justify;\">Elle permet &#x00E0; l&#x2019;&#x00C9;tat de retrouver un v&#x00E9;ritable pouvoir de d&#x00E9;cision sur les actifs strat&#x00E9;giques d&#x2019;ArcelorMittal en France, tout en &#x00E9;vitant le co&#x00FB;t consid&#x00E9;rable qu&#x2019;impliquerait un rachat int&#x00E9;gral mais aussi la difficult&#x00E9; pour le Gouvernement d&#x2019;assurer une bonne gestion de l&#x2019;outil industriel tant ArcelorMittal a int&#x00E9;gr&#x00E9; les activit&#x00E9;s fran&#x00E7;aises dans son organisation transnationale.</p><p style=\"text-align: justify;\">L&#x2019;action sp&#x00E9;cifique&nbsp;offre un instrument pr&#x00E9;cis&nbsp;: un droit de veto sur les d&#x00E9;cisions mettant en p&#x00E9;ril l&#x2019;outil industriel&nbsp;&#x2013;&nbsp;fermetures, cessions, d&#x00E9;localisations&nbsp;&#x2013;&nbsp;sans transformer l&#x2019;&#x00C9;tat en gestionnaire quotidien d&#x2019;une entreprise confront&#x00E9;e &#x00E0; une concurrence mondiale et &#x00E0; des cycles de march&#x00E9; tr&#x00E8;s volatils.</p><p style=\"text-align: justify;\">Il s&#x2019;agit ainsi d&#x2019;un m&#x00E9;canisme de protection cibl&#x00E9;&nbsp;: l&#x2019;&#x00C9;tat contr&#x00F4;le l&#x2019;essentiel, sans porter lui-m&#x00EA;me l&#x2019;ensemble de la gestion d&#x2019;une activit&#x00E9; qu&#x2019;il ne ma&#x00EE;trise actuellement pas.</p><p style=\"text-align: justify;\">Cette approche prot&#x00E8;ge les emplois, s&#x00E9;curise la strat&#x00E9;gie industrielle fran&#x00E7;aise et garantit l&#x2019;usage efficace des financements publics destin&#x00E9;s &#x00E0; la d&#x00E9;carbonation, tout en pr&#x00E9;servant l&#x2019;attractivit&#x00E9; &#x00E9;conomique du pays. En somme,&nbsp;l&#x2019;action sp&#x00E9;cifique est une solution de souverainet&#x00E9; pragmatique&nbsp;: elle prot&#x00E8;ge sans nationaliser… [truncated 145 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-08",
+        "datePublication": "2026-06-10",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-11T12:59:57+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2872P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30682",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "39269",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872",
+  "directory_json_file_count": 33,
+  "ignored_json_files_count": 32,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52977/PIONANR5L17BTC2872/AMANR5L17PO838901BTC2872P0D1N000021.json"
+  ]
+}

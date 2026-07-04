@@ -1,0 +1,193 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2258P0D1N000001",
+      "chronotag": "1772009635421",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2258P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2258",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaw",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840135",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642988",
+            "PA841737",
+            "PA793146",
+            {
+              "__truncated_items__": 23
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Dufosset,  M.&#160;de&#160;L&#233;pinau, M.&#160;Gery, M.&#160;Dragon, Mme&#160;Lechon, M.&#160;Ballard, Mme&#160;Rimbert, M.&#160;David&#160;Magnier, Mme&#160;Blanc, M.&#160;Allegret-Pilot, M.&#160;Chudeau, Mme&#160;Bouquin, Mme&#160;Ranc, Mme&#160;Sabatini, Mme&#160;Sicard, M.&#160;Monnier, M.&#160;Casterman, M.&#160;Chenu, Mme&#160;Levavasseur, M.&#160;Giletti, M.&#160;Le&#160;Bourgeois, M.&#160;Jolly, M.&#160;Rambaud, M.&#160;Lioret, Mme&#160;Hamelet, Mme&#160;Lorho et M.&#160;Florquin"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2258.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "5",
+            "alineaDesignation": "Après l'alinéa 5"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;5, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;III.&nbsp;&#x2013;&nbsp;Un d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat pr&#x00E9;cise, dans les m&#x00EA;mes conditions que celles pr&#x00E9;vues au&nbsp;V&nbsp;du m&#x00EA;me article&nbsp;31, les modalit&#x00E9;s d&#x2019;appr&#x00E9;ciation des difficult&#x00E9;s techniques et des risques de surco&#x00FB;ts importants mentionn&#x00E9;s au pr&#x00E9;sent II, ainsi que les modalit&#x00E9;s de justification, de dur&#x00E9;e et de publicit&#x00E9; des d&#x00E9;rogations accord&#x00E9;es aux collectivit&#x00E9;s territoriales et &#x00E9;tablissements publics de coop&#x00E9;ration intercommunale.&nbsp;&#x00BB;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vise &#x00E0; pr&#x00E9;ciser, &#x00E0; travers un d&#x00E9;cret en Conseil d&#x2019;Etat, ce qui est entendu par &#x00AB;&nbsp;difficult&#x00E9;s techniques&nbsp;&#x00BB; et &#x00AB;&nbsp;risque de surco&#x00FB;t important&nbsp;&#x00BB;.</p><p>Cela r&#x00E9;pond &#x00E0; une exigence de s&#x00E9;curit&#x00E9; juridique pour les collectivit&#x00E9;s territoriales, notamment les plus petites. Ces derni&#x00E8;res sont nombreuses &#x00E0; ne pas disposer de services juridiques ou techniques internes sp&#x00E9;cialis&#x00E9;s dans la gouvernance num&#x00E9;rique, et se trouveraient d&#x00E9;munies si elles devaient interpr&#x00E9;ter de mani&#x00E8;re autonome de telles notions. Un encadrement clair permettrait de s&#x00E9;curiser leurs d&#x00E9;cisions, d&#x2019;&#x00E9;viter toute remise en cause future et de favoriser l&#x2019;adh&#x00E9;sion des acteurs locaux aux objectifs de la loi.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-19",
+        "datePublication": "2026-02-24",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-02-25T09:53:52+01:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2258P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258",
+  "directory_json_file_count": 16,
+  "ignored_json_files_count": 15,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52900/PIONANR5L17B2258/AMANR5L17PO59051B2258P0D1N000016.json"
+  ]
+}

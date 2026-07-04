@@ -1,0 +1,182 @@
+{
+  "source_file": "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357/AMANR5L17PO838901BTC2357P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2357P0D1N000001",
+      "chronotag": "1776184052276",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2357P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2357",
+      "triAmendement": "aaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721486",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Naegelen"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2357.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "69",
+            "alineaDesignation": "Alinéa 69"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;69, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;VIII&nbsp;<i>unvivies</i>&nbsp;A&nbsp;.&nbsp;&#x2013;&nbsp;&#x00C0; l&#x2019;article&nbsp;L.&nbsp;718&#x2011;8 du code rural et de la p&#x00EA;che maritime, les mots&nbsp;: &#x00AB;&nbsp;nationale ou&nbsp;&#x00BB; sont supprim&#x00E9;s.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;83, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;IX&nbsp;<i>octies</i>&nbsp;A&nbsp;.&nbsp;&#x2013;&nbsp;&#x00C0; la premi&#x00E8;re phrase du&nbsp;III de l&#x2019;article&nbsp;3 de la loi n&#x00B0; 2014&#x2011;856 du&nbsp;31&nbsp;juillet&nbsp;2014 relative &#x00E0; l&#x2019;&#x00E9;conomie sociale et solidaire, les mots&nbsp;: &#x00AB;&nbsp;en Conseil d&#x2019;&#x00C9;tat&nbsp;&#x00BB; sont supprim&#x00E9;s.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement proc&#x00E8;de &#x00E0; deux coordinations au sein de l&#x2019;article 1er du texte issu des travaux de la CMP.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-14",
+        "datePublication": "2026-04-14",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-04-14T18:27:03+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2357P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357",
+  "directory_json_file_count": 8,
+  "ignored_json_files_count": 7,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357/AMANR5L17PO838901BTC2357P0D1N000002.json",
+    "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357/AMANR5L17PO838901BTC2357P0D1N000003.json",
+    "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357/AMANR5L17PO838901BTC2357P0D1N000004.json",
+    "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357/AMANR5L17PO838901BTC2357P0D1N000005.json",
+    "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357/AMANR5L17PO838901BTC2357P0D1N000006.json",
+    "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357/AMANR5L17PO838901BTC2357P0D1N000007.json",
+    "Amendements.json/json/DLR5L16N49868/PRJLANR5L17BTC2357/AMANR5L17PO838901BTC2357P0D1N000008.json"
+  ]
+}

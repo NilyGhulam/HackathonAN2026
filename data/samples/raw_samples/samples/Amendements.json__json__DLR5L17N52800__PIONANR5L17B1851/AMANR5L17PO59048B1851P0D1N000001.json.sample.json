@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B1851P0D1N000001",
+      "chronotag": "1761120163177",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B1851P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1851",
+      "triAmendement": "saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719798",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Labaronne"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "portant plusieurs mesures de justice pour limiter les frais bancaires injustes,",
+          "articleDesignationCourte": "TITRE",
+          "articleDesignation": "TITRE",
+          "type": "TITRE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1851.asp#D_portant_plusieurs_mesures_de_justice_p"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;mesures&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">r&#x00E9;diger ainsi la fin du titre de la proposition de loi&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;visant &#x00E0; remettre en cause le principe de la libert&#x00E9; tarifaire en mati&#x00E8;re de banque de d&#x00E9;tail,&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">La proposition de loi s&#x2019;attaque directement &#x00E0; l&#x2019;&#x00E9;cosyst&#x00E8;me bancaire fran&#x00E7;ais et remet en cause les fondements m&#x00EA;mes du mod&#x00E8;le de banque de d&#x00E9;tail qui pr&#x00E9;vaut dans notre pays. Ce mod&#x00E8;le repose sur une approche relationnelle forte, centr&#x00E9;e sur une proximit&#x00E9; g&#x00E9;ographique et humaine. Avec le maillage territorial le plus dense d&#x2019;Europe, les banques fran&#x00E7;aises assurent un acc&#x00E8;s physique &#x00E0; leurs services sur l&#x2019;ensemble du territoire, y compris dans les zones rurales.</p><p style=\"text-align: justify;\">Contrairement aux mod&#x00E8;les transactionnels plus r&#x00E9;pandus dans le nord de l&#x2019;Europe, le mod&#x00E8;le fran&#x00E7;ais privil&#x00E9;gie une relation de long terme attendue par les clients. Les banques accompagnent leurs clients &#x00E0; chaque &#x00E9;tape de leur vie (&#x00E9;tudes, logement, famille, retraite), dans une logique de banque universelle int&#x00E9;grant banque de d&#x00E9;tail, assurance et services financiers. Ce mod&#x00E8;le favorise une offre int&#x00E9;gr&#x00E9;e, souvent propos&#x00E9;e sous forme de packages de services incluant carte de paiement, tenue de compte, assurances, etc. Pour les clients, cette offre int&#x00E9;gr&#x00E9;e est &#x00E0; la fois simple, lisible et comp&#x00E9;titive.</p><p style=\"text-align: justify;\">Elle se traduit par un co&#x00FB;t ma&#x00EE;tris&#x00E9; pour les usagers&nbsp;: en 2024, le poids des services financiers, qui incluent les frais bancaires vis&#x00E9;s par la proposition de loi, repr&#x00E9;sentait 0,49&nbsp;% dans le budget des m&#x00E9;nages fran&#x00E7;ais, contre 1,28&nbsp;% en Allemagne&nbsp;&#x2013;&nbsp;soit un diff&#x00E9;rentiel tr&#x00E8;s significatif. Les efforts de transparence sont par ailleurs constants. La lisibilit&#x00E9; des tarifs bancaires est assur&#x00E9;e par des supports normalis&#x00E9;s (plaquettes tarifaires avec sommaire type et libell&#x00E9;s harmonis&#x00E9;s et Document d&#x2019;Information sur les Tarifs disponible en agence et sur internet, envoy&#x00E9;s 2 mois avant leur application, et enfin relev&#x00E9; annuel des frais pay&#x00E9;s). Ces dispositifs permettent aux clients de comprendre clairement les frais appliqu&#x00E9;s et de comparer facilement les offres entre les &#x00E9;tablissements bancaires.</p><p style=\"text-align: justify;\">Le mod&#x00E8;le fran&#x00E7;ais repose enfin s… [truncated 1262 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-10-17",
+        "datePublication": "2025-10-21",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-10-22T10:02:15+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B1851P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851",
+  "directory_json_file_count": 91,
+  "ignored_json_files_count": 90,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52800/PIONANR5L17B1851/AMANR5L17PO59048B1851P0D1N000021.json"
+  ]
+}

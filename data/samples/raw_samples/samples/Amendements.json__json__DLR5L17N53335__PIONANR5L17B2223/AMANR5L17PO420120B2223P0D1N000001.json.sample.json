@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2223P0D1N000001",
+      "chronotag": "1768407387502",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2223P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2223",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadw",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719968",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Sylvie&#160;Bonnet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2223.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;1, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;pay&#x00E9;es&nbsp;&#x00BB;,</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;et des dettes locatives&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">M&#x00EA;me si en principe la proc&#x00E9;dure de saisie sur salaire pour dette locative a &#x00E9;t&#x00E9; simplifi&#x00E9;e depuis le 1<sup>er</sup>&nbsp;juillet&nbsp;2025, il apparait que le locataire est souvent insolvable,&nbsp;quand il ne se rend pas volontairement insolvable afin de ne pas la payer.&nbsp;</p><p style=\"text-align: justify;\">Cette situation d&#x00E9;courage les petits propri&#x00E9;taires &#x00E0; mettre leur appartement ou maison en location, contribuant de ce fait au manque de logements &#x00E0; louer dans certaines villes.</p><p style=\"text-align: justify;\">Cet amendement propose par cons&#x00E9;quent&nbsp;de rendre le locataire responsable de ses actes en permettant la saisie sur le Revenu de Solidarit&#x00E9; Active pour rembourser la dette locative.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-12-17",
+        "datePublication": "2026-01-14",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2223P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "36241",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223",
+  "directory_json_file_count": 66,
+  "ignored_json_files_count": 65,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO420120B2223P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO838901B2223P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO838901B2223P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO838901B2223P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53335/PIONANR5L17B2223/AMANR5L17PO838901B2223P0D1N000004.json"
+  ]
+}

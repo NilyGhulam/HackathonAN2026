@@ -1,0 +1,192 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2464P0D1N000001",
+      "chronotag": "1777296332594",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2464P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2464",
+      "triAmendement": "esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841183",
+          "groupePolitiqueRef": "PO872880",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA840983",
+            "PA793432",
+            "PA841199",
+            {
+              "__truncated_items__": 16
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Mansouri,  M.&#160;Lenoir, M.&#160;Allisio, M.&#160;Perez, Mme&#160;Florence&#160;Goulet, Mme&#160;Bamana, M.&#160;Emmanuel&#160;Tach&#233;, M.&#160;Jolly, M.&#160;Loubet, M.&#160;Lottiaux, M.&#160;Chenu, Mme&#160;Diaz, M.&#160;Chudeau, M.&#160;Ballard, Mme&#160;Martinez, M.&#160;Chaix, M.&#160;Allegret-Pilot, M.&#160;Verny, M.&#160;Markowsky et M.&#160;Dessigny"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 7 ter",
+          "articleDesignationCourte": "APRÈS ART. 7 TER",
+          "articleDesignation": "APRÈS L'ARTICLE 7 TER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2464.asp#D_Article_7_ter"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": "Cet amendement a été déclaré irrecevable au titre de l’article 40 de la Constitution.",
+        "contenuAuteur": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-24",
+        "datePublication": "2026-04-23",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "IR",
+            "libelle": "Irrecevable 40"
+          },
+          "sousEtat": {
+            "code": "IR",
+            "libelle": "Charge"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2464P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c sécurité intérieure",
+        "divisionCodeLoi": "L511-1"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464",
+  "directory_json_file_count": 424,
+  "ignored_json_files_count": 423,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N53096/PRJLANR5L17B2464/AMANR5L17PO59051B2464P0D1N000023.json"
+  ]
+}

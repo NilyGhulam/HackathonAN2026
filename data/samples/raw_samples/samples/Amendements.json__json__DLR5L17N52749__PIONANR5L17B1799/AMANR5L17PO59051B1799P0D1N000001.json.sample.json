@@ -1,0 +1,193 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1799P0D1N000001",
+      "chronotag": "1764761343433",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1799P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1799",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaj",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA718784",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793508",
+            "PA793342",
+            "PA718884",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Pauget,  M.&#160;Brigand, Mme&#160;Alexandra&#160;Martin, Mme&#160;Bazin-Malgras, Mme&#160;Sylvie&#160;Bonnet, M.&#160;Boucard, Mme&#160;Corneloup, Mme&#160;Bonnivard, M.&#160;Dive, M.&#160;Duparay, M.&#160;Gosselin, M.&#160;Hetzel, M.&#160;Li&#233;geon, Mme&#160;Louwagie, M.&#160;Portier, M.&#160;Ray et M.&#160;Di&#160;Filippo"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1799.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Consid&#x00E9;rant que le droit au maintien sur le territoire fran&#x00E7;ais, n'est pas une obligation mais que la France se m&#x00E9;rite, et qu'il doit faire l'objet d'un traitement individualis&#x00E9; et adapt&#x00E9; aux r&#x00E9;alit&#x00E9;s de chacun, en prenant notamment en compte, la r&#x00E9;ussite du parcours d'int&#x00E9;gration de chaque personne, autant que de sa capacit&#x00E9; &#x00E0; pouvoir se maintenir d&#x00E9;cemment sur le territoire nationale en justifiant de ressources suffisantes, cet amendement propose d'interdire le renouvellement automatique et de plein droit des cartes de s&#x00E9;jour pluriannuelle ou d&#x2019;une carte de r&#x00E9;sident mentionn&#x00E9;es &#x00E0; l&#x2019;article&nbsp;L.&nbsp;433&#x2011;1 pour le renvoyer &#x00E0; une &#x00E9;tude personnelle et individuelle par l&#x2019;administration.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-25",
+        "datePublication": "2025-12-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-12-03T12:28:37+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1799P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "85069",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799",
+  "directory_json_file_count": 17,
+  "ignored_json_files_count": 16,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52749/PIONANR5L17B1799/AMANR5L17PO59051B1799P0D1N000018.json"
+  ]
+}

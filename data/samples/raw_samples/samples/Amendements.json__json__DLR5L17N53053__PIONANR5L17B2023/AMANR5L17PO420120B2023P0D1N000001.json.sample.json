@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2023P0D1N000001",
+      "chronotag": "1764767852842",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2023P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2023",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabw",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720154",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793270",
+            "PA719736",
+            "PA720022",
+            {
+              "__truncated_items__": 7
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Dubr&#233;-Chirat,  M.&#160;Rousset, Mme&#160;Galliard-Minier, M.&#160;Lauzzana, M.&#160;Le&#160;Gac, Mme&#160;Le&#160;Nabour, Mme&#160;Liso, Mme&#160;Missoffe, M.&#160;Mongardien, Mme&#160;Pannier-Runacher et Mme&#160;Vidal"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2023.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "9",
+            "alineaDesignation": "Alinéa 9"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>&#x00C0; l'alin&#x00E9;a 9, apr&#x00E8;s le mot :</p><p>&#x00AB; adapt&#x00E9; &#x00BB;,</p><p>ins&#x00E9;rer les mots :</p><p>&#x00AB;, &#x00E0; la connaissance des premiers secours en sant&#x00E9; mentale &#x00BB;.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement propose de compl&#x00E9;ter le contenu des modules de formation des sentinelles agricoles en y incluant les premiers secours en sant&#x00E9; mentale.&nbsp;</p><p style=\"text-align: justify;\">Depuis 2018, le secourisme en sant&#x00E9; mentale se d&#x00E9;veloppe dans notre pays. Au&nbsp;1<sup>er</sup>&nbsp;d&#x00E9;cembre&nbsp;2024, on compte 165&nbsp;000 secouristes form&#x00E9;s et 1752 formateurs accr&#x00E9;dit&#x00E9;s.&nbsp;</p><p style=\"text-align: justify;\">La formation aux premiers secours en sant&#x00E9; mentale est aujourd&#x2019;hui assur&#x00E9;e par&nbsp;l&#x2019;association Premiers secours en sant&#x00E9; mentale&nbsp;&#x2013;&nbsp;France (PSSM France). Elle permet d&#x2019;acqu&#x00E9;rir des connaissances de base en sant&#x00E9; mentale et de mieux appr&#x00E9;hender les diff&#x00E9;rents troubles de sant&#x00E9; mentale. Elle est donc particuli&#x00E8;rement utile car elle permet &#x00E0; la personne form&#x00E9;e de rep&#x00E9;rer, r&#x00E9;agir rapidement et orienter si besoin la personne vers les professionnels adapt&#x00E9;s.&nbsp;</p><p style=\"text-align: justify;\">Il serait donc judicieux que le contenu des modules de formation des sentinelles agricoles pr&#x00E9;voit d&#x2019;inclure ce dispositif qui a d&#x00E9;j&#x00E0; largement fait ses preuves &#x00E0; l&#x2019;&#x00E9;chelle nationale.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-28",
+        "datePublication": "2025-12-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-12-03T14:17:25+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2023P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023",
+  "directory_json_file_count": 52,
+  "ignored_json_files_count": 51,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53053/PIONANR5L17B2023/AMANR5L17PO420120B2023P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B1411P0D1N000001",
+      "chronotag": "1757948828529",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B1411P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1411",
+      "triAmendement": "gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795730",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA719798",
+            "PA795144",
+            "PA722000",
+            {
+              "__truncated_items__": 10
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Marchive,  M.&#160;Labaronne, M.&#160;Armand, M.&#160;Buchou, Mme&#160;Buffet, M.&#160;Fugit, Mme&#160;Olivia&#160;Gr&#233;goire, Mme&#160;Le&#160;Meur, Mme&#160;Le&#160;Peih, Mme&#160;Lebec, Mme&#160;Marsaud, M.&#160;Midy, M.&#160;Travert et M.&#160;Vojetta"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 3",
+          "articleDesignationCourte": "ART. 3",
+          "articleDesignation": "ARTICLE 3",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1411.asp#D_Article_3"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">L&#x2019;article 3 de la pr&#x00E9;sente proposition de loi supprime la prise en compte du niveau de performance &#x00E9;nerg&#x00E9;tique d&#x2019;un logement comme pr&#x00E9;requis &#x00E0; sa d&#x00E9;cence.&nbsp;</p><p style=\"text-align: justify;\">En maintenant <i>ad vitam aeternam</i> les passoires &#x00E9;nerg&#x00E9;tiques sur le march&#x00E9; locatif, cet article nie le fait que la d&#x00E9;cence &#x00E9;nerg&#x00E9;tique d&#x2019;un logement constitue un &#x00E9;l&#x00E9;ment essentiel pour garantir de bonnes conditions de vie aux locataires et pr&#x00E9;server leur pouvoir d&#x2019;achat, eu &#x00E9;gard aux factures d&#x2019;&#x00E9;nergie inh&#x00E9;rentes &#x00E0; la vie dans une passoire &#x00E9;nerg&#x00E9;tique.&nbsp;</p><p style=\"text-align: justify;\">Il r&#x00E9;fute &#x00E9;galement l&#x2019;usage du Diagnostic de Performance Energ&#x00E9;tique (DPE) comme outil de valorisation de leur bien &#x00E0; tous ces propri&#x00E9;taires qui se sont engag&#x00E9;s dans la r&#x00E9;novation de leur logement.&nbsp;</p><p style=\"text-align: justify;\">Il nie aussi tous les efforts que la fili&#x00E8;re du b&#x00E2;timent a mis en &#x0153;uvre pour se structurer afin de r&#x00E9;pondre &#x00E0; la demande croissante de r&#x00E9;novation.&nbsp;</p><p style=\"text-align: justify;\">Il r&#x00E9;cuse enfin l&#x2019;objectif fix&#x00E9; de neutralit&#x00E9; carbone &#x00E0; horizon 2050, &#x00E0; l&#x2019;heure o&#x00F9; le secteur du b&#x00E2;timent repr&#x00E9;sente toujours pr&#x00E8;s de 20% des &#x00E9;missions de gaz &#x00E0; effet de serre et constitue &#x00E0; cet &#x00E9;gard un &#x00E9;l&#x00E9;ment d&#x00E9;terminant pour y parvenir. &nbsp;</p><p style=\"text-align: justify;\">Certes, la fiabilit&#x00E9; du DPE doit encore progresser et les contr&#x00F4;les &#x00EA;tre accentu&#x00E9;s, tout comme l&#x2019;accompagnement &#x00E0; la r&#x00E9;novation &#x00E9;nerg&#x00E9;tique avec le dispositif Ma Prime R&#x00E9;nov doit &#x00EA;tre renforc&#x00E9;. Mais en choisissant de supprimer sa prise en compte comme crit&#x00E8;re de d&#x00E9;cence d&#x2019;un logement, cet article acte une politique de renonciation face aux engagements climatiques de la France.&nbsp;</p><p style=\"text-align: justify;\">A l&#x2019;inverse, une r&#x00E9;ponse ambitieuse et coh&#x00E9;rente, consistant &#x00E0; mieux prendre en compte les situations dans lesquelles des contraintes ext&#x00E9;rieures freinent la r&#x00E9;novation &#x00E9;nerg&#x00E… [truncated 730 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-06-12",
+        "datePublication": "2025-06-18",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-06-18T11:49:56+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B1411P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "80074",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411",
+  "directory_json_file_count": 41,
+  "ignored_json_files_count": 40,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52083/PIONANR5L17B1411/AMANR5L17PO419610B1411P0D1N000021.json"
+  ]
+}

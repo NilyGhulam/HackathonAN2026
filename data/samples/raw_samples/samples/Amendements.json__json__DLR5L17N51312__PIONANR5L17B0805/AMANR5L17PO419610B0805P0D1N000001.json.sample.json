@@ -1,0 +1,189 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0805P0D1N000001",
+      "chronotag": "1741097875767",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0805P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0805",
+      "triAmendement": "jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841381",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Pantel"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 3",
+          "articleDesignationCourte": "APRÈS ART. 3",
+          "articleDesignation": "APRÈS L'ARTICLE 3, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0805.asp#D_Article_3"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Apr&#x00E8;s le premier alin&#x00E9;a de l&#x2019;article L.&nbsp;142&#x2011;6 du code rural et de la p&#x00EA;che maritime, il est ins&#x00E9;r&#x00E9; un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Par d&#x00E9;rogation au premier alin&#x00E9;a du pr&#x00E9;sent article, dans le cadre d&#x2019;une convention de mise &#x00E0; disposition d&#x2019;une soci&#x00E9;t&#x00E9; d&#x2019;am&#x00E9;nagement foncier et d&#x2019;&#x00E9;tablissement rural de terres &#x00E0; vocation agricole ou pastorale propri&#x00E9;t&#x00E9;s d&#x2019;une section de commune d&#x00E9;finie dans l&#x2019;article L.&nbsp;2411&#x2011;1 du code g&#x00E9;n&#x00E9;ral des collectivit&#x00E9;s territoriales, la dur&#x00E9;e maximale des conventions est de six ans, renouvelable trois fois, quelle que soit la superficie des immeubles ruraux mis &#x00E0; disposition.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;La perte de recettes pour l&#x2019;&#x00C9;tat est compens&#x00E9;e &#x00E0; due concurrence par la cr&#x00E9;ation d&#x2019;une taxe additionnelle &#x00E0; l&#x2019;accise sur les tabacs pr&#x00E9;vue au chapitre&nbsp;IV du titre&nbsp;I<sup>er</sup> du livre&nbsp;III du code des impositions sur les biens et services.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cette proposition de loi vise &#x00E0; r&#x00E9;pondre prot&#x00E9;ger la culture des terres agricoles en renfor&#x00E7;ant les moyens d&#x2019;action et de r&#x00E9;gulation de la SAFER, elle agit sur le p&#x00E9;rim&#x00E8;tre de son droit de pr&#x00E9;emption et am&#x00E9;liore la mise en &#x0153;uvre de ce droit et la gestion des terres.<br>&nbsp;<br>Dans la continuit&#x00E9; de ces dispositifs, cet amendement propose d&#x2019;int&#x00E9;grer &#x00E0; cette proposition de loi une am&#x00E9;lioration de la gestion des terres &#x00E0; vocation agricole ou pastorale mis &#x00E0; disposition qui sont la propri&#x00E9;t&#x00E9; d&#x2019;une section de commune attribu&#x00E9;es par convention pluriannuelle d'exploitation agricole ou de p&#x00E2;turage &#x00E0; la SAFER .<br>&nbsp;<br>La section de commune est un dispositif unique, d&#x00E9;fini &#x00E0; l&#x2019;article L. 2411-1 du code g&#x00E9;n&#x00E9;ral des collectivit&#x00E9;s territoriales comme &#x201C;toute partie d&#x2019;une commune poss&#x00E9;dant &#x00E0; titre permanent et exclusif des biens ou des droits distincts de ceux de la commune&#x201D;. Ces biens repr&#x00E9;sentent de v&#x00E9;ritable &#x201C;bien commun&#x201D;, c&#x2019;est-&#x00E0;-dire une propri&#x00E9;t&#x00E9; collective qui a persist&#x00E9; apr&#x00E8;s la R&#x00E9;volution fran&#x00E7;aise.<br>&nbsp;<br>L&#x2019;article L2411-10 du code g&#x00E9;n&#x00E9;ral des collectivit&#x00E9;s territoriales permet notamment d&#x2019;attribuer des terres &#x00E0; vocation agricole ou pastorale propri&#x00E9;t&#x00E9;s d&#x2019;une section de commune par convention de mise &#x00E0; disposition d&#x2019;une SAFER.<br>Ce montage juridique par la SAFER permet de pr&#x00E9;server les terres agricoles de leur d&#x00E9;tournement dans nos territoires, assurant ainsi la p&#x00E9;rennit&#x00E9; de notre vie agricole traditionnelle.<br>&nbsp;<br>N&#x00E9;anmoins, l&#x2019;installation et le maintien durable de nos agriculteurs sur le territoire dans le cadre de ce type de montage pose probl&#x00E8;me. En effet, la mise en disposition des terres par la SAFER est aujourd&#x2019;hui renouvelable qu&#x2019;une seule fois, pour une dur&#x00E9;e totale de 12 ans selon l&#x2019;article L142-6 du code rural et de la p&#x00EA;che maritime.<br>&nbsp;<br>Les SAFER, notamment celle de Loz&#x00E8;re, souhaitent porter &#x00E0; 3 fois le renouvellement possible de la mise &#x00E0; dispositions des terres &#x00E0; vocation agricole ou pastorale propri&#x00… [truncated 187 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-27",
+        "datePublication": "2025-03-03",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0805P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c rural",
+        "divisionCodeLoi": "L142-6"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805",
+  "directory_json_file_count": 13,
+  "ignored_json_files_count": 12,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51312/PIONANR5L17B0805/AMANR5L17PO419610B0805P0D1N000013.json"
+  ]
+}

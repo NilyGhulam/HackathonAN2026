@@ -1,0 +1,176 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2877/AMANR5L17PO838901BTC2877P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2877P0D1N000001",
+      "chronotag": "1781626746485",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2877P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2877",
+      "triAmendement": "jiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Gouvernement",
+          "gouvernementRef": "PO873634",
+          "acteurRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "groupePolitiqueRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "le Gouvernement"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 8 bis",
+          "articleDesignationCourte": "ART. 8 BIS",
+          "articleDesignation": "ARTICLE 8 BIS",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2877.asp#D_Article_8_bis"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "5",
+            "alineaDesignation": "Alinéa 5"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Alin&#x00E9;a 5</p><p>Remplacer les mots :</p><p>en r&#x00E9;tention</p><p>par les mots :</p><p>des p&#x00E9;riodes de r&#x00E9;tention</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Parmi les motifs retenus dans sa d&#x00E9;cision n&#x00B0;&nbsp;2025-1172 QPC du 16 octobre 2025 pour d&#x00E9;clarer contraires &#x00E0; la Constitution, &#x00E0; compter du 1er novembre 2026, les dispositions de l&#x2019;article L. 741-7 du code de l&#x2019;entr&#x00E9;e et du s&#x00E9;jour des &#x00E9;trangers et du droit d&#x2019;asile relatives &#x00E0; la r&#x00E9;it&#x00E9;ration du placement en r&#x00E9;tention d&#x2019;un &#x00E9;tranger sur le fondement d&#x2019;une m&#x00EA;me d&#x00E9;cision d&#x2019;&#x00E9;loignement, le Conseil constitutionnel a notamment relev&#x00E9; l&#x2019;absence de fixation d&#x2019;un nombre maximal de placements en r&#x00E9;tention, ainsi que celle d&#x2019;une dur&#x00E9;e cumul&#x00E9;e maximale de r&#x00E9;tention (consid&#x00E9;rant 12).</p><p>Si la r&#x00E9;daction de l&#x2019;article 8&nbsp;bis de la proposition de loi adopt&#x00E9; par la commission mixte paritaire r&#x00E9;pond bien &#x00E0; ces deux conditions, le Gouvernement estime que la r&#x00E9;daction retenue pourrait encourir un risque de censure constitutionnelle dans la mesure o&#x00F9; elle ne pr&#x00E9;voit pas explicitement de dur&#x00E9;e maximale pour chaque nouvelle d&#x00E9;cision de placement en r&#x00E9;tention. En effet, elle pourrait, &#x00E0; tort, laisser penser que chacun de ces placements en r&#x00E9;tention puisse exc&#x00E9;der les dur&#x00E9;es maximales de 90 et de 210 jours pr&#x00E9;vues respectivement par les articles L.&nbsp;742-4, L. 742-6 et L. 742-7 du CESEDA, tout en &#x00E9;tant contraints par le nombre maximal de placements (cinq) et la dur&#x00E9;e totale cumul&#x00E9;e (360 ou 540 jours). Autrement dit, il ne faudrait pas que cette r&#x00E9;daction puisse &#x00EA;tre lue comme autorisant un pr&#x00E9;fet &#x00E0; demander un nouveau placement en r&#x00E9;tention sur le fondement d&#x2019;une m&#x00EA;me d&#x00E9;cision d&#x2019;&#x00E9;loignement pour une dur&#x00E9;e de 270 jours (360-90) ou de 330 jours (540-210). Si tel &#x00E9;tait le cas, le Conseil constitutionnel pourrait consid&#x00E9;rer, &#x00E0; l&#x2019;instar de la d&#x00E9;cision de censure pr&#x00E9;cit&#x00E9;e du 16&nbsp;octobre&nbsp;2025, que &#x00AB;&nbsp;le l&#x00E9;gislateur n&#x2019;a pas pr&#x00E9;vu les garanties l&#x00E9;gales de nature &#x00E0; assurer une conciliation &#x00E9;quilibr&#x00E9;e entre les exigences constitutionnelles&nbsp;&#x00BB; d&#x2019;ordre public et de libert&#x00E9; individuelle, en contradiction m&#x00EA;me avec les … [truncated 1097 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-15",
+        "datePublication": "2026-06-16",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-06-16T18:19:04+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2877P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30490",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2877",
+  "directory_json_file_count": 2,
+  "ignored_json_files_count": 1,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2877/AMANR5L17PO838901BTC2877P0D1N000002.json"
+  ]
+}

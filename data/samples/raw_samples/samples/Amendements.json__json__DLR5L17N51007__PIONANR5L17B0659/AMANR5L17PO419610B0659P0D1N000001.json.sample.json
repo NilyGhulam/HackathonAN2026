@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0659P0D1N000001",
+      "chronotag": "1739874709675",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0659P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0659",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaqc",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841825",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841495",
+            "PA793238",
+            "PA642988",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Patrice&#160;Martin,  M.&#160;Amblard, M.&#160;Barth&#232;s, M.&#160;de&#160;L&#233;pinau, M.&#160;Falcon, M.&#160;Gabarron, M.&#160;Golliot, Mme&#160;Grangier, Mme&#160;Laporte, Mme&#160;Lavalette, M.&#160;Le&#160;Bourgeois, M.&#160;Loubet, M.&#160;Meizonnet, M.&#160;Rivi&#232;re, M.&#160;Tivoli et M.&#160;Weber"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0659.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "3",
+            "alineaDesignation": "Alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Compl&#x00E9;tez cet article par l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;L&#x2019;autorit&#x00E9; administrative proc&#x00E8;de &#x00E0; des contr&#x00F4;les syst&#x00E9;matiques aux points d&#x2019;entr&#x00E9;e du territoire national, sur le r&#x00E9;seau routier, non routier et dans les lieux de stockage ou de commercialisation des produites agricoles et denr&#x00E9;es alimentaires import&#x00E9;s, en vue de garantir le respect des interdictions pr&#x00E9;vues au premier alin&#x00E9;a. Ces contr&#x00F4;les sont organis&#x00E9;s dans le cadre d&#x2019;une strat&#x00E9;gie pluriannuelle d&#x00E9;finie par l&#x2019;autorit&#x00E9; administrative, et reposent sur des moyens humains, techniques et financiers appropri&#x00E9;s. Les modalit&#x00E9;s de mise en &#x0153;uvre de ces contr&#x00F4;les sont pr&#x00E9;cis&#x00E9;es par d&#x00E9;cret.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;Compl&#x00E9;ter cet article par l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;La perte de recettes pour l&#x2019;&#x00C9;tat est compens&#x00E9;e &#x00E0; due concurrence par la cr&#x00E9;ation d&#x2019;une taxe additionnelle &#x00E0; l&#x2019;accise sur les tabacs pr&#x00E9;vue au chapitre&nbsp;IV du titre&nbsp;I<sup>er</sup> du livre&nbsp;III du code des impositions sur les biens et services.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;objectif de cet amendement est de garantir une application rigoureuse et effective de l&#x2019;interdiction d&#x2019;importation des produits alimentaires et agricoles non conformes aux normes phytosanitaires et v&#x00E9;t&#x00E9;rinaires europ&#x00E9;ennes, relatives &#x00E0; la notion de &#x00AB;&nbsp;clauses miroirs&nbsp;&#x00BB;.</p><p>&nbsp;<br>Les ressources de l&#x2019;autorit&#x00E9; administrative sous tutelle du Minist&#x00E8;re de l&#x2019;Agriculture et de la Souverainet&#x00E9; alimentaire demeurent indispensables pour organiser des contr&#x00F4;les syst&#x00E9;matiques aux points d&#x2019;entr&#x00E9;e du territoire national.</p><p><br>Ce dispositif, en consolidant les m&#x00E9;canismes de contr&#x00F4;le, constitue un gage de souverainet&#x00E9; alimentaire et de protection des fili&#x00E8;res agricoles fran&#x00E7;aises face &#x00E0; des pratiques d&#x00E9;loyales. Il s&#x2019;inscrit dans une logique de stricte r&#x00E9;ciprocit&#x00E9; normative et garantit une protection accrue des consommateurs.</p><p>&nbsp;<br>Par ailleurs, l&#x2019;inscription de ces contr&#x00F4;les dans une programmation pluriannuelle assure une p&#x00E9;rennit&#x00E9; dans la surveillance, en r&#x00E9;pondant &#x00E0; l&#x2019;&#x00E9;volution des flux commerciaux.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-24",
+        "datePublication": "2025-01-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2025-01-28T17:44:25+01:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0659P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659",
+  "directory_json_file_count": 43,
+  "ignored_json_files_count": 42,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51007/PIONANR5L17B0659/AMANR5L17PO419610B0659P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1133P0D1N000001",
+      "chronotag": "1775038830880",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1133P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1133",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840903",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA340343",
+            "PA840665",
+            "PA608264",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Christophle,  M.&#160;Saulignac, Mme&#160;Allemand, Mme&#160;Capdevielle, M.&#160;Houli&#233;, Mme&#160;Karamanli, M.&#160;Pena, Mme&#160;Thi&#233;bault-Martinez, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1133.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe Socialistes et apparent&#x00E9;s entend supprimer l'article unique de cette proposition de loi.&nbsp;</p><p>Le renforcement des sanctions visant les organisateurs de rassemblements festifs n'auront pour effet que de d&#x00E9;grader la s&#x00E9;curit&#x00E9; des personnes participant &#x00E0; ces rassemblements.&nbsp;</p><p>Il est &#x00E0; cet &#x00E9;gard essentiel de sortir de l'impasse du r&#x00E9;gime juridique de l'autorisation pr&#x00E9;alable d&#x00E9;guis&#x00E9;e en r&#x00E9;gime de d&#x00E9;claration pr&#x00E9;alable : il appartient &#x00E0; la collectivit&#x00E9; publique de renouer un dialogue garantissant le droit &#x00E0; l'organisation de ces rassemblements festifs dans le cadre n&#x00E9;goci&#x00E9; avec les pr&#x00E9;fets au nom de l'Etat.&nbsp;</p><p>Faute pour la collectivit&#x00E9; publique de garantir l'acc&#x00E8;s aux autres lieux d&#x00E9;di&#x00E9;s &#x00E0; la f&#x00EA;te en raison notamment des discriminations qui s'op&#x00E8;rent &#x00E0; leurs entr&#x00E9;es, il lui appartient de permettre &#x00E0; ces &#x00E9;v&#x00E8;nements libres d'acc&#x00E8;s de perdurer.&nbsp;</p><p>Enfin, les dispositions de ce texte telles qu'elles sont r&#x00E9;dig&#x00E9;es auraient pour effet de placer les associations de r&#x00E9;duction des risques sanitaires sous le coup de la loi alors qu'elles ont le m&#x00E9;rite d'assurer une pr&#x00E9;sence lors de ces &#x00E9;v&#x00E8;nements pour informer et le cas &#x00E9;ch&#x00E9;ant accueillir les personnes en d&#x00E9;tresse.&nbsp;</p><p>Telles sont les raisons de cet amendement de suppression.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-24",
+        "datePublication": "2026-03-31",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-04-01T12:19:59+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1133P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "87729",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133",
+  "directory_json_file_count": 36,
+  "ignored_json_files_count": 35,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17B1133/AMANR5L17PO59051B1133P0D1N000021.json"
+  ]
+}

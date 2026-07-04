@@ -1,0 +1,57 @@
+{
+  "source_file": "AMO50_acteurs_mandats_organes_divises.json/mandat/PM115583.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "mandat"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "mandat": {
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "uid": "PM115583",
+      "acteurRef": "PA1654",
+      "legislature": "9",
+      "typeOrgane": "COMPER",
+      "dateDebut": "1988-06-23",
+      "datePublication": null,
+      "dateFin": "1988-06-27",
+      "preseance": "32",
+      "nominPrincipale": "1",
+      "infosQualite": {
+        "codeQualite": "Membre",
+        "libQualite": "Membre",
+        "libQualiteSex": "Membre"
+      },
+      "organes": {
+        "organeRef": "PO59048"
+      }
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "AMO50_acteurs_mandats_organes_divises.json/mandat",
+  "directory_json_file_count": 29702,
+  "ignored_json_files_count": 29701,
+  "ignored_json_files_preview": [
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM116608.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM116940.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM117223.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM119162.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM121904.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM122637.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM124125.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM124518.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM125535.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM126650.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM128035.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15388301.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15388387.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15388404.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15425760.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15591228.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15653261.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15653292.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15717223.json",
+    "AMO50_acteurs_mandats_organes_divises.json/mandat/PM15717231.json"
+  ]
+}

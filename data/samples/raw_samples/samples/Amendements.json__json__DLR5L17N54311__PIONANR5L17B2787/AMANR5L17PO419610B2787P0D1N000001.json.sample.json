@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B2787P0D1N000001",
+      "chronotag": "1781629925811",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B2787P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2787",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794854",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA342415",
+            "PA841315",
+            "PA793394",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Echaniz,  Mme&#160;Battistel, M.&#160;Benbrahim, M.&#160;Delaporte, M.&#160;Lhardit, M.&#160;Potier, Mme&#160;Rossi, Mme&#160;Thomin et M.&#160;Naillet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2787.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe socialistes et apparent&#x00E9;s vise &#x00E0; supprimer cet article qui entend conditionner la conclusion d&#x2019;un contrat d&#x2019;&#x00E9;nergie et de services de communications &#x00E9;lectroniques &#x00E0; un justificatif d&#x2019;occupation.</p><p>Cet article dogmatique et techniquement irr&#x00E9;aliste pose plusieurs interrogations.</p><p>D&#x2019;abord, celle de traiter la crise du logement sous l&#x2019;angle de l&#x2019;occupation illicite et du sujet de l'utilisation de faux justificatifs pour se maintenir dans les lieux, situations qui concerneraient une petite part des 6000 &#x00E0; 7000 cas recens&#x00E9;s en 2023. Pour rappel, plus de 4 millions de fran&#x00E7;ais souffrent de mal-logement ou d'absence de logement personnel, il est donc urgent de mener une politique ambitieuse pour augmenter le nombre de logements abordables. D&#x2019;autant que des mesures drastiques ont d&#x2019;ores et d&#x00E9;j&#x00E0; &#x00E9;t&#x00E9; prises contre les squats et ont conduit, en 2025, &#x00E0; tripler le nombre d&#x2019;expulsions. Il est primordial que le temps parlementaire soit consacr&#x00E9; &#x00E0; d&#x00E9;battre de mesures concr&#x00E8;tes pour r&#x00E9;pondre &#x00E0; la crise massive de l&#x2019;offre que traverse notre pays.</p><p>Aussi, cet article souhaite mettre en place un m&#x00E9;canisme techniquement irr&#x00E9;alisable. En effet, les fournisseurs d&#x2019;&#x00E9;nergie comme de services de communication, en tant que fournisseurs de services, n&#x2019;ont pas vocation &#x00E0; assurer la mission de v&#x00E9;rification de l&#x2019;identit&#x00E9; de leur client. Ils n&#x2019;ont pas les comp&#x00E9;tences, ni la l&#x00E9;gitimit&#x00E9; pour contr&#x00F4;ler les pi&#x00E8;ces et exercer ce pouvoir de police.</p><p>Enfin, plusieurs millions de contrats sont conclus chaque ann&#x00E9;e, cela repr&#x00E9;senterait une charge administrative consid&#x00E9;rable et un co&#x00FB;t pour le fournisseur (stockage, s&#x00E9;curisation des donn&#x00E9;es, archivage, traitement) qui sera in&#x00E9;vitablement r&#x00E9;percut&#x00E9; sur l&#x2019;usager. La d&#x00E9;marche serait &#x00E9;galement complexifi&#x00E9;e pour tout nouveau locataire ou propri&#x00E9;taire qui se verraient imposer de d&#x00E9;lais suppl&#x00E9;mentaires pour acc&#x00E9;der aux services, voire, pour certaines situations particuli&#x00E8;res, des blocages de leur dossier. D&#x2019;autant que les fournisseurs d&#x2019;&#x00E9;nergie sont soum… [truncated 677 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-10",
+        "datePublication": "2026-06-16",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-16T19:11:46+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B2787P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "91079",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787",
+  "directory_json_file_count": 22,
+  "ignored_json_files_count": 21,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54311/PIONANR5L17B2787/AMANR5L17PO419610B2787P0D1N000021.json"
+  ]
+}

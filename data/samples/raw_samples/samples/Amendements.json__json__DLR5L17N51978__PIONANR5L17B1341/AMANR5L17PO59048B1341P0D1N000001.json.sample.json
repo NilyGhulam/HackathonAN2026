@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B1341P0D1N000001",
+      "chronotag": "1757948514191",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B1341P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1341",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793432",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": "et les membres du groupe Rassemblement National",
+        "libelle": "M.&#160;Allisio et les membres du groupe Rassemblement National"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1341.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;I&nbsp;&#x2013;&nbsp;Le code g&#x00E9;n&#x00E9;ral des imp&#x00F4;ts est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;Le <i>i </i>de l&#x2019;article&nbsp;787 B est compl&#x00E9;t&#x00E9; par un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Dans le cas d&#x2019;une entreprise n&#x2019;&#x00E9;mettant pas de titres admis &#x00E0; la n&#x00E9;gociation sur un march&#x00E9; r&#x00E9;glement&#x00E9;, l&#x2019;exon&#x00E9;ration de droits de mutation &#x00E0; titre gratuit pr&#x00E9;vu au premier alin&#x00E9;a du pr&#x00E9;sent article peut &#x00EA;tre totale, &#x00E0; condition que l&#x2019;engagement mentionn&#x00E9; au&nbsp;<i>a</i>&nbsp;soit pris par le d&#x00E9;funt ou le donateur pour une dur&#x00E9;e minimale de trois ans et que l&#x2019;engagement mentionn&#x00E9; au&nbsp;<i>c</i>&nbsp;soit pris par chacun des h&#x00E9;ritiers, donataires ou l&#x00E9;gataires pour une dur&#x00E9;e de dix ans et sous r&#x00E9;serve du respect des autres dispositions du pr&#x00E9;sent article.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;L&#x2019;article&nbsp;787 C est compl&#x00E9;t&#x00E9; par trois alin&#x00E9;as ainsi r&#x00E9;dig&#x00E9;s&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;L&#x2019;exon&#x00E9;ration pr&#x00E9;vue au premier alin&#x00E9;a du pr&#x00E9;sent article peut, &#x00E0; la demande des b&#x00E9;n&#x00E9;ficiaires, &#x00EA;tre totale si les conditions suppl&#x00E9;mentaires suivantes sont r&#x00E9;unies&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;&#x2013;&nbsp;La dur&#x00E9;e de d&#x00E9;tention mentionn&#x00E9;e au&nbsp;<i>a</i>&nbsp;est au minimum de trois ans&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;&#x2013;&nbsp;La dur&#x00E9;e de l&#x2019;engagement individuel mentionn&#x00E9; au&nbsp;<i>b</i>&nbsp;est au minimum de dix ans.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;La perte de recettes pour l&#x2019;&#x00C9;tat est compens&#x00E9;e &#x00E0; due concurrence par la cr&#x00E9;ation d&#x2019;une taxe additionnelle &#x00E0; la taxe vis&#x00E9;e &#x00E0; l&#x2019;article&nbsp;235&nbsp;<i>ter</i>&nbsp;ZD du code g&#x00E9;n&#x00E9;ral des imp&#x00F4;ts.&nbsp;&#x00BB;</p… [truncated 1 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le groupe Rassemblement National d&#x00E9;pose un amendement de r&#x00E9;&#x00E9;criture g&#x00E9;n&#x00E9;rale de cette PPL pour d&#x00E9;fendre son programme en mati&#x00E8;re de transmission des entreprises.&nbsp;</p><p style=\"text-align: justify;\">La faiblesse relative du r&#x00E9;seau d&#x2019;ETI dont dispose notre pays comparativement &#x00E0; nos voisins italiens et allemands, et qui constitue un handicap pour notre &#x00E9;conomie, s&#x2019;explique principalement par des raisons fiscales et notamment par la lourdeur de la taxation relative &#x00E0; la transmission du capital. En effet, selon le Mouvement des entreprises de taille interm&#x00E9;diaire (METI), le co&#x00FB;t de la transmission d&#x2019;une ETI s&#x2019;&#x00E9;tablit en France entre 7&nbsp;% et 11&nbsp;% de la valeur de l&#x2019;entreprise en ligne directe et entre 15&nbsp;% et 24&nbsp;% en ligne indirecte, contre 5&nbsp;% en moyenne en Europe.</p><p style=\"text-align: justify;\">Ainsi, pour une entreprise industrielle valoris&#x00E9;e &#x00E0; 300 millions d&#x2019;euros, 2,5 &#x00E0; 8,5 ann&#x00E9;es sont n&#x00E9;cessaires pour permettre &#x00E0; l&#x2019;entreprise de s&#x2019;acquitter du co&#x00FB;t global de la transmission, l&#x2019;obligeant durant cette p&#x00E9;riode &#x00E0; prioriser le paiement de ces droits de mutation sur, notamment, l&#x2019;investissement. Les cons&#x00E9;quences peuvent &#x00EA;tre tr&#x00E8;s lourdes quant &#x00E0; la comp&#x00E9;titivit&#x00E9; de l&#x2019;entreprise, et peuvent m&#x00EA;me l&#x2019;entra&#x00EE;ner vers la faillite, ou la conduire &#x00E0; &#x00EA;tre rachet&#x00E9;e par des capitaux &#x00E9;trangers.</p><p style=\"text-align: justify;\">De m&#x00EA;me, les droits de succession pesant sur les entreprises individuelles peuvent &#x00EA;tre extr&#x00EA;mement lourds.</p><p style=\"text-align: justify;\">Afin d&#x2019;entamer une r&#x00E9;duction r&#x00E9;elle de cette taxation sur les transmissions d&#x2019;entreprises, le pr&#x00E9;sent amendement propose de compl&#x00E9;ter le dispositif dit &#x00AB;&nbsp;Pacte Dutreil&nbsp;&#x00BB;, d&#x00E9;fini &#x00E0; l&#x2019;article&nbsp;787 B du code g&#x00E9;n&#x00E9;ral des imp&#x00F4;ts. Dans le respect des conditions pr&#x00E9;vues &#x00E0; cet article, il est propos&#x00E9; de permettre une exon&#x00E9;ration totale de droits de mutations &#x00E0; titre gratuit lors de la transmission d&#x2019;une entreprise familiale, &#x00E0; condition que les h&#x00E9… [truncated 382 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-05-22",
+        "datePublication": "2025-05-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2025-05-28T12:18:17+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B1341P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341",
+  "directory_json_file_count": 33,
+  "ignored_json_files_count": 32,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51978/PIONANR5L17B1341/AMANR5L17PO59048B1341P0D1N000021.json"
+  ]
+}

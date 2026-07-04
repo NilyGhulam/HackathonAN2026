@@ -1,0 +1,67 @@
+{
+  "source_file": "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L15PA335999D0001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "deport"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "deport": {
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "uid": "DPTR5L15PA335999D0001",
+      "chronotag": "5",
+      "legislature": "15",
+      "refActeur": "PA335999",
+      "dateCreation": "2021-11-22T15:46:09.483279+00:00",
+      "datePublication": "2021-11-22T15:58:48.747792+00:00",
+      "portee": {
+        "code": "COMPLET",
+        "libelle": "Être absent pour la totalité du processus législatif concerné"
+      },
+      "lecture": {
+        "code": "SO",
+        "libelle": "Sans Objet"
+      },
+      "instance": {
+        "code": "COM",
+        "libelle": "Commission"
+      },
+      "cible": {
+        "type": {
+          "code": "AUD",
+          "libelle": "Audition"
+        },
+        "referenceTextuelle": "Audition suivie d'un vote, en application de l’article 13 de la Constitution, de Mme Anne-Claire Mialot, que le Président de la République envisage de nommer dans les fonctions de directrice générale de l’Agence nationale pour la rénovation urbaine (ANRU)",
+        "references": null
+      },
+      "explication": "<p>L&#39;Agence Nationale de R&eacute;novation Urbaine est l&#39;employeur de mon conjoint.&nbsp;Je souhaite donc faire usage de la facult&eacute; pr&eacute;vue par l&#39;alin&eacute;a 2 de l&#39;article 80-1-1 du R&egrave;glement en ne participant ni &agrave; l&#39;audition&nbsp;ni au vote de la Commission des Affaires &Eacute;conomiques dont je suis membre.</p>"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "AMO50_acteurs_mandats_organes_divises.json/deport",
+  "directory_json_file_count": 32,
+  "ignored_json_files_count": 31,
+  "ignored_json_files_preview": [
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L15PA719024D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L15PA719052D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L15PA721932D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA610002D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA610002D0002.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA719472D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA720146D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA720560D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA720560D0002.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA721158D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA721158D0002.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA721984D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA793992D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA793992D0002.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA794022D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA794278D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA794470D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA794470D0002.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA794810D0001.json",
+    "AMO50_acteurs_mandats_organes_divises.json/deport/DPTR5L16PA794810D0002.json"
+  ]
+}

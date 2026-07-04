@@ -1,0 +1,200 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0823P0D1N000001",
+      "chronotag": "1739992466102",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0823P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0823",
+      "triAmendement": "oaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaj",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA796010",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795998",
+            "PA721896",
+            "PA795876",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Maillot,  Mme&#160;K/Bidi, Mme&#160;Faucillon, M.&#160;Rimane, Mme&#160;Bourouaha, M.&#160;B&#233;nard, M.&#160;Castor, M.&#160;Chassaigne, Mme&#160;Lebon, M.&#160;Lecoq, M.&#160;Maurel, M.&#160;Monnet, M.&#160;Nadeau, M.&#160;Peu, Mme&#160;Reid&#160;Arbelot, M.&#160;Sansu et M.&#160;Tjibaou"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 4",
+          "articleDesignationCourte": "APRÈS ART. 4",
+          "articleDesignation": "APRÈS L'ARTICLE 4, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0823.asp#D_Article_4"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai de six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport faisant le bilan de la loi n&#x00B0;&nbsp;2018&#x2011;1244 du 27 d&#x00E9;cembre 2018 visant &#x00E0; faciliter la sortie de l&#x2019;indivision successorale et &#x00E0; relancer la politique du logement en outre-mer.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>La loi Letchimy est entr&#x00E9;e en vigueur en 2018 et devait aboutir en 2038. Si le but de la proposition de loi &#x00E9;tait de surmonter les difficult&#x00E9;s li&#x00E9;es aux indivisions successorales, les experts se montrent r&#x00E9;ticents quant &#x00E0; son application. Pour cause, le Conseil Sup&#x00E9;rieur du Notariat a exprim&#x00E9; lors d&#x2019;un colloque le 10 janvier 2023 que sa pleine application rencontre encore des difficult&#x00E9;s et ce pour plusieurs raisons. Le rapport d&#x2019;information du S&#x00E9;nat sur le foncier agricole en Outre-mer explique que pour Me&nbsp;Nathalie Jay, vice-pr&#x00E9;sidente de la commission Prospective et innovation du Conseil national des barreaux (CNB), la loi Letchimy commence &#x00E0; &#x00EA;tre utilis&#x00E9;e mais encore marginalement, de nombreux professionnels du droit - notaires, avocats, magistrats - n'&#x00E9;tant pas familiers de la proc&#x00E9;dure. Si de peu reconnaissent que la loi a pu &#x00EA;tre profitable pour quelques successions non liquid&#x00E9;es pendant des g&#x00E9;n&#x00E9;rations, beaucoup de notaires ne souhaitent pas se plier &#x00E0; ses exigences car elle alourdit leurs missions notamment de recherches d&#x2019;h&#x00E9;ritiers qui n&#x2019;habitent plus sur le territoire concern&#x00E9;. Par ailleurs, le rapport fait &#x00E9;tat d&#x2019;un manque de donn&#x00E9;es sur le nombre de ventes ou partages autoris&#x00E9;s en application de la loi du 27 d&#x00E9;cembre 2018, d&#x2019;o&#x00F9; la n&#x00E9;cessit&#x00E9; d&#x2019;&#x00E9;tablir un rapport pr&#x00E9;cisant ses externalit&#x00E9;s positives ou n&#x00E9;gatives avant que le dispositif ne s&#x2019;applique au territoire tout entier.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-14",
+        "datePublication": "2025-02-19",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-02-19T20:12:29+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0823P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "zzzz",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823",
+  "directory_json_file_count": 37,
+  "ignored_json_files_count": 36,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B0823/AMANR5L17PO59051B0823P0D1N000021.json"
+  ]
+}

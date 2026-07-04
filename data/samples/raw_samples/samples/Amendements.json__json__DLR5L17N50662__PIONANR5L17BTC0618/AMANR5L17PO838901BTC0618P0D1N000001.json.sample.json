@@ -1,0 +1,183 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50662/PIONANR5L17BTC0618/AMANR5L17PO838901BTC0618P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0618P0D1N000001",
+      "chronotag": "1739874687994",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0618P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0618",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720386",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Di&#160;Filippo"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0618.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;article 1 encadre les r&#x00E9;mun&#x00E9;rations dans les entreprises priv&#x00E9;es, en instaurant un &#x00E9;cart maximal entre le salaire le plus bas et la r&#x00E9;mun&#x00E9;ration la plus haute dans une m&#x00EA;me entreprise d&#x2019;un facteur 20. M&#x00E9;caniquement, une entreprise qui souhaiterait augmenter ses plus hautes r&#x00E9;mun&#x00E9;rations devra &#x00E9;galement augmenter ses plus basses r&#x00E9;mun&#x00E9;rations en proportion.</p><p>Notre pays est l&#x2019;un de ceux o&#x00F9; l&#x2019;imp&#x00F4;t sur le revenu est le plus progressif au monde et s&#x2019;associe, pour les salaires les plus &#x00E9;lev&#x00E9;s, &#x00E0; une contribution fiscale exceptionnelle sur les plus hauts revenus.</p><p>De plus, selon un rapport de l'Organisation de coop&#x00E9;ration et de d&#x00E9;veloppement &#x00E9;conomiques, les entreprises fran&#x00E7;aises sont celles qui ont pay&#x00E9; le plus haut niveau de cotisations patronales parmi les 38 pays membres de l&#x2019;organisation, en 2023. Cela repr&#x00E9;sente environ 26% des co&#x00FB;ts de main-d'&#x0153;uvre support&#x00E9;s par les entreprises. C&#x2019;est deux fois sup&#x00E9;rieur &#x00E0; la moyenne de l&#x2019;OCDE, qui tourne autour de 13%.&nbsp; Les charges patronales, les charges salariales et l&#x2019;imp&#x00F4;t sur les revenus repr&#x00E9;sentent pr&#x00E8;s de 47% du co&#x00FB;t de la main d&#x2019;&#x0153;uvre. Seules la Belgique, l&#x2019;Allemagne et l&#x2019;Autriche sont au-dessus. Ainsi, en France, un employ&#x00E9; au salaire moyen, environ 2600 euros nets par mois, co&#x00FB;te plus de 6000 euros &#x00E0; son employeur.&nbsp;</p><p>Par ailleurs, nous sommes dans une &#x00E9;conomie tr&#x00E8;s ouverte, ce qui implique, pour attirer les meilleurs talents, une course &#x00E0; la r&#x00E9;mun&#x00E9;ration dans les entreprises. Plafonner les salaires, c&#x2019;est donc affaiblir consid&#x00E9;rablement l&#x2019;attractivit&#x00E9; de nos entreprises.</p><p>Il serait plus pertinent de travailler &#x00E0; un meilleur partage de la valeur dans les entreprises et, plus globalement, &#x00E0; l&#x2019;am&#x00E9;lioration du pouvoir d&#x2019;achat des Fran&#x00E7;ais par le retour &#x00E0; l&#x2019;emploi du plus grand nombre et par des incitations fiscales &#x00E0; la hausse des salaires.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-21",
+        "datePublication": "2024-11-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0618P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "74390",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50662/PIONANR5L17BTC0618",
+  "directory_json_file_count": 7,
+  "ignored_json_files_count": 6,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17BTC0618/AMANR5L17PO838901BTC0618P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17BTC0618/AMANR5L17PO838901BTC0618P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17BTC0618/AMANR5L17PO838901BTC0618P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17BTC0618/AMANR5L17PO838901BTC0618P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17BTC0618/AMANR5L17PO838901BTC0618P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50662/PIONANR5L17BTC0618/AMANR5L17PO838901BTC0618P0D1N000007.json"
+  ]
+}

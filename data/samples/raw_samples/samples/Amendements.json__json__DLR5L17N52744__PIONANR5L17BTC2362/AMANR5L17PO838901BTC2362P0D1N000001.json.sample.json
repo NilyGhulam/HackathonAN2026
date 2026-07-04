@@ -1,0 +1,206 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2362P0D1N000001",
+      "chronotag": "1769680653852",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2362P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2362",
+      "triAmendement": "jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795076",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793452",
+            "PA610968",
+            "PA793780",
+            {
+              "__truncated_items__": 33
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Sandrine&#160;Rousseau,  M.&#160;Davi, M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, M.&#160;Roum&#233;gas, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 3",
+          "articleDesignationCourte": "APRÈS ART. 3",
+          "articleDesignation": "APRÈS L'ARTICLE 3, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2362.asp#D_Article_3"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai de trois mois &#x00E0; compter la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport comprenant un chiffrage consolid&#x00E9; sur&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;Les recettes accessoires actuelles issues du stationnement dans les h&#x00F4;pitaux&nbsp;;&nbsp;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;Les co&#x00FB;ts de gestion et de maintenance&nbsp;;</p><p style=\"text-align: justify;\">3&#x00B0;&nbsp;Les co&#x00FB;ts potentiels d&#x2019;extension de capacit&#x00E9;s&nbsp;;</p><p style=\"text-align: justify;\">4&#x00B0;&nbsp;Les &#x00E9;ventuels effets sur la tr&#x00E9;sorerie des &#x00E9;tablissements publics et un classement par d&#x00E9;cile desdits &#x00E9;tablissements en fonction de leurs d&#x00E9;penses.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">La valorisation de leur emprise immobili&#x00E8;re hospitali&#x00E8;re est un sujet que nous concevons, elle ne saurait en aucun cas devenir une fabrique &#x00E0; cr&#x00E9;er des obstacles concrets &#x00E0; l&#x2019;acc&#x00E8;s &#x00E0; la sant&#x00E9;.</p><p style=\"text-align: justify;\">Nous proposons ici un amendement pour obtenir plus pr&#x00E9;cis&#x00E9;ment les enjeux financiers sur ces parkings capt&#x00E9;s par les op&#x00E9;rateurs priv&#x00E9;s. On revient sur un sujet important pour les citoyens, tant la r&#x00E9;alit&#x00E9; et le ressenti des personnels des patients et de leurs proches r&#x00E9;v&#x00E8;lent un foss&#x00E9; nouveau pour acc&#x00E9;der &#x00E0; l&#x2019;h&#x00F4;pital.</p><p style=\"text-align: justify;\">Surtout, nous redisons que si le sujet est s&#x00E9;rieux, il n&#x2019;emp&#x00EA;che pas d&#x2019;&#x00E9;voquer le financement g&#x00E9;n&#x00E9;ral de l&#x2019;h&#x00F4;pital, insuffisant ces derni&#x00E8;res ann&#x00E9;es et sans commune mesure avec le produit des parkings ici en cause. Cet reprend pour l&#x2019;essentiel notre proposition analogue sur la PPL n&#x00B0; 1958 Cadalen adopt&#x00E9;e voil&#x00E0; quelques semaines (AM n&#x00B0; AS15).</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-23",
+        "datePublication": "2026-01-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2362P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "Z3",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362",
+  "directory_json_file_count": 24,
+  "ignored_json_files_count": 23,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N52744/PIONANR5L17BTC2362/AMANR5L17PO838901BTC2362P0D1N000023.json"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52787/PIONANR5L17B1837/AMANR5L17PO419610B1837P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B1837P0D1N000001",
+      "chronotag": "1761121423235",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B1837P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1837",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA712015",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA266797",
+            "PA840979",
+            "PA722390",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Dive,  M.&#160;Gosselin, M.&#160;Le&#160;Fur, Mme&#160;Corneloup, M.&#160;Cordier, Mme&#160;Sylvie&#160;Bonnet, M.&#160;Bazin, M.&#160;Hetzel, M.&#160;Ray et M.&#160;Boucard"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1837.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "3",
+            "alineaDesignation": "Alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter l&#x2019;alin&#x00E9;a&nbsp;3 par les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;ainsi que du pays ou des pays d&#x2019;origine de la gel&#x00E9;e royale.&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; inclure la gel&#x00E9;e royale dans l&#x2019;obligation d&#x2019;&#x00E9;tiquetage de l&#x2019;origine, au m&#x00EA;me titre que les miels. En l&#x2019;&#x00E9;tat actuel, la gel&#x00E9;e royale n&#x2019;&#x00E9;tant ni un miel ni un produit d&#x00E9;riv&#x00E9;, elle &#x00E9;chappe &#x00E0; ces exigences l&#x00E9;gales, cr&#x00E9;ant un vide juridique en mati&#x00E8;re de tra&#x00E7;abilit&#x00E9;. Or, 98&nbsp;% de la gel&#x00E9;e royale vendue en France est import&#x00E9;e d&#x2019;Asie, principalement de Chine, souvent sans tra&#x00E7;abilit&#x00E9; ni garanties sanitaires. Des enqu&#x00EA;tes ont mis en lumi&#x00E8;re des pratiques probl&#x00E9;matiques sur ces produits import&#x00E9;s, telles que l&#x2019;usage d&#x2019;antibiotiques interdits, des cong&#x00E9;lations r&#x00E9;p&#x00E9;t&#x00E9;es et une alimentation artificielle des abeilles, autant de facteurs pouvant affecter la qualit&#x00E9; sanitaire du produit. De surcro&#x00EE;t, un embargo europ&#x00E9;en a d&#x00FB; &#x00EA;tre instaur&#x00E9; en 2002 sur les miels et gel&#x00E9;es royales chinois en raison de r&#x00E9;sidus d&#x2019;antibiotiques prohib&#x00E9;s, preuve des risques encourus en l&#x2019;absence de contr&#x00F4;le. Informer le consommateur de l&#x2019;origine de la gel&#x00E9;e royale est donc indispensable pour garantir une transparence &#x00E9;quivalente &#x00E0; celle exig&#x00E9;e pour les miels. Cet &#x00E9;tiquetage renforcera la confiance sanitaire en permettant d&#x2019;identifier les gel&#x00E9;es royales potentiellement issues de fili&#x00E8;res aux normes moindres, tout en prot&#x00E9;geant la fili&#x00E8;re fran&#x00E7;aise.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-10-17",
+        "datePublication": "2025-10-21",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2025-10-22T10:23:24+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B1837P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "32533",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52787/PIONANR5L17B1837",
+  "directory_json_file_count": 6,
+  "ignored_json_files_count": 5,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52787/PIONANR5L17B1837/AMANR5L17PO419610B1837P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52787/PIONANR5L17B1837/AMANR5L17PO419610B1837P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52787/PIONANR5L17B1837/AMANR5L17PO419610B1837P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52787/PIONANR5L17B1837/AMANR5L17PO419610B1837P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52787/PIONANR5L17B1837/AMANR5L17PO419610B1837P0D1N000006.json"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B2634P0D1N000001",
+      "chronotag": "1780421206282",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B2634P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2634",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA642695",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Bothorel"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2634.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "3",
+            "alineaDesignation": "Alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;&#x00C0; l&#x2019;alin&#x00E9;a&nbsp;3, supprimer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;ou du syst&#x00E8;me&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, au m&#x00EA;me alin&#x00E9;a, substituer &#x00E0; la seconde occurrence du mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;syst&#x00E8;me&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">le mot&nbsp;: &#x00AB;&nbsp;mod&#x00E8;le&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">L&#x2019;objectif poursuivi par la proposition de loi est d&#x2019;encadrer les mod&#x00E8;les d&#x2019;IA g&#x00E9;n&#x00E9;rative qui ont recours, pour leur entrainement, &#x00E0; l&#x2019;utilisation en masse de donn&#x00E9;es. Il convient en cons&#x00E9;quence de limiter son champ aux seuls fournisseurs de mod&#x00E8;les d&#x2019;IA et d&#x2019;exclure les acteurs en aval tels que les fournisseurs de syst&#x00E8;mes qui s&#x2019;appuient sur ces mod&#x00E8;les.</p><p style=\"text-align: justify;\">&#x00C0;&nbsp;cet &#x00E9;gard, le Tribunal r&#x00E9;gional de Munich, dans un jugement du&nbsp;11&nbsp;novembre&nbsp;2025 GEMA c/OpenAI, a retenu que seul le fournisseur de mod&#x00E8;le est responsable de l&#x2019;architecture des mod&#x00E8;les et de la m&#x00E9;morisation des donn&#x00E9;es d&#x2019;entrainement car ce sont ses mod&#x00E8;les qui influencent de mani&#x00E8;re significative les r&#x00E9;sultats. Le responsable du mod&#x00E8;le ne peut pas reporter sa responsabilit&#x00E9; sur les autres acteurs de la chaine de valeur.</p><p style=\"text-align: justify;\">Comme l&#x2019;a soulign&#x00E9; le Gouvernement lors du d&#x00E9;bat public devant le S&#x00E9;nat, la fili&#x00E8;re fran&#x00E7;aise et europ&#x00E9;enne de l&#x2019;IA est en construction. Un champ d&#x2019;application trop large et non justifi&#x00E9; du texte, qui engloberait tous les acteurs nationaux utilisant un syst&#x00E8;me d&#x2019;IA, mettrait un coup d&#x2019;arr&#x00EA;t &#x00E0; l&#x2019;essor du secteur et &#x00E0; notre souverainet&#x00E9; num&#x00E9;rique.</p><p style=\"text-align: justify;\">Il est ainsi n&#x00E9;cessaire que la proposition de loi fasse uniquement r&#x00E9;f&#x00E9;rence aux fournisseurs de mod&#x00E8;les. C&#x2019;est l&#x2019;objet du pr&#x00E9;sent amendent.</p><p style=\"text-align: justify;\">Cet amendement a &#x00E9;t&#x00E9; travaill&#x00E9; avec la F&#x00E9;d&#x00E9;ration fran&#x00E7;aise des T&#x00E9;l&#x00E9;coms.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-29",
+        "datePublication": "2026-06-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-02T19:26:22+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B2634P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634",
+  "directory_json_file_count": 16,
+  "ignored_json_files_count": 15,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17B2634/AMANR5L17PO419604B2634P0D1N000016.json"
+  ]
+}

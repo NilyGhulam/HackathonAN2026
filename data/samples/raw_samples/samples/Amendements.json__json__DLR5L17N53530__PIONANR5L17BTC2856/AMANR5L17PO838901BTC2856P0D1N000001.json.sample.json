@@ -1,0 +1,183 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53530/PIONANR5L17BTC2856/AMANR5L17PO838901BTC2856P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2856P0D1N000001",
+      "chronotag": "1781709305850",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2856P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2856",
+      "triAmendement": "aeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Gouvernement",
+          "gouvernementRef": "PO873634",
+          "acteurRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "groupePolitiqueRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "le Gouvernement"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2856.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Apr&#x00E8;s le mot&nbsp;:</p><p>kilowatts</p><p>ins&#x00E9;rer les mots&nbsp;:</p><p>, ainsi que les contrats de concession portant, &#x00E0; titre principal, sur des r&#x00E9;servoirs hydrauliques destin&#x00E9;s &#x00E0; am&#x00E9;liorer le r&#x00E9;gime d&#x2019;un cours d&#x2019;eau pour contribuer &#x00E0; la production d&#x2019;&#x00E9;nergie hydraulique par des installations de puissance maximale brute sup&#x00E9;rieure &#x00E0; 4 500 kilowatts</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vise &#x00E0; corriger un oubli relatif au p&#x00E9;rim&#x00E8;tre des concessions r&#x00E9;sili&#x00E9;es en y int&#x00E9;grant explicitement les barrages r&#x00E9;servoirs, exploit&#x00E9;s &#x00E9;galement sous le r&#x00E9;gime de la concession, dont le but premier est d&#x2019;am&#x00E9;liorer la production hydro&#x00E9;lectrique de certaines concessions concern&#x00E9;es par la r&#x00E9;forme. &nbsp;</p><p>En l&#x2019;&#x00E9;tat, l'article 1er de la proposition de loi pr&#x00E9;cise que seuls les contrats de concession portant sur des installations d&#x2019;une puissance maximale brute (PMB) sup&#x00E9;rieure ou &#x00E9;gale &#x00E0; 4,5 MW seront r&#x00E9;sili&#x00E9;s, en omettant ces barrages r&#x00E9;servoirs. Or, ces barrages r&#x00E9;servoirs, au nombre de six, sont indispensables au bon fonctionnement d&#x2019;installations de puissance sup&#x00E9;rieure &#x00E0; 4,5&nbsp;MW situ&#x00E9;es sur la m&#x00EA;me cha&#x00EE;ne hydraulique.</p><p>Ces barrages r&#x00E9;servoirs leur sont indissociables, tant sur le plan technique par leur r&#x00F4;le de r&#x00E9;gulation des d&#x00E9;bits et des niveaux d&#x2019;eau, qu&#x2019;op&#x00E9;rationnel par leur contribution directe &#x00E0; la s&#x00E9;curit&#x00E9;, &#x00E0; la production &#x00E9;nerg&#x00E9;tique et &#x00E0; la gestion de la ressource en eau. Il est donc coh&#x00E9;rent qu&#x2019;ils soient exploit&#x00E9;s sous le m&#x00EA;me r&#x00E9;gime juridique que les installations dont ils sont une composante n&#x00E9;cessaire.</p><p>Cet amendement a ainsi un lien direct avec les dispositions restant en discussion.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-16",
+        "datePublication": "2026-06-17",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-06-17T17:14:54+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2856P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53530/PIONANR5L17BTC2856",
+  "directory_json_file_count": 6,
+  "ignored_json_files_count": 5,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17BTC2856/AMANR5L17PO838901BTC2856P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17BTC2856/AMANR5L17PO838901BTC2856P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17BTC2856/AMANR5L17PO838901BTC2856P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17BTC2856/AMANR5L17PO838901BTC2856P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17BTC2856/AMANR5L17PO838901BTC2856P0D1N000006.json"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2430P0D1N000001",
+      "chronotag": "1770731733322",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2430P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2430",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA642988",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841495",
+            "PA793238",
+            "PA793246",
+            {
+              "__truncated_items__": 118
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;de&#160;L&#233;pinau,  M.&#160;Amblard, M.&#160;Barth&#232;s, M.&#160;Falcon, M.&#160;Gabarron, Mme&#160;Grangier, Mme&#160;Laporte, M.&#160;Le&#160;Bourgeois, M.&#160;Lopez-Liguori, M.&#160;Loubet, M.&#160;Patrice&#160;Martin, M.&#160;Meizonnet, M.&#160;Rivi&#232;re, M.&#160;Tivoli, M.&#160;Vos, M.&#160;Weber, M.&#160;Allisio, Mme&#160;Auzanot, M.&#160;Ballard, Mme&#160;Bamana, M.&#160;Baubry, M.&#160;Beaurain, M.&#160;Bentz, M.&#160;Bernhardt, M.&#160;Bigot, M.&#160;Bilde, M.&#160;Blairy, Mme&#160;Blanc, M.&#160;Boccaletti, Mme&#160;Bordes, M.&#160;Boulogne, Mme&#160;Bouquin, M.&#160;Bovet, M.&#160;Buisson, M.&#160;Casterman, M.&#160;Chenu, M.&#160;Chudeau, M.&#160;Clavet, Mme&#160;Colombier, Mme&#160;Da&#160;Conceicao&#160;Carvalho, M.&#160;de&#160;Fleurian, M.&#160;Dessigny, Mme&#160;Diaz, Mme&#160;Dogor-Such, M.&#160;Dragon, M.&#160;Dufosset, M.&#160;Dussausaye, M.&#160;Dutremble, M.&#160;Evrard, M.&#160;Florquin, M.&#160;Fouquart, M.&#160;Frapp&#233;, Mme&#160;Galzy, M.&#160;Gery, M.&#160;Giletti, M.&#160;Gillet, M.&#160;Christian&#160;Girard, M.&#160;Golliot, M.&#160;Gonzalez, Mme&#160;Florence&#160;Goulet, Mme&#160;Griseti, M.&#160;Guibert, M.&#160;Guiniot, M.&#160;Guitton, Mme&#160;Hamelet, M.&#160;Houssin, M.&#160;Humbert, M.&#160;Jacobelli, M.&#160;Jenft, M.&#160;Jolly, Mme&#160;Joncour, Mme&#160;Josserand, Mme&#160;Joubert, Mme&#160;Lavalette, Mme&#160;Le&#160;Pen, Mme&#160;Lechanteux, Mme&#160;Lechon, Mme&#160;Lelouis, Mme&#160;Levavasseur, M.&#160;Limongi, M.&#160;Lioret, Mme&#160;Loir, Mme&#160;Lorho, M.&#160;Lottiaux, M.&#160;David&#160;Magnier, Mme&#160;Marais-Beuil, M.&#160;Marchio, M.&#160;Markowsky, Mme&#160;Martinez, Mme&#160;Alexandra&#160;Masson, M.&#160;Bryan&#160;Masson, M.&#160;Mauvieux, M.&#160;Meurin, M.&#160;Monnier, M.&#160;Muller, Mme&#160;M&#233;lin, Mme&#160;M&#233;nach&#233;, M.&#160;M&#233;nag&#233;, M.&#160;Odoul, Mme&#160;Parmentier, M.&#160;Perez, M.&#160;Pfeffer, Mme&#160;Pollet, M.&#160;Rambaud, Mme&#160;Ranc, M.&#160;Rancoule, M.&#160;Renault, Mme&#160;Rimbert, Mme&#160;Robert-Dehault, Mme&#160;Roullaud, Mme&#160;Roy, Mme&#160;Sabatini, M.&#160;Sabatou, M.&#160;Salmon, M.&#160;Schreck, Mme&#160;Sicard, M.&#160;Emmanuel&#160;Tach&#233;, M.&#160;Jean-Philippe&#160;Tanguy, M.&#160;Taverne, M.&#160;Tesson, M.&#160;Tonussi et M.&#160;Villedieu"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2430.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; &#x00E9;viter une nouvelle interdiction brutale et uniforme, prise sans solution alternative op&#x00E9;rationnelle pour les exploitants agricoles.</p><p>De nombreux syndicats et organisations professionnelles agricoles ont d&#x00E9;j&#x00E0; alert&#x00E9; sur les cons&#x00E9;quences concr&#x00E8;tes d&#x2019;une telle mesure : hausse des co&#x00FB;ts de production, perte de rendement, fragilisation accrue des exploitations d&#x00E9;j&#x00E0; en difficult&#x00E9; et distorsions de concurrence avec des productions import&#x00E9;es ne respectant pas les m&#x00EA;mes contraintes. Une telle interdiction, d&#x00E9;cid&#x00E9;e sans phase transitoire r&#x00E9;aliste ni accompagnement adapt&#x00E9;, risquerait d&#x2019;acc&#x00E9;l&#x00E9;rer la disparition du tissu agricole fran&#x00E7;ais, au d&#x00E9;triment de notre souverainet&#x00E9; alimentaire.</p><p>Par ailleurs, le cadre europ&#x00E9;en pr&#x00E9;voit d&#x00E9;j&#x00E0; des seuils encadrant la teneur en cadmium des fertilisants, ainsi que des m&#x00E9;canismes d&#x2019;&#x00E9;valuation scientifique et de gestion du risque, fond&#x00E9;s notamment sur les travaux de l&#x2019;Autorit&#x00E9; europ&#x00E9;enne de s&#x00E9;curit&#x00E9; des aliments et sur le r&#x00E8;glement (UE) 2019/1009. Une sur-interdiction nationale, isol&#x00E9;e et anticip&#x00E9;e, exposerait la France &#x00E0; une surtransposition p&#x00E9;nalisante, sans b&#x00E9;n&#x00E9;fice sanitaire d&#x00E9;montr&#x00E9; &#x00E0; court terme.</p><p>Plut&#x00F4;t qu&#x2019;une interdiction s&#x00E8;che, la r&#x00E9;duction progressive des sources de contamination doit s&#x2019;inscrire dans une trajectoire fond&#x00E9;e sur l&#x2019;innovation agronomique, la diversification des approvisionnements, l&#x2019;am&#x00E9;lioration des pratiques culturales et un accompagnement renforc&#x00E9; des agriculteurs. Ces leviers rel&#x00E8;vent de politiques publiques structurantes, et non d&#x2019;une interdiction imm&#x00E9;diate aux effets &#x00E9;conomiques et sociaux potentiellement d&#x00E9;vastateurs.</p><p>Pour l&#x2019;ensemble de ces raisons, le pr&#x00E9;sent amendement propose la suppression de l&#x2019;article unique de la proposition de loi, afin d&#x2019;&#x00E9;viter une mesure disproportionn&#x00E9;e, inefficace et dangereuse pour l&#x2019;agriculture fran&#x00E7;aise.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-05",
+        "datePublication": "2026-02-09",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2430P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "86669",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430",
+  "directory_json_file_count": 82,
+  "ignored_json_files_count": 81,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53418/PIONANR5L17BTC2430/AMANR5L17PO838901BTC2430P0D1N000021.json"
+  ]
+}

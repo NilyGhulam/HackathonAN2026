@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1415P0D1N000001",
+      "chronotag": "1757948791245",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1415P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1415",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA340343",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA840665",
+            "PA608264",
+            "PA840903",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Saulignac,  Mme&#160;Allemand, Mme&#160;Capdevielle, M.&#160;Christophle, Mme&#160;Karamanli, M.&#160;Pena, Mme&#160;Thi&#233;bault-Martinez, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1415.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe Socialistes et apparent&#x00E9;s vise &#x00E0; supprimer l'article unique de cette proposition de loi dont l'objet principal est de pr&#x00E9;server Marine Le Pen de la d&#x00E9;cision du tribunal correctionnel d'ex&#x00E9;cuter provisoirement sa condamnation &#x00E0; une peine d'in&#x00E9;ligibilit&#x00E9; pour des faits de d&#x00E9;tournement de fonds publics. </p><p>Le tribunal a estim&#x00E9; qu&#x2019;elle avait &#x00AB;&nbsp;l&#x00E9;gitim&#x00E9; la mise en place d&#x2019;un syst&#x00E8;me frauduleux &#x00E9;labor&#x00E9; dans le seul but de percevoir ill&#x00E9;gitimement des fonds publics du Parlement europ&#x00E9;en&nbsp;&#x00BB;, afin de &#x00AB;&nbsp;&nbsp;faire des &#x00E9;conomies&nbsp;gr&#x00E2;ce au Parlement &#x00BB;.</p><p>Marine Le Pen a &#x00E9;t&#x00E9; condamn&#x00E9;e &#x00E0; une peine de 4 ans d&#x2019;emprisonnement dont deux ans assortis du sursis ainsi qu&#x2019;&#x00E0; une peine d&#x2019;amende de 100 000 euros, les juges ayant estim&#x00E9; que &#x00AB;&nbsp;toute autre sanction serait insuffisamment dissuasive et manifestement inad&#x00E9;quate&nbsp;&#x00BB;.</p><p>Concernant la peine d&#x2019;in&#x00E9;ligibilit&#x00E9;, la juridiction l&#x2019;a prononc&#x00E9; sur la base du code p&#x00E9;nal dans sa version d&#x2019;avant 2016, c&#x2019;est-&#x00E0;-dire avant la transformation de la peine compl&#x00E9;mentaire d&#x2019;in&#x00E9;ligibilit&#x00E9; en peine obligatoire. C&#x2019;est donc sur la base d&#x2019;une peine compl&#x00E9;mentaire facultative que cette peine a &#x00E9;t&#x00E9; prononc&#x00E9;e.</p><p>Surtout, la peine d&#x2019;in&#x00E9;ligibilit&#x00E9; a &#x00E9;t&#x00E9; assortie d&#x2019;une ex&#x00E9;cution provisoire ainsi que le permettent les articles 471 alin&#x00E9;a 4 du code de proc&#x00E9;dure p&#x00E9;nale et 131-10 du code p&#x00E9;nal. Pour d&#x00E9;cider de cette ex&#x00E9;cution provisoire, la juridiction s&#x2019;est appuy&#x00E9; sur l&#x2019;objectif de lutte contre la r&#x00E9;cidive&nbsp;: cette solution &#x00AB;&nbsp;r&#x00E9;pond &#x00E0; l&#x2019;objectif d&#x2019;int&#x00E9;r&#x00EA;t g&#x00E9;n&#x00E9;ral visant &#x00E0; favoriser l&#x2019;ex&#x00E9;cution de la peine et &#x00E0; pr&#x00E9;venir la r&#x00E9;cidive&nbsp;&#x00BB;. A ce titre, cette motivation rejoint la jurisprudence du Conseil constitutionnel en vertu de laquelle l&#x2019;ex&#x00E9;cution provisoire d&#x2019;une peine d&#x2019;in&#x00E9;ligibilit&#x00E9; permet &#x00AB;&nbsp;d&#x2019;assurer… [truncated 2101 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-06-11",
+        "datePublication": "2025-06-16",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-06-16T18:05:11+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1415P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "80020",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415",
+  "directory_json_file_count": 35,
+  "ignored_json_files_count": 34,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO59051B1415P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52087/PIONANR5L17B1415/AMANR5L17PO838901B1415P0D1N000012.json"
+  ]
+}

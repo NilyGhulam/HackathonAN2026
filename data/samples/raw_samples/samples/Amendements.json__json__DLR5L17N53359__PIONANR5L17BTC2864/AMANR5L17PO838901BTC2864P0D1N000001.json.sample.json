@@ -1,0 +1,200 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2864P0D1N000001",
+      "chronotag": "1781021687311",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2864P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2864",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabw",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795920",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Thevenot"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "APRÈS ART. UNIQUE",
+          "articleDesignation": "APRÈS L'ARTICLE UNIQUE, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2864.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai de six&nbsp;mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport &#x00E9;valuant la faisabilit&#x00E9; technique et &#x00E9;conomique d&#x2019;un syst&#x00E8;me de licence pr&#x00E9;alable obligatoire pour l&#x2019;utilisation d&#x2019;&#x0153;uvres prot&#x00E9;g&#x00E9;es dans l&#x2019;entra&#x00EE;nement de mod&#x00E8;les d&#x2019;intelligence artificielle, en compl&#x00E9;ment du m&#x00E9;canisme de pr&#x00E9;somption instaur&#x00E9; par la pr&#x00E9;sente loi.</p><p style=\"text-align: justify;\">Ce rapport examine notamment&nbsp;:</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;Les conditions dans lesquelles un tel syst&#x00E8;me pourrait &#x00EA;tre mis en &#x0153;uvre &#x00E0; l&#x2019;&#x00E9;chelle europ&#x00E9;enne, avec un r&#x00F4;le moteur de la France, sans constituer un obstacle disproportionn&#x00E9; &#x00E0; l&#x2019;innovation, en particulier pour les acteurs &#x00E9;tablis sur le territoire national&nbsp;;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;Les m&#x00E9;canismes techniques permettant d&#x2019;identifier pr&#x00E9;cis&#x00E9;ment les &#x0153;uvres ayant servi &#x00E0; l&#x2019;entra&#x00EE;nement d&#x2019;un mod&#x00E8;le d&#x2019;intelligence artificielle, de mesurer leur contribution respective et d&#x2019;assurer une r&#x00E9;mun&#x00E9;ration automatis&#x00E9;e des ayants droit &#x00E0; grande &#x00E9;chelle&nbsp;;</p><p style=\"text-align: justify;\">3&#x00B0;&nbsp;Les conditions permettant d&#x2019;&#x00E9;viter que les charges induites par ce syst&#x00E8;me ne p&#x00E8;sent de fa&#x00E7;on asym&#x00E9;trique sur les seuls acteurs fran&#x00E7;ais ou europ&#x00E9;ens, au d&#x00E9;triment de leur comp&#x00E9;titivit&#x00E9; face aux acteurs &#x00E9;tablis hors de l&#x2019;Union europ&#x00E9;enne.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">La pr&#x00E9;sente proposition de loi propose l&#x2019;instauration d&#x2019;une pr&#x00E9;somption d&#x2019;utilisation des oeuvres prot&#x00E9;g&#x00E9;es par les fournisseurs de syst&#x00E8;mes d&#x2019;intelligence artificielle. Ce m&#x00E9;canisme de pr&#x00E9;somption demeure cependant un outil ex post&nbsp;: il n&#x2019;interviendrait qu&#x2019;apr&#x00E8;s le litige, apr&#x00E8;s l&#x2019;utilisation, apr&#x00E8;s le pr&#x00E9;judice &#x00E9;ventuel.&nbsp;</p><p style=\"text-align: justify;\">Cela ne permet pas d&#x2019;attaquer ou de r&#x00E9;soudre la question de fond, celle d&#x2019;un cadre ex ante permettant d&#x2019;organiser, en amont, l&#x2019;utilisation licite des oeuvres culturelles dans l&#x2019;entra&#x00EE;nement des mod&#x00E8;les d&#x2019;intelligence artificielle. Ce sujet renvoie &#x00E0; la question de la licence pr&#x00E9;alable. Son principe fait largement consensus&nbsp;: il est l&#x00E9;gitime que les cr&#x00E9;ateurs et les ayants droit soient r&#x00E9;mun&#x00E9;r&#x00E9;s lorsque leurs oeuvres contribuent &#x00E0; l&#x2019;entra&#x00EE;nement de syst&#x00E8;mes qui, pr&#x00E9;cis&#x00E9;ment, tirent leur valeur de cette contribution.&nbsp;</p><p style=\"text-align: justify;\">Sans &#x00E9;valuation s&#x00E9;rieuse des conditions de faisabilit&#x00E9; technique et &#x00E9;conomique d&#x2019;un tel syst&#x00E8;me &#x2014; en particulier de son articulation avec le cadre europ&#x00E9;en du r&#x00E8;glement sur l&#x2019;intelligence artificielle et de la directive sur le droit d&#x2019;auteur &#x2014;, le risque est r&#x00E9;el de voir se creuser l&#x2019;&#x00E9;cart entre l&#x2019;ambition affich&#x00E9;e et la r&#x00E9;alit&#x00E9; des pratiques. Les acteurs &#x00E9;trangers, qui ne seraient pas soumis aux m&#x00EA;mes contraintes, continueraient &#x00E0; utiliser massivement les &#x0153;uvres fran&#x00E7;aises et europ&#x00E9;ennes sans contrepartie, tandis que les acteurs nationaux supporteraient seuls le co&#x00FB;t d&#x2019;un dispositif mal calibr&#x00E9;.</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement demande ainsi au Gouvernement de remettre au Parlement, dans un d&#x00E9;lai de s&nbsp;mois, un rapport &#x00E9;valuant pr&#x00E9;cis&#x00E9;ment cette faisabilit&#x00E9;&nbsp;: les m&#x00E9;canismes techniques d&#x2019;identification et de tra&#x00E7;abilit&#x00E9; des &#x0153;uvres, les conditions d&#x2019;un d&#x00E9;ploiement &#x00E0; l&#x2019;&#x00E9;chelle europ&#x00E9;e… [truncated 441 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-04",
+        "datePublication": "2026-06-08",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2864P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "Z3",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864",
+  "directory_json_file_count": 110,
+  "ignored_json_files_count": 109,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53359/PIONANR5L17BTC2864/AMANR5L17PO838901BTC2864P0D1N000021.json"
+  ]
+}

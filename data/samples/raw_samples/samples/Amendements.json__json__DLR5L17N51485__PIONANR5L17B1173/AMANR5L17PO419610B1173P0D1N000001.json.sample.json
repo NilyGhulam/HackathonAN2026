@@ -1,0 +1,181 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51485/PIONANR5L17B1173/AMANR5L17PO419610B1173P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B1173P0D1N000001",
+      "chronotag": "1743522567303",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B1173P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1173",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793980",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA794146",
+            "PA840997",
+            "PA841713",
+            {
+              "__truncated_items__": 1
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Fournier,  Mme&#160;Laernoes, M.&#160;Biteau, M.&#160;Tavernier et M.&#160;Ruffin"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1173.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "3",
+            "alineaDesignation": "Après l'alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;3, ins&#x00E9;rer les alin&#x00E9;as suivants&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Ces installations sont tenues de financer, &#x00E0; la fois&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;Des projets port&#x00E9;s par la commune ou par l&#x2019;&#x00E9;tablissement public de coop&#x00E9;ration intercommunale &#x00E0; fiscalit&#x00E9; propre d&#x2019;implantation de l&#x2019;installation en faveur de la transition &#x00E9;nerg&#x00E9;tique, de la sauvegarde ou de la protection de la biodiversit&#x00E9; ou de l&#x2019;adaptation au changement climatique, tels que la r&#x00E9;novation &#x00E9;nerg&#x00E9;tique, l&#x2019;efficacit&#x00E9; &#x00E9;nerg&#x00E9;tique, la mobilit&#x00E9; la moins consommatrice et la moins polluante ou des mesures en faveur des m&#x00E9;nages afin de lutter contre la pr&#x00E9;carit&#x00E9; &#x00E9;nerg&#x00E9;tique&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;Des projets de protection ou de sauvegarde de la biodiversit&#x00E9;&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Un d&#x00E9;cret d&#x00E9;termine les modalit&#x00E9;s d&#x2019;application de cette disposition&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; reverser une partie des revenus per&#x00E7;us par les installations mentionn&#x00E9;es &#x00E0; l&#x2019;article 1 &#x00E0; des projets vertueux qui nous permettent d'atteindre nos objectifs climatiques et de protection de la biodiversit&#x00E9;.&nbsp;</p><p>L&#x2019;article 1 autorise le projet de reconversion de la centrale Emile Huchet de Saint-Avold au gaz et son acc&#x00E8;s au m&#x00E9;canisme des capacit&#x00E9;s qui assure au producteur, notamment lors des pics de consommation, une r&#x00E9;mun&#x00E9;ration compl&#x00E9;mentaire &#x00E0; celle provenant des march&#x00E9;s de l'&#x00E9;nergie&nbsp;</p><p>Si le mix &#x00E9;nerg&#x00E9;tique pr&#x00E9;vu par l&#x2019;exploitant (60% biogaz 40% GNL)&nbsp;est pr&#x00E9;sent&#x00E9; comme une alternative favorable au charbon, la reconversion de la Centrale Emile Huchet de Saint-Avold au gaz &#x00E9;quivaut &#x00E0; la cr&#x00E9;ation d&#x2019;une nouvelle unit&#x00E9; de production &#x00E0; partir d&#x2019;&#x00E9;nergies fossiles. Les d&#x00E9;fenseurs du gaz naturel liqu&#x00E9;fi&#x00E9; le d&#x00E9;fendent comme un carburant alternatif &#x201C;respectueux du climat&#x201D; qui produit moins d&#x2019;&#x00E9;missions de CO2 mais le GNL remplace les &#x00E9;missions de CO2 par des &#x00E9;missions de m&#x00E9;thane, un gaz &#x00E0; effet de serre qui entra&#x00EE;ne la pollution de l&#x2019;air, la perte de r&#x00E9;coltes et des r&#x00E9;percussions sur la sant&#x00E9;. Quant au biogaz, il n&#x2019;est ni soutenable, ni pertinent pour la production d&#x2019;&#x00E9;lectricit&#x00E9; &#x00E0; grande &#x00E9;chelle. Enfin, le Fonds de compensation cr&#x00E9;&#x00E9; par GazelEnergie dans le cadre du red&#x00E9;marrage de la centrale de Saint Avold n&#x2019;est pas un instrument suffisant au service : rappelons que le m&#x00E9;canisme de compensation carbone est un outil de greenwashing pour d&#x00E9;tourner l&#x2019;attention des activit&#x00E9;s polluantes et &#x00E9;viter de mettre en place les mesures n&#x00E9;cessaires pour limiter les &#x00E9;missions de ces activit&#x00E9;s.&nbsp;</p><p>Nous sommes donc loin des objectifs de la transition &#x00E9;nerg&#x00E9;tique, qui, faut-il le rappeler, doivent nous permettre de surmonter notre d&#x00E9;pendance extr&#x00EA;me aux combustibles fossiles et remplacer progressivement le charbon, le p&#x00E9;trole et le gaz par des sources d&#x2019;&#x00E9;nergie d&#x00E9;carbon&#x00E9;es</p><p>Rappelons que la loi europ&#x00E9;enn… [truncated 1100 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-28",
+        "datePublication": "2025-03-31",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2025-04-01T17:49:12+02:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B1173P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51485/PIONANR5L17B1173",
+  "directory_json_file_count": 4,
+  "ignored_json_files_count": 3,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51485/PIONANR5L17B1173/AMANR5L17PO419610B1173P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51485/PIONANR5L17B1173/AMANR5L17PO419610B1173P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51485/PIONANR5L17B1173/AMANR5L17PO419610B1173P0D1N000004.json"
+  ]
+}

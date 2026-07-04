@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1674P0D1N000001",
+      "chronotag": "1779274618476",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1674P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1674",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795762",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA840939",
+            "PA642764",
+            "PA842211",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Califer,  Mme&#160;Godard, M.&#160;Aviragnet, Mme&#160;Bellay, Mme&#160;Dombre&#160;Coste, Mme&#160;Froger, M.&#160;Guedj, M.&#160;Houli&#233;, Mme&#160;Runel et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "APRÈS ART. UNIQUE",
+          "articleDesignation": "APRÈS L'ARTICLE UNIQUE, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1674.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai&nbsp;d&#x2019;un&nbsp;mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport &#x00E9;valuant le bilan de l&#x2019;exp&#x00E9;rimentation&nbsp;mentionn&#x00E9;e au&nbsp;VI de l&#x2019;article&nbsp;28 de la loi n&#x00B0; 2018&#x2011;771 du&nbsp;5&nbsp;septembre&nbsp;2018 pour la libert&#x00E9; de choisir son avenir professionnel.</p><p style=\"text-align: justify;\">Ce&nbsp;rapport &#x00E9;value les effets de cette exp&#x00E9;rimentation sur l&#x2019;acquisition de comp&#x00E9;tences et ses effets pour les entreprises, les caract&#x00E9;ristiques des travailleurs ainsi recrut&#x00E9;s,&nbsp;le bilan &#x00E0; long terme sur l&#x2019;insertion sociale et professionnelle desdits travailleurs ainsi que le montant des&nbsp;d&#x00E9;penses publiques support&#x00E9;es en la mati&#x00E8;re.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; &#x00E9;valuer l&#x2019;exp&#x00E9;rimentation du&nbsp;contrat de professionnalisation pour&nbsp;acqu&#x00E9;rir&nbsp;des blocs de comp&#x00E9;tences, plut&#x00F4;t qu&#x2019;une certification professionnelle.</p><p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;exception des chiffres communiqu&#x00E9;s au rapporteur du S&#x00E9;nat sur la pr&#x00E9;sente proposition de loi, le Parlement n&#x2019;a pas &#x00E9;t&#x00E9; inform&#x00E9; du bilan de l&#x2019;&#x00E9;valuation qu&#x2019;il est propos&#x00E9; de p&#x00E9;renniser.</p><p style=\"text-align: justify;\">Or de nombreuses zones d&#x2019;ombre demeurent&nbsp;; notamment les effets de cette exp&#x00E9;rimentation sur l&#x2019;acquisition de comp&#x00E9;tences et ses effets pour les entreprises, les caract&#x00E9;ristiques des travailleurs ainsi recrut&#x00E9;s, le bilan &#x00E0; long terme sur l&#x2019;insertion sociale et professionnelle, ainsi que le montant des d&#x00E9;penses publiques en la mati&#x00E8;re.</p><p style=\"text-align: justify;\">Dans ce contexte, le rapport pr&#x00E9;vu par la loi du&nbsp;5&nbsp;septembre&nbsp;2018 a &#x00E9;t&#x00E9; produit et remis au rapporteur du S&#x00E9;nat, mais n&#x2019;a pas &#x00E9;t&#x00E9; rendu public.&nbsp;</p><p style=\"text-align: justify;\">Un tel niveau de confidentialit&#x00E9; soul&#x00E8;ve question.&nbsp;</p><p style=\"text-align: justify;\">Cet amendement propose donc de remettre au Parlement, au plus vite ce rapport, qui existe bien et qui n&#x2019;a donc pas n&#x00E9;cessit&#x00E9; d&#x2019;&#x00EA;tre produit.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-11",
+        "datePublication": "2026-05-19",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-20T12:56:41+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1674P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "Z",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674",
+  "directory_json_file_count": 15,
+  "ignored_json_files_count": 14,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51791/PIONANR5L17B1674/AMANR5L17PO420120B1674P0D1N000015.json"
+  ]
+}

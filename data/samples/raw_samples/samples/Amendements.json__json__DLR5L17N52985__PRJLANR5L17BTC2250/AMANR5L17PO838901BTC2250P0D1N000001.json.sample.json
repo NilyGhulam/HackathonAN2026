@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2250P0D1N000001",
+      "chronotag": "1774989360959",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2250P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2250",
+      "triAmendement": "iiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabk",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793342",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA266793",
+            "PA722390",
+            "PA719272",
+            {
+              "__truncated_items__": 4
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Alexandra&#160;Martin,  M.&#160;Bony, Mme&#160;Corneloup, Mme&#160;Fr&#233;d&#233;rique&#160;Meunier, Mme&#160;Louwagie, Mme&#160;Sylvie&#160;Bonnet, Mme&#160;Duby-Muller et M.&#160;Rolland"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 14",
+          "articleDesignationCourte": "APRÈS ART. 14",
+          "articleDesignation": "APRÈS L'ARTICLE 14, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2250.asp#D_Article_14"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Avant le dernier&nbsp;alin&#x00E9;a de l&#x2019;article&nbsp;L.&nbsp;114&#x2011;16 du code de la s&#x00E9;curit&#x00E9; sociale, sont ins&#x00E9;r&#x00E9;s trois alin&#x00E9;as ainsi r&#x00E9;dig&#x00E9;s&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Lorsqu&#x2019;une personne fait l&#x2019;objet d&#x2019;&#x00E9;l&#x00E9;ments concordants recueillis par les autorit&#x00E9;s judiciaires ou polici&#x00E8;res laissant pr&#x00E9;sumer qu&#x2019;elle tire des revenus du trafic de stup&#x00E9;fiants ou d&#x2019;activit&#x00E9;s assimil&#x00E9;es, ces revenus sont r&#x00E9;put&#x00E9;s constituer une ressource prise en compte pour le calcul des droits aux prestations sociales. &#x00C0; ce titre, les organismes de protection sociale proc&#x00E8;dent &#x00E0; la suppression des prestations en cours, ind&#x00E9;pendamment d&#x2019;une d&#x00E9;cision judiciaire d&#x00E9;finitive et r&#x00E9;clament le trop-per&#x00E7;u, le cas &#x00E9;ch&#x00E9;ant.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Lorsqu&#x2019;une personne a &#x00E9;t&#x00E9; condamn&#x00E9;e &#x00E0; titre d&#x00E9;finitif pour un crime ou qu&#x2019;elle se trouve en situation de r&#x00E9;cidive l&#x00E9;gale au sens des articles 132&#x2011;8 et suivants du code p&#x00E9;nal pour un d&#x00E9;lit aggrav&#x00E9;, les prestations vers&#x00E9;es au titre du pr&#x00E9;sent code et du code de l&#x2019;action sociale des familles dont elle b&#x00E9;n&#x00E9;ficie sont suspendues, &#x00E0; titre automatique, &#x00E0; r&#x00E9;ception de la d&#x00E9;cision de justice. Cette suspension est proportionn&#x00E9;e &#x00E0; la gravit&#x00E9; des faits et &#x00E0; la dur&#x00E9;e de la peine prononc&#x00E9;e.&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Elle ne s&#x2019;applique pas aux prestations destin&#x00E9;es &#x00E0; la subsistance des enfants mineurs, notamment les allocations familiales, sauf d&#x00E9;cision contraire sp&#x00E9;cialement motiv&#x00E9;e.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>La protection de la coh&#x00E9;sion nationale, de la s&#x00E9;curit&#x00E9; publique et du respect de l&#x2019;&#x00C9;tat de droit impose une r&#x00E9;ponse ferme face aux formes les plus graves de d&#x00E9;linquance.</p><p>Le trafic de stup&#x00E9;fiants constitue, m&#x00EA;me lorsqu&#x2019;il est commis pour la premi&#x00E8;re fois, une infraction d&#x2019;une particuli&#x00E8;re gravit&#x00E9;. Lorsqu&#x2019;un individu tire des revenus d&#x2019;une activit&#x00E9; ill&#x00E9;gale, le maintien du b&#x00E9;n&#x00E9;fice d&#x2019;allocations sociales financ&#x00E9;es par la solidarit&#x00E9; nationale s&#x2019;analyse comme une forme de fraude sociale, contraire aux principes d&#x2019;&#x00E9;quit&#x00E9; et de responsabilit&#x00E9;.</p><p>Si la loi n&#x00B0; 2025-532 du 13 juin 2025 relative &#x00E0; la lutte contre le narcotrafic a renforc&#x00E9; l&#x2019;arsenal r&#x00E9;pressif, elle ne permet pas encore de tirer toutes les cons&#x00E9;quences sociales de l&#x2019;implication dans de tels faits. Une exp&#x00E9;rimentation locale, notamment &#x00E0; Cannes, a pourtant d&#x00E9;montr&#x00E9; la faisabilit&#x00E9; juridique d&#x2019;un retrait des aides sociales dans ce cadre.</p><p>Par ailleurs, la r&#x00E9;cidive de d&#x00E9;lits aggrav&#x00E9;s ou de crimes r&#x00E9;v&#x00E8;le un m&#x00E9;pris persistant des lois et des institutions, justifiant une sanction sociale compl&#x00E9;mentaire et dissuasive.</p><p>Cet amendement vise donc &#x00E0; instaurer une r&#x00E8;gle de coh&#x00E9;rence et de fermet&#x00E9; en excluant du b&#x00E9;n&#x00E9;fice des prestations sociales les personnes dont l&#x2019;implication dans un trafic de stup&#x00E9;fiants est &#x00E9;tablie et les personnes condamn&#x00E9;es pour r&#x00E9;cidive de d&#x00E9;lits aggrav&#x00E9;s ou pour crimes.</p><p>Le maintien d&#x2019;allocations sociales pour des personnes vivant de revenus criminels constitue une fraude sociale manifeste qui ne peut plus &#x00EA;tre tol&#x00E9;r&#x00E9;e.</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-05",
+        "datePublication": "2026-02-24",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-03-31T22:35:54+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2250P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30421",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c sécurité sociale",
+        "divisionCodeLoi": "L114-16"
+      },
+      "discussionCommune": {
+        "idDiscussion": "37429",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250",
+  "directory_json_file_count": 1179,
+  "ignored_json_files_count": 1178,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52985/PRJLANR5L17BTC2250/AMANR5L17PO838901BTC2250P0D1N000021.json"
+  ]
+}

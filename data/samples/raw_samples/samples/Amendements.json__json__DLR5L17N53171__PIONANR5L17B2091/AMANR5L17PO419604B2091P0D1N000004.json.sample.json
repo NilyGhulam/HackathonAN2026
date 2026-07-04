@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000004.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B2091P0D1N000004",
+      "chronotag": "1769596205048",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AC4",
+        "numeroOrdreDepot": "4",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B2091P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2091",
+      "triAmendement": "daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaic",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841215",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Mesmeur,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2091.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "3",
+            "alineaDesignation": "Alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer l'alin&#x00E9;a 3.</p><p>&nbsp;</p><div id=\"gtx-trans\" style=\"position: absolute; left: -91px; top: 16.2188px;\">&nbsp;</div>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement, le groupe LFI s&#x2019;oppose au financement de l&#x2019;exp&#x00E9;rimentation du dispositif d&#x2019;&#x00E9;ducation &#x00E0; l&#x2019;alimentation par des dons de personnes physiques ou morales, v&#x00E9;ritable cache-mis&#x00E8;re de la d&#x00E9;liquescence du service public de l&#x2019;&#x00E9;ducation.</p><p style=\"text-align: justify;\">La Macronie en mati&#x00E8;re &#x00E9;ducative s&#x2019;est particuli&#x00E8;rement illustr&#x00E9;e ces derni&#x00E8;res ann&#x00E9;es par les mesures de coupes budg&#x00E9;taires successives, instrumentalisant la baisse de la d&#x00E9;mographie scolaire&nbsp;: &#x00E0; titre d&#x2019;illustration, en raison de l&#x2019;opposition id&#x00E9;ologique du Gouvernement &#x00E0; une politique fiscale plus juste permettant d&#x2019;augmenter les recettes de l&#x2019;&#x00C9;tat dans le cadre du PLF 2026, ce dernier pr&#x00E9;voit la suppression de 4&nbsp;018 postes d&#x2019;enseignants dans le 1<sup>er</sup> et le 2<sup>nd</sup> degr&#x00E9; (alors m&#x00EA;me qu&#x2019;encore r&#x00E9;cemment, selon un rapport de la Cour des Comptes du&nbsp;12&nbsp;d&#x00E9;cembre&nbsp;2025, environ 9&nbsp;% des heures de cours ont &#x00E9;t&#x00E9; perdues dans les coll&#x00E8;ges publics fran&#x00E7;ais en 2023&#x2011;2024, du fait essentiellement d&#x2019;absences non remplac&#x00E9;es), ou encore un niveau de recrutement insufffisant d&#x2019;AESH (+ 2&nbsp;000 ETP) au vu des besoins identifi&#x00E9;s (48&nbsp;726 &#x00E9;l&#x00E8;ves &#x00E0; la rentr&#x00E9;e 2025 qui se sont vus notifi&#x00E9;s l&#x2019;aide d&#x2019;une AESH, mais qui n&#x2019;en b&#x00E9;n&#x00E9;ficiaient pas en raison d&#x2019;un manque de personnels). Dans ce contexte, faire appel &#x00E0; des dons et du m&#x00E9;c&#x00E9;nat revient pour l&#x2019;Education nationale &#x00E0; devoir faire la manche pour financer des politiques qu&#x2019;elle aurait pourtant elle-m&#x00EA;me con&#x00E7;ue, et pr&#x00E9;pare un d&#x00E9;sengagement plus massif de ce dernier des politiques &#x00E9;ducatives.</p><p style=\"text-align: justify;\">Par ailleurs, le recours aux dons et au m&#x00E9;c&#x00E9;nat n&#x2019;est pas sans incidence pour les finances publiques. En effet, ces derniers permettent &#x00E0; leurs auteurs, en raison d&#x2019;un r&#x00E9;gime fiscal particuli&#x00E8;rement avantageux, de b&#x00E9;n&#x00E9;ficier de nombreuses r&#x00E9;ductions d&#x2019;imp&#x00F4;ts, ce qui entra&#x00EE;nera&#x00EE;t des d&#x00E9;p… [truncated 460 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-22",
+        "datePublication": "2026-01-27",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-01-28T11:29:49+01:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B2091P0D1N000004?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "86357",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091",
+  "directory_json_file_count": 52,
+  "ignored_json_files_count": 51,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17B2091/AMANR5L17PO419604B2091P0D1N000024.json"
+  ]
+}

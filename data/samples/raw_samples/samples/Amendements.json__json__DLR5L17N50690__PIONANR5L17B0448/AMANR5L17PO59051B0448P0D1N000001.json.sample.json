@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0448P0D1N000001",
+      "chronotag": "1739874669876",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0448P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0448",
+      "triAmendement": "daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720992",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": "PA608264"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;William et Mme&#160;Capdevielle"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0448.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s le mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;audiences&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">r&#x00E9;diger ainsi la fin de l&#x2019;alin&#x00E9;a&nbsp;2&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;ou de se faire repr&#x00E9;senter par un avocat. Ils d&#x00E9;f&#x00E8;rent personnellement aux auditions du juge des enfants.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vient tenir compte de la r&#x00E9;alit&#x00E9; de l'encadrement &#x00E9;ducatif des mineurs en situation de d&#x00E9;crochage social.&nbsp;La situation est v&#x00E9;cue difficilement par les familles, qui peuvent ne pas &#x00EA;tre en capacit&#x00E9; d'assister &#x00E0; cette audience. Il est important de leur offrir la possibilit&#x00E9;, comme tout justiciable, de se faire repr&#x00E9;senter par un avocat, pour les seules audiences.&nbsp;</p><p>La convocation&nbsp;aux auditions pr&#x00E8;s le juge des enfants reste personnelle et obligatoire.</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-20",
+        "datePublication": "2024-11-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2024-11-26T19:53:09+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0448P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "6",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448",
+  "directory_json_file_count": 111,
+  "ignored_json_files_count": 110,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50690/PIONANR5L17B0448/AMANR5L17PO59051B0448P0D1N000021.json"
+  ]
+}

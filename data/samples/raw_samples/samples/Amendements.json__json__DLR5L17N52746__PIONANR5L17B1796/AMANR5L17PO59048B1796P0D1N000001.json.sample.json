@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B1796P0D1N000001",
+      "chronotag": "1768383747559",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B1796P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1796",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841515",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Le&#160;Coq,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1796.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement, le groupe LFI propose la suppression de l&#x2019;article&nbsp;1<sup>er</sup> de cette PPL qui vise la cr&#x00E9;ation d&#x2019;une &#x00AB;&nbsp;fonci&#x00E8;re de l&#x2019;&#x00C9;tat&nbsp;&#x00BB;, &#x00E9;ni&#x00E8;me lubie de la macronie pour affaiblir la puissance publique et proc&#x00E9;der subrepticement &#x00E0; la d&#x00E9;coupe de notre patrimoine commun au profit du secteur priv&#x00E9;.</p><p style=\"text-align: justify;\">Le parc immobilier de l&#x2019;&#x00C9;tat constitue un patrimoine unique et strat&#x00E9;gique. Premier parc immobilier d&#x2019;Europe, avec plus de 97 millions de m&#x00B2;, il comprend plus de 195&nbsp;000 b&#x00E2;timents. En 2025, il repr&#x00E9;sente une richesse totale de plus de 73.6 milliards d&#x2019;euros&nbsp;!</p><p style=\"text-align: justify;\">Cette PPL, en pr&#x00E9;sentant cette richesse commune comme une charge qu&#x2019;il faudrait &#x00AB;&nbsp;rationaliser&nbsp;&#x00BB;, appelle &#x00E0; brader notre patrimoine public au secteur priv&#x00E9; contre une bouch&#x00E9;e de pain. Nous nous opposons &#x00E0; cette logique d&#x00E9;l&#x00E9;t&#x00E8;re qui n&#x2019;aura aucun effet sur la baisse des d&#x00E9;penses, et conduira &#x00E0; affaiblir notre puissance publique.</p><p style=\"text-align: justify;\">Pourtant, le domaine de l&#x2019;&#x00C9;tat constitue un outil indispensable au fonctionnement et &#x00E0; l&#x2019;ex&#x00E9;cution des missions de service public (enseignement, sant&#x00E9;, transport, recherche&#x2026;). Ces activit&#x00E9;s, d&#x00E9;marchandis&#x00E9;es, profitent &#x00E0; l&#x2019;ensemble de nos citoyens. La redistribution &#x00E9;largie, incluant l&#x2019;ensemble des transferts mon&#x00E9;taires et les services publics, am&#x00E9;liore le niveau de vie de 57&nbsp;% des personnes selon l&#x2019;INSEE, tout en r&#x00E9;duisant largement les in&#x00E9;galit&#x00E9;s de destin. Jean Jaur&#x00E8;s parlait ainsi du service public comme du &#x00AB;&nbsp;patrimoine de ceux qui n&#x2019;en ont pas&nbsp;&#x00BB;. Cette affirmation n&#x2019;a jamais &#x00E9;t&#x00E9; aussi juste dans un pays travers&#x00E9; par les in&#x00E9;galit&#x00E9;s, o&#x00F9; la part des&nbsp;1&nbsp;% des fortunes les plus &#x00E9;lev&#x00E9;es dans le patrimoine total est pass&#x00E9;e de 16,1&nbsp;% &#x00E0; 27,2&nbsp;% entre 1985 et 2023.</p><p style=\"text-align: justify;\">La cr&#x00E9;ation d&#x2019;une fonci&#x00E8;re de l&#x2019;&#x00C9;tat a pour unique but de fa… [truncated 4033 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-09",
+        "datePublication": "2026-01-13",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-01-14T10:42:07+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B1796P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "86155",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796",
+  "directory_json_file_count": 31,
+  "ignored_json_files_count": 30,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52746/PIONANR5L17B1796/AMANR5L17PO59048B1796P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1357P0D1N000001",
+      "chronotag": "1757948424659",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1357P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1357",
+      "triAmendement": "naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA842105",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA794906",
+            "PA795228",
+            "PA793262",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Arnault,  M.&#160;Amard, Mme&#160;Abomangoli, M.&#160;Alexandre, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "relative à la lutte contre l’antisémitisme, le racisme, les discriminations, les violences et la haine dans l’enseignement supérieur",
+          "articleDesignationCourte": "TITRE",
+          "articleDesignation": "TITRE",
+          "type": "TITRE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1357.asp#D_relative_a_la_lutte_contre_lantisemiti"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi le titre de la proposition de loi&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;relative &#x00E0; la lutte contre toutes les formes de racisme, dont l&#x2019;antis&#x00E9;mitisme, dans l&#x2019;enseignement sup&#x00E9;rieur&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Par cet amendement, le groupe LFI-NFP souhaite modifier l'intitul&#x00E9; de cette proposition de loi afin de lutter contre toutes les formes de racisme, y compris l'antis&#x00E9;mitisme, dans l'enseignement sup&#x00E9;rieur.</p><p>De nombreuses associations antiracistes militent pour r&#x00E9;affirmer l'indivisibilit&#x00E9; des luttes contre toutes les formes de racisme, &#x00E0; l'instar du collectif Tsedek!. Ces collectifs et associations expliquent que si chaque racisme est marqu&#x00E9; par des sp&#x00E9;cificit&#x00E9;s historiques, il existe un continuum entre toutes les formes de racisme. De ce fait, la lutte contre l'antis&#x00E9;mitisme doit s'inscrire au sein des luttes antiracistes.</p><p>R&#x00E9;affirmer l'unit&#x00E9; de toutes les formes de racisme permet &#x00E9;galement de lutter contre ceux qui cherchent &#x00E0; les diviser et &#x00E0; instrumentaliser une forme de racisme pour mieux en alimenter une autre. C'est le cas du Rassemblement National qui instrumentalise la lutte contre l'antis&#x00E9;mitisme afin d'exprimer son islamophobie et entretenir des amalgames racistes. Jordan Bardella participait ainsi le mois dernier en Isra&#x00EB;l &#x00E0; une conf&#x00E9;rence rassemblant diff&#x00E9;rents penseurs d'extr&#x00EA;me droite pointant du doigt \"l&#x2019;islam\" et le \"progressisme\" comme responsables de \"l&#x2019;antis&#x00E9;mitisme en Occident\". Mais nous ne sommes pas dupes sur les v&#x00E9;ritables intentions du RN qui, ce faisant, cherche &#x00E0; faire oublier son histoire, celle d'un parti qui compte parmi ses premiers membres d'anciens Waffen-SS et miliciens p&#x00E9;tanistes, et qui encore aujourd'hui n'a pas renonc&#x00E9; &#x00E0; son antis&#x00E9;mitisme.</p><p>Ainsi, afin de renforcer la lutte contre toutes les formes de racisme, dont l'antis&#x00E9;mitisme, nous proposons de renommer cette proposition de loi.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-05-01",
+        "datePublication": "2025-05-07",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-05-07T17:50:56+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1357P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS29361",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357",
+  "directory_json_file_count": 98,
+  "ignored_json_files_count": 97,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50724/PIONANR5L17BTC1357/AMANR5L17PO838901BTC1357P0D1N000021.json"
+  ]
+}

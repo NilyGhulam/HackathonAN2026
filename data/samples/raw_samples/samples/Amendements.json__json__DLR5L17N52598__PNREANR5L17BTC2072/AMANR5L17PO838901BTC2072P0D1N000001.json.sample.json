@@ -1,0 +1,195 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2072P0D1N000001",
+      "chronotag": "1770227643427",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2072P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC2072",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaat",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793872",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Oziol,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2072.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "30",
+            "alineaDesignation": "Après l'alinéa 30"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;30, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Consid&#x00E9;rant que la Commission europ&#x00E9;enne, sous la direction de sa pr&#x00E9;sidente Ursula von der Leyen, a fait preuve de son incapacit&#x00E9; et de son manque de volont&#x00E9; de faire face &#x00E0; un accord commercial pr&#x00E9;judiciable aux int&#x00E9;r&#x00EA;ts de la grande majorit&#x00E9; des europ&#x00E9;ens et que l&#x2019;accord a &#x00E9;t&#x00E9; n&#x00E9;goci&#x00E9; en l&#x2019;absence d&#x2019;un mandat d&#x00E9;mocratique pour le faire ;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Par cet amendement, les d&#x00E9;put&#x00E9;&#x00B7;es du groupe LFI visent &#x00E0; mettre en &#x00E9;vidence les conditions dans lesquelles l&#x2019;accord sur les droits de douane et le commerce du 27 juillet 2025 entre l&#x2019;Union europ&#x00E9;enne et les &#x00C9;tats-Unis a &#x00E9;t&#x00E9; n&#x00E9;goci&#x00E9;, ainsi qu&#x2019;&#x00E0; souligner la reddition sans condition de la Commission europ&#x00E9;enne, qui a accept&#x00E9; l&#x2019;accord sans avancer la moindre d&#x00E9;fense des int&#x00E9;r&#x00EA;ts de la grande majorit&#x00E9; des europ&#x00E9;ens, l&#x00E9;gitimant ainsi l&#x2019;approche de n&#x00E9;gociation de l&#x2019;administration &#x00E9;tats-unienne.</p><p>Ainsi, il convient de souligner que l&#x2019;accord fut sign&#x00E9; sans respect r&#x00E9;el des principes d&#x2019;ouverture et de transparence pos&#x00E9;s par l&#x2019;article 15 du trait&#x00E9; sur le fonctionnement de l&#x2019;Union europ&#x00E9;enne, et sans qu&#x2019;ait pu &#x00EA;tre assur&#x00E9; un contr&#x00F4;le d&#x00E9;mocratique national.</p><p>Par ailleurs, cet amendement vise &#x00E0; rappeler que le Trait&#x00E9; sur le fonctionnement de l&#x2019;Union europ&#x00E9;enne, dans ses articles 207 et 218, limite les comp&#x00E9;tences de n&#x00E9;gociation de la Commission europ&#x00E9;enne et dispose que :<br>&#x25CF; &#x201C;Le Parlement europ&#x00E9;en et le Conseil, statuant par voie de r&#x00E8;glements conform&#x00E9;ment a&#x0300; la proc&#x00E9;dure l&#x00E9;gislative ordinaire, adoptent les mesures d&#x00E9;finissant le cadre dans lequel est mise en &#x0153;uvre la politique commerciale commune.&#x201D; (art. 207.2)<br>&#x25CF; &#x201C;La Commission pr&#x00E9;sente des recommandations au Conseil, qui l'autorise a&#x0300; ouvrir les n&#x00E9;gociations n&#x00E9;cessaires. Il appartient au Conseil et a&#x0300; la Commission de veiller a&#x0300; ce que les accords n&#x00E9;goci&#x00E9;s soient compatibles avec les politiques et r&#x00E8;gles internes de l'Union&#x201D; (art. 207.3.2)<br>&#x25CF; &#x201C;Ces n&#x00E9;gociations sont conduites par la Commission en consultation avec un comit&#x00E9;&#x0301; sp&#x00E9;cial d&#x00E9;signe&#x0301; par le Conseil pour l'assister dans cette t&#x00E2;che et dans le cadre des directives que le Conseil peut lui adresser. La Commission fait r&#x00E9;guli&#x00E8;rement rapport au comit&#x00E9;&#x0301; sp&#x00E9;cial, ainsi qu'au Parlement europ&#x00E9;en, sur l'&#x00E9;tat d'avancement des n&#x00E9;gociations&#x… [truncated 403 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-30",
+        "datePublication": "2026-01-30",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-04T18:53:33+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2072P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30194",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072",
+  "directory_json_file_count": 21,
+  "ignored_json_files_count": 20,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52598/PNREANR5L17BTC2072/AMANR5L17PO838901BTC2072P0D1N000021.json"
+  ]
+}

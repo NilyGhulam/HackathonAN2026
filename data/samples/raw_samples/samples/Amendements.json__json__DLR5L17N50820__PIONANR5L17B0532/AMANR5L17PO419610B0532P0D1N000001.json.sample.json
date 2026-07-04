@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0532P0D1N000001",
+      "chronotag": "1739874686549",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0532P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0532",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793736",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Clouet,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0532.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;L&#x2019;article&nbsp;6 de la loi n&#x00B0;&nbsp;2022&#x2011;1158 du 16 ao&#x00FB;t 2022 portant mesures d&#x2019;urgence pour la protection du pouvoir d&#x2019;achat est ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le premier alin&#x00E9;a de l&#x2019;article L.&nbsp;3262&#x2011;1 du code du travail est ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le titre-restaurant est un titre sp&#x00E9;cial de paiement remis par l&#x2019;employeur aux salari&#x00E9;s pour leur permettre d&#x2019;acquitter en tout ou en partie le prix du repas consomm&#x00E9; au restaurant ou de tout produit alimentaire, qu&#x2019;il soit ou non directement consommable achet&#x00E9; aupr&#x00E8;s d&#x2019;une personne ou d&#x2019;un organisme mentionn&#x00E9; au deuxi&#x00E8;me alin&#x00E9;a de l&#x2019;article L.&nbsp;3262&#x2011;3 ou de tout commerce de d&#x00E9;tail alimentaire.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement du groupe LFI-NFP propose de p&#x00E9;renniser le droit d&#x2019;utiliser des titres-restaurant pour l&#x2019;achat de produits alimentaires non directement consommables (p&#x00E2;tes, riz, farine, &#x0153;ufs, viande, etc.), l&#x00E0; o&#x00F9; la pr&#x00E9;sente proposition de loi ne propose que de prolonger cette possibilit&#x00E9; en 2025. Alors que nous avons d&#x00E9;j&#x00E0; vot&#x00E9; l&#x2019;ann&#x00E9;e derni&#x00E8;re une premi&#x00E8;re prolongation de cette possibilit&#x00E9; transitoire en 2024, cela nous &#x00E9;vitera de r&#x00E9;p&#x00E9;ter cet exercice tous les ans, et contribuera &#x00E0; lutter contre la pr&#x00E9;carit&#x00E9; alimentaire et &#x00E0; soutenir le pouvoir d&#x2019;achat.</p><p style=\"text-align: justify;\">Depuis janvier 2021, l&#x2019;inflation alimentaire a &#x00E9;t&#x00E9; d&#x2019;un peu plus de + 23&nbsp;%. Les salaires n&#x2019;ont pas suivi&nbsp;: le salaire moyen du secteur priv&#x00E9; par exemple a diminu&#x00E9; de 1&nbsp;% en 2022 et de 0,8&nbsp;% en 2023. La pr&#x00E9;carit&#x00E9; alimentaire explose&nbsp;: le barom&#x00E8;tre 2024 de la pauvret&#x00E9; et de la pr&#x00E9;carit&#x00E9; du Secours populaire montre par exemple que du fait de la baisse de son pouvoir d&#x2019;achat ces derni&#x00E8;res ann&#x00E9;es, un Fran&#x00E7;ais sur trois (32&nbsp;%) est toujours contraint &#x00AB;&nbsp;parfois ou r&#x00E9;guli&#x00E8;rement&nbsp;&#x00BB; de ne pas faire trois repas par jour.</p><p style=\"text-align: justify;\">Nous proposons donc ici de p&#x00E9;renniser le droit d&#x2019;utiliser des titres-restaurant pour l&#x2019;achat de tout produit alimentaire, y compris non directement consommable (p&#x00E2;tes, riz, farine, oeufs, viande, etc.).</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-08",
+        "datePublication": "2024-11-13",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2024-11-13T10:43:15+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0532P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c travail",
+        "divisionCodeLoi": "L3262-1"
+      },
+      "discussionCommune": {
+        "idDiscussion": "28196",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532",
+  "directory_json_file_count": 22,
+  "ignored_json_files_count": 21,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50820/PIONANR5L17B0532/AMANR5L17PO419610B0532P0D1N000021.json"
+  ]
+}

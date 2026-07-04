@@ -1,0 +1,195 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1344P0D1N000001",
+      "chronotag": "1757948681701",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1344P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1344",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793696",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA842279",
+            "PA794434",
+            "PA841645",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Muller,  Mme&#160;Bamana, M.&#160;Bentz, M.&#160;Bernhardt, Mme&#160;Delannoy, Mme&#160;Dogor-Such, M.&#160;Dussausaye, M.&#160;Florquin, M.&#160;Frapp&#233;, Mme&#160;Levavasseur, M.&#160;Lioret, Mme&#160;Loir, Mme&#160;M&#233;lin, M.&#160;M&#233;nag&#233;, Mme&#160;Ranc et M.&#160;Tach&#233;&#160;de&#160;la&#160;Pagerie"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1344.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter cet article par les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;lorsqu&#x2019;il justifie de la nationalit&#x00E9; fran&#x00E7;aise ou d&#x2019;une activit&#x00E9; professionnelle exerc&#x00E9;e pendant au moins cinq ann&#x00E9;es &#x00E9;quivalent temps plein sur le territoire fran&#x00E7;ais.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; r&#x00E9;server l&#x2019;exclusion du domicile principal du champ d&#x2019;application de la r&#x00E9;cup&#x00E9;ration sur succession de l&#x2019;ASPA aux b&#x00E9;n&#x00E9;ficiaires de nationalit&#x00E9; fran&#x00E7;aise ou &#x00E0; ceux ayant effectu&#x00E9; au moins cinq ann&#x00E9;es d&#x2019;activit&#x00E9; professionnelle en France, ce qui t&#x00E9;moigne d&#x2019;une participation effective &#x00E0; l&#x2019;effort de solidarit&#x00E9; nationale.</p><p>Cette mesure introduit une clause de contribution, coh&#x00E9;rente avec les principes d&#x2019;&#x00E9;quit&#x00E9; et de r&#x00E9;ciprocit&#x00E9; qui fondent notre syst&#x00E8;me social. Elle &#x00E9;vite que des personnes &#x00E9;trang&#x00E8;res r&#x00E9;cemment install&#x00E9;es et&nbsp;n&#x2019;ayant jamais travaill&#x00E9; en France puissent transmettre un bien immobilier financ&#x00E9; indirectement par la solidarit&#x00E9; nationale, sans avoir particip&#x00E9; &#x00E0; cet effort collectif.</p><p>Il s'agit donc de pr&#x00E9;server l&#x2019;esprit de la mesure, qui consiste &#x00E0; prot&#x00E9;ger le logement familial des retrait&#x00E9;s modestes ayant un lien r&#x00E9;el et durable avec la soci&#x00E9;t&#x00E9; fran&#x00E7;aise. Cette exigence peut &#x00EA;tre fond&#x00E9;e soit sur la nationalit&#x00E9;, soit sur l&#x2019;engagement professionnel sur le territoire.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-05-22",
+        "datePublication": "2025-05-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2025-05-28T15:45:09+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1344P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344",
+  "directory_json_file_count": 15,
+  "ignored_json_files_count": 14,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17B1344/AMANR5L17PO420120B1344P0D1N000015.json"
+  ]
+}

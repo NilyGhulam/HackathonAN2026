@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2167P0D1N000001",
+      "chronotag": "1768386808001",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2167P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2167",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaco",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA340343",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA840665",
+            "PA608264",
+            "PA840903",
+            {
+              "__truncated_items__": 4
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Saulignac,  Mme&#160;Allemand, Mme&#160;Capdevielle, M.&#160;Christophle, Mme&#160;Karamanli, Mme&#160;Thi&#233;bault-Martinez, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2167.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement du groupe Socialistes et apparent&#x00E9;s vise &#x00E0; supprimer l&#x2019;article unique de cette proposition de loi.</p><p style=\"text-align: justify;\">En effet cette proposition avec laquelle nous sommes en totale opposition porte atteinte &#x00E0; de nombreux principes fondamentaux.&nbsp;</p><p style=\"text-align: justify;\">Tout d&#x2019;abord, elle porte atteinte aux libert&#x00E9;s fondamentales que sont la libert&#x00E9; d&#x2019;aller et venir, la libert&#x00E9; de conscience et la libert&#x00E9; personnelle&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">Pour rappel, le Conseil d&#x2019;&#x00C9;tat, dans le cadre des arr&#x00EA;t&#x00E9;s &#x00AB;&nbsp;antiburkini&nbsp;&#x00BB;, avait rappel&#x00E9; que si un maire peut prendre des mesures pour r&#x00E9;glementer l&#x2019;acc&#x00E8;s &#x00E0; la plage ou &#x00E0; la baignade dans sa commune, &#x00AB;&nbsp;les restrictions qu&#x2019;il apporte aux libert&#x00E9;s doivent &#x00EA;tre justifi&#x00E9;es par des risques av&#x00E9;r&#x00E9;s d&#x2019;atteinte &#x00E0; l&#x2019;ordre public&nbsp;&#x00BB;. En l&#x2019;esp&#x00E8;ce, le Conseil d&#x2019;&#x00C9;tat avait estim&#x00E9; que les tenues de baignade, notamment le burkini, n&#x2019;avaient pas engendr&#x00E9; de risques de trouble &#x00E0; l&#x2019;ordre public dans la commune. Ces arr&#x00EA;t&#x00E9;s portaient donc &#x00AB;&nbsp;une atteinte grave et manifestement ill&#x00E9;gale aux libert&#x00E9;s fondamentales que sont la libert&#x00E9; d&#x2019;aller et venir, la libert&#x00E9; de conscience et la libert&#x00E9; personnelle&nbsp;&#x00BB;. Les m&#x00EA;mes r&#x00E9;serves devraient ainsi s&#x2019;appliquer &#x00E0; cette proposition.&nbsp;</p><p style=\"text-align: justify;\">Ensuite, elle porte atteinte au principe d&#x2019;&#x00E9;galit&#x00E9; entre les convictions philosophiques et religieuses&nbsp;:</p><p style=\"text-align: justify;\">L&#x2019;expos&#x00E9; des motifs de la ppl &#x00E9;voque seulement un signe port&#x00E9; par certaines jeunes filles musulmanes pour des motifs religieux. Il n&#x2019;y a donc qu&#x2019;une seule pratique confessionnelle vis&#x00E9;e, contraire au principe d&#x2019;&#x00E9;galit&#x00E9; entre les convictions philosophiques et religieuses qui d&#x00E9;finit la la&#x00EF;cit&#x00E9;. C&#x2019;est pour cette raison que la loi de 1905, largement motiv&#x00E9;e par les volont&#x00E9;s politiques de s&#x00E9;parer l&#x2019;&#x00C9;tat de la religion catholique s&#x… [truncated 2727 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-08",
+        "datePublication": "2026-01-13",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-01-14T11:33:20+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2167P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "85797",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167",
+  "directory_json_file_count": 39,
+  "ignored_json_files_count": 38,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO59051B2167P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO838901B2167P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO838901B2167P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO838901B2167P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO838901B2167P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53271/PIONANR5L17B2167/AMANR5L17PO838901B2167P0D1N000005.json"
+  ]
+}

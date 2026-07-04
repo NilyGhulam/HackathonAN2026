@@ -1,0 +1,196 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1673P0D1N000001",
+      "chronotag": "1768326619051",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1673P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1673",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840939",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Godard,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, Mme&#160;Dombre&#160;Coste, Mme&#160;Froger, M.&#160;Guedj, M.&#160;Houli&#233;, Mme&#160;Runel et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1673.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; supprimer l&#x2019;article unique de cette proposition de loi visant &#x00E0;&nbsp;&#x00E9;largir les autorisations de travail le 1<sup>er</sup>&nbsp;mai.</p><p style=\"text-align: justify;\">Au moins 2 raisons conduisent &#x00E0; nous opposer &#x00E0; cette proposition de loi.</p><p style=\"text-align: justify;\"><b>Tout d&#x2019;abord, </b>et ce de mani&#x00E8;re coh&#x00E9;rente avec la ligne politique de la droite depuis plusieurs d&#x00E9;cennies,<b> cette derni&#x00E8;re&nbsp;vise &#x00E0; faire travailler &#x00AB;&nbsp;plus&nbsp;&#x00BB; alors que&nbsp;le besoin des travailleurs est de travailler &#x00AB;&nbsp;mieux&nbsp;&#x00BB;.</b></p><p style=\"text-align: justify;\">Ce besoin est d&#x00E9;montr&#x00E9; par&nbsp;de nombreux travaux scientifiques conduits depuis plusieurs ann&#x00E9;es&nbsp;&#x2013;&nbsp;notamment ceux coordonn&#x00E9;s par Bruno Palier dans l&#x2019;ouvrage &#x00AB;&nbsp;Que sait-on du travail&nbsp;?&nbsp;&#x00BB;.&nbsp;</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">Les r&#x00E9;cents travaux du Conseil d&#x2019;Analyse &#x00C9;conomique de mars 2025 ont par ailleurs mis en exergue le fait que le probl&#x00E8;me en France n&#x2019;est pas celui du nombre d&#x2019;heures travaill&#x00E9;es par actif en mploi, mais bien celui de la participation de l&#x2019;ensemble des actifs au march&#x00E9; de l&#x2019;emploi.</p><p style=\"text-align: justify;\">Ce&nbsp;sont ces enjeux qui devraient pr&#x00E9;occuper le l&#x00E9;gislateur, et non le cas de quelques boulangeries sanctionn&#x00E9;es par l&#x2019;Inspection du Travail ayant inspir&#x00E9; la droite s&#x00E9;natoriale dans la r&#x00E9;daction de cette proposition de loi.</p><p style=\"text-align: justify;\">Cela est d&#x2019;autant plus vrai que l&#x2019;extr&#x00EA;me-droite en Europe et en particulier en France profite de ces ph&#x00E9;nom&#x00E8;nes de&nbsp;d&#x00E9;t&#x00E9;rioration des conditions de travail et de pr&#x00E9;carisation des&nbsp;formes d&#x2019;emploi, en incriminant l&#x2019;&#x00E9;tranger qui serait soi-disant mieux loti.</p><p style=\"text-align: justify;\">Face &#x00E0; ces constats, cette proposition de loi appara&#x00EE;t en total d&#x00E9;calage, et il convient donc d&#x2019;en supprimer l&#x2019;article unique.</p><p style=\"text-align: justify;\"><b>Ensuite, et sur un terrain… [truncated 1237 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-05",
+        "datePublication": "2026-01-13",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-01-13T18:50:12+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1673P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "85789",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673",
+  "directory_json_file_count": 20,
+  "ignored_json_files_count": 19,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51987/PIONANR5L17B1673/AMANR5L17PO420120B1673P0D1N000021.json"
+  ]
+}

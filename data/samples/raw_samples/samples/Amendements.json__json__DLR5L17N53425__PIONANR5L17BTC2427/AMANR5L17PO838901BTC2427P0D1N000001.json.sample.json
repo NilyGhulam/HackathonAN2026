@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2427P0D1N000001",
+      "chronotag": "1770905943391",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2427P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2427",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA842121",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA643089",
+            "PA842141",
+            "PA722390",
+            {
+              "__truncated_items__": 4
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Tryzna,  M.&#160;Thi&#233;riot, Mme&#160;de&#160;Maistre, Mme&#160;Corneloup, M.&#160;Duparay, M.&#160;Ray, M.&#160;Lepers et M.&#160;Ceccoli"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2427.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; supprimer l&#x2019;article 1 qui modifie en profondeur le cadre juridique applicable aux aires d&#x2019;alimentation de captage, en renfor&#x00E7;ant de mani&#x00E8;re significative les obligations pesant sur les collectivit&#x00E9;s territoriales et les acteurs &#x00E9;conomiques, notamment agricoles.</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">S&#x2019;il est indispensable de pr&#x00E9;server durablement la qualit&#x00E9; de la ressource en eau, les dispositions propos&#x00E9;es proc&#x00E8;dent d&#x2019;une logique excessivement prescriptive et uniforme, qui ne tient pas suffisamment compte de la diversit&#x00E9; des situations locales, des dynamiques territoriales existantes ni des d&#x00E9;marches volontaires d&#x00E9;j&#x00E0; engag&#x00E9;es par de nombreux acteurs.</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">En substituant des obligations automatiques &#x00E0; des dispositifs jusqu&#x2019;alors fond&#x00E9;s sur la concertation et l&#x2019;adaptation locale, l&#x2019;article 1er risque de fragiliser l&#x2019;acceptabilit&#x00E9; des politiques de protection des captages, de susciter des contentieux et de compromettre l&#x2019;adh&#x00E9;sion des acteurs concern&#x00E9;s, pourtant indispensable &#x00E0; leur efficacit&#x00E9;.</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">Par ailleurs, l&#x2019;instauration d&#x2019;interdictions g&#x00E9;n&#x00E9;rales et anticip&#x00E9;es, notamment en mati&#x00E8;re d&#x2019;utilisation d&#x2019;intrants agricoles, sans &#x00E9;valuation pr&#x00E9;alable de leurs impacts &#x00E9;conomiques, techniques et sociaux, fait peser un risque important sur l&#x2019;&#x00E9;quilibre des exploitations et sur la p&#x00E9;rennit&#x00E9; de certaines fili&#x00E8;res, en particulier dans les territoires les plus contraints.</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">Pour l&#x2019;ensemble de ces raisons, il appara&#x00EE;t pr&#x00E9;f&#x00E9;rable de supprimer l&#x2019;article 1er et de maintenir les r&#x00E9;dactions actuelles du CGCT et du code de l&#x2019;environnement qui permettent une approche souple, territorialis&#x00E9;e et fond&#x00E9;e sur le dialogue de la ressource en eau.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-06",
+        "datePublication": "2026-02-10",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-12T15:18:46+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2427P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30263",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "86617",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427",
+  "directory_json_file_count": 130,
+  "ignored_json_files_count": 129,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17BTC2427/AMANR5L17PO838901BTC2427P0D1N000021.json"
+  ]
+}

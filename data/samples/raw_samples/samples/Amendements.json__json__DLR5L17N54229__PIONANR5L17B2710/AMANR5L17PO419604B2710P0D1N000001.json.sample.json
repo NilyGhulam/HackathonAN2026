@@ -1,0 +1,186 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B2710P0D1N000001",
+      "chronotag": "1780415116618",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B2710P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2710",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794562",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA796118",
+            "PA793158",
+            "PA720822",
+            {
+              "__truncated_items__": 11
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Ballard,  Mme&#160;Auzanot, M.&#160;Beaurain, M.&#160;Bilde, M.&#160;Clavet, M.&#160;Chudeau, Mme&#160;Da&#160;Conceicao&#160;Carvalho, M.&#160;Christian&#160;Girard, Mme&#160;Joncour, Mme&#160;Joubert, M.&#160;Odoul, Mme&#160;Parmentier, M.&#160;Perez, Mme&#160;Sicard et M.&#160;Tesson"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "AVANT ART. PREMIER",
+          "articleDesignation": "AVANT L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Avant",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2710.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">La seconde phrase du premier alin&#x00E9;a de l&#x2019;article&nbsp;L.&nbsp;821&#x2011;1 du code de l&#x2019;&#x00E9;ducation est remplac&#x00E9;e par trois phrases ainsi r&#x00E9;dig&#x00E9;es&nbsp;: &#x00AB;&nbsp;Elle privil&#x00E9;gie l&#x2019;aide servie aux &#x00E9;tudiants sous conditions de nationalit&#x00E9; et de ressources. Un d&#x00E9;cret d&#x00E9;termine les modalit&#x00E9;s d&#x2019;application de cet article et notamment l&#x2019;appr&#x00E9;ciation de la condition de nationalit&#x00E9;. L&#x2019;aide servie est attribu&#x00E9;e par priorit&#x00E9; aux &#x00E9;tudiants poss&#x00E9;dant la nationalit&#x00E9; fran&#x00E7;aise, ou d&#x2019;un &#x00C9;tat membre de l&#x2019;Union europ&#x00E9;enne, ou d&#x2019;un &#x00C9;tat partie &#x00E0; l&#x2019;accord sur l&#x2019;Espace &#x00E9;conomique europ&#x00E9;en, puis d&#x2019;un &#x00C9;tat avec lequel un accord ou une convention en mati&#x00E8;re d&#x2019;accueil des &#x00E9;tudiants est en vigueur.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Les bourses attribu&#x00E9;es par le r&#x00E9;seau des &#x0153;uvres universitaires font primer le crit&#x00E8;re d&#x2019;attribution de la condition sociale de l&#x2019;&#x00E9;tudiant (revenu, situation de rupture familiale, etc.). Or dans un rapport de&nbsp;2020 de &#x00AB;&nbsp;l&#x2019;Observatoire national de la vie &#x00E9;tudiante&nbsp;&#x00BB;, portant sur les conditions de vie des &#x00E9;tudiants, il appara&#x00EE;t tr&#x00E8;s clairement que la pr&#x00E9;carit&#x00E9; les touche massivement. De plus les seuils d&#x2019;&#x00E9;ligibilit&#x00E9; &#x00E0; une bourse du Crous, qui d&#x00E9;pendent d&#x2019;un certain nombre de crit&#x00E8;res, demeurent assez bas, privant un grand nombre d&#x2019;&#x00E9;tudiants des classes modestes et moyennes de l&#x2019;acc&#x00E8;s &#x00E0; ces bourses.</p><p style=\"text-align: justify;\">Le fait que le Crous affecte des bourses &#x00E0; des &#x00E9;tudiants &#x00E9;trangers, entra&#x00EE;ne donc une diminution des aides pour les &#x00E9;tudiants fran&#x00E7;ais. Ainsi nous demandons &#x00E0; ce que les bourses et les aides financi&#x00E8;res soient affect&#x00E9;s aux &#x00E9;tudiants en fonction du crit&#x00E8;re de nationalit&#x00E9; prioritairement.</p><p style=\"text-align: justify;\">Appliquer la priorit&#x00E9; nationale dans l&#x2019;attribution des bourses de l&#x2019;enseignement sup&#x00E9;rieur comme dans bien d&#x2019;autres domaines, est une mani&#x00E8;re de renforcer la coh&#x00E9;sion nationale, de cimenter notre nation. Sans priorit&#x00E9; nationale, il n&#x2019;y a pas de nation.</p><p style=\"text-align: justify;\">Cet amendement pr&#x00E9;voit ainsi une modification de l&#x2019;alin&#x00E9;a&nbsp;1<sup>er</sup> de l&#x2019;article L821&#x2011;1 du code de l&#x2019;&#x00E9;ducation afin d&#x2019;y ajouter la primaut&#x00E9; du crit&#x00E8;re de nationalit&#x00E9; aux conditions de l&#x2019;aide servie aux &#x00E9;tudiants de l&#x2019;enseignement sup&#x00E9;rieur.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-28",
+        "datePublication": "2026-06-01",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-02T17:45:04+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B2710P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c éducation",
+        "divisionCodeLoi": "L821-1"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710",
+  "directory_json_file_count": 10,
+  "ignored_json_files_count": 9,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54229/PIONANR5L17B2710/AMANR5L17PO419604B2710P0D1N000010.json"
+  ]
+}

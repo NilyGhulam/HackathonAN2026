@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2695P0D1N000001",
+      "chronotag": "1779098008476",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2695P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2695",
+      "triAmendement": "cuaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA266797",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793094",
+            "PA841377",
+            "PA722390",
+            {
+              "__truncated_items__": 7
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Gosselin,  M.&#160;Ray, Mme&#160;Rey-Rinchet, Mme&#160;Corneloup, Mme&#160;Gruet, M.&#160;Hetzel, Mme&#160;Sylvie&#160;Bonnet, M.&#160;Breton, Mme&#160;Dalloz, M.&#160;Boucard et Mme&#160;Bazin-Malgras"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 12",
+          "articleDesignationCourte": "APRÈS ART. 12",
+          "articleDesignation": "APRÈS L'ARTICLE 12, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2695.asp#D_Article_12"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Sont qualifi&#x00E9;es d&#x2019;infrastructures d&#x2019;int&#x00E9;r&#x00EA;t strat&#x00E9;gique les infrastructures concourant &#x00E0; la continuit&#x00E9; des activit&#x00E9;s essentielles de la Nation, notamment dans les domaines de l&#x2019;&#x00E9;nergie, du nucl&#x00E9;aire, des transports, des infrastructures portuaires, industrielles et des communications &#x00E9;lectroniques.</p><p style=\"text-align: justify;\">Ces infrastructures peuvent faire l&#x2019;objet de proc&#x00E9;dures administratives adapt&#x00E9;es et acc&#x00E9;l&#x00E9;r&#x00E9;es pour leur implantation, leur modernisation ou leur s&#x00E9;curisation.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement cr&#x00E9;e une d&#x00E9;finition juridique des infrastructures d&#x2019;int&#x00E9;r&#x00EA;t strat&#x00E9;gique afin de permettre une adaptation des proc&#x00E9;dures administratives, dans une logique de simplification et de souverainet&#x00E9;.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-27",
+        "datePublication": "2026-05-04",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-18T11:53:13+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2695P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30668",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "Z1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695",
+  "directory_json_file_count": 789,
+  "ignored_json_files_count": 788,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N54083/PRJLANR5L17BTC2695/AMANR5L17PO838901BTC2695P0D1N000022.json"
+  ]
+}

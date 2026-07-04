@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2621P0D1N000001",
+      "chronotag": "1775721271738",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2621P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2621",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793708",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793452",
+            "PA795010",
+            "PA795076",
+            {
+              "__truncated_items__": 32
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Peytavie,  M.&#160;Davi, Mme&#160;Garin, Mme&#160;Sandrine&#160;Rousseau, Mme&#160;Simonnet, M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, M.&#160;Thierry, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Duplessy, M.&#160;Fournier, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, Mme&#160;Sebaihi, Mme&#160;Voynet, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Taill&#233;-Polian et M.&#160;Tavernier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "APRÈS ART. 2",
+          "articleDesignation": "APRÈS L'ARTICLE 2, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2621.asp#D_Articles_1er_et_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&nbsp;I.&nbsp;&#x2013;&nbsp;Apr&#x00E8;s l&#x2019;article&nbsp;L.&nbsp;222&#x2011;5 du code de l&#x2019;action sociale et des familles, il est ins&#x00E9;r&#x00E9; un article&nbsp;L.&nbsp;222&#x2011;5&#x2011;1 A ainsi r&#x00E9;dig&#x00E9;&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;L.&nbsp;222&#x2011;5&#x2011;1 A</i>.&nbsp;&#x2013;&nbsp;L&#x2019;accueil d&#x2019;un mineur au titre des&nbsp;1&#x00B0;, 2&#x00B0; ou 3&#x00B0; de l&#x2019;article&nbsp;L.&nbsp;222&#x2011;5 &#x00E2;g&#x00E9;s d&#x2019;au moins douze ans donne lieu syst&#x00E9;matiquement &#x00E0; l&#x2019;ouverture d&#x2019;un compte de d&#x00E9;p&#x00F4;t dans un &#x00E9;tablissement de cr&#x00E9;dit, exempt de frais bancaires, &#x00E0; son nom par le pr&#x00E9;sident du conseil d&#x00E9;partemental, lorsque l&#x2019;enfant n&#x2019;en dispose pas, ainsi que d&#x2019;une information sur le dispositif et les modalit&#x00E9;s de versement du p&#x00E9;cule.</p><p style=\"text-align: justify;\">&nbsp;II.&nbsp;&#x2013;&nbsp;Le premier alin&#x00E9;a de l&#x2019;article&nbsp;L.&nbsp;543&#x2011;3 du code de la s&#x00E9;curit&#x00E9; sociale est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0; La deuxi&#x00E8;me phrase est ainsi modifi&#x00E9;e&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>a)</i> Apr&#x00E8;s le mot&nbsp;: &#x00AB;&nbsp;est&nbsp;&#x00BB;, est ins&#x00E9;r&#x00E9; le mot&nbsp;: &#x00AB;&nbsp;automatiquement&nbsp;&#x00BB;&nbsp;;&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>b)</i>&nbsp;Sont ajout&#x00E9;s les mots&nbsp;: &#x00AB;&nbsp;sur son compte bancaire&nbsp;&#x00BB;&nbsp;;&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0; Est ajout&#x00E9;e une phrase ainsi r&#x00E9;dig&#x00E9;e&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le b&#x00E9;n&#x00E9;ficiaire est inform&#x00E9; chaque ann&#x00E9;e par la Caisse des d&#x00E9;p&#x00F4;ts et consignations du montant cumul&#x00E9; du p&#x00E9;cule et des modalit&#x00E9;s d&#x2019;attribution.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">III.&nbsp;&#x2013;&nbsp;Les modalit&#x00E9;s d&#x2019;application du pr&#x00E9;sent article sont d&#x00E9;finies par d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement du groupe &#x00C9;cologiste et Social vise &#x00E0; garantir le b&#x00E9;n&#x00E9;fice de l&#x2019;allocation de rentr&#x00E9;e scolaire aux enfants accueillis au titre de l&#x2019;aide sociale &#x00E0; l&#x2019;enfance en automatisant son versement &#x00E0; la majorit&#x00E9; par la Caisse des d&#x00E9;p&#x00F4;ts et consignation et en cr&#x00E9;ant un compte bancaire &#x00E0; chaque enfant plac&#x00E9; &#x00E2;g&#x00E9; d&#x2019;au moins 12 ans lorsqu&#x2019;il n&#x2019;en poss&#x00E8;de pas.</p><p>Depuis la loi du&nbsp;14&nbsp;mars&nbsp;2016, l&#x2019;allocation de rentr&#x00E9;e scolaire due pour un enfant accueilli au titre de l&#x2019;aide sociale &#x00E0; l&#x2019;enfance est conserv&#x00E9;e par la Caisse des d&#x00E9;p&#x00F4;ts et consignations jusqu&#x2019;&#x00E0; sa majorit&#x00E9;. Ce dispositif a &#x00E9;t&#x00E9; sp&#x00E9;cifiquement instaur&#x00E9; dans le but de permettre aux jeunes concern&#x00E9;s de se constituer un capital pour favoriser leur autonomie financi&#x00E8;re &#x00E0; la fin de leur prise en charge. Pourtant, en 2024, seuls 47,11&nbsp;% des jeunes concern&#x00E9;s avaient effectivement per&#x00E7;u ce p&#x00E9;cule, selon la Caisse des d&#x00E9;p&#x00F4;ts et consignations. Ce taux peut varier de 5,6&nbsp;% &#x00E0; 58,1&nbsp;% selon les d&#x00E9;partements.</p><p>En supprimant la logique de consignation par la Caisse des d&#x00E9;p&#x00F4;ts pour un versement direct &#x00E0; la personne ou &#x00E0; l&#x2019;institution en charge de l&#x2019;enfant, la proposition de loi dans sa version initiale r&#x00E9;pondait &#x00E0; la crise du non-recours de ce p&#x00E9;cule par un retrait pur et simple du dispositif. Si nous partageons le constat d&#x2019;une sous-appropriation du dispositif, comment une telle proposition peut-elle aller dans l&#x2019;int&#x00E9;r&#x00EA;t des enfants concern&#x00E9;s puisqu&#x2019;elle renforce, de fait, leur pr&#x00E9;carisation &#x00E0; la sortie de leur prise en charge&nbsp;?</p><p>Ces allocations repr&#x00E9;sentent une somme d&#x2019;environ 885&nbsp;euros par personne. C&#x2019;est un montant non n&#x00E9;gligeable pour les enfants concern&#x00E9;s qui, en ne b&#x00E9;n&#x00E9;ficiant pas n&#x00E9;cessairement des m&#x00EA;mes opportunit&#x00E9;s de pr&#x00E9;paration &#x00E0; l&#x2019;autonomie que les autres enfants, se retrouvent expos&#x00E9;s &#x00E0; des risques majeurs de pr&#x00E9;carit&#x00E9; d&#x00E8;s leur majorit&#x00E9;.</p><p>Le Gouvernement a ra… [truncated 2430 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-02",
+        "datePublication": "2026-04-08",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2621P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c action sociale",
+        "divisionCodeLoi": "L222-5-1 A"
+      },
+      "discussionCommune": {
+        "idDiscussion": "37683",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621",
+  "directory_json_file_count": 61,
+  "ignored_json_files_count": 60,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53772/PIONANR5L17BTC2621/AMANR5L17PO838901BTC2621P0D1N000021.json"
+  ]
+}

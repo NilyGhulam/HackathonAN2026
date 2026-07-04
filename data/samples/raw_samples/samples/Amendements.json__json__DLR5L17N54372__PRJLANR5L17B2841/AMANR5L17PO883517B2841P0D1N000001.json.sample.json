@@ -1,0 +1,192 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO883517B2841P0D1N000001",
+      "chronotag": "1782662885881",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CSPROENF",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO883517B2841P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2841",
+      "triAmendement": "aeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721410",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA842141",
+            "PA608416",
+            "PA642847",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Bonnivard,  Mme&#160;de&#160;Maistre, M.&#160;Hetzel, M.&#160;Bazin, M.&#160;Duparay, Mme&#160;Gruet, M.&#160;Liger, Mme&#160;Dalloz, Mme&#160;Martin&#160;(Alpes-Maritimes), M.&#160;Rolland, M.&#160;Descoeur, Mme&#160;Corneloup, M.&#160;Ray, Mme&#160;Bazin-Malgras, Mme&#160;Duby-Muller et M.&#160;Boucard"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "AVANT ART. PREMIER",
+          "articleDesignation": "AVANT L'ARTICLE PREMIER, insérer la division et l'intitulé suivants:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Avant",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "true",
+          "urlDivisionTexteVise": "/17/textes/2841.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": "Cet amendement a été déclaré irrecevable après publication en application de l'article 98 du règlement de l'Assemblée nationale.",
+        "contenuAuteur": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-25",
+        "datePublication": "2026-06-27",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "IRRAI",
+            "libelle": "Irrecevable"
+          },
+          "sousEtat": {
+            "code": "IRRAI",
+            "libelle": "Autre irrecevabilité"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO883517B2841P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841",
+  "directory_json_file_count": 1213,
+  "ignored_json_files_count": 1212,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54372/PRJLANR5L17B2841/AMANR5L17PO883517B2841P0D1N000021.json"
+  ]
+}

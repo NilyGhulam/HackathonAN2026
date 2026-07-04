@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901B2453P0D2N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901B2453P0D2N000001",
+      "chronotag": "1772030515915",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2453P0D2",
+      "texteLegislatifRef": "PIONANR5L17BTC2453",
+      "triAmendement": "icaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Gouvernement",
+          "gouvernementRef": "PO873634",
+          "acteurRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "groupePolitiqueRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "le Gouvernement"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 4",
+          "articleDesignationCourte": "ART. 4",
+          "articleDesignation": "ARTICLE 4",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "A",
+            "numero": "8",
+            "alineaDesignation": "Alinéa 8"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>I.&nbsp;&#x2013;&nbsp;&#x00C0; l&#x2019;alin&#x00E9;a&nbsp;8, supprimer les mots&nbsp;:&nbsp;</p><p>&#x00AB;&nbsp;physique ou psychologique&nbsp;&#x00BB;.</p><p>II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, compl&#x00E9;ter le m&#x00EA;me alin&#x00E9;a&nbsp;8 par la phrase suivante&nbsp;:&nbsp;</p><p>&#x00AB;&nbsp;Une souffrance psychologique seule ne peut en aucun cas permettre de b&#x00E9;n&#x00E9;ficier de l&#x2019;aide &#x00E0; mourir.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Une telle ouverture entre en contradiction avec la politique nationale de pr&#x00E9;vention du suicide, rappelant que sont facteurs de risque de d&#x00E9;pression le grand &#x00E2;ge, l&#x2019;isolement, la maladie chronique et la douleur chronique.</p><p>L&#x2019;Ordre s&#x2019;inqui&#x00E8;te de l&#x2019;appr&#x00E9;ciation de souffrances psychologiques qui trouveraient leur origine dans une source ext&#x00E9;rieure &#x00E0; la maladie (difficult&#x00E9;s familiales, sociales, &#x00E9;conomiques, etc.), qui ne rel&#x00E8;verait pas d&#x2019;une maladie incurable. En outre, le texte tel que propos&#x00E9; par l&#x2019;Assembl&#x00E9;e nationale induit que des souffrances psychologiques peuvent &#x00EA;tre incurables.</p><p>L&#x2019;Ordre s&#x2019;interroge encore sur la rationalit&#x00E9; du choix du suicide et sur le fait que l&#x2019;expression d&#x2019;une intentionnalit&#x00E9; suicidaire puisse &#x00EA;tre en lien avec une alt&#x00E9;ration du fonctionnement cognitif.</p><p>Le r&#x00E9;tablissement de la proposition &#x00AB;&nbsp;Une souffrance psychologique seule ne peut en aucun cas permettre de b&#x00E9;n&#x00E9;ficier de l&#x2019;aide &#x00E0; mourir.&nbsp;&#x00BB; rend inutiles l&#x2019;emploi des termes &#x00AB;&nbsp;physique ou psychologique&nbsp;&#x00BB; dans la phrase pr&#x00E9;c&#x00E9;dente.</p><p>Le pr&#x00E9;sent amendement est issu de propositions du Conseil national de l&#x2019;Ordre des m&#x00E9;decins.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-25",
+        "datePublication": "2026-02-25",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-02-25T15:41:30+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901B2453P0D2N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "87661",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453",
+  "directory_json_file_count": 2146,
+  "ignored_json_files_count": 2145,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901B2453P0D2N000002.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901B2453P0D2N000003.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901B2453P0D2N000004.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901B2453P0D2N000005.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901B2453P0D2N000006.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901B2453P0D2N000008.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901B2453P0D2N000009.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17BTC2453/AMANR5L17PO838901BTC2453P0D1N000013.json"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0701P0D1N000001",
+      "chronotag": "1739874710122",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0701P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0701",
+      "triAmendement": "laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841885",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 32
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Arnaud&#160;Bonnet,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, Mme&#160;Laernoes, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 1er quater",
+          "articleDesignationCourte": "APRÈS ART. 1ER QUATER",
+          "articleDesignation": "APRÈS L'ARTICLE 1ER QUATER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0701.asp#D_Article_1er_quater"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai de six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport d&#x00E9;taill&#x00E9; visant &#x00E0; &#x00E9;valuer la qualit&#x00E9; nutritionnelle des repas distribu&#x00E9;s par les centres r&#x00E9;gionaux des &#x0153;uvres universitaires dont le montant est plafonn&#x00E9; &#x00E0; 1&nbsp;euro en application de l&#x2019;article L.&nbsp;822&#x2011;1&#x2011;2 du code de l&#x2019;&#x00E9;ducation.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Si l&#x2019;acc&#x00E8;s &#x00E0; une offre de restauration &#x00E0; 1&nbsp;euro &#x00E0; l&#x2019;ensemble des &#x00E9;tudiantes et &#x00E9;tudiants est une mesure de lutte contre la pr&#x00E9;carit&#x00E9; alimentaire, il est n&#x00E9;cessaire que ces offres de restauration puissent &#x00EA;tre qualitatives. L&#x2019;objet de cet amendement n&#x2019;est pas de faire porter le bl&#x00E2;me aux personnels du r&#x00E9;seau des &#x0153;uvres qui font leur maximum afin d&#x2019;offrir une alimentation de qualit&#x00E9;. La difficult&#x00E9; r&#x00E9;side essentiellement sur les moyens budg&#x00E9;taires allou&#x00E9;s. Nous ne pouvons concevoir une v&#x00E9;ritable politique sociale et alimentaire qui n&#x2019;allie pas une offre de repas &#x00E0; 1&nbsp;euro avec une qualit&#x00E9; nutritionnelle d&#x00E9;cente. L&#x2019;actualit&#x00E9; pass&#x00E9;e est r&#x00E9;guli&#x00E8;rement revenue sur certaines offres de repas &#x00E0; 1&nbsp;euro qui frisait l&#x2019;ind&#x00E9;cence. Ainsi, cet amendement a vocation &#x00E0; demander au Gouvernement un rapport sur l&#x2019;effectivit&#x00E9; de cette mesure sur le plan de la qualit&#x00E9; nutritionnelle des repas &#x00E0; 1&nbsp;euro distribu&#x00E9;s.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-14",
+        "datePublication": "2025-01-23",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0701P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "Z3",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701",
+  "directory_json_file_count": 23,
+  "ignored_json_files_count": 22,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50778/PIONANR5L17BTC0701/AMANR5L17PO838901BTC0701P0D1N000021.json"
+  ]
+}

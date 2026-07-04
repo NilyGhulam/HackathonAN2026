@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901B2468P0D2N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901B2468P0D2N000001",
+      "chronotag": "1777991971527",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2468P0D2",
+      "texteLegislatifRef": "PIONANR5L17BTC2468",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795528",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Rodwell"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 8",
+          "articleDesignationCourte": "ART. 8",
+          "articleDesignation": "ARTICLE 8",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi l&#x2019;article&nbsp;8&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Apr&#x00E8;s le premier alin&#x00E9;a de l&#x2019;article&nbsp;L.&nbsp;742&#x2011;6 du code de l&#x2019;entr&#x00E9;e et du s&#x00E9;jour des &#x00E9;trangers et du droit d&#x2019;asile, il est ins&#x00E9;r&#x00E9; un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00C0; titre exceptionnel, le premier alin&#x00E9;a du pr&#x00E9;sent article est &#x00E9;galement applicable &#x00E0; l&#x2019;&#x00E9;tranger qui fait l&#x2019;objet d&#x2019;une d&#x00E9;cision d&#x2019;&#x00E9;loignement, qui est d&#x00E9;finitivement condamn&#x00E9; pour des faits d&#x2019;atteinte aux personnes punis d&#x2019;au moins trois ans d&#x2019;emprisonnement et qui repr&#x00E9;sente une menace r&#x00E9;elle, actuelle et d&#x2019;une particuli&#x00E8;re gravit&#x00E9; pour l&#x2019;ordre public.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement r&#x00E9;tablit la r&#x00E9;daction de l&#x2019;article&nbsp;8 issue des travaux de la commission des Lois.</p><p style=\"text-align: justify;\">Cette r&#x00E9;daction, qui permet &#x00E0; titre exceptionnel la prolongation de la r&#x00E9;tention des &#x00E9;trangers condamn&#x00E9;s pour des faits d&#x2019;atteinte aux personnes et repr&#x00E9;sentant une menace d&#x2019;une particuli&#x00E8;re gravit&#x00E9; pour l&#x2019;ordre public, int&#x00E8;gre l&#x2019;ensemble des pr&#x00E9;conisations formul&#x00E9;es par le Conseil d&#x2019;&#x00C9;tat dans son avis sur ces dispositions.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-05",
+        "datePublication": "2026-05-05",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-05-05T16:39:14+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901B2468P0D2N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468",
+  "directory_json_file_count": 293,
+  "ignored_json_files_count": 292,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53284/PIONANR5L17BTC2468/AMANR5L17PO838901BTC2468P0D1N000020.json"
+  ]
+}

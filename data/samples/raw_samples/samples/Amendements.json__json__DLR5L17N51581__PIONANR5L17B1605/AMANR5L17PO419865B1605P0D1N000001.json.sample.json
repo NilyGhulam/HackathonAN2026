@@ -1,0 +1,180 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51581/PIONANR5L17B1605/AMANR5L17PO419865B1605P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419865B1605P0D1N000001",
+      "chronotag": "1764148920234",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CD1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-DVP",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419865B1605P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1605",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841327",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795430",
+            "PA840829",
+            "PA841633",
+            {
+              "__truncated_items__": 4
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Roussel,  M.&#160;Delautrette, M.&#160;Barusseau, M.&#160;Dufau, M.&#160;Eskenazi, M.&#160;F&#233;gn&#233;, Mme&#160;Jourdan et M.&#160;Leseul"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1605.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "5",
+            "alineaDesignation": "Après l'alinéa 5"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;5, ins&#x00E9;rer les deux alin&#x00E9;as suivants&nbsp;:</p><p style=\"text-align: justify;\"><i>&#x00AB;&nbsp;<i>d)</i></i>&nbsp;Il est ajout&#x00E9; un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Toute cession, totale ou partielle, des participations d&#x00E9;tenues par une chambre de commerce et d&#x2019;industrie dans le capital de la soci&#x00E9;t&#x00E9; portuaire est effectu&#x00E9;e dans le respect de l&#x2019;article&nbsp;L.&nbsp;151&#x2011;3 du code mon&#x00E9;taire et financier. Lorsqu&#x2019;une telle cession est susceptible de conduire, directement ou indirectement, &#x00E0; la prise de contr&#x00F4;le ou &#x00E0; l&#x2019;acquisition d&#x2019;une fraction d&#x2019;actifs, corporels ou incorporels, participant aux activit&#x00E9;s mentionn&#x00E9;es au&nbsp;I du m&#x00EA;me article, elle est soumise &#x00E0; l&#x2019;autorisation pr&#x00E9;alable du ministre charg&#x00E9; de l&#x2019;&#x00E9;conomie.&nbsp;&#x00BB;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement du groupe Socialistes et apparent&#x00E9;s, dans la m&#x00EA;me logique que le pr&#x00E9;c&#x00E9;dent, vise &#x00E0; encadrer et r&#x00E9;guler de mani&#x00E8;re pr&#x00E9;cise toute situation de cession totale ou partielle des participations d&#x00E9;tenues par une chambre de commerce et d&#x2019;industrie.&nbsp;</p><p style=\"text-align: justify;\">L&#x2019;article unique de la pr&#x00E9;sente proposition de loi&nbsp;ne traite que de l&#x2019;entr&#x00E9;e &#x00E9;ventuelle d&#x2019;une chambre de commerce et d&#x2019;industrie (CCI) au capital d&#x2019;une soci&#x00E9;t&#x00E9; portuaire. Elle demeure en revanche silencieuse sur l&#x2019;hypoth&#x00E8;se inverse &#x00E0; savoir la sortie d&#x2019;une CCI de ce capital.</p><p style=\"text-align: justify;\">Or, l&#x2019;absence de cadre juridique explicite pour cette sortie pourrait cr&#x00E9;er, de mani&#x00E8;re non intentionnelle, une vuln&#x00E9;rabilit&#x00E9; pour nos infrastructures portuaires, qui constituent des actifs strat&#x00E9;giques pour l&#x2019;&#x00E9;conomie nationale, la souverainet&#x00E9; logistique et la s&#x00E9;curit&#x00E9; maritime.</p><p style=\"text-align: justify;\">Dans un contexte g&#x00E9;opolitique marqu&#x00E9; par une intensification des strat&#x00E9;gies d&#x2019;influence, certaines puissances multiplient, directement ou par l&#x2019;interm&#x00E9;diaire de grands groupes, les prises de participation ou de contr&#x00F4;le dans des structures portuaires &#x00E0; travers le monde.</p><p style=\"text-align: justify;\">Il appartient donc au l&#x00E9;gislateur d&#x2019;&#x00EA;tre extr&#x00EA;mement vigilant quant aux opportunit&#x00E9;s que nos textes pourraient cr&#x00E9;er, m&#x00EA;me implicitement, pour de tels mouvements de prise de contr&#x00F4;le.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-21",
+        "datePublication": "2025-11-25",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-11-26T10:21:43+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419865B1605P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "35029",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51581/PIONANR5L17B1605",
+  "directory_json_file_count": 3,
+  "ignored_json_files_count": 2,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51581/PIONANR5L17B1605/AMANR5L17PO419865B1605P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51581/PIONANR5L17B1605/AMANR5L17PO419865B1605P0D1N000003.json"
+  ]
+}

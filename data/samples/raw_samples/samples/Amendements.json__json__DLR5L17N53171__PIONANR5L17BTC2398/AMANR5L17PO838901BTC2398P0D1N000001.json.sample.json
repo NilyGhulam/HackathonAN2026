@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2398P0D1N000001",
+      "chronotag": "1771266775553",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2398P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2398",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA642725",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642847",
+            "PA718884",
+            "PA608826",
+            {
+              "__truncated_items__": 8
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Li&#233;geon,  M.&#160;Bazin, Mme&#160;Bazin-Malgras, Mme&#160;Duby-Muller, M.&#160;Duparay, M.&#160;Tryzna, M.&#160;Jean-Pierre&#160;Vigier, M.&#160;Rolland, M.&#160;Ray, Mme&#160;Bonnivard, M.&#160;Bony et Mme&#160;Corneloup"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2398.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;A l&#x2019;alin&#x00E9;a&nbsp;1, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;alimentation&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;&#x00E0; l&#x2019;agriculture et aux modes de productions agricoles&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, &#x00E0; la premi&#x00E8;re phrase de l&#x2019;alin&#x00E9;a&nbsp;3, apr&#x00E8;s le mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;alimentation&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;&#x00E0; l&#x2019;agriculture et aux modes de productions agricoles&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">III.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, &#x00E0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;5, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;alimentation&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;&#x00E0; l&#x2019;agriculture et aux modes de productions agricoles&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">IV.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, &#x00E0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;6, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;alimentation&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;&#x00E0; l&#x2019;agriculture et aux modes de productions agricoles&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">V.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, &#x00E0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;8, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;alimentation&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;&#x00E0; l&#x2019;agriculture et aux modes de productions agricoles&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">VI.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, &#x00E0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;11, apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;alimentation&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">in… [truncated 177 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Alimentation et agriculture sont intimement li&#x00E9;es.&nbsp;</p><p>Les r&#x00E9;centes crises agricoles ont mis en &#x00E9;vidence les enjeux li&#x00E9;s &#x00E0; la p&#x00E9;rennit&#x00E9; de notre mod&#x00E8;le de production alimentaire. Alors que la loi agricole de mars 2025 reconna&#x00EE;t l&#x2019;agriculture comme un int&#x00E9;r&#x00EA;t g&#x00E9;n&#x00E9;ral majeur, il est essentiel de sensibiliser les &#x00E9;l&#x00E8;ves non seulement &#x00E0; l'alimentation mais aussi &#x00E0; l&#x2019;agriculture.</p><p>Pour valoriser nos fili&#x00E8;res agricoles, il para&#x00EE;t donc indispensable de dispenser &#x00E0; nos &#x00E9;l&#x00E8;ves, d&#x00E8;s l'&#x00E9;cole primaire, une information et une &#x00E9;ducation &#x00E0; l&#x2019;agriculture et aux modes de productions agricoles afin de sensibiliser les jeunes g&#x00E9;n&#x00E9;rations aux enjeux li&#x00E9;s &#x00E0; l'agriculture fran&#x00E7;aise et &#x00E0; la n&#x00E9;cessit&#x00E9; de prot&#x00E9;ger notre souverainet&#x00E9; alimentaire et agricole en leur transmettant des connaissances relatives aux cultures agricoles, aux fili&#x00E8;res et modes de production.</p><p>En coh&#x00E9;rence avec les orientations du programme national relatif &#x00E0; la nutrition et &#x00E0; la sant&#x00E9; et avec le programme national pour l'alimentation, cet amendement propose donc de compl&#x00E9;ter l'exp&#x00E9;rimentation &#x00E0; une &#x00E9;ducation &#x00E0; l'alimentation dans les &#x00E9;tablissements scolaires par une &#x00E9;ducation \"&#x00E0; l'alimentation, &#x00E0; l'agriculture et aux modes de productions agricoles\".</p><p>&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-28",
+        "datePublication": "2026-02-02",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-16T19:32:26+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2398P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30299",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398",
+  "directory_json_file_count": 39,
+  "ignored_json_files_count": 38,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53171/PIONANR5L17BTC2398/AMANR5L17PO838901BTC2398P0D1N000021.json"
+  ]
+}

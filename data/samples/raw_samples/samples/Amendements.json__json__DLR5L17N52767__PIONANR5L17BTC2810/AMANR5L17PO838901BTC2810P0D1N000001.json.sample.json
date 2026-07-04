@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2810P0D1N000001",
+      "chronotag": "1779958632581",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2810P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2810",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795820",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA720838",
+            "PA794710",
+            "PA796106",
+            {
+              "__truncated_items__": 14
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Nadeau,  Mme&#160;Bourouaha, M.&#160;Brugerolles, M.&#160;B&#233;nard, M.&#160;Castor, Mme&#160;Faucillon, Mme&#160;K/Bidi, Mme&#160;Lebon, M.&#160;Lecoq, M.&#160;Maillot, M.&#160;Maurel, M.&#160;Monnet, M.&#160;Peu, Mme&#160;Reid&#160;Arbelot, M.&#160;Rimane, M.&#160;Sansu, M.&#160;Nilor et M.&#160;Tjibaou"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2810.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;la fin, substituer au mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;abrog&#x00E9;s&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">le mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;annul&#x00E9;s&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L'auteur de cet amendement est aussi co-signataire du texte soumis &#x00E0; discussion, mais il croit qu'il est cependant imp&#x00E9;ratif de sortir du symbole pour faire oeuvre concr&#x00E8;te. Nous devons au moins cela &#x00E0; nos anc&#x00EA;tres qui ont &#x00E9;t&#x00E9; esclavis&#x00E9;s.&nbsp;</p><p>Qu'est-ce qui est en jeu ici sur le fond ? C'est que le choix du terme &#x00AB; abrogation &#x00BB; dans la proposition de loi initiale emporte une cons&#x00E9;quence juridique et symbolique qui m&#x00E9;rite d'&#x00EA;tre corrig&#x00E9;e.</p><p>En droit fran&#x00E7;ais, en effet, l'abrogation et l'annulation produisent des effets radicalement oppos&#x00E9;s dans le temps. L'abrogation met fin &#x00E0; un acte pour l'avenir, sans remettre en cause la l&#x00E9;gitimit&#x00E9; des effets qu'il a produits pendant sa vigueur. Elle est l'instrument normal de la r&#x00E9;vision l&#x00E9;gislative. L'annulation, en revanche, emporte une r&#x00E9;troactivit&#x00E9; de principe : l'acte est r&#x00E9;put&#x00E9; n'avoir jamais exist&#x00E9; et ses effets sont effac&#x00E9;s&nbsp;ab initio. Ce principe, consacr&#x00E9; en droit administratif depuis l'arr&#x00EA;t&nbsp;Soci&#x00E9;t&#x00E9; du journal &#x00AB; L'Aurore &#x00BB;&nbsp;(Conseil d'&#x00C9;tat, 25 juin 1948), et traduit en droit civil par l'article 1178 du Code civil issu de l'ordonnance n&#x00B0; 2016-131 du 10 f&#x00E9;vrier 2016, &#x00E9;tablit que la nullit&#x00E9; d'un acte le prive de tout effet juridique r&#x00E9;troactivement.</p><p>L'article 1179 alin&#x00E9;a premier du Code civil dispose :&nbsp;&#x00AB; La nullit&#x00E9; est absolue lorsque la r&#x00E8;gle viol&#x00E9;e a pour objet la sauvegarde de l'int&#x00E9;r&#x00EA;t g&#x00E9;n&#x00E9;ral. &#x00BB;&nbsp; L'article 6 du m&#x00EA;me code rappelle qu'&#x00AB; on ne peut d&#x00E9;roger, par des conventions particuli&#x00E8;res, aux lois qui int&#x00E9;ressent l'ordre public et les bonnes m&#x0153;urs. &#x00BB; Ces dispositions fondent la th&#x00E9;orie de la nullit&#x00E9; absolue pour tout acte contraire &#x00E0; l'ordre public.</p><p>Or le Code noir institutionnalisait la d&#x00E9;shumanisation d'&#x00EA;tres humains, leur r&#x00E9;duction au statut de &#x00AB; meubles &#x00BB; (article 44 de l'&#x00C9;dit de mars 1685) et l'exercice sur eux d'une violence l&#x00E9;galis&#x00E9;e. Un acte qui consacre la n&#x00E9;gation de la personnalit&#x00E9; juridique d'&#x00EA;tres humains heurte par nature les fondements les plus &#x00E9;l&#x00E9;m… [truncated 3045 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-22",
+        "datePublication": "2026-05-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-28T10:56:57+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2810P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30616",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "38845",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "90725",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810",
+  "directory_json_file_count": 31,
+  "ignored_json_files_count": 30,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52767/PIONANR5L17BTC2810/AMANR5L17PO838901BTC2810P0D1N000021.json"
+  ]
+}

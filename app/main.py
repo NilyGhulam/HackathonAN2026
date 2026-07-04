@@ -8,7 +8,7 @@ from fastapi.templating import Jinja2Templates
 from app.core.settings import STATIC_DIR, TEMPLATES_DIR
 from app.core.taxonomy import load_taxonomy
 from app.debate.map_builder import DebateMapBuilder
-from app.repositories.demo_repository import DemoRepository
+from app.repositories.repository_factory import create_repository
 from app.repositories.official_channels import OfficialChannelsRepository
 from app.civic.drafts import DraftService
 
@@ -22,7 +22,7 @@ app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 templates = Jinja2Templates(directory=TEMPLATES_DIR)
 
 taxonomy = load_taxonomy()
-repository = DemoRepository()
+repository = create_repository()
 map_builder = DebateMapBuilder(taxonomy)
 channels_repository = OfficialChannelsRepository()
 draft_service = DraftService(taxonomy, channels_repository)

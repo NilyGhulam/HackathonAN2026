@@ -1,0 +1,181 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53014/PNREANR5L17BTC2143/AMANR5L17PO838901BTC2143P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2143P0D1N000001",
+      "chronotag": "1770239853317",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2143P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC2143",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721960",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Obono,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2143.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "26",
+            "alineaDesignation": "Après l'alinéa 26"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;26, ins&#x00E9;rer&nbsp;l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Invite la Commission europ&#x00E9;enne, le Conseil et le Parlement europ&#x00E9;en &#x00E0; relever l&#x2019;objectif de r&#x00E9;duction nette des &#x00E9;missions de gaz &#x00E0; effet de serre de l&#x2019;Union europ&#x00E9;enne pour 2030, aujourd&#x2019;hui fix&#x00E9; &#x00E0; au moins 55&nbsp;% par rapport &#x00E0; 1990 dans la loi europ&#x00E9;enne sur le climat et dans le cadre du paquet &#x00AB;&nbsp;Ajustement &#x00E0; l&#x2019;objectif 55&nbsp;%&nbsp;&#x00BB;, afin d&#x2019;atteindre un niveau de r&#x00E9;duction d&#x2019;au moins 65&nbsp;% d&#x2019;ici la m&#x00EA;me &#x00E9;ch&#x00E9;ance.&#x202F;Cette r&#x00E9;vision est indispensable pour r&#x00E9;pondre &#x00E0; l&#x2019;urgence climatique, anticiper le franchissement probable du seuil de 1,5&#x202F;&#x00B0;C et rattraper les retards accumul&#x00E9;s dans la mise en &#x0153;uvre des politiques climatiques europ&#x00E9;ennes&nbsp;;&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;30, ins&#x00E9;rer&nbsp;l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x2013;&nbsp;&#x00E0; soutenir tr&#x00E8;s activement le rehaussement des objectifs europ&#x00E9;ens pour 2030, aujourd&#x2019;hui fix&#x00E9;s &#x00E0; 55&nbsp;% dans la loi europ&#x00E9;enne sur le climat, afin de les porter &#x00E0; 65&nbsp;%, ce qui est n&#x00E9;cessaire pour r&#x00E9;pondre aux enjeux li&#x00E9;s au r&#x00E9;chauffement rapide du climat mondial et assurer la coh&#x00E9;rence avec l&#x2019;objectif de r&#x00E9;duction nette d&#x2019;au moins 90&nbsp;% des &#x00E9;missions de gaz &#x00E0; effet de serre d&#x2019;ici 2040&nbsp;;&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">III.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, r&#x00E9;diger ainsi l&#x2019;alin&#x00E9;a&nbsp;34&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x2013;&nbsp;&#x00E0; soutenir le rehaussement des objectifs sectoriels du Pacte vert et du paquet climat, en particulier la fin programm&#x00E9;e de la vente des v&#x00E9;hicules thermiques en 2035, afin que ceux-ci soient align&#x00E9;s sur un objectif de r&#x00E9;duction des &#x00E9;missions pour 2030 de 65&nbsp;% plut&#x00F4;t que de 55&nbsp;%, garantissant ainsi la co… [truncated 136 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Par cet amendement, les d&#x00E9;put&#x00E9;.e.s de La France insoumise souhaitent renforcer l&#x2019;ambition climatique de la France au niveau europ&#x00E9;en en portant l&#x2019;objectif de r&#x00E9;duction des &#x00E9;missions de gaz &#x00E0; effet de serre pour 2030 de 55&#x202F;% &#x00E0; 65&#x202F;% par rapport &#x00E0; 1990. Cette r&#x00E9;&#x00E9;valuation est indispensable pour r&#x00E9;pondre &#x00E0; l&#x2019;urgence climatique et aux enjeux d&#x2019;un r&#x00E9;chauffement rapide du climat mondial.</p><p>Le Groupe d&#x2019;experts intergouvernemental sur l&#x2019;&#x00E9;volution du climat (GIEC) souligne que pour limiter le r&#x00E9;chauffement &#x00E0; 1,5&#x202F;&#x00B0;C, il est n&#x00E9;cessaire de r&#x00E9;duire drastiquement les &#x00E9;missions d&#x00E8;s cette d&#x00E9;cennie et d&#x2019;atteindre la neutralit&#x00E9; carbone &#x00E0; moyen terme. Les trajectoires compatibles avec cet objectif impliquent des baisses significatives des &#x00E9;missions d&#x2019;ici 2030, sup&#x00E9;rieures aux niveaux actuellement fix&#x00E9;s par la loi europ&#x00E9;enne sur le climat.</p><p>L&#x2019;objectif actuel de 55&#x202F;% d&#x2019;ici 2030 est jug&#x00E9; insuffisant par de nombreuses analyses scientifiques et par les ONG sp&#x00E9;cialis&#x00E9;es dans le climat, notamment Climate Action Network Europe (CAN Europe) et Global Legal Action Network (GLAN), qui alertent sur l&#x2019;&#x00E9;cart entre les engagements europ&#x00E9;ens et les trajectoires n&#x00E9;cessaires pour respecter l&#x2019;Accord de Paris. L&#x2019;&#x00E9;l&#x00E9;vation &#x00E0; 65&#x202F;% permettrait de mettre l&#x2019;Union europ&#x00E9;enne sur une trajectoire plus coh&#x00E9;rente avec l&#x2019;objectif de r&#x00E9;duction nette d&#x2019;au moins 90&#x202F;% des &#x00E9;missions d&#x2019;ici 2040 et avec les recommandations scientifiques.</p><p>En outre, cet amendement vise &#x00E0; garantir que les m&#x00E9;canismes de flexibilit&#x00E9;, tels que les cr&#x00E9;dits carbone externes, ne compromettent pas la r&#x00E9;duction r&#x00E9;elle des &#x00E9;missions domestiques et &#x00E0; envoyer un signal politique fort : l&#x2019;urgence climatique exige des mesures imm&#x00E9;diates et ambitieuses, refl&#x00E9;tant la gravit&#x00E9; de la crise et la responsabilit&#x00E9; des &#x00C9;tats europ&#x00E9;ens dans la transition &#x00E9;nerg&#x00E9;tique globale.<br><br></p><p>En r&#x00E9;sum&#x00E9;, porter l&#x2019;objectif &#x00E0; 65&#x202F;% d&#x2019;ici 2030 est n&… [truncated 298 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-29",
+        "datePublication": "2026-01-30",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-04T22:17:10+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2143P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30195",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53014/PNREANR5L17BTC2143",
+  "directory_json_file_count": 7,
+  "ignored_json_files_count": 6,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53014/PNREANR5L17BTC2143/AMANR5L17PO838901BTC2143P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53014/PNREANR5L17BTC2143/AMANR5L17PO838901BTC2143P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53014/PNREANR5L17BTC2143/AMANR5L17PO838901BTC2143P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53014/PNREANR5L17BTC2143/AMANR5L17PO838901BTC2143P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53014/PNREANR5L17BTC2143/AMANR5L17PO838901BTC2143P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53014/PNREANR5L17BTC2143/AMANR5L17PO838901BTC2143P0D1N000007.json"
+  ]
+}

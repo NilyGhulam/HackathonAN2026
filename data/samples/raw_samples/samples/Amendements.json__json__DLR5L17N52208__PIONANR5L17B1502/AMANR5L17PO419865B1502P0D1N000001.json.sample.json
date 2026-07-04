@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419865B1502P0D1N000001",
+      "chronotag": "1775035081169",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CD1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-DVP",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419865B1502P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1502",
+      "triAmendement": "eiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaam",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795244",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841359",
+            "PA720960"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Lenormand,  Mme&#160;de&#160;P&#233;lichy et M.&#160;Serva"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 4",
+          "articleDesignationCourte": "ART. 4",
+          "articleDesignation": "ARTICLE 4",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1502.asp#D_Article_4"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "2",
+            "alineaDesignation": "Après l'alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter cet article par les cinq alin&#x00E9;as suivants&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;L&#x2019;article&nbsp;L.&nbsp;221&#x2011;8 du code de l&#x2019;&#x00E9;nergie est compl&#x00E9;t&#x00E9; par quatre&nbsp;alin&#x00E9;as ainsi r&#x00E9;dig&#x00E9;s&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Pour les actions d&#x2019;&#x00E9;conomies d&#x2019;&#x00E9;nergie r&#x00E9;alis&#x00E9;es par des navires exer&#x00E7;ant une activit&#x00E9; de transport maritime &#x00E0; propulsion v&#x00E9;lique mentionn&#x00E9;e &#x00E0; l&#x2019;article&nbsp;L.&nbsp;221&#x2011;7, les niveaux de pond&#x00E9;ration sont fix&#x00E9;s par voie r&#x00E9;glementaire, avec un coefficient minimal de 1.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Les navires &#x00E0; propulsion principale v&#x00E9;lique, d&#x00E9;finis &#x00E0; l&#x2019;article&nbsp;L.&nbsp;5000&#x2011;2&#x2011;3 du code des transports, b&#x00E9;n&#x00E9;ficient d&#x2019;une bonification correspondant &#x00E0; un coefficient au moins &#x00E9;gal &#x00E0; 2.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Une bonification sp&#x00E9;cifique s&#x2019;applique aux op&#x00E9;rations r&#x00E9;alis&#x00E9;es sur des liaisons maritimes directes entre le territoire hexagonal et les territoires ultramarins, ainsi qu&#x2019;entre ces territoires, avec un coefficient au moins &#x00E9;gal &#x00E0; 1,5, tenant compte de leurs contraintes d&#x2019;&#x00E9;loignement et de d&#x00E9;pendance logistique.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;&#x00AB;&nbsp;Les conditions de cumul des bonifications sont fix&#x00E9;es par voie r&#x00E9;glementaire.&nbsp;&#x00BB;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;article 4 s&#x00E9;curise juridiquement une possibilit&#x00E9; d&#x00E9;j&#x00E0; mobilis&#x00E9;e par certains armateurs recourant &#x00E0; la propulsion v&#x00E9;lique de b&#x00E9;n&#x00E9;ficier de certificats d&#x2019;&#x00E9;conomies d&#x2019;&#x00E9;nergie pour des liaisons maritimes entre territoires fran&#x00E7;ais &#x00E9;ligibles, notamment entre Saint-Pierre-et-Miquelon et la m&#x00E9;tropole.</p><p>Cet amendement vise &#x00E0; pr&#x00E9;ciser les modalit&#x00E9;s de pond&#x00E9;ration applicables &#x00E0; ces op&#x00E9;rations. Il pr&#x00E9;voit une bonification renforc&#x00E9;e pour les navires &#x00E0; propulsion principale v&#x00E9;lique, afin de mieux valoriser les solutions les plus performantes en mati&#x00E8;re de d&#x00E9;carbonation du transport maritime.&nbsp;</p><p>Il introduit &#x00E9;galement une bonification sp&#x00E9;cifique pour les liaisons maritimes directes entre le territoire hexagonal et les territoires ultramarins, ainsi qu&#x2019;entre ces territoires. Cette&nbsp;disposition est&nbsp;justifi&#x00E9;e par les contraintes structurelles d&#x2019;&#x00E9;loignement, de d&#x00E9;pendance logistique et de forte d&#x00E9;pendance au transport maritime propres &#x00E0; ces territoires. En am&#x00E9;liorant l&#x2019;&#x00E9;quilibre &#x00E9;conomique de ces liaisons, le dispositif des certificats d&#x2019;&#x00E9;conomies d&#x2019;&#x00E9;nergie constitue un levier de diversification des flux, contribuant &#x00E0; la lutte contre la vie ch&#x00E8;re et au soutien &#x00E0; l&#x2019;exportation.</p><p>L&#x2019;amendement maintient la souplesse du dispositif en renvoyant au pouvoir r&#x00E9;glementaire la d&#x00E9;finition des coefficients applicables, notamment les conditions de cumul des bonifications.</p><p>Le dispositif des CEE repose sur une obligation impos&#x00E9;e aux fournisseurs d&#x2019;&#x00E9;nergie, qui doivent financer ou acqu&#x00E9;rir des actions d&#x2019;&#x00E9;conomies d&#x2019;&#x00E9;nergie afin d'atteindre leurs objectifs. Cet amendement n&#x2019;a donc pas pour effet de cr&#x00E9;er une charge pour l&#x2019;&#x00C9;tat.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-26",
+        "datePublication": "2026-03-31",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-04-01T11:17:50+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419865B1502P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "7",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502",
+  "directory_json_file_count": 63,
+  "ignored_json_files_count": 62,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52208/PIONANR5L17B1502/AMANR5L17PO419865B1502P0D1N000021.json"
+  ]
+}

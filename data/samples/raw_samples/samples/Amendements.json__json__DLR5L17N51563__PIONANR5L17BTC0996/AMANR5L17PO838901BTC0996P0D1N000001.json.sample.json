@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0996P0D1N000001",
+      "chronotag": "1741253155791",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0996P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0996",
+      "triAmendement": "aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabjl",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840673",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA342415",
+            "PA841315",
+            "PA794854",
+            {
+              "__truncated_items__": 62
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "Mme&#160;Rossi,  Mme&#160;Battistel, M.&#160;Benbrahim, M.&#160;Echaniz, M.&#160;Lhardit, M.&#160;Naillet, M.&#160;Potier, Mme&#160;Thomin, Mme&#160;Allemand, M.&#160;Aviragnet, M.&#160;Baptiste, M.&#160;Barusseau, M.&#160;Baumel, Mme&#160;Bellay, M.&#160;Bouloux, M.&#160;Philippe&#160;Brun, M.&#160;Califer, Mme&#160;Capdevielle, M.&#160;Christophle, M.&#160;Courbon, M.&#160;David, M.&#160;Delaporte, M.&#160;Delautrette, Mme&#160;Diop, Mme&#160;Dombre&#160;Coste, M.&#160;Dufau, M.&#160;Eskenazi, M.&#160;Faure, M.&#160;F&#233;gn&#233;, M.&#160;Garot, Mme&#160;Godard, M.&#160;Gokel, Mme&#160;Got, M.&#160;Emmanuel&#160;Gr&#233;goire, M.&#160;Guedj, M.&#160;Hablot, Mme&#160;Hadizadeh, Mme&#160;Herouin-L&#233;autey, Mme&#160;C&#233;line&#160;Hervieu, M.&#160;Hollande, Mme&#160;Jourdan, Mme&#160;Karamanli, Mme&#160;Keloua&#160;Hachi, M.&#160;Leseul, Mme&#160;Mercier, M.&#160;Oberti, Mme&#160;Pantel, M.&#160;Pena, Mme&#160;Pic, Mme&#160;Pir&#232;s&#160;Beaune, M.&#160;Pribetich, M.&#160;Proen&#231;a, Mme&#160;Rouaux, M.&#160;Aur&#233;lien&#160;Rousseau, M.&#160;Roussel, Mme&#160;Runel, Mme&#160;R&#233;calde, M.&#160;Saint-Pasteur, Mme&#160;Santiago, M.&#160;Saulignac, M.&#160;Simion, M.&#160;Sother, Mme&#160;Thi&#233;bault-Martinez, M.&#160;Vallaud, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0996.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "10",
+            "alineaDesignation": "Alinéa 10"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0; la fin de l&#x2019;alin&#x00E9;a&nbsp;10, supprimer les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;, y compris lorsqu&#x2019;il s&#x2019;agit de proposer au consommateur des produits ou des services aff&#x00E9;rents ou compl&#x00E9;mentaires &#x00E0; l&#x2019;objet du contrat en cours ou de nature &#x00E0; am&#x00E9;liorer ses performances ou sa qualit&#x00E9;&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement des d&#x00E9;put&#x00E9;s Socialistes et apparent&#x00E9;s vise &#x00E0; supprimer la pr&#x00E9;cision relative aux sollicitations ayant un rapport avec le contrat en cours, celles-ci ayant plut&#x00F4;t pour effet d&#x2019;en &#x00E9;tendre le champ.</p><p style=\"text-align: justify;\">En commission nous avons adopt&#x00E9; un amendement du rapporteur qui est venu pr&#x00E9;ciser que la sollicitation intervenant dans le cadre de l&#x2019;ex&#x00E9;cution d&#x2019;un contrat en cours doit avoir un rapport direct avec l&#x2019;objet du contrat. Nous avons soutenu cette &#x00E9;volution.</p><p style=\"text-align: justify;\">Cependant, la fin de la r&#x00E9;daction de l&#x2019;alin&#x00E9;a appara&#x00EE;t orthogonale &#x00E0; cet objectif. Loin d&#x2019;apporter une pr&#x00E9;cision, elle permet en r&#x00E9;alit&#x00E9; une appr&#x00E9;ciation large de cette notion de rapport direct.</p><p style=\"text-align: justify;\">En effet, la notion de produits ou de services aff&#x00E9;rents ou compl&#x00E9;mentaires ou de nature &#x00E0; am&#x00E9;liorer ses performances ou sa qualit&#x00E9; est, par nature, tr&#x00E8;s vaste.</p><p style=\"text-align: justify;\">Pour un op&#x00E9;rateur de t&#x00E9;l&#x00E9;phonie par exemple, consid&#x00E9;rant le nombre cons&#x00E9;quent de variantes qui peuvent exister pour un contrat mobile ou internet et d&#x2019;offres connexes, comme la vente d&#x2019;un t&#x00E9;l&#x00E9;phone portable ou d&#x2019;une tablette en plus de l&#x2019;abonnement, il n&#x2019;existerait de fait plus aucune limitation au d&#x00E9;marchage t&#x00E9;l&#x00E9;phonique &#x00E0; destination d&#x2019;un client existant, hors les horaires r&#x00E8;glementaires d&#x2019;appel. Or il s&#x2019;agit typiquement d&#x2019;une des activit&#x00E9;s &#x00E9;conomiques o&#x00F9; le d&#x00E9;marchage non sollicit&#x00E9; est le plus important, comme cela a pu &#x00EA;tre rappel&#x00E9; par plusieurs orateurs en commission.</p><p style=\"text-align: justify;\">Nous r&#x00E9;it&#x00E9;rons donc, comme en commission, que cette pr&#x00E9;cision affaiblit la notion de rapport direct avec le contrat et, en tout &#x00E9;tat de cause, en emp&#x00EA;che une interpr&#x00E9;tation restrictive.</p><p style=\"text-align: justify;\">Afin de ne pas r&#x00E9;duire la port&#x00E9;e du texte il y a donc lieu de supprimer ces pr&#x00E9;cisions.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-20",
+        "datePublication": "2025-03-05",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-03-06T10:25:45+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0996P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS29102",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75880",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996",
+  "directory_json_file_count": 54,
+  "ignored_json_files_count": 53,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51563/PIONANR5L17BTC0996/AMANR5L17PO838901BTC0996P0D1N000021.json"
+  ]
+}

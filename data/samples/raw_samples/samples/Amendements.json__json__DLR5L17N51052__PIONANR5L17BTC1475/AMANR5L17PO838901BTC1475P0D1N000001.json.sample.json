@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1475P0D1N000001",
+      "chronotag": "1757949868386",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1475P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1475",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA822617",
+          "groupePolitiqueRef": "PO845485",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA607619",
+            "PA795244",
+            "PA793796",
+            {
+              "__truncated_items__": 7
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Froger,  M.&#160;Molac, M.&#160;Lenormand, M.&#160;Taupiac, M.&#160;Panifous, M.&#160;Mathiasin, Mme&#160;Sanquer, M.&#160;Bruneau, M.&#160;Castellani, Mme&#160;de&#160;P&#233;lichy et M.&#160;Mazaury"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1475.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;tablir cet article dans la r&#x00E9;daction suivante&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;I.&nbsp;&#x2013;&nbsp;Le code &#x00E9;lectoral est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;L&#x2019;article&nbsp;L.&nbsp;12&#x2011;1 est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>a)</i> Le 2&#x00B0; du&nbsp;II est compl&#x00E9;t&#x00E9; par les mots&nbsp;: &#x00AB;&nbsp;ou descendants&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>b)</i>&nbsp;Apr&#x00E8;s le mot&nbsp;: &#x00AB;&nbsp;inscrites&nbsp;&#x00BB;, la fin du&nbsp;III est ainsi r&#x00E9;dig&#x00E9;e&nbsp;: &#x00AB;&nbsp;sur la liste &#x00E9;lectorale d&#x2019;une commune mentionn&#x00E9;e au&nbsp;I ou d&#x2019;une commune o&#x00F9; sont inscrits leurs ascendants ou leurs descendants, dans le bureau de vote dont d&#x00E9;pend l&#x2019;adresse de leur domicile, de leur derni&#x00E8;re r&#x00E9;sidence avant leur incarc&#x00E9;ration ou celle de leur ascendant ou descendant.&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;Au deuxi&#x00E8;me alin&#x00E9;a de l&#x2019;article&nbsp;L.&nbsp;79, apr&#x00E8;s la premi&#x00E8;re occurrence du mot&nbsp;: &#x00AB;&nbsp;vote&nbsp;&#x00BB;, sont ins&#x00E9;r&#x00E9;s les mots&nbsp;: &#x00AB;&nbsp;dont d&#x00E9;pend chaque d&#x00E9;tenu&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;3&#x00B0;&nbsp;Au premier alin&#x00E9;a de l&#x2019;article&nbsp;L.&nbsp;388, les mots&nbsp;: &#x00AB;&nbsp;n&#x00B0;&nbsp;2024&#x2011;536 du&nbsp;13&nbsp;juin&nbsp;2024 renfor&#x00E7;ant l&#x2019;ordonnance de protection et cr&#x00E9;ant l&#x2019;ordonnance provisoire de protection imm&#x00E9;diate&nbsp;&#x00BB; sont remplac&#x00E9;s par les mots&nbsp;: &#x00AB;&nbsp;n&#x00B0;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; du&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; relative au droit de vote par correspondance des personnes d&#x00E9;tenues&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;Le&nbsp;I est applicable &#x00E0; compter du premier renouvellement g&#x00E9;n&#x00E9;ral des conseillers municipaux suivant la publication de la pr&#x00E9;sente loi.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; revenir &#x00E0; l&#x2019;objectif initial du texte d&#x00E9;pos&#x00E9; au&nbsp;S&#x00E9;nat.</p><p style=\"text-align: justify;\">Il s&#x2019;agit d&#x2019;une solution d&#x2019;&#x00E9;quilibre, elle permet, d&#x2019;une part, de maintenir le droit de vote&nbsp;par correspondance des d&#x00E9;tenus et, d&#x2019;autre part, de pr&#x00E9;voir que les d&#x00E9;tenus seront inscrits&nbsp;sur la liste &#x00E9;lectorale d&#x2019;une commune avec laquelle ils ont un lien de rattachement personnel (commune de naissance, de r&#x00E9;sidence avant incarc&#x00E9;ration, etc.) en lieu et place du rattachement artificiel actuel des d&#x00E9;tenus dans la commune chef-lieu du d&#x00E9;partement ou de la collectivit&#x00E9; d'implantation de l'&#x00E9;tablissement p&#x00E9;nitentiaire.&nbsp;</p><p style=\"text-align: justify;\">Le seul argument oppos&#x00E9; par l&#x2019;administration &#x00E0; cette solution &#x00E9;quilibr&#x00E9;e, &#x00E0; savoir d&#x2019;&#x00E9;ventuelles&nbsp;difficult&#x00E9;s logistiques, ne peut suffire &#x00E0; restreindre un droit aussi fondamental que le droit de vote.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-05-30",
+        "datePublication": "2025-06-04",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-06-04T18:07:54+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1475P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS29501",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "31704",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475",
+  "directory_json_file_count": 38,
+  "ignored_json_files_count": 37,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51052/PIONANR5L17BTC1475/AMANR5L17PO838901BTC1475P0D1N000021.json"
+  ]
+}

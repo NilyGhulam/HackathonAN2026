@@ -1,0 +1,193 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419865B2595P0D1N000001",
+      "chronotag": "1778062111436",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CD1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-DVP",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419865B2595P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2595",
+      "triAmendement": "eoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA266808",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA608826",
+            "PA841595"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Rolland,  Mme&#160;Duby-Muller et Mme&#160;Chaz&#233;"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 6",
+          "articleDesignationCourte": "APRÈS ART. 6",
+          "articleDesignation": "APRÈS L'ARTICLE 6, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2595.asp#D_Article_6"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Le 3&#x00B0; de l&#x2019;article&nbsp;L.&nbsp;122&#x2011;11 du code de l&#x2019;urbanisme est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;La premi&#x00E8;re phrase est ainsi modifi&#x00E9;e&nbsp;:&nbsp;</p><p style=\"text-align: justify;\"><i>a)</i>&nbsp;Les mots&nbsp;: &#x00AB;&nbsp;ainsi que&nbsp;&#x00BB; sont supprim&#x00E9;s&nbsp;;&nbsp;</p><p style=\"text-align: justify;\"><i>b)</i>&nbsp;Apr&#x00E8;s le mot&nbsp;: &#x00AB;&nbsp;existants&nbsp;&#x00BB;, sont ins&#x00E9;r&#x00E9;s les mots&nbsp;: &#x00AB;&nbsp;ainsi que la reconstruction d&#x2019;un chalet d&#x2019;alpage ou d&#x2019;un b&#x00E2;timent d&#x2019;estive &#x00E0; l&#x2019;emplacement de l&#x2019;ancienne construction concern&#x00E9;e&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;Apr&#x00E8;s la premi&#x00E8;re phrase, est ins&#x00E9;r&#x00E9;e la phrase suivante&nbsp;:&nbsp;&#x00AB;&nbsp;Dans le cas d&#x2019;une reconstruction, les caract&#x00E9;ristiques principales de l&#x2019;ancienne construction&nbsp;sont conserv&#x00E9;es&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">3&#x00B0;&nbsp;Il est compl&#x00E9;t&#x00E9; par les mots&nbsp;: &#x00AB;&nbsp;et du conseil municipal de la commune concern&#x00E9;e par le biais d&#x2019;une d&#x00E9;lib&#x00E9;ration&nbsp;&#x00BB;.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement vise &#x00E0; compl&#x00E9;ter l&#x2019;article relatif aux modalit&#x00E9;s de r&#x00E9;novation et de reconstruction des chalets d&#x2019;alpage, afin de permettre la reconstruction d&#x2019;un chalet ou d&#x2019;un b&#x00E2;timent d&#x2019;estive &#x00E0; l&#x2019;emplacement exact o&#x00F9; un ancien chalet &#x00E9;tait situ&#x00E9;. Cette proposition s&#x2019;inscrit dans un contexte o&#x00F9; les successions, souvent complexes et longues, conduisent fr&#x00E9;quemment &#x00E0; l&#x2019;abandon ou &#x00E0; la d&#x00E9;gradation de ces b&#x00E2;timents, jusqu&#x2019;&#x00E0; leur ruine compl&#x00E8;te. Lorsqu&#x2019;un accord est finalement trouv&#x00E9; entre les h&#x00E9;ritiers, il est alors trop tard pour b&#x00E9;n&#x00E9;ficier des dispositifs existants, qui ne permettent g&#x00E9;n&#x00E9;ralement que la restauration de constructions encore debout.</p><p style=\"text-align: justify;\">La jurisprudence, notamment celle du Conseil d&#x2019;&#x00C9;tat, a clairement &#x00E9;tabli qu&#x2019;une construction enti&#x00E8;rement d&#x00E9;truite, dont il ne subsiste que des vestiges, ne peut &#x00EA;tre assimil&#x00E9;e &#x00E0; une simple restauration (CAA Lyon, 1<sup>er</sup>&nbsp;octobre&nbsp;2013, Gomar, n&#x00B0;13LY00315&nbsp;; CE, 13&nbsp;mai&nbsp;1992, Fernandez, n&#x00B0;107914). Cette interpr&#x00E9;tation stricte prive les propri&#x00E9;taires de la possibilit&#x00E9; de reconstruire un chalet d&#x2019;alpage &#x00E0; son emplacement historique, alors m&#x00EA;me que ces b&#x00E2;timents constituent un patrimoine architectural, culturel et pastoral essentiel pour les territoires de montagne.</p><p style=\"text-align: justify;\">Pour r&#x00E9;pondre &#x00E0; cette probl&#x00E9;matique, l&#x2019;amendement propose d&#x2019;autoriser express&#x00E9;ment la reconstruction d&#x2019;un chalet d&#x2019;alpage &#x00E0; l&#x2019;identique, sous r&#x00E9;serve que celle-ci respecte scrupuleusement le patrimoine et l&#x2019;aspect du b&#x00E2;timent d&#x2019;origine. Cette condition garantit que la reconstruction s&#x2019;inscrit dans une logique de pr&#x00E9;servation du caract&#x00E8;re traditionnel et paysager des estives, tout en permettant aux propri&#x00E9;taires de redonner vie &#x00E0; des b&#x00E2;timents abandonn&#x00E9;s ou d&#x00E9;truits.</p><p style=\"text-align: justify;\">Par ailleurs, afin d&#x2019;assurer une int&#x00E9;gration harmonieuse de ces reconstructions dans leur environne… [truncated 1217 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-30",
+        "datePublication": "2026-05-05",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-05-06T12:08:04+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419865B2595P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c urbanisme",
+        "divisionCodeLoi": "L122-11"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595",
+  "directory_json_file_count": 102,
+  "ignored_json_files_count": 101,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N54006/PIONANR5L17B2595/AMANR5L17PO419865B2595P0D1N000023.json"
+  ]
+}

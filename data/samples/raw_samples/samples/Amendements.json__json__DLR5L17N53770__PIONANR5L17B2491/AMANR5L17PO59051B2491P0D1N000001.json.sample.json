@@ -1,0 +1,183 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2491P0D1N000001",
+      "chronotag": "1774880640884",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2491P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2491",
+      "triAmendement": "jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794954",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": "et les membres du groupe Rassemblement National",
+        "libelle": "M.&#160;Salmon et les membres du groupe Rassemblement National"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 3",
+          "articleDesignationCourte": "APRÈS ART. 3",
+          "articleDesignation": "APRÈS L'ARTICLE 3, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2491.asp#D_Article_3"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">L&#x2019;article&nbsp;L.&nbsp;2113&#x2011;4 du code de la commande publique est compl&#x00E9;t&#x00E9; par un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Toutefois, lorsque le recours &#x00E0; une centrale d&#x2019;achat entra&#x00EE;nerait un surco&#x00FB;t sup&#x00E9;rieur &#x00E0; 30&nbsp;% par rapport &#x00E0; une offre ext&#x00E9;rieure &#x00E9;quivalente en termes de caract&#x00E9;ristiques techniques et de d&#x00E9;lais de livraison, le pouvoir adjudicateur peut conclure le march&#x00E9; directement avec ce fournisseur, sans publicit&#x00E9; ni mise en concurrence, sous r&#x00E9;serve d&#x2019;une justification &#x00E9;crite conserv&#x00E9;e &#x00E0; des fins de contr&#x00F4;le.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">L&#x2019;article&nbsp;L.&nbsp;2113&#x2011;4 du code de la commande publique permet aux acheteurs publics de recourir &#x00E0; des centrales d&#x2019;achat telles que l&#x2019;UGAP sans obligation de publicit&#x00E9; ni mise en concurrence, d&#x00E8;s lors que les op&#x00E9;rations ont &#x00E9;t&#x00E9; confi&#x00E9;es &#x00E0; cette centrale. Cette d&#x00E9;rogation vise &#x00E0; simplifier les achats publics et &#x00E0; garantir une certaine s&#x00E9;curit&#x00E9; juridique.</p><p style=\"text-align: justify;\">Cependant, dans les faits, un nombre croissant d&#x2019;acheteurs publics d&#x00E9;plorent des prix pratiqu&#x00E9;s par certaines centrales d&#x2019;achat significativement sup&#x00E9;rieurs &#x00E0; ceux du march&#x00E9; libre, pour des biens ou services comparables. Cette situation est d&#x2019;autant plus probl&#x00E9;matique qu&#x2019;elle conduit &#x00E0; un usage automatique de la centrale, au d&#x00E9;triment du bon usage des deniers publics. La centrale d&#x2019;achat UGAP a r&#x00E9;alis&#x00E9; par exemple un chiffre d&#x2019;affaires annuel de 6,88 milliards d&#x2019;euros en 2024.</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement&nbsp;vise donc &#x00E0; restaurer un &#x00E9;quilibre, en permettant aux acheteurs publics de d&#x00E9;roger au recours &#x00E0; la centrale d&#x2019;achat si une offre &#x00E9;quivalente ext&#x00E9;rieure permet une &#x00E9;conomie d&#x2019;au moins 30&nbsp;%. Cette clause d&#x2019;exception pr&#x00E9;serve les principes de simplicit&#x00E9; et de s&#x00E9;curit&#x00E9; juridique associ&#x00E9;s aux centrales, tout en encourageant ces derni&#x00E8;res &#x00E0; ajuster leurs tarifs pour rester comp&#x00E9;titives.</p><p style=\"text-align: justify;\">Le seuil de 30&nbsp;%, suffisamment &#x00E9;lev&#x00E9; pour &#x00E9;viter les abus, permet d&#x2019;identifier les situations de surco&#x00FB;t manifeste, sans alourdir les proc&#x00E9;dures, gr&#x00E2;ce &#x00E0; une simple justification &#x00E9;crite et conserv&#x00E9;e.</p><p style=\"text-align: justify;\">Cette mesure vise &#x00E0; conjuguer efficacit&#x00E9; &#x00E9;conomique, responsabilisation des acheteurs publics et transparence, au service d&#x2019;une gestion plus rigoureuse des finances publiques.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-23",
+        "datePublication": "2026-03-30",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-03-30T16:23:58+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2491P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c commande publique par un alinéa ainsi",
+        "divisionCodeLoi": "L2113-4"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491",
+  "directory_json_file_count": 16,
+  "ignored_json_files_count": 15,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53770/PIONANR5L17B2491/AMANR5L17PO59051B2491P0D1N000016.json"
+  ]
+}

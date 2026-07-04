@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000007.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2850P0D1N000007",
+      "chronotag": "1782148236042",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL7",
+        "numeroOrdreDepot": "7",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2850P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2850",
+      "triAmendement": "abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiqio",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793334",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA721932",
+            "PA794886",
+            "PA841737",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Tribuiani,  Mme&#160;Lorho, Mme&#160;Blanc, M.&#160;Gery, M.&#160;Gillet, Mme&#160;Griseti, M.&#160;Guitton, Mme&#160;Josserand, Mme&#160;Lelouis, Mme&#160;Levavasseur, Mme&#160;Pollet, M.&#160;Rambaud, M.&#160;Rancoule, M.&#160;Taverne, M.&#160;Tomatis et M.&#160;Villedieu"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2850.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "19",
+            "alineaDesignation": "Alinéa 19"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;&#x00C0; l&#x2019;alin&#x00E9;a&nbsp;19, substituer aux mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;d&#x2019;un an&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;de trois ans&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, au m&#x00EA;me alin&#x00E9;a, substituer au montant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;7&nbsp;500&nbsp;euros&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">le montant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;45&nbsp;000&nbsp;euros&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement vise &#x00E0; renforcer la sanction applicable en cas d&#x2019;absence de remise de produits explosifs, d&#x2019;articles pyrotechniques ou de pr&#x00E9;curseurs d&#x2019;explosifs, lorsque cette remise a &#x00E9;t&#x00E9; ordonn&#x00E9;e par l&#x2019;autorit&#x00E9; administrative conform&#x00E9;ment &#x00E0; l&#x2019;article L. 2352-4 du code de la d&#x00E9;fense.</p><p style=\"text-align: justify;\">Le projet de loi pr&#x00E9;voit d&#x00E9;j&#x00E0;, au sein du m&#x00EA;me article 1er, un durcissement des sanctions applicables &#x00E0; certains manquements li&#x00E9;s aux articles pyrotechniques, en portant notamment certaines peines &#x00E0; trois ans d&#x2019;emprisonnement et 45 000 euros d&#x2019;amende.</p><p style=\"text-align: justify;\">Il appara&#x00EE;t donc incoh&#x00E9;rent de maintenir &#x00E0; un niveau inf&#x00E9;rieur la sanction applicable &#x00E0; une personne qui refuse de remettre des objets dangereux apr&#x00E8;s injonction pr&#x00E9;fectorale. Ce refus ne constitue pas un simple manquement formel : il traduit une opposition directe &#x00E0; une mesure de pr&#x00E9;vention destin&#x00E9;e &#x00E0; &#x00E9;viter des troubles graves &#x00E0; l&#x2019;ordre ou &#x00E0; la s&#x00E9;curit&#x00E9; publics.</p><p style=\"text-align: justify;\">Cet amendement permet ainsi d&#x2019;assurer une meilleure coh&#x00E9;rence de l&#x2019;&#x00E9;chelle des peines et de renforcer le caract&#x00E8;re dissuasif du dispositif de dessaisissement pr&#x00E9;vu par le projet de loi.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-12",
+        "datePublication": "2026-06-22",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-06-22T19:10:13+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2850P0D1N000007?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": "dc"
+      },
+      "discussionCommune": {
+        "idDiscussion": "39467",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850",
+  "directory_json_file_count": 748,
+  "ignored_json_files_count": 747,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000024.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000025.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000026.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000027.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17B2850/AMANR5L17PO59051B2850P0D1N000028.json"
+  ]
+}

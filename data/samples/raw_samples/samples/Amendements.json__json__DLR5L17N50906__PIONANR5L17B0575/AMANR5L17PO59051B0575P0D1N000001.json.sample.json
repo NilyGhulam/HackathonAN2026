@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0575P0D1N000001",
+      "chronotag": "1768929806904",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0575P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0575",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajl",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA335054",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA340343",
+            "PA840665",
+            "PA608264",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "Mme&#160;Karamanli,  M.&#160;Saulignac, Mme&#160;Allemand, Mme&#160;Capdevielle, M.&#160;Christophle, M.&#160;Pena, Mme&#160;Thi&#233;bault-Martinez, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0575.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le premier alin&#x00E9;a de l&#x2019;article&nbsp;421&#x2011;2-5 du code p&#x00E9;nal est ainsi modifi&#x00E9;&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;Apr&#x00E8;s le mot&nbsp;: &#x00AB;&nbsp;directement&nbsp;&#x00BB;, sont ins&#x00E9;r&#x00E9;s les mots&nbsp;: &#x00AB;&nbsp;,&nbsp;m&#x00EA;me implicitement,&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;Apr&#x00E8;s la seconde occurrence du mot&nbsp;: &#x00AB;&nbsp;actes&nbsp;&#x00BB;, sont ins&#x00E9;r&#x00E9;s les mots&nbsp;:&nbsp;&#x00AB;&nbsp;ou de leurs auteurs, y compris, en cas d&#x2019;apologie, en minorant ou banalisant les actes de fa&#x00E7;on outranci&#x00E8;re,&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du Groupe Socialistes et apparent&#x00E9;s entend proposer une nouvelle r&#x00E9;daction g&#x00E9;n&#x00E9;rale de l'article 1er de ce texte afin d'assurer sa conformit&#x00E9; &#x00E0; la Constitution.&nbsp;</p><p>Il s'agit plus pr&#x00E9;cis&#x00E9;ment de suivre les recommandations formul&#x00E9;es par le Conseil d'Etat dans son avis&nbsp;n&#x00B0;409619 rendu &#x00E0; l'occasion de la s&#x00E9;ance du jeudi 22 mai 2025.&nbsp;</p><p>Dans le cadre de cet avis, la Haute juridiction administrative estime que l'inclusion des \"provocations indirectes\" dans le champ du d&#x00E9;lit de provocation &#x00E0; des actes terroristes se heurte au principe de l&#x00E9;galit&#x00E9; des d&#x00E9;lits et serait la cause d'une ins&#x00E9;curit&#x00E9; juridique, aucun exemple n'&#x00E9;tant donn&#x00E9; d'expression qui justifierait cet &#x00E9;largissement du d&#x00E9;lit.&nbsp;</p><p>Toujours dans le cadre de cet avis, le CE estime que la prohibition des propos publics pr&#x00E9;sentant des actes terroristes comme une l&#x00E9;gitime r&#x00E9;sistance ainsi que&nbsp;la prohibition des incitations publiques &#x00E0; porter un jugement favorable sur des actes terroristes r&#x00E9;sultent d'ores et d&#x00E9;j&#x00E0; de la loi telle qu'elle est appliqu&#x00E9;e.&nbsp;Selon le Conseil d&#x2019;Etat, il s&#x2019;agirait donc de consacrer dans la loi une jurisprudence d&#x00E9;j&#x00E0; &#x00E9;tablie mais loin de renforcer la force p&#x00E9;dagogique de la loi, ces mesures la fragiliseraient.</p><p>&nbsp;Enfin, concernant&nbsp;la cr&#x00E9;ation d&#x2019;un nouveau d&#x00E9;lit visant &#x00E0; r&#x00E9;primer tous les actes et tous les propos qui ont pour objet ou pour effet de banaliser, de minorer ou de relativiser les actes de terrorisme ou le danger repr&#x00E9;sent&#x00E9; par les auteurs de ces actes, le CE explique :&nbsp;cette disposition &#x00AB;&nbsp;ne servira pas &#x00E0; atteindre l&#x2019;objectif qu&#x2019;il se fixe, d&#x00E8;s lors qu&#x2019;actuellement, ainsi qu&#x2019;il est pr&#x00E9;cis&#x00E9; au point 13, les actes et propos ainsi vis&#x00E9;s sont d&#x2019;ores et d&#x00E9;j&#x00E0; couverts par l&#x2019;incrimination d&#x2019;apologie du terrorisme plus fortement r&#x00E9;prim&#x00E9;e.&nbsp;&#x00BB;.&nbsp;</p><p>Aussi et dans le respect des objectifs poursuivis par les auteurs de ce texte, le CE propose t-il une nouvelle r&#x00E9;daction de l'article 421-2-5 du code p&#x00E9;nal :&nbsp;&#x00AB; Le fait de provoquer directement, … [truncated 392 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-13",
+        "datePublication": "2026-01-20",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-01-20T18:23:23+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0575P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "36259",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575",
+  "directory_json_file_count": 51,
+  "ignored_json_files_count": 50,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50906/PIONANR5L17B0575/AMANR5L17PO59051B0575P0D1N000021.json"
+  ]
+}

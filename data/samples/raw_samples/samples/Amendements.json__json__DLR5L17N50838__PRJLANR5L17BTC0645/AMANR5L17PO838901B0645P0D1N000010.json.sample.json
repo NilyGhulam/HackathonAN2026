@@ -1,0 +1,179 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50838/PRJLANR5L17BTC0645/AMANR5L17PO838901B0645P0D1N000010.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901B0645P0D1N000010",
+      "chronotag": "1739874716620",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "10",
+        "numeroOrdreDepot": "10",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901B0645P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC0645",
+      "triAmendement": "cmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Gouvernement",
+          "gouvernementRef": "PO847639",
+          "acteurRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "groupePolitiqueRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "le Gouvernement"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 3",
+          "articleDesignationCourte": "ART. 3",
+          "articleDesignation": "ARTICLE 3",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0645.asp#D_Article_3"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I. - &#x00C9;tat A</p><p style=\"text-align: justify;\">Modifier ainsi les &#x00E9;valuations de recettes&nbsp;:</p><p style=\"line-height: normal; text-align: justify;\">&nbsp;</p><table style=\"width: 529.25pt; border-collapse: collapse;\" width=\"706\"><tbody><tr style=\"height: 13.5pt;\"><td style=\"width: 333.0pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" colspan=\"2\" width=\"444\"><p style=\"line-height: normal;\"><b>I. Budget g&#x00E9;n&#x00E9;ral</b></p></td><td style=\"width: 72.45pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" width=\"97\">&nbsp;</td><td style=\"width: 123.8pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" width=\"165\">&nbsp;</td></tr><tr style=\"height: 13.5pt;\"><td style=\"padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\">&nbsp;</td><td style=\"width: 284.35pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" width=\"379\">&nbsp;</td><td style=\"width: 72.45pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" width=\"97\">&nbsp;</td><td style=\"width: 123.8pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" width=\"165\"><p style=\"text-align: center; line-height: normal;\">(en euros)</p></td></tr><tr style=\"height: 22.5pt;\"><td style=\"width: 48.65pt; background: #CAD4E8; padding: 0cm 0cm 0cm 0cm; height: 22.5pt;\" width=\"65\"><p style=\"text-align: center; line-height: normal;\">N&#x00B0;&nbsp;de ligne</p></td><td style=\"width: 284.35pt; background: #CAD4E8; padding: 0cm 0cm 0cm 0cm; height: 22.5pt;\" width=\"379\"><p style=\"line-height: normal;\">&nbsp;</p></td><td style=\"width: 72.45pt; background: #CAD4E8; padding: 0cm 0cm 0cm 0cm; height: 22.5pt;\" width=\"97\"><p style=\"text-align: center; line-height: normal;\">&nbsp;</p></td><td style=\"width: 123.8pt; background: #CAD4E8; padding: 0cm 0cm 0cm 0cm; height: 22.5pt;\" width=\"165\"><p style=\"text-align: center; line-height: normal;\">&#x00C9;valuation<br> pour 2024</p></td></tr><tr style=\"height: 13.5pt;\"><td style=\"padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\"><p style=\"text-align: center; line-height: normal;\">&nbsp;</p></td><td style=\"width: 284.35pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" width=\"379\"><p style=\"line-height: normal;\"><b>1. Recettes fiscales</b></p></td><td style=\"width: 72.45pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" width=\"97\">&nbsp;</td><td style=\"width: 123.8pt; padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\" width=\"165\"><p style=\"text-align: right; line-height: normal;\"><b>-900 000 000</b></p></td></tr><tr style=\"height: 13.5pt;\"><td style=\"padding: 0cm 0cm 0cm 0cm; height: 13.5pt;\"><p style=\"t… [truncated 76610 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">&#x00C0; l&#x2019;issue de la commission mixte paritaire (CMP), la variation du solde budg&#x00E9;taire de l&#x2019;&#x00C9;tat pr&#x00E9;sent&#x00E9; &#x00E0; l&#x2019;article d&#x2019;&#x00E9;quilibre du projet de loi de finances de fin de gestion pour 2024 s&#x2019;&#x00E9;tablissait &#x00E0; &#x2013;&nbsp;20&nbsp;980&nbsp;M&#x20AC;, en d&#x00E9;gradation de 210&nbsp;M&#x20AC; par rapport au texte adopt&#x00E9; &#x00E0; l&#x2019;issue de la premi&#x00E8;re lecture au S&#x00E9;nat.</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement proc&#x00E8;de &#x00E0; l&#x2019;actualisation de l&#x2019;article d&#x2019;&#x00E9;quilibre afin de tenir compte, par anticipation, de l&#x2019;amendement du Gouvernement visant &#x00E0; r&#x00E9;tablir les cr&#x00E9;dits de la mission &#x00AB;&nbsp;Agriculture, alimentation, for&#x00EA;t et affaires rurales&nbsp;&#x00BB; minor&#x00E9;s pour gage &#x00E0; hauteur de 20&nbsp;M&#x20AC; dans l&#x2019;amendement visant &#x00E0; soutenir les agriculteurs dans la lutte contre le mildiou, retenu dans le cadre de la CMP.</p><p style=\"text-align: justify;\">L&#x2019;amendement actualise &#x00E9;galement les recettes de l&#x2019;&#x00C9;tat, compte tenu des derni&#x00E8;res remont&#x00E9;es comptables disponibles&nbsp;&#x00E0; fin octobre, disponibles depuis fin novembre&nbsp;:</p><p style=\"text-align: justify;\">- les recettes nettes d&#x2019;imp&#x00F4;t sur le revenu (ligne 1101-Net) sont major&#x00E9;es de +0,1&nbsp;Md&#x20AC;&nbsp;;</p><p style=\"text-align: justify;\">- les recettes nettes de taxe sur la valeur ajout&#x00E9;e (ligne 1601-Net) sont minor&#x00E9;es de -&nbsp;1,4 Md&#x20AC;&nbsp;;</p><p style=\"text-align: justify;\">- les autres recettes fiscales nettes sont major&#x00E9;es de +0,4 Md&#x20AC;, compte tenu d&#x2019;une actualisation des pr&#x00E9;visions de droits de mutation &#x00E0; titre gratuit (lignes 1705 et 1706).</p><p style=\"text-align: justify;\">Au terme des d&#x00E9;bats sur le projet de loi de finances de fin de gestion pour 2024, la variation du solde budg&#x00E9;taire de l&#x2019;&#x00C9;tat par rapport &#x00E0; la loi de finances initiale pour 2024 ressort finalement &#x00E0; -21&nbsp;900&nbsp;M&#x20AC;.</p><p style=\"text-align: justify;\">Le d&#x00E9;ficit &#x00E0; financer en r&#x00E9;sultant dans le tableau de financement de l&#x2019;&#x00C9;tat est rehauss&#x00E9; et s&#x2019;&#x00E9;l&#x00E8;ve par cons&#x00E9;quent &#x00E0; -162,4 Md&#x20AC;. Par ailleurs, l… [truncated 496 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-12-04",
+        "datePublication": "2024-12-04",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2024-12-04T16:38:55+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901B0645P0D1N000010?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50838/PRJLANR5L17BTC0645",
+  "directory_json_file_count": 2,
+  "ignored_json_files_count": 1,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50838/PRJLANR5L17BTC0645/AMANR5L17PO838901B0645P0D1N000011.json"
+  ]
+}

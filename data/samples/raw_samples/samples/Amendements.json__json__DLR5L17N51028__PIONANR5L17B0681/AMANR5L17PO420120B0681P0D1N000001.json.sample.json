@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0681P0D1N000001",
+      "chronotag": "1739874713257",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0681P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0681",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841717",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Runel,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, M.&#160;Delaporte, Mme&#160;Dombre&#160;Coste, Mme&#160;Godard, M.&#160;Guedj et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0681.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; supprimer cet article, pr&#x00E9;voyant&nbsp;de&nbsp;suspendre&nbsp;les&nbsp;allocations&nbsp;familiales&nbsp;aux&nbsp;parents&nbsp;de&nbsp;mineurs&nbsp;criminels&nbsp;ou&nbsp;d&#x00E9;linquants.</p><p style=\"text-align: justify;\">Les d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s s&#x2019;opposent profond&#x00E9;ment &#x00E0; cette proposition de loi pour au moins 4 raisons.</p><p style=\"text-align: justify;\">Tout d&#x2019;abord, elle est <b>d&#x00E9;magogique</b>&nbsp;: la r&#x00E9;ponse &#x00E0; la d&#x00E9;linquance juv&#x00E9;nile exige d&#x2019;avoir une vision bien plus large, touchant notamment &#x00E0; l&#x2019;&#x00E9;cole, aux services publics, &#x00E0; la police de proximit&#x00E9;, et non de se concentrer sur le versement des allocations familiales.</p><p style=\"text-align: justify;\">Ensuite, elle est <b>dangereuse</b>&nbsp;: son application privera des familles de prestations, qui les sortent aujourd&#x2019;hui de la pauvret&#x00E9;.&nbsp;Or les allocations familiales sont une des prestations sociales qui aident le plus les familles &#x00E0; sortir de la pauvret&#x00E9;&nbsp;; r&#x00E9;duisant de pr&#x00E8;s de 2 points le taux de pauvret&#x00E9; une fois vers&#x00E9;es.</p><p style=\"text-align: justify;\">Ensuite, une telle proposition de loi est <b>inefficace</b>&nbsp;: la loi Ciotti&nbsp;&#x2013;&nbsp;qui pr&#x00E9;voyait un pouvoir de suspension des allocations familiales en cas d&#x2019;absent&#x00E9;isme scolaire&nbsp;&#x2013;&nbsp;a augment&#x00E9; la part d&#x2019;enfants absents. On peut penser raisonnablement que la pr&#x00E9;sente proposition de loi va augmenter la d&#x00E9;linquance des mineurs, en mettant notamment les familles dans des situations de pr&#x00E9;carit&#x00E9; extr&#x00EA;me.</p><p style=\"text-align: justify;\">Enfin, elle est <b>contraire aux principes de notre droit </b>notamment le principe fondamental du droit p&#x00E9;nal selon lequel &#x00AB;&nbsp;nul n&#x2019;est responsable p&#x00E9;nalement que de son propre fait&nbsp;&#x00BB; (article L.&nbsp;121&#x2011;1 du code p&#x00E9;nal).</p><p style=\"text-align: justify;\">Pour toutes ces raisons, les&nbsp;d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s&nbsp;proposent de&nbsp;supprimer cet article unique.</p><p style=\"text-align: justify;\">Tel est l&#x2019;objet du pr&#x00E9;sent amendement.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-23",
+        "datePublication": "2025-01-29",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-01-29T12:25:07+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0681P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75140",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681",
+  "directory_json_file_count": 42,
+  "ignored_json_files_count": 41,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO420120B0681P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51028/PIONANR5L17B0681/AMANR5L17PO838901B0681P0D1N000010.json"
+  ]
+}

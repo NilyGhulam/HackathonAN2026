@@ -1,0 +1,200 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B2694P0D1N000001",
+      "chronotag": "1779868122641",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B2694P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2694",
+      "triAmendement": "bsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaci",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793616",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841487",
+            "PA840075",
+            "PA841059",
+            {
+              "__truncated_items__": 9
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Mauvieux,  M.&#160;Boulogne, M.&#160;Casterman, Mme&#160;Dellong&#160;Meng, M.&#160;Dessigny, M.&#160;Lottiaux, Mme&#160;Diaz, M.&#160;Golliot, Mme&#160;Lelouis, M.&#160;Renault, M.&#160;Salmon, M.&#160;Jean-Philippe&#160;Tanguy et Mme&#160;Roy"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "APRÈS ART. 2",
+          "articleDesignation": "APRÈS L'ARTICLE 2, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2694.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans les six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport d&#x00E9;taill&#x00E9; sur l&#x2019;&#x00E9;tat des &#x00E9;missions d&#x2019;obligations assimilables du Tr&#x00E9;sor index&#x00E9;es sur l&#x2019;inflation pour l&#x2019;ann&#x00E9;e 2025. Ce rapport analyse l&#x2019;&#x00E9;volution des &#x00E9;missions d&#x2019;obligations assimilables du Tr&#x00E9;sor index&#x00E9;es sur l&#x2019;inflation, en mettant en lumi&#x00E8;re leur proportion par rapport aux autres titres de dette publique &#x00E9;mis, ainsi que l&#x2019;impact de l&#x2019;inflation sur les co&#x00FB;ts de financement de l&#x2019;&#x00C9;tat. Il pr&#x00E9;sente &#x00E9;galement des projections sur l&#x2019;impact futur des &#x00E9;missions d&#x2019;obligations assimilables du Tr&#x00E9;sor index&#x00E9;es sur l&#x2019;inflation en fonction des diff&#x00E9;rentes &#x00E9;ch&#x00E9;ances &#x00E0; venir.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Lorsque l&#x2019;&#x00C9;tat &#x00E9;met des OATi (Obligations Assimilables du Tr&#x00E9;sor index&#x00E9;es sur l&#x2019;inflation), il fait un pari implicite sur l&#x2019;&#x00E9;volution des prix &#x00E0; la consommation. Effectivement, dans un contexte o&#x00F9; l&#x2019;inflation, bien qu&#x2019;en voie de normalisation, reste sensible aux chocs d&#x2019;offre et aux tensions g&#x00E9;opolitiques, la charge de la dette li&#x00E9;e aux OATi demeure structurellement &#x00E9;lev&#x00E9;e. Cela repr&#x00E9;sente un risque de volatilit&#x00E9; pour les finances publiques &#x00E0; moyen terme, car chaque point d&#x2019;inflation suppl&#x00E9;mentaire augmente m&#x00E9;caniquement le capital d&#x00FB; et les int&#x00E9;r&#x00EA;ts &#x00E0; verser.</p><p style=\"text-align: justify;\">Dans ce programme massif, la part des titres index&#x00E9;s est rest&#x00E9;e stable&nbsp;: l&#x2019;Agence France Tr&#x00E9;sor (AFT) a maintenu sa strat&#x00E9;gie de diversification en allouant environ 10&nbsp;% de son programme d&#x2019;&#x00E9;mission brut en 2025 aux OATi (index&#x00E9;es sur l&#x2019;inflation fran&#x00E7;aise) et aux OAT&#x20AC;i (index&#x00E9;es sur l&#x2019;inflation europ&#x00E9;enne). Cette pers&#x00E9;v&#x00E9;rance s&#x2019;explique par la n&#x00E9;cessit&#x00E9; de satisfaire une demande constante des investisseurs institutionnels, tels que les assureurs et les fonds de pension, qui cherchent &#x00E0; se prot&#x00E9;ger contre l&#x2019;&#x00E9;rosion mon&#x00E9;taire.</p><p style=\"text-align: justify;\">Un rapport d&#x00E9;taillant l&#x2019;&#x00E9;tat des &#x00E9;missions d&#x2019;OATi en 2025 permettrait d&#x2019;&#x00E9;valuer avec pr&#x00E9;cision l&#x2019;impact actuel et futur de ces titres sur le budget de l&#x2019;&#x00C9;tat, notamment apr&#x00E8;s les r&#x00E9;ajustements budg&#x00E9;taires de l&#x2019;ann&#x00E9;e. Il pourrait examiner le montant total lev&#x00E9; via ces instruments, leur poids r&#x00E9;el dans l&#x2019;encours global de la dette, ainsi que les projections de la charge de la dette selon diff&#x00E9;rents sc&#x00E9;narios de d&#x00E9;sinflation ou de rebond des prix. Ces informations sont cruciales pour affiner la gestion de la dette publique et &#x00E9;viter que l&#x2019;&#x00C9;tat ne subisse un effet de ciseau entre des recettes fiscales contraintes et une charge d&#x2019;int&#x00E9;r&#x00EA;t index&#x00E9;e trop lourde. Ces donn&#x00E9;es fourniraient alors une base d&#x2019;arbitrage es… [truncated 314 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-13",
+        "datePublication": "2026-05-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-05-27T09:48:37+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B2694P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "zz rapport",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694",
+  "directory_json_file_count": 112,
+  "ignored_json_files_count": 111,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54196/PRJLANR5L17B2694/AMANR5L17PO59048B2694P0D1N000021.json"
+  ]
+}

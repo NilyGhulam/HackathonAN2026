@@ -53,6 +53,19 @@ data/demo/             mesures et traces publiques de démonstration
 hackathon-an-2026/     DEFI.md au format demandé
 ```
 
+
+## Intégration des vraies données
+
+Le prototype sait maintenant basculer automatiquement des données fictives vers des payloads réels prétraités.
+
+```bash
+./scripts/fetch_official_source.py "https://exemple.api/source/123" --id an_source_123 --type amendment --institution assemblee_nationale
+./scripts/import_processed_payload.py chemin/vers/payload.json --status needs_review --target curated
+AGORIA_DATA_MODE=auto ./scripts/run.sh
+```
+
+Voir `docs/integration_donnees_reelles.md` pour le flux complet.
+
 ## Brancher les vraies ressources
 
 Le remplacement doit se faire dans `app/repositories/` :

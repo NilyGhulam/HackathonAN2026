@@ -1,0 +1,184 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53135/PRJLANR5L17BTC2146/AMANR5L17PO838901BTC2146P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2146P0D1N000001",
+      "chronotag": "1764695763017",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2146P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2146",
+      "triAmendement": "acaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Gouvernement",
+          "gouvernementRef": "PO873634",
+          "acteurRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "groupePolitiqueRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "le Gouvernement"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article liminaire",
+          "articleDesignationCourte": "ART. LIMINAIRE",
+          "articleDesignation": "ARTICLE LIMINAIRE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2146.asp#D_Article_liminaire"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "1",
+            "alineaDesignation": "Alinéa 1"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>R&#x00E9;diger ainsi le tableau de l'alin&#x00E9;a 2 :</p><table style=\"width: 460.3pt; border-collapse: collapse;\" width=\"614\"><tbody><tr style=\"height: 15.75pt;\"><td style=\"width: 254.65pt; border: solid #5B9BD5 1.0pt; border-bottom: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.75pt;\" width=\"340\"><p style=\"line-height: normal; margin: 2.0pt 1.4pt 2.0pt 1.4pt;\">En&nbsp;% du PIB sauf mention contraire</p></td><td style=\"width: 70.9pt; border-top: solid #5B9BD5 1.0pt; border-left: none; border-bottom: none; border-right: solid #5B9BD5 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.75pt;\" colspan=\"2\" width=\"95\"><p style=\"text-align: center; line-height: normal; margin: 2.0pt 1.4pt 2.0pt 1.4pt;\">2024</p></td><td style=\"width: 63.8pt; border-top: solid #5B9BD5 1.0pt; border-left: none; border-bottom: none; border-right: solid #5B9BD5 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.75pt;\" colspan=\"2\" width=\"85\"><p style=\"text-align: center; line-height: normal; margin: 2.0pt 1.4pt 2.0pt 1.4pt;\">2025</p></td><td style=\"width: 70.95pt; border-top: solid #5B9BD5 1.0pt; border-left: none; border-bottom: none; border-right: solid #5B9BD5 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.75pt;\" width=\"95\"><p style=\"text-align: center; line-height: normal; margin: 2.0pt 1.4pt 2.0pt 1.4pt;\">2025</p></td></tr><tr><td style=\"width: 389.35pt; border-top: none; border-left: solid #0070B9 1.0pt; border-bottom: solid #5B9BD5 1.0pt; border-right: solid #0070B9 1.0pt; background: #EEEEEE; padding: 1.4pt 1.0pt 1.4pt 1.0pt;\" colspan=\"5\" width=\"519\"><p style=\"text-align: center; line-height: normal; margin: 2.0pt 1.4pt 2.0pt 1.4pt;\">Projet de loi de finances de fin de gestion pour 2025</p></td><td style=\"width: 70.95pt; border: solid #0070B9 1.0pt; border-left: none; background: #EEEEEE; padding: 1.4pt 1.0pt 1.4pt 1.0pt;\" width=\"95\"><p style=\"text-align: center; line-height: normal; margin: 2.0pt 1.4pt 2.0pt 1.4pt;\">LPFP</p><p style=\"text-align: center; line-height: normal; margin: 2.0pt 1.4pt 2.0pt 1.4pt;\">2023-2027*</p></td></tr><tr><td style=\"width: 389.35pt; border: solid #0070B9 1.0pt; border-top: none; background: #EEEEEE; padding: 1.4pt 1.0pt 1.4pt 1.0pt;\" colspan=\"5\" width=\"519\"><p style=\"text-align: center; line-height: normal; margin: 2.0pt 1.4pt 2.0pt 1.4pt;\">Ensemble des administrations publiques</p></td><td style=\"width: 70.95pt; border-top: none; border-left: none; border-bottom: solid #0070B9 1.0pt; border-right: solid #0070B9 1.0pt; backgroun… [truncated 24234 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement met &#x00E0; jour les pr&#x00E9;visions sous-jacentes au projet de loi de finances de fin de gestion pour 2025 concernant les grands agr&#x00E9;gats de finances publiques pr&#x00E9;sent&#x00E9;s dans l&#x2019;article liminaire.</p><p>Cette actualisation tient compte des modifications issues de la commission mixte paritaire&nbsp;:</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d&#x2019;une part, les mesures retenues dans le texte issu de l&#x2019;accord en commission mixte paritaire affectent l&#x2019;&#x00E9;volution de la d&#x00E9;pense publique en volume des APUC, qui s&#x2019;&#x00E9;tablit d&#x00E9;sormais &#x00E0; 1,3 % contre 1,2 % dans le texte adopt&#x00E9; par le S&#x00E9;nat en premi&#x00E8;re lecture&nbsp;;</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d&#x2019;autre part, les lev&#x00E9;es de gage effectu&#x00E9;es par le Gouvernement apr&#x00E8;s la commission mixte paritaire conduisent &#x00E0; une augmentation de l&#x2019;&#x00E9;volution de la d&#x00E9;pense publique en volume de l&#x2019;ensemble des administrations publiques, qui passe &#x00E0; 1,8 % contre 1,7 % dans le texte adopt&#x00E9; par le S&#x00E9;nat en premi&#x00E8;re lecture.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-12-02",
+        "datePublication": "2025-12-02",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-12-02T18:15:54+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2146P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53135/PRJLANR5L17BTC2146",
+  "directory_json_file_count": 7,
+  "ignored_json_files_count": 6,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53135/PRJLANR5L17BTC2146/AMANR5L17PO838901BTC2146P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53135/PRJLANR5L17BTC2146/AMANR5L17PO838901BTC2146P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53135/PRJLANR5L17BTC2146/AMANR5L17PO838901BTC2146P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53135/PRJLANR5L17BTC2146/AMANR5L17PO838901BTC2146P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53135/PRJLANR5L17BTC2146/AMANR5L17PO838901BTC2146P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53135/PRJLANR5L17BTC2146/AMANR5L17PO838901BTC2146P0D1N000007.json"
+  ]
+}

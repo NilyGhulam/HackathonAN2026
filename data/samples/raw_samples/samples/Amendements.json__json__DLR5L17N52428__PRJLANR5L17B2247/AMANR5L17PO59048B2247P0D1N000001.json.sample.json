@@ -1,0 +1,206 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B2247P0D1N000001",
+      "chronotag": "1767810389765",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B2247P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B2247",
+      "triAmendement": "sdiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793246",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793432",
+            "PA841495",
+            "PA796118",
+            {
+              "__truncated_items__": 119
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Falcon,  M.&#160;Allisio, M.&#160;Amblard, Mme&#160;Auzanot, M.&#160;Ballard, Mme&#160;Bamana, M.&#160;Barth&#232;s, M.&#160;Baubry, M.&#160;Beaurain, M.&#160;Bentz, M.&#160;Bernhardt, M.&#160;Bigot, M.&#160;Bilde, M.&#160;Blairy, Mme&#160;Blanc, M.&#160;Boccaletti, Mme&#160;Bordes, M.&#160;Boulogne, Mme&#160;Bouquin, M.&#160;Bovet, M.&#160;Buisson, M.&#160;Casterman, M.&#160;Chenu, M.&#160;Chudeau, M.&#160;Clavet, Mme&#160;Colombier, Mme&#160;Da&#160;Conceicao&#160;Carvalho, M.&#160;de&#160;Fleurian, M.&#160;de&#160;L&#233;pinau, Mme&#160;Delannoy, M.&#160;Dessigny, Mme&#160;Diaz, Mme&#160;Dogor-Such, M.&#160;Dragon, M.&#160;Dufosset, M.&#160;Dussausaye, M.&#160;Dutremble, M.&#160;Evrard, M.&#160;Florquin, M.&#160;Fouquart, M.&#160;Frapp&#233;, M.&#160;Gabarron, Mme&#160;Galzy, M.&#160;Gery, M.&#160;Giletti, M.&#160;Gillet, M.&#160;Christian&#160;Girard, M.&#160;Golliot, M.&#160;Gonzalez, Mme&#160;Florence&#160;Goulet, Mme&#160;Grangier, Mme&#160;Griseti, M.&#160;Guibert, M.&#160;Guiniot, M.&#160;Guitton, Mme&#160;Hamelet, M.&#160;Houssin, M.&#160;Humbert, M.&#160;Jacobelli, M.&#160;Jenft, M.&#160;Jolly, Mme&#160;Joncour, Mme&#160;Josserand, Mme&#160;Joubert, Mme&#160;Laporte, Mme&#160;Lavalette, M.&#160;Le&#160;Bourgeois, Mme&#160;Le&#160;Pen, Mme&#160;Lechanteux, Mme&#160;Lechon, Mme&#160;Lelouis, Mme&#160;Levavasseur, M.&#160;Limongi, M.&#160;Lioret, Mme&#160;Loir, M.&#160;Lopez-Liguori, Mme&#160;Lorho, M.&#160;Lottiaux, M.&#160;Loubet, M.&#160;David&#160;Magnier, Mme&#160;Marais-Beuil, M.&#160;Marchio, M.&#160;Markowsky, M.&#160;Patrice&#160;Martin, Mme&#160;Martinez, Mme&#160;Alexandra&#160;Masson, M.&#160;Bryan&#160;Masson, M.&#160;Mauvieux, M.&#160;Meizonnet, M.&#160;Meurin, M.&#160;Monnier, M.&#160;Muller, Mme&#160;M&#233;lin, Mme&#160;M&#233;nach&#233;, M.&#160;M&#233;nag&#233;, M.&#160;Odoul, Mme&#160;Parmentier, M.&#160;Perez, M.&#160;Pfeffer, Mme&#160;Pollet, M.&#160;Rambaud, Mme&#160;Ranc, M.&#160;Rancoule, M.&#160;Renault, Mme&#160;Rimbert, M.&#160;Rivi&#232;re, Mme&#160;Robert-Dehault, Mme&#160;Roullaud, Mme&#160;Roy, Mme&#160;Sabatini, M.&#160;Sabatou, M.&#160;Salmon, M.&#160;Schreck, Mme&#160;Sicard, M.&#160;Emmanuel&#160;Tach&#233;, M.&#160;Jean-Philippe&#160;Tanguy, M.&#160;Taverne, M.&#160;Tesson, M.&#160;Tivoli, M.&#160;Tonussi, M.&#160;Villedieu, M.&#160;Vos et M.&#160;Weber"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 69",
+          "articleDesignationCourte": "APRÈS ART. 69",
+          "articleDesignation": "APRÈS L'ARTICLE 69, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2247.asp#D_Article_69"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Le&nbsp;titre II du livre II du code de l&#x2019;&#x00E9;nergie est abrog&#x00E9;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;La perte de recettes pour l&#x2019;&#x00C9;tat est compens&#x00E9;e &#x00E0; due concurrence par la cr&#x00E9;ation d&#x2019;une taxe additionnelle &#x00E0; l&#x2019;accise sur les tabacs pr&#x00E9;vue au chapitre IV du titre I<sup>er</sup> du livre III du code g&#x00E9;n&#x00E9;ral des impositions sur les biens et services.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement d&#x2019;appel, pr&#x00E9;sent&#x00E9; par un d&#x00E9;put&#x00E9; du groupe Rassemblement national, vise &#x00E0;&nbsp;abroger le dispositif des certificats d&#x2019;&#x00E9;conomies d&#x2019;&#x00E9;nergie (CEE).</p><p>Initialement con&#x00E7;u pour encourager la ma&#x00EE;trise de la consommation &#x00E9;nerg&#x00E9;tique, ce m&#x00E9;canisme repose sur une obligation impos&#x00E9;e aux fournisseurs d&#x2019;&#x00E9;nergie (&#x00E9;lectricit&#x00E9;, gaz, carburants, fioul) de financer des actions d&#x2019;&#x00E9;conomie d&#x2019;&#x00E9;nergie. En pratique, ces obligations sont&nbsp;int&#x00E9;gralement r&#x00E9;percut&#x00E9;es sur les factures des m&#x00E9;nages et des entreprises, constituant ainsi&nbsp;un pr&#x00E9;l&#x00E8;vement indirect et opaque sur la facture &#x00E9;nerg&#x00E9;tique&nbsp;des Fran&#x00E7;ais.</p><p>Selon plusieurs &#x00E9;valuations, les CEE repr&#x00E9;sentent&nbsp;plusieurs milliards d&#x2019;euros de surco&#x00FB;t chaque ann&#x00E9;e&nbsp;pour les consommateurs, sans que leur efficacit&#x00E9; environnementale ou &#x00E9;conomique ne soit clairement d&#x00E9;montr&#x00E9;e.</p><p>La&nbsp;Cour des comptes&nbsp;a d&#x2019;ailleurs soulign&#x00E9; &#x00E0; plusieurs reprises les&nbsp;d&#x00E9;rives&nbsp;du dispositif : une&nbsp;complexit&#x00E9; administrative croissante, une&nbsp;instabilit&#x00E9; r&#x00E9;glementaire permanente, et une&nbsp;opacit&#x00E9; dans la tra&#x00E7;abilit&#x00E9; des fonds collect&#x00E9;s. Le syst&#x00E8;me, devenu au fil des r&#x00E9;formes une v&#x00E9;ritable &#x00AB; usine &#x00E0; gaz &#x00BB;, mobilise d&#x00E9;sormais des interm&#x00E9;diaires multiples dont le co&#x00FB;t r&#x00E9;duit d&#x2019;autant l&#x2019;impact r&#x00E9;el sur les &#x00E9;conomies d&#x2019;&#x00E9;nergie.</p><p>Dans un contexte de&nbsp;hausse du prix de l&#x2019;&#x00E9;nergie&nbsp;et de&nbsp;recherche de sobri&#x00E9;t&#x00E9; budg&#x00E9;taire, il appara&#x00EE;t n&#x00E9;cessaire de&nbsp;mettre fin &#x00E0; ce dispositif co&#x00FB;teux, instable et inefficace, qui p&#x00E8;se disproportionnellement sur le pouvoir d&#x2019;achat des m&#x00E9;nages.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-02",
+        "datePublication": "2026-01-07",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B2247P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c énergie",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247",
+  "directory_json_file_count": 5834,
+  "ignored_json_files_count": 5833,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52428/PRJLANR5L17B2247/AMANR5L17PO59048B2247P0D1N000021.json"
+  ]
+}

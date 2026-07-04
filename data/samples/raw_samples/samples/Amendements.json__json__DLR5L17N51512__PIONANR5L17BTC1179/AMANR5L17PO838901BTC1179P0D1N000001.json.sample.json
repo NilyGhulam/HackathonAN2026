@@ -1,0 +1,210 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1179P0D1N000001",
+      "chronotag": "1743518997473",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1179P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1179",
+      "triAmendement": "bsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadji",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA712015",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793508",
+            "PA719968",
+            "PA722390",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Dive,  M.&#160;Brigand, Mme&#160;Sylvie&#160;Bonnet, Mme&#160;Corneloup, M.&#160;Ceccoli, M.&#160;Cordier, M.&#160;Descoeur, Mme&#160;Fr&#233;d&#233;rique&#160;Meunier, M.&#160;Ray et M.&#160;Taite"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1179.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0; la premi&#x00E8;re phrase de l&#x2019;alin&#x00E9;a&nbsp;2, substituer au mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;dix&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;vingt&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; relever le seuil de puissance maximale des installations photovolta&#x00EF;ques par exploitation agricole, de 10 &#x00E0; 20 m&#x00E9;gawatts cr&#x00EA;te (MWc). Cette &#x00E9;volution r&#x00E9;pond &#x00E0; la n&#x00E9;cessit&#x00E9; d&#x2019;adapter le d&#x00E9;veloppement de l&#x2019;agrivoltaisme aux sp&#x00E9;cificit&#x00E9;s agricoles territoriales, tout en assurant un encadrement efficace par les instances locales comp&#x00E9;tentes (les Chambres d&#x2019;agriculture d&#x00E9;partementales, les CDPENAF et les comit&#x00E9;s r&#x00E9;gionaux de l&#x2019;&#x00E9;nergie).</p><p>A l&#x2019;automne 2023, avec le soutien du Minist&#x00E8;re de la Transition &#x00E9;cologique, une doctrine nationale a &#x00E9;t&#x00E9; adopt&#x00E9;e par les Chambres d&#x2019;agriculture afin de mieux ma&#x00EE;triser l&#x2019;essor de l&#x2019;agrivolta&#x00EF;sme en l&#x2019;absence de r&#x00E9;f&#x00E9;rences suffisantes. Par la suite, plusieurs Chambres d&#x00E9;partementales et r&#x00E9;gionales ont d&#x00E9;fini dans leurs doctrines leurs propres seuils de puissance maximale variant de 2 &#x00E0; 30 MWc, illustrant la diversit&#x00E9; des approches selon les r&#x00E9;alit&#x00E9;s locales. Ce constat am&#x00E8;ne une r&#x00E9;flexion profonde sur l'assouplissement du plafond national pour permettre une territorialisation des seuils de puissance.</p><p>Dans leurs doctrines, de nombreuses Chambres demandent que la valeur g&#x00E9;n&#x00E9;r&#x00E9;e par les projets agrivolta&#x00EF;ques b&#x00E9;n&#x00E9;fice &#x00E0; l&#x2019;ensemble de l&#x2019;activit&#x00E9; agricole du territoire et non pas &#x00E0; une minorit&#x00E9; d&#x2019;agriculteurs qui seront &#x00E9;quip&#x00E9;s d&#x2019;installations agrivolta&#x00EF;ques.&nbsp;</p><p>Il y est donc question de :</p><p style=\"text-align: justify;\">- Limiter les puissances agrivolta&#x00EF;ques install&#x00E9;es par agriculteur actif, afin d&#x2019;&#x00E9;largir l&#x2019;acc&#x00E8;s &#x00E0; l&#x2019;agrivolta&#x00EF;sme et d&#x2019;&#x00E9;viter une concentration des b&#x00E9;n&#x00E9;fices. Garantir une r&#x00E9;partition &#x00E9;quitable du revenu agrivolta&#x00EF;que entre le propri&#x00E9;taire et l&#x2019;exploitant agricole.</p><p style=\"text-align: justify;\">- Favoriser l&#x2019;abondement d&#x2019;un fonds de partage territorial de la valeur, afin de soutenir des projets structurants pour l&#x2019;ensemble de l&#x2019;agriculture locale.</p><p style=\"text-align: justify;\">Certa… [truncated 1247 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-27",
+        "datePublication": "2025-03-31",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1179P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "29670",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "76788",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179",
+  "directory_json_file_count": 90,
+  "ignored_json_files_count": 89,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N51512/PIONANR5L17BTC1179/AMANR5L17PO838901BTC1179P0D1N000023.json"
+  ]
+}

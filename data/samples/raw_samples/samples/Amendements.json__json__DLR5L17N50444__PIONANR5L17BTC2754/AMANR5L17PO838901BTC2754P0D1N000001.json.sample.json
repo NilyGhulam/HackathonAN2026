@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2754P0D1N000001",
+      "chronotag": "1780432518289",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2754P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2754",
+      "triAmendement": "aeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794138",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Amiot,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, Mme&#160;Bentorki, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 1er bis",
+          "articleDesignationCourte": "ART. 1ER BIS",
+          "articleDesignation": "ARTICLE 1ER BIS",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2754.asp#D_Article_1er_bis"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>R&#x00E9;tablir cet article dans la r&#x00E9;daction suivante :</p><p>&#x00AB; Le III de l&#x2019;article 15 de la loi n&#x00B0; 89&#x2011;462 du 6 juillet 1989 tendant &#x00E0; am&#x00E9;liorer les rapports locatifs et portant modification de la loi n&#x00B0; 86&#x2011;1290 du 23 d&#x00E9;cembre 1986 est compl&#x00E9;t&#x00E9; par un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9; :</p><p>&#x00AB; Le pr&#x00E9;sent dispositif s&#x2019;applique &#x00E9;galement, sans condition d&#x2019;&#x00E2;ge et de ressources, aux locataires dont un enfant &#x00E0; charge est atteint d&#x2019;une affection grave au sens des 3&#x00B0; et 4&#x00B0; de l&#x2019;article L. 160&#x2011;14 du code de la s&#x00E9;curit&#x00E9; sociale, d&#x2019;un handicap ou d&#x2019;un accident d&#x2019;une particuli&#x00E8;re gravit&#x00E9;. &#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Par cet amendement, le groupe parlementaire La France insoumise propose de r&#x00E9;tablir l'article 1er bis, pr&#x00E9;voyant une protection des parents d'enfants gravement malades, en situation de handicap ou victimes d'un accident d'une particuli&#x00E8;re gravit&#x00E9; contre toute forme d'expulsion locative, y compris lorsqu&#x2019;un bailleur souhaite r&#x00E9;int&#x00E9;grer le logement.</p><p>Ce dispositif existe d&#x00E9;j&#x00E0; afin de prot&#x00E9;ger des personnes &#x00E2;g&#x00E9;es &#x00E0; faibles revenus.</p><p>Cette disposition avait &#x00E9;t&#x00E9; adopt&#x00E9;e par la commission des affaires sociales en premi&#x00E8;re lecture, sur proposition des parlementaires insoumis. Nous proposons un ajustement r&#x00E9;dactionnel prot&#x00E9;geant explicitement les familles comptant un enfant en situation de handicap ou ayant subi un accident grave.</p><p>Il s'agit d'&#x00E9;tendre la protection du droit au logement des familles concern&#x00E9;es, alors que cette proposition de loi propose de leur faire b&#x00E9;n&#x00E9;ficier du droit prioritaire au logement et &#x00E0; l'h&#x00E9;bergement d'urgence, ouvrant droit &#x00E0; aide financi&#x00E8;re du fonds d&#x00E9;partemental de solidarit&#x00E9; pour le logement.</p><p>La meilleure protection pour ces familles reste le droit &#x00E0; se maintenir dans un logement occup&#x00E9;. L'accompagnement d'un enfant malade n&#x00E9;cessite des efforts cons&#x00E9;quents et une adaptation importante des modes de vie, particuli&#x00E8;rement incompatibles avec la privation de logement. Il s'agit d'une mesure essentielle de protection sanitaire.</p><p>Qui peut imaginer soutenir un bailleur d&#x00E9;cidant de l'expulsion d'une famille accompagnant un enfant en situation de handicap ou suivant un traitement contre le cancer ?</p><p>C'est pourquoi cet amendement vise &#x00E0; concr&#x00E9;tiser ce droit au logement, en les mettant &#x00E0; l'abri d'un cong&#x00E9; unilat&#x00E9;ralement d&#x00E9;cid&#x00E9; par le bailleur. Les parents d'enfants malades, en situation de handicap ou ayant v&#x00E9;cu un accident grave seront donc prot&#x00E9;g&#x00E9;s contre les expulsions locatives, y compris dans les cas o&#x00F9; le bailleur ou un membre de sa famille souhaiterait occuper le logement.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-07",
+        "datePublication": "2026-05-11",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-06-02T22:34:45+02:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2754P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30661",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "38411",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754",
+  "directory_json_file_count": 45,
+  "ignored_json_files_count": 44,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50444/PIONANR5L17BTC2754/AMANR5L17PO838901BTC2754P0D1N000021.json"
+  ]
+}

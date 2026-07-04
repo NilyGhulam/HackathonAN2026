@@ -1,0 +1,190 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0610P0D1N000001",
+      "chronotag": "1739874683777",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0610P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0610",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795200",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Dufour"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0610.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;tablir ainsi cet article&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Pour une dur&#x00E9;e de douze mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, les prix des produits &#x00E9;nerg&#x00E9;tiques sont bloqu&#x00E9;s &#x00E0; un niveau fix&#x00E9; par d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Pour une dur&#x00E9;e de douze mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi et par d&#x00E9;rogation au premier alin&#x00E9;a, dans les collectivit&#x00E9;s relevant de l&#x2019;article&nbsp;73 de la Constitution et dans les collectivit&#x00E9;s d&#x2019;outre&#x2011;mer de Saint&#x2011;Martin, de Saint&#x2011;Pierre&#x2011;et&#x2011;Miquelon et de Wallis&#x2011;et&#x2011;Futuna, les prix des produits &#x00E9;nerg&#x00E9;tiques sont bloqu&#x00E9;s &#x00E0; un niveau sp&#x00E9;cifique fix&#x00E9; par d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat, tenant compte des caract&#x00E9;ristiques de celles&#x2011;ci. Ce niveau sp&#x00E9;cifique est inf&#x00E9;rieur &#x00E0; celui fix&#x00E9; pour la France hexagonale.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Un d&#x00E9;cret fixe la liste des produits &#x00E9;nerg&#x00E9;tiques mentionn&#x00E9;s aux deux premiers alin&#x00E9;as.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement propose de r&#x00E9;tablir l&#x2019;article premier de la proposition de loi, supprim&#x00E9; en commission des affaires &#x00E9;conomiques. Il inclut l&#x2019;amendement d&#x00E9;pos&#x00E9; par la rapporteure en commission sur ce m&#x00EA;me article, pr&#x00E9;voyant que le niveau auquel les prix seront bloqu&#x00E9;s en outre-mer devra n&#x00E9;cessairement &#x00EA;tre inf&#x00E9;rieur au niveau fix&#x00E9; pour l&#x2019;hexagone.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-24",
+        "datePublication": "2024-11-27",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0610P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610",
+  "directory_json_file_count": 14,
+  "ignored_json_files_count": 13,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50667/PIONANR5L17BTC0610/AMANR5L17PO838901BTC0610P0D1N000014.json"
+  ]
+}

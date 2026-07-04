@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419865B2308P0D1N000001",
+      "chronotag": "1770198303491",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CD1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-DVP",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419865B2308P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2308",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaj",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840829",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795430",
+            "PA841633",
+            "PA842195",
+            {
+              "__truncated_items__": 4
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Barusseau,  M.&#160;Delautrette, M.&#160;Dufau, M.&#160;Eskenazi, M.&#160;F&#233;gn&#233;, Mme&#160;Jourdan, M.&#160;Leseul et M.&#160;Roussel"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2308.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "3",
+            "alineaDesignation": "Alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;3, apr&#x00E8;s le mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;contribue&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;en lien avec les diff&#x00E9;rentes autorit&#x00E9;s concern&#x00E9;es et l&#x2019;agence de l&#x2019;eau territorialement comp&#x00E9;tente,&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;3, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\"><i>&#x00AB;&nbsp;a</i><i><i>)</i></i> bis Le premier alin&#x00E9;a est compl&#x00E9;t&#x00E9; par les mots&nbsp;: &#x00AB;&nbsp;,&nbsp;dans le cadre d&#x2019;un sch&#x00E9;ma d&#x2019;am&#x00E9;nagement et de gestion des eaux.&nbsp;&#x00BB;&nbsp;; &#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s Socialistes et apparent&#x00E9;s vise &#x00E0; pr&#x00E9;ciser que la gestion et la pr&#x00E9;servation de la ressource en eau doit se concevoir en concertation et en coordination avec l&#x2019;ensemble des autorit&#x00E9;s et des personnes publiques comp&#x00E9;tentes qui sont bien souvent nombreuses sur un m&#x00EA;me territoire.&nbsp;</p><p style=\"text-align: justify;\">Multiplier les plans sans disposer d&#x2019;une approche globale &#x00E0; l&#x2019;&#x00E9;chelle d&#x2019;un m&#x00EA;me bassin versant risquerait de cr&#x00E9;er de la complexit&#x00E9;, des plans d&#x2019;actions &#x00E9;ventuellement incompatibles et in fine un manque d&#x2019;efficacit&#x00E9; dans la politique de gestion de la ressource en eau.&nbsp;</p><p style=\"text-align: justify;\">Il appara&#x00EE;t donc imp&#x00E9;ratif de cr&#x00E9;er des synergies et une vision compl&#x00E8;te des enjeux en mati&#x00E8;re de gestion de l&#x2019;eau.&nbsp;</p><p style=\"text-align: justify;\">&#x00C0;&nbsp;ce titre, l&#x2019;&#x00E9;chelle des&nbsp;sch&#x00E9;mas d&#x2019;am&#x00E9;nagement et de gestion des eaux serait l&#x2019;id&#x00E9;al.&nbsp;</p><p style=\"text-align: justify;\">La&nbsp;r&#x00E9;ussite r&#x00E9;cente du Sage de la Vilaine, plus grand sch&#x00E9;ma de gestion de l&#x2019;eau de France doit servir d&#x2019;exemple et de source d&#x2019;inspiration pour l&#x2019;avenir.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-28",
+        "datePublication": "2026-02-03",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-02-04T10:44:47+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419865B2308P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308",
+  "directory_json_file_count": 36,
+  "ignored_json_files_count": 35,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53425/PIONANR5L17B2308/AMANR5L17PO419865B2308P0D1N000021.json"
+  ]
+}

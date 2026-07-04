@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1793P0D1N000001",
+      "chronotag": "1778076301479",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1793P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1793",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA608826",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA721410",
+            "PA721816",
+            "PA266797",
+            {
+              "__truncated_items__": 3
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Duby-Muller,  Mme&#160;Bonnivard, M.&#160;Boucard, M.&#160;Gosselin, M.&#160;Hetzel, Mme&#160;de&#160;Maistre et M.&#160;Pauget"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1793.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "2",
+            "alineaDesignation": "Après l'alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter cet article par l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Lorsque la victime est mineure, l&#x2019;information pr&#x00E9;vue au pr&#x00E9;sent article est adress&#x00E9;e simultan&#x00E9;ment &#x00E0; ses repr&#x00E9;sentants l&#x00E9;gaux et, lorsqu&#x2019;une mesure de protection est en cours, au pr&#x00E9;sident du conseil d&#x00E9;partemental aux fins de transmission au service de l&#x2019;aide sociale &#x00E0; l&#x2019;enfance comp&#x00E9;tent.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le texte initial pr&#x00E9;voit que l'information est adress&#x00E9;e &#x00AB; le cas &#x00E9;ch&#x00E9;ant &#x00BB; aux ayants droit, formulation facultative et insuffisante pour les victimes mineures. Dans l'affaire Yanis, le p&#x00E8;re a appris la lib&#x00E9;ration de l'agresseur par un ami, non par l'institution judiciaire. La minorit&#x00E9; de la victime doit emporter une obligation renforc&#x00E9;e, non une simple possibilit&#x00E9;. L'adjonction du service de l'ASE lorsqu'une mesure de protection est en cours traduit directement les pr&#x00E9;conisations de la CIIVISE, qui appelle &#x00E0; une information syst&#x00E9;matique, et qui exige des retours vers les acteurs de la protection de l'enfance. Cette extension ne modifie pas l'architecture du texte : elle comble son principal angle mort.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-29",
+        "datePublication": "2026-05-05",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-05-06T16:04:34+02:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1793P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "divisionCodeLoi": "dc2"
+      },
+      "discussionCommune": {
+        "idDiscussion": "38263",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793",
+  "directory_json_file_count": 51,
+  "ignored_json_files_count": 50,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52743/PIONANR5L17B1793/AMANR5L17PO59051B1793P0D1N000021.json"
+  ]
+}

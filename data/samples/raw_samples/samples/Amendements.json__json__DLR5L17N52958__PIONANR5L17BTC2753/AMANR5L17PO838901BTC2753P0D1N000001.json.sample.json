@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2753P0D1N000001",
+      "chronotag": "1778320853399",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2753P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2753",
+      "triAmendement": "aoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA267200",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA842311",
+            "PA606507",
+            "PA722190",
+            {
+              "__truncated_items__": 85
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Huyghe,  M.&#160;Caure, M.&#160;Boudi&#233;, M.&#160;Attal, M.&#160;Anglade, M.&#160;Becht, M.&#160;Berville, Mme&#160;Borne, M.&#160;Bothorel, M.&#160;Brosse, Mme&#160;Brulebois, M.&#160;Buchou, Mme&#160;Buffet, Mme&#160;Calvez, Mme&#160;Carteron, M.&#160;Causse, M.&#160;Jean-Ren&#233;&#160;Cazeneuve, M.&#160;Pierre&#160;Cazeneuve, Mme&#160;Cestri&#232;res, M.&#160;Chenevard, Mme&#160;Coggia, M.&#160;Cormier-Bouligeon, Mme&#160;Delpech, M.&#160;Dirx, Mme&#160;Dubr&#233;-Chirat, M.&#160;Ferracci, M.&#160;Fi&#233;vet, M.&#160;Fr&#233;bault, M.&#160;Fugit, M.&#160;Gassilloud, Mme&#160;Genetet, Mme&#160;Givernet, M.&#160;Gouffier&#160;Valente, Mme&#160;Olivia&#160;Gr&#233;goire, Mme&#160;Ibled, M.&#160;Jacques, M.&#160;Kasbarian, Mme&#160;Klinkert, M.&#160;Labaronne, Mme&#160;Lakrafi, Mme&#160;Lalanne, M.&#160;Larrouquis, M.&#160;Latr&#232;che, M.&#160;Lauzzana, Mme&#160;Le&#160;Feur, M.&#160;Le&#160;Gac, Mme&#160;Le&#160;Grip, Mme&#160;Le&#160;Meur, Mme&#160;Le&#160;Nabour, Mme&#160;Le&#160;Peih, Mme&#160;Lebec, M.&#160;Ledoux, Mme&#160;Lemoine, Mme&#160;Liso, Mme&#160;Lubet, M.&#160;Maillard, M.&#160;Marchive, M.&#160;Marion, Mme&#160;Marsaud, Mme&#160;Martin&#160;(Gironde), M.&#160;Mass&#233;glia, Mme&#160;Melchior, M.&#160;Mendes, M.&#160;Metzdorf, M.&#160;Midy, Mme&#160;Miller, Mme&#160;Missoffe, M.&#160;Mongardien, M.&#160;Olive, Mme&#160;Pannier-Runacher, Mme&#160;Panonacle, Mme&#160;Panosyan-Bouvet, Mme&#160;Pouzyreff, Mme&#160;Riotton, Mme&#160;Rixain, M.&#160;Rodwell, Mme&#160;Ronceret, M.&#160;Rousset, M.&#160;Seo, M.&#160;Sitzenstuhl, M.&#160;Sorre, Mme&#160;Spillebout, Mme&#160;Liliana&#160;Tanguy, M.&#160;Terlier, Mme&#160;Thevenot, M.&#160;Travert, Mme&#160;Vignon, M.&#160;Weissberg et Mme&#160;Yadan"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2753.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": "Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité",
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Le code civil est ainsi modifi&#x00E9;&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;La section 3 du chapitre II du titre IX est ainsi modifi&#x00E9;e&nbsp;:</p><p style=\"text-align: justify;\"><i>a)</i> Avant le dernier alin&#x00E9;a de l&#x2019;article&nbsp;387&#x2011;1, il est ins&#x00E9;r&#x00E9; un 9&#x00B0; ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;9&#x00B0; Transf&#x00E9;rer dans un patrimoine fiduciaire les biens ou droits du mineur.&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\"><i>b)</i> Le 4&#x00B0; de l&#x2019;article&nbsp;387&#x2011;2 est abrog&#x00E9;&nbsp;;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;L&#x2019;article&nbsp;408&#x2011;1 est abrog&#x00E9;&nbsp;;</p><p style=\"text-align: justify;\">3&#x00B0;&nbsp;Le chapitre II du titre XI est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\"><i>a)</i> La section 1 est ainsi modifi&#x00E9;e&nbsp;:</p><p style=\"text-align: justify;\">&#x2013;&nbsp;l&#x2019;article&nbsp;425 est compl&#x00E9;t&#x00E9; par un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;D&#x00E8;s l&#x2019;ouverture de la mesure, la personne charg&#x00E9;e de la protection recherche si la constitution d&#x2019;une fiducie permettrait une limitation ult&#x00E9;rieure de la mesure &#x00E0; la mission de protection de la personne.&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">&#x2013;&nbsp;il est ajout&#x00E9; un article&nbsp;427&#x2011;1 ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Art.&nbsp;L.&nbsp;427&#x2011;1.&nbsp;&#x2013;&nbsp;Lorsqu&#x2019;une fiducie est constitu&#x00E9;e par une personne prot&#x00E9;g&#x00E9;e, la d&#x00E9;signation pr&#x00E9;vue &#x00E0; l&#x2019;article&nbsp;2017 est obligatoire.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Les tiers peuvent informer le juge des tutelles des actes ou omissions du fiduciaire qui leur paraissent de nature &#x00E0; porter pr&#x00E9;judice aux int&#x00E9;r&#x00EA;ts de la personne prot&#x00E9;g&#x00E9;e. S&#x2019;ils ont connaissance d&#x2019;actes ou omissions du fiduciaire qui, &#x00E0; l&#x2019;occasion de la mission de celui-ci, compromettent manifestement l&#x2019;int&#x00E9;r&#x00EA;t de la personne prot&#x00E9;g&#x00E9;e, ils en avisent la personne en charge de la mesure de protection juridique, la personne d&#x00E9;sign&#x00E9;e en application du m&#… [truncated 2578 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>La fiducie est d&#x00E9;finie &#x00E0; l&#x2019;article 2011 du Code civil comme &#x00AB; l&#x2019;op&#x00E9;ration par laquelle un ou plusieurs constituants transf&#x00E8;rent des biens, des droits ou des s&#x00FB;ret&#x00E9;s, ou un ensemble de biens, de droits ou de s&#x00FB;ret&#x00E9;s, pr&#x00E9;sents ou futurs, &#x00E0; un ou plusieurs fiduciaires qui, les tenant s&#x00E9;par&#x00E9;s de leur patrimoine propre, agissent dans un but d&#x00E9;termin&#x00E9; au profit d&#x2019;un ou plusieurs b&#x00E9;n&#x00E9;ficiaires &#x00BB;. Toutefois, dans son &#x00E9;tat actuel, la fiducie demeure r&#x00E9;serv&#x00E9;e &#x00E0; des usages essentiellement professionnels ou de s&#x00FB;ret&#x00E9;, et ne peut &#x00EA;tre mobilis&#x00E9;e &#x00E0; des fins patrimoniales ou familiales.&nbsp;</p><p>S&#x2019;agissant des personnes vuln&#x00E9;rables, la fiducie permettrait de s&#x00E9;curiser la gestion d&#x2019;un patrimoine revenant &#x00E0; un donataire, un l&#x00E9;gataire ou un h&#x00E9;ritier qui, lui-m&#x00EA;me ou son repr&#x00E9;sentant, n&#x2019;a pas les comp&#x00E9;tences requises pour en assurer la bonne administration. Les familles confront&#x00E9;es &#x00E0; la d&#x00E9;pendance d&#x2019;un proche ou &#x00E0; la fragilit&#x00E9; d&#x2019;un enfant y trouveraient un outil de protection souple, leur &#x00E9;vitant de recourir &#x00E0; des dispositifs judiciaires lourds. Cette attente est particuli&#x00E8;rement forte chez ceux qui, familiers du trust anglo-saxon ou de m&#x00E9;canismes similaires pr&#x00E9;vus par leur droit national, souhaitent disposer d&#x2019;un &#x00E9;quivalent dans l&#x2019;ordre juridique fran&#x00E7;ais.&nbsp;</p><p>Cet amendement vise &#x00E0; modifier le droit des majeurs prot&#x00E9;g&#x00E9;s et des mineurs pour permettre d&#x2019;utiliser la fiducie dans le cadre de la gestion du patrimoine des personnes vuln&#x00E9;rables.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-07",
+        "datePublication": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "ET",
+            "libelle": "En traitement"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2753P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c civil",
+        "divisionCodeLoi": "387-1"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753",
+  "directory_json_file_count": 89,
+  "ignored_json_files_count": 88,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52958/PIONANR5L17BTC2753/AMANR5L17PO838901BTC2753P0D1N000021.json"
+  ]
+}

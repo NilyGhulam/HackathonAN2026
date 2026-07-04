@@ -1,0 +1,192 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2797P0D1N000001",
+      "chronotag": "1782730295950",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2797P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2797",
+      "triAmendement": "cbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabc",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA569",
+          "groupePolitiqueRef": "PO840056",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Bonnecarr&#232;re"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2797.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Compl&#x00E9;ter l&#x2019;alin&#x00E9;a&nbsp;2 par les deux phrases suivantes&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Au terme de la prorogation, et apr&#x00E8;s consultation de la f&#x00E9;d&#x00E9;ration et de la ligue professionnelle, le ministre charg&#x00E9; des sports peut d&#x00E9;cider de donner force ex&#x00E9;cutoire audit projet de convention, lequel peut &#x00EA;tre remplac&#x00E9; &#x00E0; tout moment par une convention conclue, en application de l&#x2019;article&nbsp;L.&nbsp;131&#x2011;14 du code du sport, entre la f&#x00E9;d&#x00E9;ration et la ligue et approuv&#x00E9;e par le ministre. A d&#x00E9;faut d&#x2019;une telle substitution, la convention propos&#x00E9;e par le ministre ne peut demeurer en vigueur au-del&#x00E0; de la dur&#x00E9;e maximale d&#x2019;une convention conclue en application de l&#x2019;article&nbsp;L.&nbsp;131&#x2011;14 susvis&#x00E9; ni, &#x00E0; terme, &#x00EA;tre renouvel&#x00E9;e par la seule d&#x00E9;cision du ministre.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement, dont la r&#x00E9;daction fait suite &#x00E0; des &#x00E9;changes r&#x00E9;guliers avec le Ligue Nationale de Rugby, vise &#x00E0;&nbsp;r&#x00E9;soudre une situation qui s&#x2019;est d&#x00E9;j&#x00E0; produite dans plusieurs sports et peut conduire &#x00E0; ce qu&#x2019;une ligue professionnelle organise, en d&#x00E9;pit de l&#x2019;absence formelle de convention de subd&#x00E9;l&#x00E9;gation valide faute d&#x2019;accord au terme de cette derni&#x00E8;re, les comp&#x00E9;titions professionnelles qui lui sont subd&#x00E9;l&#x00E9;gu&#x00E9;es par la f&#x00E9;d&#x00E9;ration sportive d&#x00E9;l&#x00E9;gataire. Une telle situation, qui cr&#x00E9;e un vide juridique et un risque contentieux important, entraine l&#x2019;impossibilit&#x00E9; pour une f&#x00E9;d&#x00E9;ration et une ligue d&#x2019;exercer leur mission de service public &#x00E0; caract&#x00E8;re administratif et d&#x2019;exercer, &#x00E0; titre exclusif, les missions vis&#x00E9;es aux articles L. 131-15 et suivants du code du sport.</p><p>En outre, l&#x2019;article L.&nbsp;131-14 du code du sport, dans sa r&#x00E9;daction issue de la loi n&#x00B0;&nbsp;2021-1109 du 24 ao&#x00FB;t 2021, subordonne l&#x2019;octroi de pr&#x00E9;rogatives de puissance publique d&#x00E9;l&#x00E9;gu&#x00E9;es par l&#x2019;Etat, par une f&#x00E9;d&#x00E9;ration sportive d&#x00E9;l&#x00E9;gataire &#x00E0; une ligue professionnelle, &#x00E0; une subd&#x00E9;l&#x00E9;gation organis&#x00E9;e par une convention qui pr&#x00E9;cise les relations entre les deux parties. Si cette convention n&#x2019;est pas adopt&#x00E9;e par les assembl&#x00E9;es g&#x00E9;n&#x00E9;rales de la f&#x00E9;d&#x00E9;ration et de la ligue, la ligue professionnelle pourrait, selon les termes de l&#x2019;actuelle proposition de loi, &#x00EA;tre dissoute. Le non-renouvellement de la convention de subd&#x00E9;l&#x00E9;gation serait donc un moyen de retirer indirectement la subd&#x00E9;l&#x00E9;gation &#x00E0; une ligue professionnelle et de la dissoudre, sans pour autant relever de la proc&#x00E9;dure li&#x00E9;e &#x00E0; cette d&#x00E9;cision ultime.</p><p>La convention pass&#x00E9;e entre les deux associations que sont la f&#x00E9;d&#x00E9;ration et la ligue professionnelle doit faire l&#x2019;objet d&#x2019;une intervention de l&#x2019;Etat en cas de difficult&#x00E9;s av&#x00E9;r&#x00E9;es. Le Conseil constitutionnel juge de fa&#x00E7;on constante que la libert&#x00E9; d&#x2019;association ne s'oppose pas &#x00E0; ce que des cat&#x0… [truncated 2534 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-17",
+        "datePublication": "2026-06-29",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-06-29T12:51:10+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2797P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30839",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "39861",
+        "typePosition": "Milieu"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "91777",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797",
+  "directory_json_file_count": 381,
+  "ignored_json_files_count": 380,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51732/PIONANR5L17BTC2797/AMANR5L17PO838901BTC2797P0D1N000021.json"
+  ]
+}

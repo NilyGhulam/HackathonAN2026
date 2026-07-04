@@ -1,0 +1,195 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B1142P0D1N000001",
+      "chronotag": "1769600673353",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B1142P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1142",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaavu",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA340343",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA840665",
+            "PA608264",
+            "PA840903",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "M.&#160;Saulignac,  Mme&#160;Allemand, Mme&#160;Capdevielle, M.&#160;Christophle, Mme&#160;Karamanli, M.&#160;Pena, Mme&#160;Thi&#233;bault-Martinez, M.&#160;Vicot, M.&#160;William et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1142.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "3",
+            "alineaDesignation": "Après l'alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;3, ins&#x00E9;rer&nbsp;l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Elles sont tenues de garantir qu&#x2019;aucun employ&#x00E9; n&#x2019;est susceptible de faire l&#x2019;objet d&#x2019;un suivi par les cam&#x00E9;ras associ&#x00E9;es &#x00E0; ce dispositif technique dans l&#x2019;exercice de ses mission au sein de l&#x2019;entreprise.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement du groupe Socialistes et apparent&#x00E9;s entend imposer un strict respect des r&#x00E8;gles relatives aux usages de l'intelligence artificielle.&nbsp;</p><p>Il s'agit plus pr&#x00E9;cis&#x00E9;ment de s'assurer que la mise en oeuvre de ce texte ne conduise pas &#x00E0; porter atteinte &#x00E0; l&#x2019;article 5, paragraphe 1, point f), du r&#x00E8;glement sur l&#x2019;IA.&nbsp;</p><p>Cette disposition a fait l'objet d'une interpr&#x00E9;tation par la Commission europ&#x00E9;enne qui estime que&nbsp; \"l&#x2019;utilisation de cam&#x00E9;ras par un supermarch&#x00E9; ou une banque pour d&#x00E9;tecter les clients suspects, par exemple pour conclure que quelqu&#x2019;un est sur le point de commettre un vol, n&#x2019;est pas interdite par l&#x2019;article 5, paragraphe 1, point f), du r&#x00E8;glement sur l&#x2019;IA, <br>lorsqu&#x2019;il est garanti qu&#x2019;aucun employ&#x00E9; n&#x2019;est suivi et qu&#x2019;il existe des garanties suffisantes\".&nbsp;</p><p>Tel est le sens de cet amendement.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-22",
+        "datePublication": "2026-01-27",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-01-28T12:44:27+01:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B1142P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142",
+  "directory_json_file_count": 28,
+  "ignored_json_files_count": 27,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51720/PIONANR5L17B1142/AMANR5L17PO59051B1142P0D1N000022.json"
+  ]
+}

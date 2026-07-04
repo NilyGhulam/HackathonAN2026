@@ -1,0 +1,229 @@
+{
+  "source_file": "Scrutins.json/json/VTANR5L17V1.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "scrutin"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "scrutin": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "uid": "VTANR5L17V1",
+      "numero": "1",
+      "organeRef": "PO838901",
+      "legislature": "17",
+      "sessionRef": "SCR5A2025O1",
+      "seanceRef": "RUANR5L17S2025IDS28596",
+      "dateScrutin": "2024-10-08",
+      "quantiemeJourSeance": "1",
+      "typeVote": {
+        "codeTypeVote": "MOC",
+        "libelleTypeVote": "motion de censure",
+        "typeMajorite": "Majorité requise pour une motion de censure"
+      },
+      "sort": {
+        "code": "rejeté",
+        "libelle": "L'Assemblée nationale n'a pas adopté"
+      },
+      "titre": "la motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par M. Boris Vallaud, Mme Mathilde Panot, Mme Cyrielle Chatelain, M. André Chassaigne et 188 de leurs collègues.",
+      "demandeur": {
+        "texte": null,
+        "referenceLegislative": null
+      },
+      "objet": {
+        "libelle": "la motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par M. Boris Vallaud, Mme Mathilde Panot, Mme Cyrielle Chatelain, M. André Chassaigne et 188 de leurs collègues.",
+        "dossierLegislatif": null,
+        "referenceLegislative": null
+      },
+      "modePublicationDesVotes": "DecompteNominatif",
+      "syntheseVote": {
+        "nombreVotants": "197",
+        "suffragesExprimes": "197",
+        "nbrSuffragesRequis": "289",
+        "annonce": "L'Assemblée nationale n'a pas adopté",
+        "decompte": {
+          "nonVotants": "10",
+          "pour": "197",
+          "contre": "0",
+          "abstentions": "0",
+          "nonVotantsVolontaires": "0"
+        }
+      },
+      "ventilationVotes": {
+        "organe": {
+          "organeRef": "PO838901",
+          "groupes": {
+            "groupe": [
+              {
+                "organeRef": "PO845401",
+                "nombreMembresGroupe": "125",
+                "vote": {
+                  "positionMajoritaire": "pour",
+                  "decompteVoix": {
+                    "nonVotants": "0",
+                    "pour": "0",
+                    "contre": "0",
+                    "abstentions": "0",
+                    "nonVotantsVolontaires": "0"
+                  },
+                  "decompteNominatif": {
+                    "nonVotants": null,
+                    "pours": null,
+                    "contres": null,
+                    "abstentions": null
+                  }
+                }
+              },
+              {
+                "organeRef": "PO845407",
+                "nombreMembresGroupe": "95",
+                "vote": {
+                  "positionMajoritaire": "pour",
+                  "decompteVoix": {
+                    "nonVotants": "10",
+                    "pour": "0",
+                    "contre": "0",
+                    "abstentions": "0",
+                    "nonVotantsVolontaires": "0"
+                  },
+                  "decompteNominatif": {
+                    "nonVotants": {
+                      "votant": [
+                        {
+                          "acteurRef": "PA795050",
+                          "mandatRef": "PM843272",
+                          "parDelegation": "false",
+                          "numPlace": "322",
+                          "causePositionVote": "MG"
+                        },
+                        {
+                          "acteurRef": "PA795958",
+                          "mandatRef": "PM843422",
+                          "parDelegation": "false",
+                          "numPlace": "323",
+                          "causePositionVote": "MG"
+                        },
+                        {
+                          "acteurRef": "PA795144",
+                          "mandatRef": "PM843359",
+                          "parDelegation": "false",
+                          "numPlace": "325",
+                          "causePositionVote": "MG"
+                        },
+                        {
+                          "__truncated_items__": 7
+                        }
+                      ]
+                    },
+                    "pours": null,
+                    "contres": null,
+                    "abstentions": null
+                  }
+                }
+              },
+              {
+                "organeRef": "PO845413",
+                "nombreMembresGroupe": "72",
+                "vote": {
+                  "positionMajoritaire": "pour",
+                  "decompteVoix": {
+                    "nonVotants": "0",
+                    "pour": "72",
+                    "contre": "0",
+                    "abstentions": "0",
+                    "nonVotantsVolontaires": "0"
+                  },
+                  "decompteNominatif": {
+                    "nonVotants": null,
+                    "pours": {
+                      "votant": [
+                        {
+                          "acteurRef": "PA794906",
+                          "mandatRef": "PM843284",
+                          "parDelegation": "false",
+                          "numPlace": "544"
+                        },
+                        {
+                          "acteurRef": "PA796070",
+                          "mandatRef": "PM843746",
+                          "parDelegation": "false",
+                          "numPlace": "638"
+                        },
+                        {
+                          "acteurRef": "PA842187",
+                          "mandatRef": "PM843704",
+                          "parDelegation": "false",
+                          "numPlace": "595"
+                        },
+                        {
+                          "__truncated_items__": 69
+                        }
+                      ]
+                    },
+                    "contres": null,
+                    "abstentions": null
+                  }
+                }
+              },
+              {
+                "__truncated_items__": 9
+              }
+            ]
+          }
+        }
+      },
+      "miseAuPoint": {
+        "nonVotants": [
+          null,
+          null
+        ],
+        "pours": null,
+        "abstentions": [
+          null,
+          null
+        ],
+        "nonVotantsVolontaires": [
+          null,
+          null
+        ],
+        "contres": null,
+        "dysfonctionnement": {
+          "nonVotants": null,
+          "pour": null,
+          "contre": null,
+          "abstentions": null,
+          "nonVotantsVolontaires": null
+        }
+      },
+      "lieuVote": "Salons"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Scrutins.json/json",
+  "directory_json_file_count": 7978,
+  "ignored_json_files_count": 7977,
+  "ignored_json_files_preview": [
+    "Scrutins.json/json/VTANR5L17V10.json",
+    "Scrutins.json/json/VTANR5L17V100.json",
+    "Scrutins.json/json/VTANR5L17V1000.json",
+    "Scrutins.json/json/VTANR5L17V1001.json",
+    "Scrutins.json/json/VTANR5L17V1002.json",
+    "Scrutins.json/json/VTANR5L17V1003.json",
+    "Scrutins.json/json/VTANR5L17V1004.json",
+    "Scrutins.json/json/VTANR5L17V1005.json",
+    "Scrutins.json/json/VTANR5L17V1006.json",
+    "Scrutins.json/json/VTANR5L17V1007.json",
+    "Scrutins.json/json/VTANR5L17V1008.json",
+    "Scrutins.json/json/VTANR5L17V1009.json",
+    "Scrutins.json/json/VTANR5L17V101.json",
+    "Scrutins.json/json/VTANR5L17V1010.json",
+    "Scrutins.json/json/VTANR5L17V1011.json",
+    "Scrutins.json/json/VTANR5L17V1012.json",
+    "Scrutins.json/json/VTANR5L17V1013.json",
+    "Scrutins.json/json/VTANR5L17V1014.json",
+    "Scrutins.json/json/VTANR5L17V1015.json",
+    "Scrutins.json/json/VTANR5L17V1016.json"
+  ]
+}

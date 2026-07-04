@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2984P0D1N000001",
+      "chronotag": "1783084156915",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2984P0D1",
+      "texteLegislatifRef": "PRJLANR5L17BTC2984",
+      "triAmendement": "afaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA718784",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA721410",
+            "PA870009",
+            "PA718850",
+            {
+              "__truncated_items__": 8
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Pauget,  Mme&#160;Bonnivard, M.&#160;Duparay, M.&#160;Cordier, Mme&#160;Sylvie&#160;Bonnet, M.&#160;Tryzna, M.&#160;Hetzel, Mme&#160;Corneloup, Mme&#160;Rey-Rinchet, M.&#160;End, M.&#160;Bazin et M.&#160;Ray"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2 bis",
+          "articleDesignationCourte": "ART. 2 BIS",
+          "articleDesignation": "ARTICLE 2 BIS",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2984.asp#D_Article_2_bis"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;tablir cet article&nbsp;dans la r&#x00E9;daction suivante&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;L&#x2019;article&nbsp;L.&nbsp;211&#x2011;7 du code de la s&#x00E9;curit&#x00E9; int&#x00E9;rieure est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;Le second alin&#x00E9;a est compl&#x00E9;t&#x00E9; par une phrase ainsi r&#x00E9;dig&#x00E9;e&nbsp;:&nbsp;&#x00AB;&nbsp;Les d&#x00E9;cisions prises pour assurer l&#x2019;effectivit&#x00E9; de l&#x2019;interdiction sont ex&#x00E9;cutoires d&#x2019;office.&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;Il est ajout&#x00E9; un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Le deuxi&#x00E8;me alin&#x00E9;a de l&#x2019;article&nbsp;L.&nbsp;211&#x2011;11 est applicable, y compris lorsque le rassemblement musical n&#x2019;a pas &#x00E9;t&#x00E9; d&#x00E9;clar&#x00E9;.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement vise &#x00E0; r&#x00E9;tablir l&#x2019;article 2bis renforce les pouvoirs du pr&#x00E9;fet contre les rave parties ill&#x00E9;gales en autorisant l&#x2019;ex&#x00E9;cution forc&#x00E9;e des interdictions et en faisant supporter aux organisateurs les co&#x00FB;ts des interventions publiques de s&#x00E9;curisation</p><p>Cet article&nbsp;a &#x00E9;t&#x00E9; supprim&#x00E9; par la Commission des Lois.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-06-26",
+        "datePublication": "2026-07-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2984P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "92183",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984",
+  "directory_json_file_count": 893,
+  "ignored_json_files_count": 892,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53980/PRJLANR5L17BTC2984/AMANR5L17PO838901BTC2984P0D1N000021.json"
+  ]
+}

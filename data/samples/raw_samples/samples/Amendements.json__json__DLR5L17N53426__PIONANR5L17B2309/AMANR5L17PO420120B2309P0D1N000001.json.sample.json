@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2309P0D1N000001",
+      "chronotag": "1775036912394",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2309P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2309",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795762",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA606573",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Califer,  M.&#160;Aviragnet, Mme&#160;Bellay, Mme&#160;Dombre&#160;Coste, Mme&#160;Froger, Mme&#160;Godard, M.&#160;Guedj, M.&#160;Houli&#233;, Mme&#160;Runel et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2309.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s le mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;art&#x00E9;rielle&nbsp;&#x00BB;,</p><p style=\"text-align: justify;\">r&#x00E9;diger ainsi la fin de l&#x2019;alin&#x00E9;a&nbsp;2&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;,&nbsp;la fibrillation atriale, le cholest&#x00E9;rol, la s&#x00E9;dentarit&#x00E9; et la malnutrition&nbsp;&#x00BB;&nbsp;;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; compl&#x00E9;ter la liste des facteurs de risque faisant l&#x2019;objet d&#x2019;un d&#x00E9;pistage dans le cadre des actions de pr&#x00E9;vention des maladies cardio-neurovasculaires, en y int&#x00E9;grant la fibrillation atriale, la s&#x00E9;dentarit&#x00E9; et la malnutrition.</p><p style=\"text-align: justify;\">Si la r&#x00E9;daction actuelle de l&#x2019;article&nbsp;1<sup>er</sup> mentionne d&#x00E9;j&#x00E0; des facteurs majeurs tels que le diab&#x00E8;te, le cholest&#x00E9;rol et l&#x2019;hypertension art&#x00E9;rielle, la liste des d&#x00E9;terminants du risque cardiovasculaire est en r&#x00E9;alit&#x00E9; bien plus large et ne saurait &#x00EA;tre enti&#x00E8;rement list&#x00E9;e.&nbsp;</p><p style=\"text-align: justify;\">Il appara&#x00EE;t toutefois indispensable de retenir en priorit&#x00E9; la fibrillation atriale, la s&#x00E9;dentarit&#x00E9; et la malnutrition, des facteurs particuli&#x00E8;rement importants et encore insuffisamment pris en compte.</p><p style=\"text-align: justify;\">Leur int&#x00E9;gration explicite permet de renforcer la port&#x00E9;e du dispositif de pr&#x00E9;vention.</p><p style=\"text-align: justify;\">Les donn&#x00E9;es scientifiques montrent qu&#x2019;en agissant de mani&#x00E8;re globale sur l&#x2019;ensemble des facteurs de risque&nbsp;&#x2013;&nbsp;incluant notamment les habitudes de vie telles que le tabagisme ou la consommation d&#x2019;alcool&nbsp;&#x2013;&nbsp;il serait possible de pr&#x00E9;venir 80&nbsp;% des accidents vasculaires c&#x00E9;r&#x00E9;braux.</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement vise donc &#x00E0; enclencher une dynamique de pr&#x00E9;vention renforc&#x00E9;e, fond&#x00E9;e sur une approche plus compl&#x00E8;te de l&#x2019;identification des risques.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-25",
+        "datePublication": "2026-03-31",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-04-01T11:48:14+02:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2309P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309",
+  "directory_json_file_count": 37,
+  "ignored_json_files_count": 36,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53426/PIONANR5L17B2309/AMANR5L17PO420120B2309P0D1N000021.json"
+  ]
+}

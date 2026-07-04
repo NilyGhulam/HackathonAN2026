@@ -1,0 +1,179 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53192/PIONANR5L17B2608/AMANR5L17PO420120B2608P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2608P0D1N000001",
+      "chronotag": "1777449841779",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2608P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2608",
+      "triAmendement": "faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793736",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Clouet,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, Mme&#160;Bentorki, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 1er bis",
+          "articleDesignationCourte": "ART. 1ER BIS",
+          "articleDesignation": "ARTICLE 1ER BIS",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2608.asp#D_Articles_1er_bis_et_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;tablir cet article dans la r&#x00E9;daction suivante&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Dans un d&#x00E9;lai de six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport analysant les difficult&#x00E9;s administratives et &#x00E9;conomiques auxquelles sont confront&#x00E9;s les praticiens en m&#x00E9;decine titulaires d&#x2019;un dipl&#x00F4;me d&#x00E9;livr&#x00E9; par un &#x00C9;tat situ&#x00E9; hors de l&#x2019;Union europ&#x00E9;enne. Le rapport analyse notamment les cons&#x00E9;quences de ces difficult&#x00E9;s pour ces praticiens et propose, le cas &#x00E9;ch&#x00E9;ant, des mesures afin d&#x2019;y rem&#x00E9;dier.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement, le groupe LFI souhaite mettre en avant le r&#x00F4;le indispensable jou&#x00E9; par les &#x00AB;&nbsp;Praticiens &#x00E0; dipl&#x00F4;me hors Union europ&#x00E9;enne&nbsp;&#x00BB; ou PADHUE au bon fonctionnement de notre syst&#x00E8;me de soins&nbsp;&#x2013;&nbsp;remis en cause par les difficult&#x00E9;s administratives et &#x00E9;conomiques dans lesquelles ces derniers sont volontairement plong&#x00E9;s.</p><p style=\"text-align: justify;\">Le syst&#x00E8;me de sant&#x00E9; fran&#x00E7;ais est &#x00E0; bout de souffle. Tout d&#x2019;abord, la mise en place du numerus clausus a entra&#x00EE;n&#x00E9; une stagnation du nombre de professionnels form&#x00E9;s depuis les ann&#x00E9;es 70 alors que les besoins ont augment&#x00E9;, li&#x00E9;e notamment &#x00E0; un vieillissement de la population&nbsp;: ainsi, la part des personnes qui auront plus de 80 ans va augmenter de plus de 60&nbsp;% d&#x2019;ici 2040. Ainsi, on estime par exemple qu&#x2019;en 2022, 1 Fran&#x00E7;ais&#x2022;e sur 10 ne disposait pas d&#x2019;un m&#x00E9;decin traitant, dont 700&nbsp;000 patient&#x2022;es en affection longue dur&#x00E9;e. Ce ph&#x00E9;nom&#x00E8;ne est aggrav&#x00E9; par l&#x2019;existence d&#x2019;in&#x00E9;galit&#x00E9;s territoriales&nbsp;: les m&#x00E9;decins sont en effet concentr&#x00E9;s dans les r&#x00E9;gions les plus peupl&#x00E9;es&nbsp;: 20&nbsp;% des actifs exercent en &#x00CE;le-de-France et 12&nbsp;% en Auvergne-Rh&#x00F4;ne-Alpes. Les r&#x00E9;gions Centre-Val de Loire, Normandie et le d&#x00E9;partement de la Guyane sont les moins bien dot&#x00E9;s et rencontrent les densit&#x00E9;s les plus basses, inf&#x00E9;rieures &#x00E0; 308 m&#x00E9;decins pour 100&nbsp;000 habitants. Les situations sont similaires concernant les m&#x00E9;decins sp&#x00E9;cialistes et les m&#x00E9;decins g&#x00E9;n&#x00E9;ralistes. Par cons&#x00E9;quent, ce recul de la densit&#x00E9; m&#x00E9;dicale accro&#x00EE;t les tensions sur le syst&#x00E8;me hospitalier public&nbsp;: entre 2019 et 2024, le nombre d&#x2019;appels au Samu a augment&#x00E9; de 26,4&nbsp;%, avec un nombre d&#x2019;entr&#x00E9;es aux urgences qui ne fait qu&#x2019;augmenter depuis 1996, alors m&#x00EA;me que les moyens qui y sont allou&#x00E9;s par les Gouvernements successifs n&#x2019;ont jamais &#x00E9;t&#x00E9; suffisants pour faire face &#x00E0; la demande.</p><p style=\"text-align: justify;\">Dans ce contexte, le recours aux PADHUE est une n&#x00E9;cessit&#x00E9… [truncated 3584 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-13",
+        "datePublication": "2026-04-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-04-29T10:03:32+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2608P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53192/PIONANR5L17B2608",
+  "directory_json_file_count": 3,
+  "ignored_json_files_count": 2,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53192/PIONANR5L17B2608/AMANR5L17PO420120B2608P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53192/PIONANR5L17B2608/AMANR5L17PO420120B2608P0D1N000003.json"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000002.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1153P0D1N000002",
+      "chronotag": "1743440607323",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "2",
+        "numeroOrdreDepot": "2",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1153P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1153",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841955",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": "et les membres du groupe Rassemblement National",
+        "libelle": "M.&#160;Renault et les membres du groupe Rassemblement National"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1153.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;article L.&nbsp;521&#x2011;6 du code mon&#x00E9;taire et financier, il est ins&#x00E9;r&#x00E9; un article L.&nbsp;521&#x2011;6&#x2011;2 ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;L.&nbsp;521&#x2011;6&#x2011;2</i>.&nbsp;&#x2013;&nbsp;I.&nbsp;&#x2013;&nbsp;La cellule du renseignement financier nationale mentionn&#x00E9;e au I de l&#x2019;article L.&nbsp;561&#x2011;23 a acc&#x00E8;s au fichier mentionn&#x00E9; &#x00E0; l&#x2019;article L.&nbsp;521&#x2011;6&#x2011;1.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;II.&nbsp;&#x2013;&nbsp;La cellule mentionn&#x00E9;e au I croise les donn&#x00E9;es contenues dans ce fichier avec les informations transmises dans le cadre des obligations de d&#x00E9;claration et d&#x2019;information pr&#x00E9;vues aux articles L.&nbsp;561&#x2011;15 et L.&nbsp;561&#x2011;15&#x2011;1.</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;III.&nbsp;&#x2013;&nbsp;Le croisement de donn&#x00E9;es mentionn&#x00E9; au II vise les m&#x00EA;mes objectifs que ceux d&#x00E9;finis au III de l&#x2019;article L.&nbsp;561&#x2011;23.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Si les services de transferts de fonds du type de Western Union, MoneyGram ou encore WorldRemit ne sont pas &#x00E0; proprement parler des moyens de paiement scripturaux, ils sont largement utilis&#x00E9;s dans le blanchiment du produit d&#x2019;une fraude ou l&#x2019;envoi du produit d&#x2019;une fraude &#x00E0; l&#x2019;&#x00E9;tranger. Dans la l&#x00E9;gislation actuelle, ce sont essentiellement les cas de blanchiment d&#x2019;argent dans le cadre du narcotrafic et le financement du terrorisme qui sont cibl&#x00E9;s, ce qui appara&#x00EE;t insuffisant.</p><p>En cons&#x00E9;quence, le pr&#x00E9;sent amendement vise &#x00E0; accro&#x00EE;tre la surveillance des profils &#x00E0; risque en permettant &#x00E0; la cellule du renseignement financier national en charge de ces questions l&#x2019;acc&#x00E8;s au nouveau fichier recensant les IBAN frauduleux port&#x00E9; par ce texte et d&#x2019;en croiser les donn&#x00E9;es avec les informations qui lui sont obligatoirement remont&#x00E9;es dans le cadre des transferts de fonds.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-03-20",
+        "datePublication": "2025-03-31",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-03-31T19:03:15+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1153P0D1N000002?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS29257",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c monétaire financier",
+        "divisionCodeLoi": "L521-6-1"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153",
+  "directory_json_file_count": 30,
+  "ignored_json_files_count": 29,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51434/PIONANR5L17BTC1153/AMANR5L17PO838901BTC1153P0D1N000022.json"
+  ]
+}

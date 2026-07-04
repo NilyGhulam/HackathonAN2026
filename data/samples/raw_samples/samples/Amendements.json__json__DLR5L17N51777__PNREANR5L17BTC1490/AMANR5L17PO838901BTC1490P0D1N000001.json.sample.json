@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1490P0D1N000001",
+      "chronotag": "1770159483517",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1490P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC1490",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794598",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793432",
+            "PA841495",
+            "PA796118",
+            {
+              "__truncated_items__": 118
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Jacobelli,  M.&#160;Allisio, M.&#160;Amblard, Mme&#160;Auzanot, M.&#160;Ballard, Mme&#160;Bamana, M.&#160;Barth&#232;s, M.&#160;Baubry, M.&#160;Beaurain, M.&#160;Bilde, M.&#160;Bigot, Mme&#160;Blanc, M.&#160;Blairy, M.&#160;Bernhardt, M.&#160;Bentz, Mme&#160;Bouquin, M.&#160;Boulogne, M.&#160;Bovet, M.&#160;Casterman, M.&#160;Chenu, M.&#160;Boccaletti, M.&#160;Buisson, M.&#160;Chudeau, Mme&#160;Bordes, Mme&#160;Colombier, M.&#160;de&#160;Fleurian, M.&#160;Dessigny, Mme&#160;Diaz, Mme&#160;Dogor-Such, Mme&#160;Da&#160;Conceicao&#160;Carvalho, M.&#160;Clavet, M.&#160;de&#160;L&#233;pinau, M.&#160;Dragon, M.&#160;Dussausaye, M.&#160;Evrard, M.&#160;Dutremble, M.&#160;Dufosset, M.&#160;Gery, M.&#160;Gabarron, M.&#160;Frapp&#233;, M.&#160;Fouquart, M.&#160;Florquin, M.&#160;Falcon, Mme&#160;Galzy, M.&#160;Christian&#160;Girard, M.&#160;Gillet, M.&#160;Giletti, M.&#160;Gonzalez, M.&#160;Golliot, Mme&#160;Florence&#160;Goulet, Mme&#160;Grangier, Mme&#160;Griseti, M.&#160;Guiniot, M.&#160;Guitton, Mme&#160;Hamelet, M.&#160;Houssin, M.&#160;Humbert, M.&#160;Guibert, M.&#160;Lopez-Liguori, M.&#160;Lioret, Mme&#160;Loir, Mme&#160;Lelouis, Mme&#160;Levavasseur, M.&#160;Limongi, Mme&#160;Lechanteux, Mme&#160;Lavalette, Mme&#160;Le&#160;Pen, M.&#160;Le&#160;Bourgeois, Mme&#160;Lechon, Mme&#160;Joubert, Mme&#160;Laporte, Mme&#160;Josserand, Mme&#160;Joncour, M.&#160;Jenft, M.&#160;Jolly, M.&#160;Patrice&#160;Martin, Mme&#160;Marais-Beuil, M.&#160;David&#160;Magnier, M.&#160;Loubet, M.&#160;Lottiaux, Mme&#160;Lorho, M.&#160;Meizonnet, M.&#160;Mauvieux, Mme&#160;Alexandra&#160;Masson, M.&#160;Bryan&#160;Masson, Mme&#160;Martinez, M.&#160;Markowsky, M.&#160;Marchio, M.&#160;Odoul, Mme&#160;Parmentier, M.&#160;Perez, M.&#160;Muller, M.&#160;Monnier, M.&#160;Meurin, M.&#160;M&#233;nag&#233;, Mme&#160;M&#233;nach&#233;, Mme&#160;M&#233;lin, Mme&#160;Rimbert, M.&#160;Rivi&#232;re, M.&#160;Rancoule, M.&#160;Renault, Mme&#160;Ranc, M.&#160;Rambaud, Mme&#160;Pollet, M.&#160;Pfeffer, M.&#160;Taverne, M.&#160;Jean-Philippe&#160;Tanguy, M.&#160;Emmanuel&#160;Tach&#233;, Mme&#160;Sicard, M.&#160;Schreck, M.&#160;Salmon, Mme&#160;Sabatini, Mme&#160;Roy, Mme&#160;Roullaud, Mme&#160;Robert-Dehault, M.&#160;Sabatou, M.&#160;Weber, M.&#160;Villedieu, M.&#160;Tonussi, M.&#160;Tivoli, M.&#160;Tesson et M.&#160;Vos"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1490.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "24",
+            "alineaDesignation": "Alinéa 24"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer l&#x2019;alin&#x00E9;a&nbsp;24.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>&#x00AB; Il faut que la d&#x00E9;fense de la France soit fran&#x00E7;aise ; s&#x2019;il en &#x00E9;tait autrement, notre pays serait en contradiction avec tout ce qu&#x2019;il est depuis ses origines, avec son r&#x00F4;le, avec l&#x2019;estime qu&#x2019;il a de lui-m&#x00EA;me, avec son &#x00E2;me &#x00BB;, rappelait le g&#x00E9;n&#x00E9;ral de Gaulle.</p><p>Or, en cherchant une nouvelle fois &#x00E0; exploiter les crises pour &#x00E9;tendre son champ de comp&#x00E9;tences, l&#x2019;Union europ&#x00E9;enne d&#x00E9;veloppe progressivement une architecture de d&#x00E9;fense f&#x00E9;d&#x00E9;raliste, visant &#x00E0; transf&#x00E9;rer &#x00E0; la Commission europ&#x00E9;enne des pr&#x00E9;rogatives qui rel&#x00E8;vent pourtant exclusivement des &#x00C9;tats membres, conform&#x00E9;ment &#x00E0; l&#x2019;article 4 du Trait&#x00E9; sur l&#x2019;Union europ&#x00E9;enne. Cette d&#x00E9;rive s'illustre tant par la cr&#x00E9;ation d&#x2019;un commissaire europ&#x00E9;en &#x00E0; la d&#x00E9;fense, fonction d&#x00E9;pourvue de fondement conventionnel, que par la multiplication de dispositifs et de programmes communs, tels que EDIP, qui participent &#x00E0; une mise sous tutelle des politiques nationales de d&#x00E9;fense.</p><p>Sur le plan politique et strat&#x00E9;gique, cette pr&#x00E9;tendue &#x00AB; Europe de la d&#x00E9;fense &#x00BB; ne renforce en rien l&#x2019;autonomie strat&#x00E9;gique de la France. Elle conduit, au contraire, &#x00E0; une dilution de notre capacit&#x00E9; de d&#x00E9;cision souveraine, &#x00E0; un affaiblissement de notre base industrielle et technologique de d&#x00E9;fense en l'absence d'une v&#x00E9;ritable pr&#x00E9;f&#x00E9;rence europ&#x00E9;enne, et donc &#x00E0; une d&#x00E9;pendance accrue &#x00E0; l&#x2019;&#x00E9;gard d&#x2019;&#x00E9;quipements extra-europ&#x00E9;ens, principalement am&#x00E9;ricains.</p><p>La France doit avant tout s&#x2019;attacher &#x00E0; consolider son autonomie strat&#x00E9;gique nationale. Cette exigence n&#x2019;exclut nullement des coop&#x00E9;rations avec d&#x2019;autres &#x00C9;tats europ&#x00E9;ens lorsque des int&#x00E9;r&#x00EA;ts strat&#x00E9;giques mutuels sont clairement identifi&#x00E9;s et librement consentis. Elle s&#x2019;oppose en revanche &#x00E0; toute tentative d&#x2019;int&#x00E9;gration f&#x00E9;d&#x00E9;raliste en mati&#x00E8;re de d&#x00E9;fense, laquelle ferait peser un risque majeur sur la souverainet&#x00E9; militaire fran&#x00E7;aise et sur sa base industrielle et technolog… [truncated 423 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-30",
+        "datePublication": "2026-02-02",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-03T23:57:53+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1490P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30193",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "0",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490",
+  "directory_json_file_count": 14,
+  "ignored_json_files_count": 13,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51777/PNREANR5L17BTC1490/AMANR5L17PO838901BTC1490P0D1N000014.json"
+  ]
+}

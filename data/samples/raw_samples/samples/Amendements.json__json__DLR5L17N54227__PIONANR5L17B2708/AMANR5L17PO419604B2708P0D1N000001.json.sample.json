@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419604B2708P0D1N000001",
+      "chronotag": "1779829350370",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AC1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-CEDU",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419604B2708P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2708",
+      "triAmendement": "naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794198",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA794562",
+            "PA793158",
+            "PA720822",
+            {
+              "__truncated_items__": 9
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Chudeau,  M.&#160;Ballard, M.&#160;Beaurain, M.&#160;Bilde, M.&#160;Clavet, Mme&#160;Da&#160;Conceicao&#160;Carvalho, M.&#160;Christian&#160;Girard, Mme&#160;Joncour, Mme&#160;Joubert, M.&#160;Odoul, Mme&#160;Parmentier, Mme&#160;Sicard et M.&#160;Tesson"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 9",
+          "articleDesignationCourte": "ART. 9",
+          "articleDesignation": "ARTICLE 9",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2708.asp#D_Article_9"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer les alin&#x00E9;as 1 &#x00E0; 3.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement pr&#x00E9;voit de pr&#x00E9;server la protection du secret professionnel.&nbsp;</p><p style=\"text-align: justify;\">Le secret professionnel&nbsp;&#x2013;&nbsp;secret m&#x00E9;dical, secret d&#x00E9;fense ou secret de la confession&nbsp;&#x2013;&nbsp;constitue un &#x00E9;difice de notre &#x00E9;tat de droit. L&#x2019;article&nbsp;226&#x2011;13 du code p&#x00E9;nal prot&#x00E8;ge le secret professionnel de mani&#x00E8;re indiff&#x00E9;renci&#x00E9;e&nbsp;: &#x00AB;&nbsp;La r&#x00E9;v&#x00E9;lation d&#x2019;une information &#x00E0; caract&#x00E8;re secret par une personne qui en est d&#x00E9;positaire soit par &#x00E9;tat ou par profession, soit en raison d&#x2019;une fonction ou d&#x2019;une mission temporaire, est punie d&#x2019;un an d&#x2019;emprisonnement et de 15&nbsp;000&nbsp;euros d&#x2019;amende.&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">Si le l&#x00E9;gislateur admet aujourd&#x2019;hui qu&#x2019;un secret professionnel peut &#x00EA;tre lev&#x00E9; au nom de la protection de l&#x2019;enfance pour les ministres du culte, rien ne s&#x2019;opposera demain &#x00E0; ce que le m&#x00EA;me raisonnement soit &#x00E9;tendu au secret m&#x00E9;dical ou au secret de la d&#x00E9;fense.&nbsp;</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-19",
+        "datePublication": "2026-05-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-26T23:02:21+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419604B2708P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708",
+  "directory_json_file_count": 158,
+  "ignored_json_files_count": 157,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N54227/PIONANR5L17B2708/AMANR5L17PO419604B2708P0D1N000021.json"
+  ]
+}

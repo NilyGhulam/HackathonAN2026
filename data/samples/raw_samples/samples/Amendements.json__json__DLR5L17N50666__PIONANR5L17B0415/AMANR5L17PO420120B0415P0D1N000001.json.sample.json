@@ -1,0 +1,177 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50666/PIONANR5L17B0415/AMANR5L17PO420120B0415P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0415P0D1N000001",
+      "chronotag": "1739874683399",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0415P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0415",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793382",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": "et les membres du groupe Rassemblement National",
+        "libelle": "M.&#160;Tach&#233;&#160;de&#160;la&#160;Pagerie et les membres du groupe Rassemblement National"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0415.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0; l&#x2019;alin&#x00E9;a&nbsp;2, substituer aux mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;contraintes &#x00E9;motionnelles fortes&nbsp;&#x00BB;&nbsp;</p><p style=\"text-align: justify;\">les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;risques psychosociaux&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet article&nbsp;1 ajoute, aux trois cat&#x00E9;gories de facteurs de risques professionnels existants, une quatri&#x00E8;me cat&#x00E9;gorie intitul&#x00E9;e&nbsp;: &#x00AB;&nbsp;contraintes &#x00E9;motionnelles fortes&nbsp;&#x00BB;. Cet intitul&#x00E9; n&#x2019;ayant aucune valeur scientifique, la directrice de l&#x2019;URPS Hauts de France, auditionn&#x00E9;e dans le cadre des travaux pr&#x00E9;paratoires &#x00E0; l&#x2019;examen de la proposition de loi, propose d&#x2019;intituler &#x00E0; raison la quatri&#x00E8;me cat&#x00E9;gorie&nbsp;: &#x00AB;&nbsp;risques psychosociaux&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">La reconnaissance juridique des risques psychosociaux serait un progr&#x00E8;s social majeur et permettrait &#x00E0; l&#x2019;employeur et aux salari&#x00E9;s de proposer des mesures de pr&#x00E9;vention sp&#x00E9;cifiques permettant d&#x2019;anticiper les effets de cette exposition.</p><p style=\"text-align: justify;\">Cet amendement vise &#x00E0; inscrire dans la loi les risques psychosociaux afin que ces derniers fassent l&#x2019;objet d&#x2019;une attention particuli&#x00E8;re de l&#x2019;employeur et des salari&#x00E9;s dans le cadre de la n&#x00E9;gociation relative &#x00E0; l&#x2019;exposition aux facteurs de risques professionnels. Cette n&#x00E9;gociation obligatoire pr&#x00E9;vue par le Code du travail permettra d&#x2019;aboutir &#x00E0; des mesures de pr&#x00E9;vention en la mati&#x00E8;re sans cr&#x00E9;er aucune charge ni pour l&#x2019;&#x00C9;tat ni pour la S&#x00E9;curit&#x00E9; sociale.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-15",
+        "datePublication": "2024-11-20",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2024-11-20T16:55:04+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0415P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50666/PIONANR5L17B0415",
+  "directory_json_file_count": 6,
+  "ignored_json_files_count": 5,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50666/PIONANR5L17B0415/AMANR5L17PO420120B0415P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50666/PIONANR5L17B0415/AMANR5L17PO420120B0415P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50666/PIONANR5L17B0415/AMANR5L17PO420120B0415P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50666/PIONANR5L17B0415/AMANR5L17PO420120B0415P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50666/PIONANR5L17B0415/AMANR5L17PO420120B0415P0D1N000006.json"
+  ]
+}

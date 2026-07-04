@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0447P0D1N000001",
+      "chronotag": "1739874679290",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0447P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0447",
+      "triAmendement": "laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793298",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841495",
+            "PA642988",
+            "PA794718",
+            {
+              "__truncated_items__": 8
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Tivoli,  M.&#160;Amblard, M.&#160;de&#160;L&#233;pinau, Mme&#160;Engrand, M.&#160;Falcon, Mme&#160;Laporte, M.&#160;Le&#160;Bourgeois, Mme&#160;Grangier, M.&#160;Loubet, M.&#160;Meizonnet, M.&#160;Rivi&#232;re et M.&#160;Weber"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 4",
+          "articleDesignationCourte": "ART. 4",
+          "articleDesignation": "ARTICLE 4",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0447.asp#D_Article_4"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "2",
+            "alineaDesignation": "Après l'alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;2, ins&#x00E9;rer les deux alin&#x00E9;as suivants&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;<i>bis</i>&nbsp;L&#x2019;article&nbsp;L.&nbsp;221&#x2011;9 est compl&#x00E9;t&#x00E9; par un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Les certificats d&#x2019;&#x00E9;conomies d&#x2019;&#x00E9;nergie comprennent les &#x00E9;conomies d&#x2019;&#x00E9;nergies suppos&#x00E9;es en amont des travaux de r&#x00E9;novation. Ils informent les consommateurs des gains &#x00E9;nerg&#x00E9;tiques potentiels en prenant en compte l&#x2019;int&#x00E9;gralit&#x00E9; de la chaine de consommation de l&#x2019;&#x00E9;nergie, de sa production &#x00E0; sa destruction&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Depuis de nombreuses ann&#x00E9;es, la communication gouvernementale incite les m&#x00E9;nages &#x00E0; r&#x00E9;duire leur empreinte carbone, notamment &#x00E0; travers leur consommation d'&#x00E9;nergie. Pour d&#x00E9;velopper sa politique de transition &#x00E9;nerg&#x00E9;tique pour les m&#x00E9;nages et entreprises, le gouvernement fran&#x00E7;ais incite les consommateurs &#x00E0; se tourner vers des &#x00E9;nergies dites \"renouvelables\" &#x00E0; travers de nombreuses mesures d'aides fiscales.</p><p>Pourtant certaines de ces &#x00E9;nergies n'ont de renouvelables que le nom, sont couteuses, fabriqu&#x00E9;s &#x00E0; l'&#x00E9;tranger et sont souvent impossible &#x00E0; recycler.</p><p>Il convient d&#x00E8;s lors, &#x00E0; chaque travaux en lien avec la r&#x00E9;novation &#x00E9;nerg&#x00E9;tique, que le professionnel fournisse un certificat &#x00E9;nerg&#x00E9;tique au consommateur sur les gains &#x00E9;nerg&#x00E9;tique estim&#x00E9;s en prenant en compte toute la chaine de production de l'&#x00E9;nergie ( de sa production &#x00E0; sa destruction). Le consommateur pourra ainsi peser le \"pour\" et le \"contre\" de ce mod&#x00E8;le &#x00E9;nerg&#x00E9;tique. Ce bilan &#x00E9;tablit il pourra, le cas &#x00E9;ch&#x00E9;ant, se tourner vers d'autres travaux plus vertueux, si ces &#x00E9;nergies ne correspondent pas &#x00E0; ses attentes an mati&#x00E8;re de r&#x00E9;duction de gaz &#x00E0; effet de serre.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-19",
+        "datePublication": "2024-11-27",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2024-11-27T16:45:10+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0447P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447",
+  "directory_json_file_count": 69,
+  "ignored_json_files_count": 68,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N50715/PIONANR5L17B0447/AMANR5L17PO419610B0447P0D1N000022.json"
+  ]
+}

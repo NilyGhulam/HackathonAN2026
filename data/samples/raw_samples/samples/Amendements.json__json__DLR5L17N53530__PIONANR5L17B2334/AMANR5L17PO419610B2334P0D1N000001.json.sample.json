@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B2334P0D1N000001",
+      "chronotag": "1769624103493",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B2334P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2334",
+      "triAmendement": "laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794146",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA610968",
+            "PA793780",
+            "PA588884",
+            {
+              "__truncated_items__": 33
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Laernoes,  M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Biteau, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, M.&#160;Fournier, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, M.&#160;Roum&#233;gas, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Tavernier, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 20",
+          "articleDesignationCourte": "ART. 20",
+          "articleDesignation": "ARTICLE 20",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2334.asp#D_Article_20"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "4",
+            "alineaDesignation": "Alinéa 4"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p>&#x00C0; l'alin&#x00E9;a 4, supprimer les mots :</p><p>&nbsp;&#x00AB; d&#x2019;une puissance inf&#x00E9;rieure ou &#x00E9;gale &#x00E0; 150 kilowatts &#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;article 20 de la proposition de loi vise &#x00E0; harmoniser le r&#x00E9;gime juridique applicable aux installations de petite hydro&#x00E9;lectricit&#x00E9;, d&#x2019;une puissance inf&#x00E9;rieure ou &#x00E9;gale &#x00E0; 150 kilowatts. Il pr&#x00E9;voit un r&#x00E9;gime transitoire de vingt ans permettant aux installations r&#x00E9;guli&#x00E8;rement exploit&#x00E9;es &#x00E0; l&#x2019;entr&#x00E9;e en vigueur de la pr&#x00E9;sente proposition de loi de conserver leur autorisation actuelle avant de basculer vers le r&#x00E9;gime d&#x2019;autorisation.</p><p>Cependant, dans sa r&#x00E9;daction&nbsp;actuelle, cette harmonisation demeure incompl&#x00E8;te. En l'&#x00E9;tat, l'article 20&nbsp;laisse en effet perdurer le statut des installations ayant une existence l&#x00E9;gale car fond&#x00E9;es en titre lorsque leur puissance est sup&#x00E9;rieure &#x00E0;&nbsp;150 kilowatts.</p><p>Ces installations continueraient ainsi &#x00E0; b&#x00E9;n&#x00E9;ficier d&#x2019;une &#x00AB; autorisation &#x00BB; sans limitation de dur&#x00E9;e, maintenant ainsi un r&#x00E9;gime d&#x2019;exception h&#x00E9;rit&#x00E9; du XIX&#x1D49; si&#x00E8;cle, largement d&#x00E9;rogatoire au droit commun auquel serait assujetties toutes les autres installations de petite (et de grande) hydraulique, mais aussi&nbsp;peu compatible avec les exigences contemporaines de protection des milieux aquatiques et de la biodiversit&#x00E9;.</p><p>Cette exemption&nbsp;bloque&nbsp;l&#x2019;application pleine et enti&#x00E8;re du droit environnemental &#x00E0; des ouvrages dont les impacts sur les cours d&#x2019;eau, notamment en mati&#x00E8;re de continuit&#x00E9; &#x00E9;cologique et de fonctionnement hydromorphologique, sont pourtant bien document&#x00E9;s. Elle entretient &#x00E9;galement une complexit&#x00E9; juridique inutile, les droits fond&#x00E9;s en titre constituant l&#x2019;une des principales sources de contentieux en mati&#x00E8;re d&#x2019;hydro&#x00E9;lectricit&#x00E9;.</p><p>Cet amendement du groupe &#x00C9;cologiste et Social, issu de discussions avec France Nature Environnement, vise ainsi &#x00E0; y rem&#x00E9;dier.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-23",
+        "datePublication": "2026-01-27",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-01-28T19:14:30+01:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B2334P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334",
+  "directory_json_file_count": 133,
+  "ignored_json_files_count": 132,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53530/PIONANR5L17B2334/AMANR5L17PO419610B2334P0D1N000021.json"
+  ]
+}

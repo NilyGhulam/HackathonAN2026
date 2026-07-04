@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419865B0140P0D1N000001",
+      "chronotag": "1768389177490",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CD1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-DVP",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419865B0140P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0140",
+      "triAmendement": "maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720668",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Blairy"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 6",
+          "articleDesignationCourte": "ART. 6",
+          "articleDesignation": "ARTICLE 6",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0140.asp#D_Article_6"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L&#x2019;article 6 pr&#x00E9;voit d&#x2019;ajouter la mention &#x00AB;notamment aux heures de pointe&#x00BB; &#x00E0; l&#x2019;article L. 1222-3 du code des transports. Cette pr&#x00E9;cision, bien qu&#x2019;anim&#x00E9;e par une intention louable, pose des difficult&#x00E9;s d&#x2019;application. En effet, les heures de pointe varient consid&#x00E9;rablement selon les Autorit&#x00E9;s Organisatrices de la Mobilit&#x00E9; (AOM) et les territoires ultramarins, en fonction des r&#x00E9;alit&#x00E9;s locales, des flux de d&#x00E9;placement et des contraintes g&#x00E9;ographiques.<br>&nbsp;<br>La suppression de cet article permet de pr&#x00E9;server la souplesse n&#x00E9;cessaire pour que chaque AOM d&#x00E9;finisse ses propres modalit&#x00E9;s en fonction des besoins locaux.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-09",
+        "datePublication": "2026-01-13",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-01-14T12:12:52+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419865B0140P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "85799",
+        "typePosition": "Milieu"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140",
+  "directory_json_file_count": 67,
+  "ignored_json_files_count": 66,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000002.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000003.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000004.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000005.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000006.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000007.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000008.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000009.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000010.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000011.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000012.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000013.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000014.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000015.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000016.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000017.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000018.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000019.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000020.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17B0140/AMANR5L17PO419865B0140P0D1N000021.json"
+  ]
+}

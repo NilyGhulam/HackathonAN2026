@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59047BTC2318P0D1N000001",
+      "chronotag": "1768386507987",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_AFETR",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59047BTC2318P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC2318",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA842001",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Bigot"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2318.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "29",
+            "alineaDesignation": "Après l'alinéa 29"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;29, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Propose au Gouvernement de prononcer, sans attendre une &#x00E9;ventuelle inscription europ&#x00E9;enne et par d&#x00E9;cret en Conseil des ministres, la dissolution de l&#x2019;ensemble des groupements, associations et organisations relevant de la mouvance id&#x00E9;ologique, doctrinale ou strat&#x00E9;gique des Fr&#x00E8;res musulmans pr&#x00E9;sents sur le territoire national, en application de l&#x2019;article&nbsp;L.&nbsp;212&#x2011;1 du code de la s&#x00E9;curit&#x00E9; int&#x00E9;rieure&nbsp;;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L'inscription sur la liste europ&#x00E9;enne des organisations terroristes entra&#x00EE;ne diverses mesures restrictives mais ne pr&#x00E9;voit pas, en tant que telle, la dissolution administrative des structures concern&#x00E9;es, laquelle rel&#x00E8;ve de la comp&#x00E9;tence nationale.</p><p>Le pr&#x00E9;sent amendement invite le Gouvernement &#x00E0; mobiliser sans d&#x00E9;lai les instruments juridiques existants afin de dissoudre les organisations, associations ou groupements se r&#x00E9;clamant, s'inspirant ou relevant de la mouvance id&#x00E9;ologique, doctrinale ou strat&#x00E9;gique des Fr&#x00E8;res musulmans, sans attendre une proc&#x00E9;dure europ&#x00E9;enne dont les d&#x00E9;lais peuvent s'av&#x00E9;rer incompatibles avec l'urgence de la menace identifi&#x00E9;e par les services de renseignement.</p><p>Cette mesure s'inscrit dans une d&#x00E9;marche d&#x00E9;j&#x00E0; adopt&#x00E9;e par des &#x00C9;tats d&#x00E9;mocratiques : l'Autriche a interdit les Fr&#x00E8;res musulmans en juillet 2021 suite &#x00E0; l'attentat islamiste de Vienne, sanctionnant la d&#x00E9;tention et la promotion de leurs symboles de 4 000 euros d'amende et d'un mois de prison ; la Jordanie a interdit toutes leurs activit&#x00E9;s en avril 2025 apr&#x00E8;s la d&#x00E9;couverte d'un complot impliquant des armes et explosifs. Au total, quatorze pays ont officiellement interdit cette organisation.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-09",
+        "datePublication": "2026-01-12",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59047BTC2318P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318",
+  "directory_json_file_count": 11,
+  "ignored_json_files_count": 10,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52132/PNREANR5L17BTC2318/AMANR5L17PO59047BTC2318P0D1N000011.json"
+  ]
+}

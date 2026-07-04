@@ -1,0 +1,185 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1478P0D1N000001",
+      "chronotag": "1781166226321",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1478P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC1478",
+      "triAmendement": "oaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaas",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795864",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Pierre&#160;Cazeneuve"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "visant à renforcer la solidarité envers les retraités pauvres",
+          "articleDesignationCourte": "TITRE",
+          "articleDesignation": "TITRE",
+          "type": "TITRE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1478.asp#D_visant_a_renforcer_la_solidarite_enver"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;la fin du titre, substituer au mot&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;pauvres&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;riches, d&#x00E9;tenant un patrimoine immobilier&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>La commission des affaires sociales a adopt&#x00E9; un amendement visant &#x00E0; mettre fin &#x00E0; la r&#x00E9;cup&#x00E9;ration sur succession de l&#x2019;Aspa. Cette mesure favoriserait ainsi les retrait&#x00E9;s les plus riches, d&#x00E9;tenant un patrimoine immobilier. Si tel est l&#x2019;objectif poursuivi, il appartient de renommer la proposition de loi en cons&#x00E9;quence.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-06-02",
+        "datePublication": "2026-06-11",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": "2026-06-11T10:22:42+02:00",
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1478P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30682",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478",
+  "directory_json_file_count": 15,
+  "ignored_json_files_count": 14,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51981/PIONANR5L17BTC1478/AMANR5L17PO838901BTC1478P0D1N000015.json"
+  ]
+}

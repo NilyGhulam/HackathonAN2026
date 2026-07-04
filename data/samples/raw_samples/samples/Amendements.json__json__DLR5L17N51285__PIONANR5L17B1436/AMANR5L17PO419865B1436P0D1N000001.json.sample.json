@@ -1,0 +1,200 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419865B1436P0D1N000001",
+      "chronotag": "1771949095600",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CD1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-DVP",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419865B1436P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1436",
+      "triAmendement": "daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719890",
+          "groupePolitiqueRef": "PO845407",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Brulebois"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "ART. 2",
+          "articleDesignation": "ARTICLE 2",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1436.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;diger ainsi cet article&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;La section 2 du chapitre I<sup>er</sup> du du titre IV du livre V du code de l&#x2019;environnement est ainsi modifi&#x00E9;e&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;Le 4&#x00B0; de l&#x2019;article&nbsp;L.&nbsp;541&#x2011;10&#x2011;1 est ainsi modifi&#x00E9;&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>a)</i>&nbsp;&#x00C0; la premi&#x00E8;re phrase, les mots&nbsp;:&nbsp;&#x00AB;&nbsp;sans frais&nbsp;&#x00BB; sont remplac&#x00E9;s par les mots&nbsp;:&nbsp;&#x00AB;&nbsp;dans des conditions d&#x00E9;termin&#x00E9;es par d&#x00E9;cret en Conseil d&#x2019;&#x00C9;tat&nbsp;&#x00BB;&nbsp;;&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>b)</i>&nbsp;La seconde phrase est ainsi r&#x00E9;dig&#x00E9;e&nbsp;:&nbsp;&#x00AB;&nbsp;Ce d&#x00E9;cret d&#x00E9;finit les modalit&#x00E9;s d&#x2019;application du pr&#x00E9;sent 4&#x00B0; notamment en distinguant, pour ce qui est des frais aff&#x00E9;rents &#x00E0; la reprise, les produits consid&#x00E9;r&#x00E9;s comme matures du point de vue de l&#x2019;&#x00E9;conomie circulaire et les produits qui ne le sont pas et en pr&#x00E9;cisant les conditions minimales du maillage des points de reprise.&nbsp;&#x00BB;&nbsp;;&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;La premi&#x00E8;re phrase du premier alin&#x00E9;a de l&#x2019;article&nbsp;L.&nbsp;541&#x2011;10&#x2011;23 est ainsi modifi&#x00E9;e&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>a)</i>&nbsp;Apr&#x00E8;s le mot&nbsp;: &#x00AB;&nbsp;notamment&nbsp;&#x00BB;, sont ins&#x00E9;r&#x00E9;s les mots&nbsp;: &#x00AB;&nbsp;,&nbsp;en partie ou en totalit&#x00E9;,&nbsp;&#x00BB;&nbsp;;&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>b)</i>&nbsp;Apr&#x00E8;s le mot&nbsp;: &#x00AB;&nbsp;d&#x00E9;molition&nbsp;&#x00BB;, la fin est ainsi r&#x00E9;dig&#x00E9;e&nbsp;: &#x00AB;&nbsp;issus des produits non matures au sens du d&#x00E9;cret mentionn&#x00E9; au&nbsp;m&#x00EA;me 4&#x00B0;.&nbsp;&#x00BB;&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">La proposition de loi, telle qu&#x2019;adopt&#x00E9;e par le S&#x00E9;nat, introduit &#x00E0; son article&nbsp;2 un m&#x00E9;canisme d&#x2019;abattement param&#x00E9;trique visant &#x00E0; r&#x00E9;partir les charges entre les mat&#x00E9;riaux en fonction de leur performance en mati&#x00E8;re de valorisation des d&#x00E9;chets. Si cette approche peut sembler &#x00E9;quilibr&#x00E9;e en th&#x00E9;orie, elle ne r&#x00E9;pond qu&#x2019;imparfaitement aux d&#x00E9;s&#x00E9;quilibres structurels qui p&#x00E8;sent sur la fili&#x00E8;re bois.</p><p style=\"text-align: justify;\">En effet, ce dispositif se contente d&#x2019;ajuster les effets d&#x2019;un syst&#x00E8;me inadapt&#x00E9;, sans en corriger les causes profondes. La fili&#x00E8;re bois, d&#x00E9;j&#x00E0; engag&#x00E9;e dans une d&#x00E9;marche vertueuse de valorisation de ses d&#x00E9;chets, se voit imposer une &#x00E9;cocontribution disproportionn&#x00E9;e, calcul&#x00E9;e sur la base d&#x2019;une obligation de reprise sans frais qui ne tient pas compte des canaux de valorisation existants. Cette situation cr&#x00E9;e une distorsion &#x00E9;conomique, o&#x00F9; le bois finance des co&#x00FB;ts qui ne refl&#x00E8;tent ni ses besoins r&#x00E9;els ni les b&#x00E9;n&#x00E9;fices environnementaux qu&#x2019;il g&#x00E9;n&#x00E8;re.</p><p style=\"text-align: justify;\">Par ailleurs, le m&#x00E9;canisme d&#x2019;abattement propos&#x00E9; maintient la fili&#x00E8;re bois dans une d&#x00E9;pendance financi&#x00E8;re vis-&#x00E0;-vis des autres mat&#x00E9;riaux. Fond&#x00E9; sur une logique de p&#x00E9;r&#x00E9;quation, ce syst&#x00E8;me expose le bois &#x00E0; une fragilit&#x00E9; structurelle&nbsp;: tant que d&#x2019;autres mat&#x00E9;riaux, comme les plastiques ou les isolants, affichent des performances inf&#x00E9;rieures, ils contribuent au financement de la fili&#x00E8;re bois. Mais d&#x00E8;s qu&#x2019;ils am&#x00E9;lioreront leur taux de valorisation&nbsp;&#x2013;&nbsp;ce qui est l&#x2019;objectif m&#x00EA;me de la responsabilit&#x00E9; &#x00E9;largie du producteur (REP) &#x2013;, ce soutien s&#x2019;amenuisera m&#x00E9;caniquement, laissant le bois confront&#x00E9; &#x00E0; une hausse brutale de ses charges, sans transition ni solution p&#x00E9;renne.</p><p style=\"text-align: justify;\">Face &#x00E0; ces limites, le pr&#x00E9;sent amendement propose une r&#x00E9;forme syst&#x00E9;mique des r&#x00E8;gles de financement de la fili&#x00E8;re REP. Il s&#x2019;agit de traiter les c… [truncated 1265 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-19",
+        "datePublication": "2026-02-24",
+        "soumisArticle40": "true",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré après publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419865B1436P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "dc",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436",
+  "directory_json_file_count": 53,
+  "ignored_json_files_count": 52,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51285/PIONANR5L17B1436/AMANR5L17PO419865B1436P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC1021P0D1N000001",
+      "chronotag": "1757947588491",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC1021P0D1",
+      "texteLegislatifRef": "PNREANR5L17BTC1021",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720846",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Lachaud,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1021.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "31",
+            "alineaDesignation": "Après l'alinéa 31"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;31, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;4&nbsp;<i>bis</i>. Condamne l&#x2019;agressivit&#x00E9; et l&#x2019;escalade irresponsable vis-&#x00E0;-vis de l&#x2019;Alg&#x00E9;rie que s&#x2019;emploient &#x00E0; cr&#x00E9;er depuis des mois des responsables politiques fran&#x00E7;ais&nbsp;;&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Par cet amendement, les d&#x00E9;put&#x00E9;s LFI-NFP proposent de condamner la surench&#x00E8;re m&#x00E9;diatique et politique dans laquelle s&#x2019;inscrit cette proposition de r&#x00E9;solution. <br><br>La mobilisation des d&#x00E9;put&#x00E9;s macronistes, de droite et d&#x2019;extr&#x00EA;me droite en France pour la lib&#x00E9;ration de Boualem Sansal n&#x2019;est pas sans arri&#x00E8;res pens&#x00E9;es. En effet, elle n&#x2019;est pas motiv&#x00E9;e par la d&#x00E9;fense des droits humains et de la libert&#x00E9; d&#x2019;expression en Alg&#x00E9;rie mais s&#x2019;inscrit bien dans une man&#x0153;uvre politique d&#x00E9;clench&#x00E9;e par le gouvernement fran&#x00E7;ais pour accro&#x00EE;tre les tensions avec Alger afin de stigmatiser des millions d'Alg&#x00E9;riens, de binationaux et de Fran&#x00E7;ais d'origine alg&#x00E9;rienne. <br><br>Par cet amendement, les d&#x00E9;put&#x00E9;s LFI-NFP, attach&#x00E9;s &#x00E0; la libert&#x00E9; d&#x2019;expression et aux droits des opposants politiques partout dans le monde, veulent r&#x00E9;affirmer leur soutien &#x00E0; la lib&#x00E9;ration de Boualem Sansal tout en se d&#x00E9;solidarisant de la man&#x0153;uvre grossi&#x00E8;re des auteurs de cette proposition de r&#x00E9;solution visant &#x00E0; provoquer une crise ouverte avec le gouvernement alg&#x00E9;rien.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-04-29",
+        "datePublication": "2025-05-06",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-05-06T17:19:10+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC1021P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021",
+  "directory_json_file_count": 25,
+  "ignored_json_files_count": 24,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N51375/PNREANR5L17BTC1021/AMANR5L17PO838901BTC1021P0D1N000023.json"
+  ]
+}

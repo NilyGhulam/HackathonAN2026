@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000004.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2365P0D1N000004",
+      "chronotag": "1769700033324",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "4",
+        "numeroOrdreDepot": "4",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2365P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2365",
+      "triAmendement": "aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaapi",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA608016",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA346782",
+            "PA722390",
+            "PA643104",
+            {
+              "__truncated_items__": 2
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Louwagie,  M.&#160;Juvin, Mme&#160;Corneloup, Mme&#160;Minard, Mme&#160;Bonnivard et Mme&#160;Bazin-Malgras"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2365.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "11",
+            "alineaDesignation": "Alinéa 11"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;&#x00C0; la premi&#x00E8;re phrase de l&#x2019;alin&#x00E9;a&nbsp;11, apr&#x00E8;s le mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;ans&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;conjointement&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, &#x00E0; la m&#x00EA;me premi&#x00E8;re phrase du m&#x00EA;me alin&#x00E9;a&nbsp;11, apr&#x00E8;s le mot&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;services&nbsp;&#x00BB;,&nbsp;</p><p style=\"text-align: justify;\">ins&#x00E9;rer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;du d&#x00E9;partement&nbsp;et ceux&nbsp;&#x00BB;.</p><p style=\"text-align: justify;\">III.&nbsp;&#x2013;&nbsp;En cons&#x00E9;quence, &#x00E0; la seconde phrase dudit alin&#x00E9;a&nbsp;11, supprimer les mots&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;ainsi que leur coordination avec ceux effectu&#x00E9;s par le d&#x00E9;partement&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le texte pr&#x00E9;voit des contr&#x00F4;les au moins tous les trois ans, r&#x00E9;alis&#x00E9;s d&#x2019;une part par les d&#x00E9;partements, et d&#x2019;autre part par l&#x2019;&#x00C9;tat (pr&#x00E9;fectures).<br>&nbsp;<br>Pour davantage d&#x2019;efficacit&#x00E9;, lorsque les contr&#x00F4;les sont &#x00E0; l&#x2019;initiative de l&#x2019;&#x00C9;tat, ils doivent &#x00EA;tre r&#x00E9;alis&#x00E9;s conjointement avec les d&#x00E9;partements. <br>&nbsp;<br>En effet, les services de l&#x2019;&#x00C9;tat&nbsp;d&#x00E9;concentr&#x00E9; n&#x2019;ont pas les comp&#x00E9;tences ni les moyens pour effectuer seuls ces contr&#x00F4;les et &#x00E9;valuer la qualit&#x00E9; de prise en charge.<br>&nbsp;<br>A l&#x2019;inverse, des contr&#x00F4;les conjoints et coordonn&#x00E9;es permettront d&#x2019;atteindre l&#x2019;objectif d&#x2019;am&#x00E9;lioration de l&#x2019;accueil, en permettant une meilleure r&#x00E9;activit&#x00E9; des D&#x00E9;partements pour rem&#x00E9;dier aux difficult&#x00E9;s constat&#x00E9;es lors des contr&#x00F4;les. Plut&#x00F4;t que d&#x2019;afficher un taux et une fr&#x00E9;quence de contr&#x00F4;le, il faut rechercher le meilleur suivi possible des recommandations voire des injonctions. Dans cette optique, mutualiser les actions sera source d&#x2019;efficacit&#x00E9;.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-23",
+        "datePublication": "2026-01-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Non soutenu"
+          }
+        },
+        "dateSort": "2026-01-29T16:20:22+01:00",
+        "sort": "Non soutenu"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2365P0D1N000004?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30186",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "36373",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365",
+  "directory_json_file_count": 111,
+  "ignored_json_files_count": 110,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N51655/PIONANR5L17BTC2365/AMANR5L17PO838901BTC2365P0D1N000024.json"
+  ]
+}

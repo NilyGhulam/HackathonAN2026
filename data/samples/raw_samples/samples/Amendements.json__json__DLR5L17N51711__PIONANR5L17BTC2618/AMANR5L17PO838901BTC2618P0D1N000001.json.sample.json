@@ -1,0 +1,195 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2618P0D1N000001",
+      "chronotag": "1775746292158",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2618P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2618",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadto",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794118",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Vermorel-Marques"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2618.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">&#x00C0;&nbsp;l&#x2019;alin&#x00E9;a&nbsp;2, substituer au montant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;5&nbsp;000&nbsp;euros&nbsp;&#x00BB;&nbsp;</p><p style=\"text-align: justify;\">le montant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;30&nbsp;000&nbsp;euros&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>La proposition de loi vise &#x00E0; renforcer la p&#x00E9;nalisation de l&#x2019;organisation de rassemblements musicaux illicites, commun&#x00E9;ment appel&#x00E9;s rave-parties, qui engendrent des risques importants pour la s&#x00E9;curit&#x00E9; des personnes, des biens, de l&#x2019;environnement ainsi que pour l&#x2019;ordre public. Ces &#x00E9;v&#x00E9;nements mobilisent en outre des moyens importants pour les forces de l&#x2019;ordre et les services de secours.</p><p>Toutefois, la peine d&#x2019;amende de 5 000 euros pr&#x00E9;vue par le texte appara&#x00EE;t insuffisamment dissuasive au regard de l&#x2019;ampleur de certains rassemblements, des moyens logistiques mobilis&#x00E9;s pour leur organisation et des profits qui peuvent en &#x00EA;tre tir&#x00E9;s.</p><p>Le pr&#x00E9;sent amendement vise donc &#x00E0; porter cette amende &#x00E0; 30 000 euros afin de renforcer le caract&#x00E8;re dissuasif de la sanction et de mieux lutter contre l&#x2019;organisation de ces rassemblements ill&#x00E9;gaux, tout en conservant une proportionnalit&#x00E9; de la peine au regard de la gravit&#x00E9; des faits.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-04-02",
+        "datePublication": "2026-04-07",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2026-04-09T16:51:23+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2618P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30441",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "idDiscussion": "37651",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618",
+  "directory_json_file_count": 88,
+  "ignored_json_files_count": 87,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51711/PIONANR5L17BTC2618/AMANR5L17PO838901BTC2618P0D1N000022.json"
+  ]
+}

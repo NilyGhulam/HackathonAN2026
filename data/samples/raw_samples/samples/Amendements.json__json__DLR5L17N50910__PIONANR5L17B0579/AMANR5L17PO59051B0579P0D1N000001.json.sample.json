@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B0579P0D1N000001",
+      "chronotag": "1739874678420",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B0579P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0579",
+      "triAmendement": "paaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721932",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793844",
+            "PA793374",
+            "PA794886",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Lorho,  Mme&#160;Bordes, M.&#160;Baubry, Mme&#160;Blanc, Mme&#160;Diaz, M.&#160;Gery, M.&#160;Gillet, Mme&#160;Griseti, M.&#160;Guitton, M.&#160;Lopez-Liguori, M.&#160;Bryan&#160;Masson, M.&#160;Rancoule, Mme&#160;Roullaud, M.&#160;Schreck, M.&#160;Taverne et M.&#160;Villedieu"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 5",
+          "articleDesignationCourte": "APRÈS ART. 5",
+          "articleDesignation": "APRÈS L'ARTICLE 5, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0579.asp#D_Article_5"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Dans un d&#x00E9;lai de six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport dressant un bilan annuel des actes de malveillance perp&#x00E9;tr&#x00E9;s &#x00E0; l&#x2019;encontre des activit&#x00E9;s agricoles, cyn&#x00E9;g&#x00E9;tiques, d&#x2019;abattage ou de commerce de produits d&#x2019;origine animale.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>L'ampleur et le nombre &#x00E9;lev&#x00E9; des actions men&#x00E9;s &#x00E0; l'encontre des exploitations agricoles avaient encourag&#x00E9; le gouvernement &#x00E0; mettre en place, en 2019, des \"observatoires d&#x00E9;partementaux de l'agribashing\" destin&#x00E9;s &#x00E0; disposer d'un &#x00E9;tat des lieux exhaustif des probl&#x00E9;matiques de s&#x00E9;curit&#x00E9; rencontr&#x00E9;es par les agriculteurs et ce afin \"d&#x2019;&#x00E9;laborer des solutions communes, efficaces et concert&#x00E9;es\". Cette initiative int&#x00E9;ressante devrait &#x00E0; notre sens &#x00EA;tre &#x00E9;largie &#x00E0; l'ensemble des activit&#x00E9;s vis&#x00E9;es par cette proposition de loi, notamment les activit&#x00E9;s cyn&#x00E9;g&#x00E9;tiques.&nbsp;</p><p>Le pr&#x00E9;sent amendement vise dans cette perspective &#x00E0; dresser un rapport annuel de l'ensemble des actes de malveillances men&#x00E9;es &#x00E0; l'encontre des activit&#x00E9;s vis&#x00E9;es par la pr&#x00E9;sente proposition de loi, de mani&#x00E8;re &#x00E0; dresser un &#x00E9;tat des lieux annuel exhaustif des d&#x00E9;gradations commises et d'y apporter des solutions.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-23",
+        "datePublication": "2025-01-29",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2025-01-29T16:20:00+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B0579P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "zzzz",
+        "divisionCodeLoi": "bilan actes malveillance"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579",
+  "directory_json_file_count": 44,
+  "ignored_json_files_count": 43,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000022.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000023.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000024.json",
+    "Amendements.json/json/DLR5L17N50910/PIONANR5L17B0579/AMANR5L17PO59051B0579P0D1N000025.json"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B2401P0D1N000001",
+      "chronotag": "1770295083540",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B2401P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2401",
+      "triAmendement": "paaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720386",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA774954",
+            "PA719968",
+            "PA330008",
+            {
+              "__truncated_items__": 4
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Di&#160;Filippo,  Mme&#160;Blin, Mme&#160;Sylvie&#160;Bonnet, M.&#160;Breton, M.&#160;Brigand, M.&#160;Duparay, M.&#160;Ray et M.&#160;Hetzel"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "relative au droit à l’aide à mourir",
+          "articleDesignationCourte": "TITRE",
+          "articleDesignation": "TITRE",
+          "type": "TITRE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2401.asp#D_relative_au_droit_a_laide_a_mourir"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Au titre de la proposition de loi, substituer aux mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;aide &#x00E0; mourir&nbsp;&#x00BB;</p><p style=\"text-align: justify;\">les mots&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;euthanasie et au suicide assist&#x00E9;&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cette proposition de loi vise &#x00E0; l&#x00E9;galiser le suicide assist&#x00E9; et l&#x2019;euthanasie. M&#x00EA;me si, comme l&#x2019;a soulign&#x00E9; la pr&#x00E9;sidente de la Soci&#x00E9;t&#x00E9; Fran&#x00E7;aise des Soins Palliatifs (SFAP), &#x00AB;&nbsp;le geste est (&#x2026;) peut-&#x00EA;tre trop difficile pour pouvoir &#x00EA;tre nomm&#x00E9; et assum&#x00E9; politiquement.&nbsp;&#x00BB;, il est essentiel d&#x2019;indiquer clairement les objectifs de ce texte. Cet amendement vise donc &#x00E0; faire preuve d&#x2019;honn&#x00EA;tet&#x00E9; et &#x00E0; ne pas dissimuler la r&#x00E9;alit&#x00E9; des actes qui seront pos&#x00E9;s afin de provoquer la fin de la vie, &#x00E0; savoir l&#x2019;administration par un praticien d&#x2019;un m&#x00E9;dicament qui entra&#x00EE;ne le d&#x00E9;c&#x00E8;s du malade, ou la remise par un praticien d&#x2019;un m&#x00E9;dicament que le malade peut s&#x2019;autoadministrer pour mourir.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-29",
+        "datePublication": "2026-02-03",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-02-05T13:37:53+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B2401P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "idDiscussion": "36631",
+        "typePosition": "Dernier"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401",
+  "directory_json_file_count": 705,
+  "ignored_json_files_count": 704,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51670/PIONANR5L17B2401/AMANR5L17PO420120B2401P0D1N000021.json"
+  ]
+}

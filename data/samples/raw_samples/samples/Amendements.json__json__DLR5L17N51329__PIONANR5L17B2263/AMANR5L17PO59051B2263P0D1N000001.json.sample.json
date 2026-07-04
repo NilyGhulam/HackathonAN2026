@@ -1,0 +1,196 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2263P0D1N000001",
+      "chronotag": "1772013535397",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2263P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2263",
+      "triAmendement": "aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794734",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793844",
+            "PA793374",
+            "PA794886",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Guiniot,  Mme&#160;Bordes, M.&#160;Baubry, Mme&#160;Blanc, M.&#160;Gery, M.&#160;Gillet, Mme&#160;Griseti, M.&#160;Guitton, Mme&#160;Lelouis, Mme&#160;Levavasseur, Mme&#160;Lorho, M.&#160;Bryan&#160;Masson, Mme&#160;Pollet, M.&#160;Rancoule, M.&#160;Schreck, M.&#160;Taverne et M.&#160;Villedieu"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 1er A",
+          "articleDesignationCourte": "ART. 1ER A",
+          "articleDesignation": "ARTICLE 1ER A",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2263.asp#D_Article_1er_A"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "5",
+            "alineaDesignation": "Alinéa 5"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Substituer aux alin&#x00E9;as 5 &#x00E0; 7 l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Cette transmission concerne&nbsp;les immeubles mentionn&#x00E9;s &#x00E0; l&#x2019;article&nbsp;L.&nbsp;1123&#x2011;1.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; clarifier le propos du nouvel article 1er A.</p><p>L'article L. 1123-1 du code g&#x00E9;n&#x00E9;ral de la propri&#x00E9;t&#x00E9; des personnes publiques vise deux cat&#x00E9;gories d'immeubles, et ces deux cat&#x00E9;gories d'immeubles sont list&#x00E9;es aux alin&#x00E9;as 6 et 7.</p><p>Cet amendement vise donc &#x00E0; pr&#x00E9;ciser le propos en visant, en une fois, tous les immeubles mentionn&#x00E9;s &#x00E0; l'article L. 1123-1 puisque c'est effectivement le cas dans la r&#x00E9;daction issue du S&#x00E9;nat.</p><p>De plus, la formulation de l'alin&#x00E9;a 6 ne saurait &#x00EA;tre ad&#x00E9;quate. Elle vise des immeubles qui ne peuvent &#x00EA;tre identifi&#x00E9;s ni en vie puisqu'il s'agit du cas des successions vacantes depuis plus de 30 ans et dans lesquelles aucun successible ne s'est pr&#x00E9;sent&#x00E9;.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-02-20",
+        "datePublication": "2026-02-24",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-02-25T10:58:53+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2263P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263",
+  "directory_json_file_count": 16,
+  "ignored_json_files_count": 15,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51329/PIONANR5L17B2263/AMANR5L17PO59051B2263P0D1N000017.json"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59051B2804P0D1N000001",
+      "chronotag": "1779208378459",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CL1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_LOIS",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59051B2804P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2804",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA720846",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Lachaud,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, Mme&#160;Bentorki, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2804.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement de suppression, nous nous opposons au d&#x00E9;gel partiel du corps &#x00E9;lectoral pour les &#x00E9;lections au congr&#x00E8;s et aux assembl&#x00E9;es de province de la Kanaky-Nouvelle-Cal&#x00E9;donie dans le cadre et le calendrier ici impos&#x00E9;s par le Gouvernement.</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent article propose d'ajouter au corps &#x00E9;lectoral des &#x00E9;lections provinciales les personnes n&#x00E9;es en Kanany-Nouvelle-Cal&#x00E9;donie et inscrites sur la liste &#x00E9;lectorale g&#x00E9;n&#x00E9;rale &#x00E0; la date de l'&#x00E9;lection.</p><p style=\"text-align: justify;\">Le Gouvernement a &#x00E9;chou&#x00E9; &#x00E0; plusieurs reprises &#x00E0; l&#x00E9;gif&#x00E9;rer sur l'avenir institutionnel de la Kanaky-Nouvelle-Cal&#x00E9;donie. Le d&#x00E9;gel partiel du corps &#x00E9;lectoral impos&#x00E9; en mai 2024 malgr&#x00E9; l'opposition des ind&#x00E9;pendantistes a men&#x00E9; aux r&#x00E9;voltes populaires et &#x00E0; l'abandon du texte, la r&#x00E9;forme constitutionnelle du projet de Bougival a &#x00E9;t&#x00E9; rejet&#x00E9;e en avril dernier par une motion de rejet lors de la premi&#x00E8;re lecture &#x00E0; l'Assembl&#x00E9;e nationale.</p><p style=\"text-align: justify;\">Nous le r&#x00E9;p&#x00E9;terons autant de fois qu'il le faudra : l'avenir institutionnel du Caillou ne peut passer que par un accord global qui fait consensus entre les partenaires historiques. Le texte qui nous est ici propos&#x00E9; ne respecte ni l'une ni l'autre de ces conditions. Le calendrier impos&#x00E9; par la mise &#x00E0; l'ordre du jour de ce texte n'est pas s&#x00E9;rieux, c'est une ultime tentative de passage en force du Gouvernement &#x00E0; 1 mois et quelques des &#x00E9;lections. Pourtant, le corps &#x00E9;lectoral actuel a &#x00E9;t&#x00E9; jug&#x00E9; conforme &#x00E0; la Constitution l'an dernier par le Conseil constitutionnel, il n'y a donc pas d'urgence.</p><p style=\"text-align: justify;\">Les Cal&#x00E9;doniens vont enfin pouvoir s'exprimer par les urnes le 28 juin prochain, ne sabotez pas ce moment par un bricolage de derni&#x00E8;re minute qui ne satisfait personne.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-19",
+        "datePublication": "2026-05-19",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-19T18:32:51+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59051B2804P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804",
+  "directory_json_file_count": 13,
+  "ignored_json_files_count": 12,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52104/PIONANR5L17B2804/AMANR5L17PO59051B2804P0D1N000013.json"
+  ]
+}

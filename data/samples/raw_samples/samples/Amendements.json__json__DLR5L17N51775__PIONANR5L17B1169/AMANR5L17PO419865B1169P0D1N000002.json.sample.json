@@ -1,0 +1,192 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000002.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419865B1169P0D1N000002",
+      "chronotag": "1779871872646",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CD2",
+        "numeroOrdreDepot": "2",
+        "prefixeOrganeExamen": "CION-DVP",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419865B1169P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1169",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacs",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA794118",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": "PA794114"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Vermorel-Marques et M.&#160;Mandon"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1169.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "2",
+            "alineaDesignation": "Après l'alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">I.&nbsp;&#x2013;&nbsp;Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;2, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;1&#x00B0;&nbsp;<i>bis</i>&nbsp;Le sixi&#x00E8;me alin&#x00E9;a est compl&#x00E9;t&#x00E9; par une phrase ainsi r&#x00E9;dig&#x00E9;e&nbsp;:&nbsp;&#x00AB;&nbsp;Cette interdiction ne s&#x2019;applique pas aux contenants alimentaires de cuisson, de r&#x00E9;chauffage et de service compos&#x00E9;s de polym&#x00E8;res biosourc&#x00E9;s, notamment de polyacide lactique, d&#x00E8;s lors qu&#x2019;ils sont aptes au contact alimentaire, con&#x00E7;us pour &#x00EA;tre recyclables et effectivement int&#x00E9;gr&#x00E9;s &#x00E0; une fili&#x00E8;re de recyclage m&#x00E9;canique ou chimique conforme aux exigences pr&#x00E9;vues par le r&#x00E8;glement (UE) 2025/40 du Parlement europ&#x00E9;en et du Conseil du&nbsp;19&nbsp;d&#x00E9;cembre&nbsp;2024 relatif aux emballages et aux d&#x00E9;chets d&#x2019;emballages, modifiant le r&#x00E8;glement (UE) 2019/1020 et la directive (UE) 2019/904, et abrogeant la directive 94/62/CE.&nbsp;&#x00BB;&nbsp;;&nbsp;&#x00BB;.&nbsp;</p><p style=\"text-align: justify;\">II.&nbsp;&#x2013;&nbsp;Compl&#x00E9;ter cet article par l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;3&#x00B0;&nbsp;Le vingti&#x00E8;me alin&#x00E9;a est compl&#x00E9;t&#x00E9; par une phrase ainsi r&#x00E9;dig&#x00E9;e&nbsp;:&nbsp;&#x00AB;&nbsp;Cette interdiction ne s&#x2019;applique pas aux contenants alimentaires de cuisson, de r&#x00E9;chauffage et de service compos&#x00E9;s de polym&#x00E8;res biosourc&#x00E9;s, notamment de polyacide lactique, d&#x00E8;s lors qu&#x2019;ils sont aptes au contact alimentaire, con&#x00E7;us pour &#x00EA;tre recyclables et effectivement int&#x00E9;gr&#x00E9;s &#x00E0; une fili&#x00E8;re de recyclage m&#x00E9;canique ou chimique conforme aux exigences pr&#x00E9;vues par le r&#x00E8;glement (UE) 2025/40 du Parlement europ&#x00E9;en et du Conseil du&nbsp;19&nbsp;d&#x00E9;cembre&nbsp;2024 relatif aux emballages et aux d&#x00E9;chets d&#x2019;emballages, modifiant le r&#x00E8;glement (UE) 2019/1020 et la directive (UE) 2019/904, et abrogeant la directive 94/62/CE.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">La proposition de loi vise &#x00E0; s&#x00E9;curiser juridiquement l&#x2019;interdiction des contenants alimentaires en plastique dans les services de restauration collective accueillant du jeune public et dans les structures li&#x00E9;es &#x00E0; la petite enfance, en pr&#x00E9;cisant que cette interdiction inclut notamment les gobelets, assiettes, r&#x00E9;cipients et couverts en plastique.&nbsp;</p><p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement propose d&#x2019;introduire une d&#x00E9;rogation strictement encadr&#x00E9;e pour les contenants compos&#x00E9;s de polym&#x00E8;res biosourc&#x00E9;s, tels que le polyacide lactique, &#x00E0; condition qu&#x2019;ils soient aptes au contact alimentaire, con&#x00E7;us pour &#x00EA;tre recyclables et effectivement int&#x00E9;gr&#x00E9;s &#x00E0; une fili&#x00E8;re de recyclage m&#x00E9;canique ou chimique.</p><p style=\"text-align: justify;\">Il ne s&#x2019;agit pas de remettre en cause l&#x2019;objectif de r&#x00E9;duction de l&#x2019;exposition des enfants aux plastiques, ni de r&#x00E9;autoriser indistinctement les contenants plastiques conventionnels. Il s&#x2019;agit au contraire d&#x2019;accompagner l&#x2019;innovation industrielle et la transition vers des mat&#x00E9;riaux biosourc&#x00E9;s, d&#x00E8;s lors que leur fin de vie est organis&#x00E9;e dans une logique d&#x2019;&#x00E9;conomie circulaire.</p><p style=\"text-align: justify;\">Cette r&#x00E9;daction s&#x2019;inscrit dans le cadre du r&#x00E8;glement europ&#x00E9;en PPWR, qui renforce les exigences de recyclabilit&#x00E9;, d&#x2019;&#x00E9;coconception et de recyclage effectif des emballages &#x00E0; l&#x2019;&#x00E9;chelle europ&#x00E9;enne. Le r&#x00E8;glement pr&#x00E9;voit notamment une harmonisation des r&#x00E8;gles applicables aux emballages et d&#x00E9;chets d&#x2019;emballages, ainsi qu&#x2019;une exigence de recyclabilit&#x00E9; g&#x00E9;n&#x00E9;ralis&#x00E9;e.&nbsp;</p><p style=\"text-align: justify;\">L&#x2019;amendement permet donc de concilier trois objectifs&nbsp;: la protection de la sant&#x00E9; des enfants, la r&#x00E9;duction de l&#x2019;empreinte environnementale des contenants utilis&#x00E9;s en restauration collective et le soutien aux fili&#x00E8;res industrielles capables de proposer des alternatives biosourc&#x00E9;es et recyclables.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-05-21",
+        "datePublication": "2026-05-26",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2026-05-27T10:50:54+02:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419865B1169P0D1N000002?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "2.1",
+        "divisionCodeLoi": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169",
+  "directory_json_file_count": 19,
+  "ignored_json_files_count": 18,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51775/PIONANR5L17B1169/AMANR5L17PO419865B1169P0D1N000020.json"
+  ]
+}

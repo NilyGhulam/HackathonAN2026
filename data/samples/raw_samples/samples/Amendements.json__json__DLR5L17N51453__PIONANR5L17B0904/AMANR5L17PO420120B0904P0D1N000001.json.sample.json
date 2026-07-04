@@ -1,0 +1,195 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0904P0D1N000001",
+      "chronotag": "1741024945824",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0904P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0904",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA1567",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 5
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Guedj,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, M.&#160;Delaporte, Mme&#160;Dombre&#160;Coste, Mme&#160;Godard, Mme&#160;Runel et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0904.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": "Retiré avant publication.",
+        "contenuAuteur": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-17",
+        "datePublication": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "RT",
+            "libelle": "Retiré"
+          },
+          "sousEtat": {
+            "code": "RT",
+            "libelle": "Retiré avant publication"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0904P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904",
+  "directory_json_file_count": 51,
+  "ignored_json_files_count": 50,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51453/PIONANR5L17B0904/AMANR5L17PO420120B0904P0D1N000021.json"
+  ]
+}

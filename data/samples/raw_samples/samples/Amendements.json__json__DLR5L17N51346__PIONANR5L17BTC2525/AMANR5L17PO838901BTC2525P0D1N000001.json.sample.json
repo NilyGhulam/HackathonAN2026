@@ -1,0 +1,176 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51346/PIONANR5L17BTC2525/AMANR5L17PO838901BTC2525P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2525P0D1N000001",
+      "chronotag": "1774515750851",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2525P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2525",
+      "triAmendement": "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795844",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Erodi,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Ratenon, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2 bis",
+          "articleDesignationCourte": "ART. 2 BIS",
+          "articleDesignation": "ARTICLE 2 BIS",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2525.asp#D_Articles_2_et_2_bis"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">R&#x00E9;tablir cet article dans la r&#x00E9;daction suivante&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;Dans un d&#x00E9;lai de six mois &#x00E0; compter de la promulgation de la pr&#x00E9;sente loi, le Gouvernement remet au Parlement un rapport portant sur les risques psycho-sociaux auxquels sont expos&#x00E9;s les personnels des services d&#x00E9;partementaux d&#x2019;incendie et de secours. Ce rapport porte une attention particuli&#x00E8;re aux probl&#x00E9;matiques sp&#x00E9;cifiques des personnels du service de sant&#x00E9; et de secours m&#x00E9;dical. Il investigue les liens de causalit&#x00E9; pouvant &#x00EA;tre mis en &#x00E9;vidence entre la diminution des moyens d&#x00E9;volus &#x00E0; la s&#x00E9;curit&#x00E9; civile et &#x00E0; ses acteurs, la hausse du volume des interventions et son niveau relatif par sapeur-pompier et l&#x2019;&#x00E9;tat de bien-&#x00EA;tre mental des personnels en question. Ce rapport traite des risques psychologiques associ&#x00E9;s &#x00E0; la survenue de maladies professionnelles ainsi que des &#x00E9;tats de stress post-traumatique r&#x00E9;sultant de l&#x2019;exercice des missions des personnels. Pour finir, il propose des pistes d&#x2019;am&#x00E9;lioration en d&#x00E9;butant par un exercice prospectif relatif &#x00E0; l&#x2019;extension des missions et &#x00E0; la hausse des moyens d&#x00E9;volus aux psychologues des services d&#x00E9;partementaux d&#x2019;incendie et de secours tout en consid&#x00E9;rant une hausse de leurs effectifs et une meilleure r&#x00E9;partition territoriale.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement, le groupe La France insoumise propose de r&#x00E9;tablir l&#x2019;article&nbsp;2&nbsp;<i>bis</i> et souhaite alerter sur les risques psychosociaux auxquels sont expos&#x00E9;s les personnels des SDIS, a fortiori les personnels de sant&#x00E9;.</p><p style=\"text-align: justify;\">Les parlementaires insoumis alertent sur ce sujet depuis de nombreuses ann&#x00E9;es. Le d&#x00E9;put&#x00E9; Florian Chauche l&#x2019;avait fait lors de la pr&#x00E9;c&#x00E9;dente l&#x00E9;gislature. Le d&#x00E9;put&#x00E9; Damien Maudet, rapporteur sp&#x00E9;cial sur la mission &#x00AB;&nbsp;S&#x00E9;curit&#x00E9; civile&nbsp;&#x00BB; du projet de loi de finances pour 2026 a r&#x00E9;it&#x00E9;r&#x00E9; cette alerte &#x00E0; l&#x2019;automne 2025.</p><p style=\"text-align: justify;\">Malgr&#x00E9; les promesses r&#x00E9;p&#x00E9;t&#x00E9;es (et trahies) des ministres de l&#x2019;Int&#x00E9;rieur, notamment de G&#x00E9;rald Darmanin, et la tenue du &#x00AB;&nbsp;Beauvau de la s&#x00E9;curit&#x00E9; civile&nbsp;&#x00BB;, ce sujet reste n&#x00E9;glig&#x00E9;.</p><p style=\"text-align: justify;\">La mise sous pression des personnels des SDIS prend de nombreuses formes. Cela les expose &#x00E0; des risques professionnels, notamment psycho-sociaux, y compris pour les sapeurs pompiers volontaires.</p><p style=\"text-align: justify;\">Des sapeurs pompiers sont r&#x00E9;guli&#x00E8;rement bless&#x00E9;s ou d&#x00E9;c&#x00E8;dent lors d&#x2019;interventions. Ce caract&#x00E8;re risqu&#x00E9; de l&#x2019;activit&#x00E9; est bien connu du grand public et figure d&#x2019;ailleurs dans la devise de la brigade des sapeurs pompiers de Paris&nbsp;: &#x00AB;&nbsp;sauver ou p&#x00E9;rir&nbsp;&#x00BB;. Nous regrettons le fait que les questions de sant&#x00E9; et de s&#x00E9;curit&#x00E9; des pr&#x00E8;s de 255&nbsp;000 sapeurs pompiers du pays sont tues.</p><p style=\"text-align: justify;\">Par cons&#x00E9;quent, les sapeurs pompiers sont particuli&#x00E8;rement &#x00E0; risque de se trouver en &#x00E9;tat de stress post traumatique. De l&#x2019;&#x00E9;tude r&#x00E9;alis&#x00E9;e par le Centre de recherche du service de sant&#x00E9; des arm&#x00E9;es et la cellule m&#x00E9;dico-psychologique de la brigade de sapeurs pompiers de Paris en 2005, il ressortait que 10,6&nbsp;% des sapeurs pompiers pr&#x00E9;sentaient un score fortement compatible avec l&#x2019;existence d&#x2019;un tel &#x00E9;tat de stress post traumatique. Nous pensons ici aux op&#x00E9;rate… [truncated 2831 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-03-23",
+        "datePublication": "2026-03-24",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Retiré"
+          }
+        },
+        "dateSort": "2026-03-26T10:02:18+01:00",
+        "sort": "Retiré"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2525P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2026IDS30403",
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51346/PIONANR5L17BTC2525",
+  "directory_json_file_count": 3,
+  "ignored_json_files_count": 2,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17BTC2525/AMANR5L17PO838901BTC2525P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17BTC2525/AMANR5L17PO838901BTC2525P0D1N000003.json"
+  ]
+}

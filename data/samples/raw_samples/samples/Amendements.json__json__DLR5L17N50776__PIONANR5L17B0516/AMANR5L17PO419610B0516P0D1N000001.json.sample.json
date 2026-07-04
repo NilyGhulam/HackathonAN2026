@@ -1,0 +1,186 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0516P0D1N000001",
+      "chronotag": "1739874675358",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0516P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0516",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793246",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841495",
+            "PA793238",
+            "PA642988",
+            {
+              "__truncated_items__": 12
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Falcon,  M.&#160;Amblard, M.&#160;Barth&#232;s, M.&#160;de&#160;L&#233;pinau, M.&#160;Gabarron, M.&#160;Golliot, Mme&#160;Grangier, Mme&#160;Laporte, Mme&#160;Lavalette, M.&#160;Le&#160;Bourgeois, M.&#160;Loubet, M.&#160;Patrice&#160;Martin, M.&#160;Meizonnet, M.&#160;Rivi&#232;re, M.&#160;Tivoli et M.&#160;Weber"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0516.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Cet amendement vise &#x00E0; supprimer l&#x2019;article 1 de cette proposition de loi, dont l&#x2019;objet est l&#x2019;acc&#x00E9;l&#x00E9;ration &#x00E0; marche forc&#x00E9;e de la r&#x00E9;novation &#x00E9;nerg&#x00E9;tique du parc immobilier, justifi&#x00E9;e par une &#x00E9;cologie punitive qui se fonde sur un outil aussi complexe qu&#x2019;il est peu fiable, voire frauduleux&nbsp;: le DPE, pour fixer le niveau de d&#x00E9;cence &#x00E9;nerg&#x00E9;tique d&#x2019;un logement, et ce alors que notre pays conna&#x00EE;t une p&#x00E9;nurie d&#x2019;artisans agr&#x00E9;&#x00E9;s, et que les co&#x00FB;ts des mati&#x00E8;res premi&#x00E8;res et les taux d&#x2019;int&#x00E9;r&#x00EA;t restent &#x00E9;lev&#x00E9;s.</p><p>L&#x2019;instauration du doublement du plafond de financement des projets fianc&#x00E9;s par MaPrimeR&#x00E9;nov d&#x00E9;montre le manque de pragmatisme qui fait la singularit&#x00E9; de cette proposition de loi, et ce alors que les tentatives de fraude pour l&#x2019;acc&#x00E8;s &#x00E0; ces aides ne cessent d&#x2019;augmenter, dans un contexte budg&#x00E9;taire restreint.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-11-28",
+        "datePublication": "2024-12-04",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Non soutenu"
+          }
+        },
+        "dateSort": "2024-12-04T13:00:47+01:00",
+        "sort": "Non soutenu"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0516P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516",
+  "directory_json_file_count": 10,
+  "ignored_json_files_count": 9,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50776/PIONANR5L17B0516/AMANR5L17PO419610B0516P0D1N000010.json"
+  ]
+}

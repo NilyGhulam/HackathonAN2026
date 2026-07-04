@@ -1,0 +1,203 @@
+{
+  "source_file": "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC2339P0D1N000001",
+      "chronotag": "1768900706778",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC2339P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC2339",
+      "triAmendement": "aoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA796106",
+          "groupePolitiqueRef": "PO845514",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795868",
+            "PA795820",
+            "PA720838",
+            {
+              "__truncated_items__": 13
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;B&#233;nard,  M.&#160;Castor, M.&#160;Nadeau, Mme&#160;Bourouaha, M.&#160;Brugerolles, Mme&#160;Faucillon, Mme&#160;K/Bidi, Mme&#160;Lebon, M.&#160;Lecoq, M.&#160;Maillot, M.&#160;Maurel, M.&#160;Monnet, M.&#160;Peu, Mme&#160;Reid&#160;Arbelot, M.&#160;Rimane, M.&#160;Sansu et M.&#160;Tjibaou"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2339.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">En ouvrant la&nbsp;possibilit&#x00E9; de suspendre l&#x2019;exercice du droit de gr&#x00E8;ve&nbsp;des personnels et agents &#x00AB;&nbsp;dont le concours est indispensable&nbsp;&#x00BB; au fonctionnement des services publics de transport terrestre r&#x00E9;gulier de personnes et aux&nbsp;services librement organis&#x00E9;s de transport ferroviaire de voyageurs pour des&nbsp;p&#x00E9;riodes continues de 7&nbsp;jours maximum, dans la limite de 30&nbsp;jours par an, le pr&#x00E9;sent article porte une atteinte disproportionn&#x00E9;e &#x00E0; l'exercice du droit de gr&#x00E8;ve. Alors que plusieurs dispositifs viennent d&#x00E9;j&#x00E0;&nbsp; fortement encadrer l&#x2019;exercice du droit de gr&#x00E8;ve dans les services publics de transports, cette offensive d&#x00E9;magogique contre un droit prot&#x00E9;g&#x00E9; par la constitution ne peut que d&#x00E9;grader un peu plus les conditions du dialogue social. Les auteurs de l'amendement y sont donc fermement oppos&#x00E9;s.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-16",
+        "datePublication": "2026-01-19",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "AC",
+            "libelle": "A discuter"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC2339P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "86217",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339",
+  "directory_json_file_count": 51,
+  "ignored_json_files_count": 50,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000002.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000003.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000004.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000005.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000007.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000008.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000009.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000010.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000011.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000012.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000013.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000014.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000015.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000016.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000017.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000018.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000019.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000020.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000021.json",
+    "Amendements.json/json/DLR5L16N49452/PIONANR5L17BTC2339/AMANR5L17PO838901BTC2339P0D1N000022.json"
+  ]
+}

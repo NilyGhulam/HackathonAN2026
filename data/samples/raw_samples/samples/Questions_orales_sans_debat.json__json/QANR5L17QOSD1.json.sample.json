@@ -1,0 +1,128 @@
+{
+  "source_file": "Questions_orales_sans_debat.json/json/QANR5L17QOSD1.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "question"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "question": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xsi:type": "QuestionOrale_Type",
+      "uid": "QANR5L17QOSD1",
+      "identifiant": {
+        "numero": "1",
+        "regime": "5eme Republique",
+        "legislature": "17"
+      },
+      "type": "QOSD",
+      "indexationAN": {
+        "rubrique": "gendarmerie",
+        "teteAnalyse": null,
+        "analyses": {
+          "analyse": "Nouvelles brigades de gendarmerie"
+        }
+      },
+      "auteur": {
+        "identite": {
+          "acteurRef": "PA720256",
+          "mandatRef": "PM843041"
+        },
+        "groupe": {
+          "organeRef": "PO845454",
+          "abrege": "DEM",
+          "developpe": "Les Démocrates"
+        }
+      },
+      "minInt": {
+        "organeRef": "PO847643",
+        "abrege": "Intérieur",
+        "developpe": "Ministère de l'intérieur"
+      },
+      "minAttribs": {
+        "minAttrib": {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2024-11-19",
+            "pageJO": null,
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "denomination": {
+            "organeRef": "PO847643",
+            "abrege": "Intérieur",
+            "developpe": "Ministère de l'intérieur"
+          }
+        }
+      },
+      "textesQuestion": {
+        "texteQuestion": {
+          "infoJO": {
+            "typeJO": "JO_QUESTION",
+            "dateJO": "2024-11-19",
+            "pageJO": null,
+            "numJO": "20240032",
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "texte": "Mme Géraldine Bannier interroge M. le ministre de l'intérieur sur la création de nouvelles brigades de gendarmerie. Dans son discours de politique générale, M. le Premier ministre a rappelé une réalité bien difficile mais sans appel : les policiers, gendarmes, pompiers, militaires, ceux qui font beaucoup avec peu, « assurent notre sécurité dans des conditions toujours plus dangereuses ». Les mots ont été rassurants pour les forces de l'ordre, avec une confirmation de la création de nouvelles brigades de gendarmerie ainsi qu'une réduction des procédures administratives afin d'augmenter leur temps de présence sur la voie publique. De fait, pour rappel, le 2 octobre 2023, c'est une carte intégrant 238 nouvelles brigades qui avait été dévoilée par le Président de la République. Certaines de ces brigades sont prévues pour être « mobiles » et destinées à prolonger l'action des gendarmes là où il n'y a pas de brigade fixe. Dans le département de la Mayenne, comme dans d'autres, la brigade annoncée va permettre un renforcement attendu contre une délinquance pour partie exogène et doit permettre aux militaires de recevoir des plaintes, faire du renseignement, au plus près des citoyens. Or la question sous-jacente, dans un contexte de restriction budgétaire inédit, est de savoir si ces brigades seront bien pourvues à hauteur des effectifs nouveaux annoncés. Les contraintes budgétaires font, de fait, craindre une réduction <em>a minima</em> des effectifs déployés pour ces brigades ou un redéploiement <em>in fine</em> des forces déjà présentes sur les territoires. Dès lors, elle lui demande de préciser avec quels effectifs se déploieront ces brigades annoncées et très attendues par les forces de l'ordre comme par les citoyens."
+        }
+      },
+      "textesReponse": {
+        "texteReponse": {
+          "infoJO": {
+            "typeJO": "JO_DEBAT",
+            "dateJO": "2024-11-27",
+            "pageJO": "7011",
+            "numJO": null,
+            "urlLegifrance": null,
+            "referenceNOR": null
+          },
+          "texte": "</p><p align=\"CENTER\"> GENDARMERIE <a name=PG19></a> </p><br><strong>Mme la présidente . </strong>La parole est à Mme Géraldine Bannier, pour exposer sa question, no 1, relative à la gendarmerie.<br><br><strong>Mme Géraldine Bannier . </strong>Dans son discours de politique générale, le premier ministre a rappelé une réalité difficile mais sans appel : les policiers, gendarmes, pompiers et militaires comptent parmi ceux qui font beaucoup avec peu et « assurent notre sécurité dans des conditions toujours plus dangereuses ». Ces mots ont été rassurants pour les forces de l'ordre. La création de nouvelles brigades de gendarmerie a été confirmée et une simplification des procédures a été annoncée, dans le but d'augmenter le temps de présence sur la voie publique. Pour rappel, le 2 octobre 2023, le président de la République avait dévoilé une carte de 238 nouvelles brigades de gendarmerie, dont certaines prévues pour être mobiles et pour prolonger l'action des gendarmes là où il n'y a pas de brigade fixe.<br><br>Dans mon département, comme dans d'autres, la brigade annoncée va permettre un renforcement attendu contre une délinquance pour partie exogène. Elle doit permettre aux militaires de recevoir des plaintes et de faire du renseignement au plus près des citoyens.<br><br>Dans un contexte de restrictions budgétaires inédit, reste à savoir si ces brigades disposeront bien des effectifs annoncés. Les contraintes budgétaires font craindre qu'ils soient réduits au minimum ou que soit décidé un redéploiement des forces existantes. Dès lors, pouvez-vous préciser avec quels effectifs se déploieront ces brigades annoncées, très attendues par les forces de l'ordre comme par nos concitoyens ?<br><br><strong>Mme la présidente . </strong>La parole est à M. le ministre délégué chargé de la sécurité du quotidien.<br><br><strong>M. Nicolas Daragon,</strong><i> ministre délégué chargé de la sécurité du quotidien . </i>Au 31 décembre prochain, les quatre-vingts premières brigades de gendarmerie annoncées auront été créées, dans soixante-quatre départements de métropole et dans huit départements ou collectivités d'outre-mer. Grâce à un maillage territorial fin, elles permettront le renforcement attendu de la présence de la gendarmerie et de l'offre de sécurité au plus près de la population.<br><br>Conscient des attentes fortes des élus, je vous assure de la volonté du ministère de l'intérieur de tenir les engagements pris et de mener à bien la création des 159 brigades restant… [truncated 1856 chars]"
+        }
+      },
+      "cloture": {
+        "codeCloture": "REP_PUB",
+        "libelleCloture": "Réponse publiée",
+        "dateCloture": "2024-11-27",
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2024-11-27",
+          "pageJO": "7011",
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        }
+      }
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Questions_orales_sans_debat.json/json",
+  "directory_json_file_count": 828,
+  "ignored_json_files_count": 827,
+  "ignored_json_files_preview": [
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD10.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD100.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD101.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD102.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD103.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD104.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD105.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD106.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD107.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD108.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD109.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD11.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD110.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD111.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD112.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD113.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD114.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD115.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD116.json",
+    "Questions_orales_sans_debat.json/json/QANR5L17QOSD117.json"
+  ]
+}

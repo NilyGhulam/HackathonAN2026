@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000002.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B1285P0D1N000002",
+      "chronotag": "1757948307465",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF2",
+        "numeroOrdreDepot": "2",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B1285P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B1285",
+      "triAmendement": "aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795778",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": "et les membres du groupe Rassemblement National",
+        "libelle": "M.&#160;Jean-Philippe&#160;Tanguy et les membres du groupe Rassemblement National"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article liminaire",
+          "articleDesignationCourte": "ART. LIMINAIRE",
+          "articleDesignation": "ARTICLE LIMINAIRE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1285.asp#D_Article_liminaire"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p>Le pr&#x00E9;sent amendement de suppression d&#x00E9;pos&#x00E9; par le groupe Rassemblement National vise &#x00E0; d&#x00E9;noncer un second d&#x00E9;rapage budg&#x00E9;taire en deux ans, absolument inacceptable au regard de la gravit&#x00E9; de la situation des finances publiques fran&#x00E7;aises.&nbsp;</p><p>Alors que le d&#x00E9;ficit public atteint 5,8 % du PIB en 2024 &#x2013; apr&#x00E8;s 5,4 % en 2023 &#x2013; aucun projet de loi de finances rectificative n&#x2019;a &#x00E9;t&#x00E9; pr&#x00E9;sent&#x00E9; pour en corriger les effets, et ce pour des raisons &#x00E9;lectorales.&nbsp;</p><p>Ce niveau de d&#x00E9;ficit, sup&#x00E9;rieur de 1,4 point &#x00E0; la trajectoire pr&#x00E9;vue par la loi de programmation des finances publiques, traduit une gestion incons&#x00E9;quente et un d&#x00E9;classement de la France en Europe.&nbsp;</p><p>Le solde structurel &#x00E0; -5,2 % t&#x00E9;moigne d&#x2019;un d&#x00E9;s&#x00E9;quilibre profond et durable. Ce manquement aux exigences de s&#x00E9;rieux budg&#x00E9;taire appelle un vote de rejet de l&#x2019;article liminaire.</p><p>&#x00C0; cela s&#x2019;ajoute une explosion incontr&#x00F4;l&#x00E9;e des d&#x00E9;penses de personnel en 2024. Ces derni&#x00E8;res atteignent +8 milliards d&#x2019;euros suppl&#x00E9;mentaires &#x00E0; p&#x00E9;rim&#x00E8;tre constant, soit une hausse de 6,7 % en une seule ann&#x00E9;e, apr&#x00E8;s d&#x00E9;j&#x00E0; +6 milliards d&#x2019;euros en 2023. Au total, les d&#x00E9;penses de personnel repr&#x00E9;sentent d&#x00E9;sormais 34,5 % du budget g&#x00E9;n&#x00E9;ral, une proportion en forte hausse par rapport &#x00E0; 2022, o&#x00F9; elles ne repr&#x00E9;sentaient que 31,1 %. Cette d&#x00E9;rive incontr&#x00F4;l&#x00E9;e illustre l&#x2019;inefficacit&#x00E9; du pilotage budg&#x00E9;taire actuel, incapable de contenir les d&#x00E9;penses de fonctionnement de l&#x2019;&#x00C9;tat.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-05-22",
+        "datePublication": "2025-06-04",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-06-04T11:50:29+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B1285P0D1N000002?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "79522",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285",
+  "directory_json_file_count": 167,
+  "ignored_json_files_count": 166,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000021.json",
+    "Amendements.json/json/DLR5L17N51919/PRJLANR5L17B1285/AMANR5L17PO59048B1285P0D1N000022.json"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0275P0D1N000001",
+      "chronotag": "1739874517573",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0275P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0275",
+      "triAmendement": "aoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA342415",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA841315",
+            "PA794854",
+            "PA840765",
+            {
+              "__truncated_items__": 4
+            }
+          ]
+        },
+        "suffixe": "et les membres du groupe Socialistes et apparentés",
+        "libelle": "Mme&#160;Battistel,  M.&#160;Benbrahim, M.&#160;Echaniz, M.&#160;Lhardit, M.&#160;Naillet, M.&#160;Potier, Mme&#160;Rossi, Mme&#160;Thomin et les membres du groupe Socialistes et apparent&#233;s"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0275.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Le pr&#x00E9;sent amendement du groupe Socialistes et apparent&#x00E9;s vise &#x00E0; supprimer cet article qui participe d&#x2019;une proposition de loi mal pens&#x00E9;e et mal construite, comme cela a pu &#x00EA;tre indiqu&#x00E9; &#x00E0; plusieurs reprises au rapporteur lors de ses auditions et qui, en outre, est propos&#x00E9;e alors m&#x00EA;me que notre commission a engag&#x00E9; une mission d&#x2019;information au format transpartisan sur le m&#x00EA;me objet.</p><p style=\"text-align: justify;\">Le contentieux qui oppose la France &#x00E0; la Commission europ&#x00E9;enne sur le mode de gestion de nos ouvrages hydro&#x00E9;lectriques est particuli&#x00E8;rement complexe. Au-del&#x00E0; de sa dimension &#x00E9;minemment politique, les incidences juridiques et financi&#x00E8;res de chaque option ont donn&#x00E9; lieu &#x00E0; des interpr&#x00E9;tations juridiques divergentes ou, a minima, non stabilis&#x00E9;es et emportent des impacts, par exemple sur l&#x2019;unicit&#x00E9; du groupe EDF, qui imposent une r&#x00E9;flexion plus large. En outre, la position de la commission europ&#x00E9;enne sur le mode de gestion retenu ne sera r&#x00E9;ellement connu qu&#x2019;une fois qu&#x2019;une proposition concr&#x00E8;te lui sera soumise et pourra d&#x00E9;pendre des &#x00E9;quilibres politiques de la nouvelle commission voire, d&#x2019;une possible r&#x00E9;vision de la directive &#x00AB;&nbsp;Concession&nbsp;&#x00BB;. De plus, le contexte politique et international autour des enjeux de souverainet&#x00E9; &#x00E9;nerg&#x00E9;tique et de gestion de la ressource en eau a sensiblement &#x00E9;volu&#x00E9; depuis la mise en demeure de Bruxelles.</p><p style=\"text-align: justify;\">La complexit&#x00E9; de ce dossier, sa nature strat&#x00E9;gique, l&#x2019;anciennet&#x00E9; du contentieux et le calendrier des concessions actuelles ont motiv&#x00E9; la demande du groupe Socialistes et apparent&#x00E9;s de constituer une mission d&#x2019;information ouverte &#x00E0; l&#x2019;ensemble des groupes de notre Assembl&#x00E9;e pour mener un v&#x00E9;ritable travail d&#x2019;analyse et de comparaison des conditions, particularit&#x00E9;s, avantages et inconv&#x00E9;nients de chaque option, afin de pouvoir retenir, de mani&#x00E8;re objectiv&#x00E9;e, la meilleure solution possible avec la base de soutien parlementaire la plus large. Le Gouvernement s&#x2019;est engag&#x00E9; &#x00E0; faciliter les travaux de la mission en donnant l&#x2019;acc… [truncated 3748 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2024-10-18",
+        "datePublication": "2024-10-23",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2024-10-23T10:47:12+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0275P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "71986",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275",
+  "directory_json_file_count": 38,
+  "ignored_json_files_count": 37,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO419610B0275P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO838901B0275P0D1N000001.json",
+    "Amendements.json/json/DLR5L17N50432/PIONANR5L17B0275/AMANR5L17PO838901B0275P0D1N000002.json"
+  ]
+}

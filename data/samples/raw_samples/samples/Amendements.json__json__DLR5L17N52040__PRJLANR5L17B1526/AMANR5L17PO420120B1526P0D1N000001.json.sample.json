@@ -1,0 +1,198 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1526P0D1N000001",
+      "chronotag": "1757950366843",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1526P0D1",
+      "texteLegislatifRef": "PRJLANR5L17B1526",
+      "triAmendement": "aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840939",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Godard,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, M.&#160;Delaporte, Mme&#160;Dombre&#160;Coste, M.&#160;Guedj, Mme&#160;Runel, M.&#160;Simion et M.&#160;Sother"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1526.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": "Apres",
+            "numero": "24",
+            "alineaDesignation": "Après l'alinéa 24"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;24, ins&#x00E9;rer l&#x2019;alin&#x00E9;a suivant&nbsp;:&nbsp;</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;2&#x00B0;&nbsp;<i>bis</i> Les pratiques manag&#x00E9;riales mobilisables&nbsp;;&nbsp;&#x00BB;.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; rajouter dans le p&#x00E9;rim&#x00E8;tre de la n&#x00E9;gociation&nbsp;des branches et&nbsp;des entreprises portant sur l&#x2019;emploi et le travail des travailleurs dits &#x00AB;&nbsp;s&#x00E9;niors&nbsp;&#x00BB; un point sur le management.</p><p style=\"text-align: justify;\">L&#x2019;accord national interprofessionnel&nbsp;&#x2013;&nbsp;que ce projet de loi vient traduire&nbsp;&#x2013;&nbsp;stipule en son article&nbsp;1.3 que &#x00AB;&nbsp;les&nbsp;pratiques manag&#x00E9;riales mobilisables&nbsp;&#x00BB; peuvent &#x00EA;tre abord&#x00E9;s dans les n&#x00E9;gociations de branches et des entreprises.</p><p style=\"text-align: justify;\">Or ce point ne figure pas dans le projet de loi, alors qu&#x2019;il est tout &#x00E0; fait pertinent.</p><p style=\"text-align: justify;\">Cet amendement vient rem&#x00E9;dier &#x00E0; cet oubli.</p><p style=\"text-align: justify;\">Tel est l&#x2019;objet du pr&#x00E9;sent amendement.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-06-13",
+        "datePublication": "2025-06-23",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-06-23T19:16:45+02:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1526P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526",
+  "directory_json_file_count": 93,
+  "ignored_json_files_count": 92,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N52040/PRJLANR5L17B1526/AMANR5L17PO420120B1526P0D1N000021.json"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO59048B2029P0D1N000001",
+      "chronotag": "1764754082909",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CF1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION_FIN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO59048B2029P0D1",
+      "texteLegislatifRef": "PIONANR5L17B2029",
+      "triAmendement": "aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA795778",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "suffixe": "et les membres du groupe Rassemblement National",
+        "libelle": "M.&#160;Jean-Philippe&#160;Tanguy et les membres du groupe Rassemblement National"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "AVANT ART. PREMIER",
+          "articleDesignation": "AVANT L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Avant",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/2029.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">L&#x2019;article&nbsp;L.&nbsp;111&#x2011;2 du code mon&#x00E9;taire et financier est ainsi r&#x00E9;tabli&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;<i>Art.&nbsp;L.&nbsp;111&#x2011;2.</i>&nbsp;&#x2013;&nbsp;Le paiement en billets et pi&#x00E8;ces est un droit garanti pour les particuliers, dans la limite d&#x2019;un plafond dont le montant est fix&#x00E9; par d&#x00E9;cret.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">L&#x2019;argent liquide demeure un moyen de paiement essentiel pour une partie importante de la population. Il garantit l&#x2019;inclusion financi&#x00E8;re des personnes &#x00E2;g&#x00E9;es, des publics pr&#x00E9;caires, de ceux qui ne disposent pas de moyens de paiement &#x00E9;lectroniques, ou qui souhaitent pr&#x00E9;server la ma&#x00EE;trise de leurs d&#x00E9;penses. Or, la d&#x00E9;mat&#x00E9;rialisation croissante des transactions, la r&#x00E9;duction des infrastructures bancaires et certaines pratiques de refus de paiement en esp&#x00E8;ces fragilisent progressivement l&#x2019;exercice concret de ce droit.</p><p style=\"text-align: justify;\">Inscrire explicitement dans le code mon&#x00E9;taire et financier que le paiement en billets et pi&#x00E8;ces constitue un droit opposable pour les particuliers permet de clarifier le cadre juridique, d&#x2019;harmoniser les pratiques et de rappeler que l&#x2019;euro fiduciaire reste un instrument l&#x00E9;gal de r&#x00E8;glement. La fixation d&#x2019;un plafond par d&#x00E9;cret offre la souplesse n&#x00E9;cessaire pour adapter ce droit aux enjeux de lutte contre la fraude, tout en maintenant une garantie forte pour les usagers.</p><p style=\"text-align: justify;\">En r&#x00E9;affirmant la place du num&#x00E9;raire dans notre ordre juridique, cette disposition prot&#x00E8;ge les libert&#x00E9;s individuelles, r&#x00E9;duit les risques d&#x2019;exclusion financi&#x00E8;re et renforce la s&#x00E9;curit&#x00E9; juridique des transactions du quotidien.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-11-26",
+        "datePublication": "2025-12-02",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-12-03T10:27:58+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO59048B2029P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c monétaire et financier",
+        "divisionCodeLoi": "L111-2"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029",
+  "directory_json_file_count": 34,
+  "ignored_json_files_count": 33,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N53059/PIONANR5L17B2029/AMANR5L17PO59048B2029P0D1N000021.json"
+  ]
+}

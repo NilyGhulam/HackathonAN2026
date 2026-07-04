@@ -1,0 +1,191 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0845P0D1N000001",
+      "chronotag": "1739874720032",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0845P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0845",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacb",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA719968",
+          "groupePolitiqueRef": "PO845425",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA794178",
+            "PA722390",
+            "PA718850"
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Sylvie&#160;Bonnet,  M.&#160;Taite, Mme&#160;Corneloup et M.&#160;Cordier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 2",
+          "articleDesignationCourte": "APRÈS ART. 2",
+          "articleDesignation": "APRÈS L'ARTICLE 2, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0845.asp#D_Article_2"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">L&#x2019;article&nbsp;8 du code de proc&#x00E9;dure p&#x00E9;nale est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\">1&#x00B0;&nbsp;Au deuxi&#x00E8;me alin&#x00E9;a, les mots&nbsp;: &#x00AB;&nbsp;&#x00E0; l&#x2019;exception de ceux mentionn&#x00E9;s aux articles 222&#x2011;29&#x2011;1 et 227&#x2011;26 du code p&#x00E9;nal,&nbsp;&#x00BB; sont supprim&#x00E9;s&nbsp;;</p><p style=\"text-align: justify;\">2&#x00B0;&nbsp;&nbsp;Le troisi&#x00E8;me alin&#x00E9;a est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\"><i>a)</i> Au d&#x00E9;but, sont ajout&#x00E9;s les mots&nbsp;: &#x00AB;&nbsp;Par d&#x00E9;rogation au deuxi&#x00E8;me alin&#x00E9;a,&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\"><i>b)</i> Les mots&nbsp;: &#x00AB;&nbsp;aux articles 222&#x2011;12, 222&#x2011;29&#x2011;1 et 227&#x2011;26 du m&#x00EA;me code&nbsp;&#x00BB; sont remplac&#x00E9;s par les mots&nbsp;: &#x00AB;&nbsp;&#x00E0; l&#x2019;article&nbsp;222&#x2011;12 du code p&#x00E9;nal&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\"><i>c)</i> &#x00C0; la fin, sont ajout&#x00E9;s les mots&nbsp;: &#x00AB;&nbsp;&nbsp;; et l&#x2019;action publique des d&#x00E9;lits mentionn&#x00E9;s au 4&#x00B0;&nbsp;et au 13&#x00B0;&nbsp;de l&#x2019;article&nbsp;706&#x2011;47, lorsqu&#x2019;ils sont commis sur des mineurs, est imprescriptible&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\">3&#x00B0;&nbsp;&nbsp;Le quatri&#x00E8;me alin&#x00E9;a est ainsi modifi&#x00E9;&nbsp;:</p><p style=\"text-align: justify;\"><i>a)</i> Au d&#x00E9;but, le mot&nbsp;: &#x00AB;&nbsp;Toutefois,&nbsp;&#x00BB; est supprim&#x00E9;&nbsp;; <br> <br><i>b)</i> La premi&#x00E8;re occurrence du mot&nbsp;: &#x00AB;&nbsp;mineur&nbsp;&#x00BB; est remplac&#x00E9;e par le mot&nbsp;: &#x00AB;&nbsp;majeur&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\"><i>c)</i> Les mots&nbsp;: &#x00AB;&nbsp;un autre mineur par la m&#x00EA;me personne&nbsp;&#x00BB; sont remplac&#x00E9;s par les mots&nbsp;: &#x00AB;&nbsp;une autre personne par le m&#x00EA;me auteur&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\"><i>d)</i> Les mots&nbsp;: &#x00AB;&nbsp;des d&#x00E9;lais pr&#x00E9;vus aux deuxi&#x00E8;me et troisi&#x00E8;me alin&#x00E9;as&nbsp;&#x00BB; sont remplac&#x00E9;s par les mots&nbsp;: &#x00AB;&nbsp;du d&#x00E9;lai pr&#x00E9;vu au premier alin&#x00E9;a&nbsp;&#x00BB;&nbsp;;</p><p style=\"text-align: justify;\"><i>e)</i> &#x00C0; la fin, est ajout&#x00E9;e une phrase ains… [truncated 465 chars]",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement propose de rendre imprescriptible l&#x2019;action publique des agressions sexuelles sur mineurs tout en introduisant une prescription glissante pour les violences sexuelles sur majeurs.&nbsp;<br><br>Parmi les victimes ayant t&#x00E9;moign&#x00E9; aupr&#x00E8;s de la CIIVISE, l&#x2019;imprescriptibilit&#x00E9; p&#x00E9;nale est la mesure la plus demand&#x00E9;e. 75 % des victimes ayant t&#x00E9;moign&#x00E9; aupr&#x00E8;s de la commission d&#x00E9;clarent que les faits dont elles ont souffert sont aujourd&#x2019;hui prescrits, soit six victimes sur dix. Ce constat alarmant appelle une r&#x00E9;forme urgente.</p><p style=\"text-align: justify;\">Les violences sexuelles sur mineurs sont particuli&#x00E8;rement complexes, notamment l&#x2019;inceste, qui d&#x2019;une nature unique, cumule &#x00E0; la fois le lien familial bris&#x00E9; et l&#x2019;agression sexuelle. Il est en effet extr&#x00EA;mement difficile dans le cas d'infractions incestueuses de porter plainte contre un membre de sa famille, de faire voler en &#x00E9;clats son foyer, de se d&#x00E9;livrer d'un tabou universel. L&#x2019;assignation au silence en est d&#x00E9;multipli&#x00E9;e dans les cas d'inceste et le risque de la parole c'est la perte de sa propre famille, ce qui n&#x00E9;cessite que du temps soit donn&#x00E9; au temps, bien au-del&#x00E0; du d&#x00E9;lai existant.&nbsp;</p><p style=\"text-align: justify;\">Les cons&#x00E9;quences de ces violences, souvent irr&#x00E9;versibles, marquent profond&#x00E9;ment les victimes, tant psychologiquement que physiquement. L&#x2019;amn&#x00E9;sie dissociative, fr&#x00E9;quente dans ces cas (40 % des victimes enfants et 50 % des victimes d&#x2019;inceste), est un obstacle majeur &#x00E0; la r&#x00E9;v&#x00E9;lation des faits dans les d&#x00E9;lais l&#x00E9;gaux actuels. En outre, les enfants, d&#x00E9;pourvus de personnalit&#x00E9; juridique propre et d&#x00E9;pendants d&#x2019;un adulte pour porter plainte, ne sont pas toujours en mesure de verbaliser les abus subis ou d&#x2019;en mesurer la gravit&#x00E9; ; ou ne sont tout simplement pas crus par les adultes qui les entourent, comme l&#x2019;a montr&#x00E9; le rapport public 2023 de la CIIVISE. En cas d'inceste, cette incapacit&#x00E9; juridique est accentu&#x00E9;e par le fait qu'il est crucial qu'un parent protecteur soit pr&#x00EA;t &#x00E0; d&#x00E9;fendre l'enfant. Cependant, la r&#x00E9;alit&#x00E9; du d&#x00E9;p&#x00F4;t de plainte par un parent pr… [truncated 1428 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-23",
+        "datePublication": "2025-01-28",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-01-28T19:56:13+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0845P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS28900",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c procédure pénale",
+        "divisionCodeLoi": "8"
+      },
+      "discussionCommune": {
+        "idDiscussion": "28770",
+        "typePosition": "Premier"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75114",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845",
+  "directory_json_file_count": 40,
+  "ignored_json_files_count": 39,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51017/PIONANR5L17BTC0845/AMANR5L17PO838901BTC0845P0D1N000021.json"
+  ]
+}

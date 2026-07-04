@@ -1,0 +1,197 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B0841P0D1N000001",
+      "chronotag": "1739957996096",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B0841P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0841",
+      "triAmendement": "iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA841381",
+          "groupePolitiqueRef": "PO845419",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA642764",
+            "PA842211",
+            "PA795762",
+            {
+              "__truncated_items__": 6
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "Mme&#160;Pantel,  M.&#160;Aviragnet, Mme&#160;Bellay, M.&#160;Califer, M.&#160;Delaporte, Mme&#160;Dombre&#160;Coste, Mme&#160;Godard, M.&#160;Guedj, Mme&#160;Runel et M.&#160;Simion"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article 5",
+          "articleDesignationCourte": "ART. 5",
+          "articleDesignation": "ARTICLE 5",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0841.asp#D_Article_5"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer cet article.</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement des d&#x00E9;put&#x00E9;s socialistes et apparent&#x00E9;s vise &#x00E0; supprimer cet article&nbsp;5, qui exempte les professionnels de sant&#x00E9;&nbsp;des services de sant&#x00E9; des services d&#x2019;incendie et de secours&nbsp;de l&#x2019;obligation d&#x2019;inscription &#x00E0; un ordre professionnel,&nbsp;pour l&#x2019;exercice de leurs missions de sapeurs&#x2011;pompiers.</p><p style=\"text-align: justify;\">La non-inscription de certains professionnels &#x00E0; leur ordre peut soulever&nbsp;de lourdes difficult&#x00E9;s.</p><p style=\"text-align: justify;\">Au premier rang de ces difficult&#x00E9;s, nous pointons&nbsp;le risque que&nbsp;la mission d&#x2019;accompagnement - notamment juridique - des professionnels de sant&#x00E9; par les Ordres ne soit plus remplie au d&#x00E9;triment des professionnels non inscrits.</p><p style=\"text-align: justify;\">Nous soulevons &#x00E9;galement le risque que les professionnels de sant&#x00E9; non inscrits &#x00E0; un ordre ne disposent pas d&#x2019;interlocuteurs aupr&#x00E8;s des pouvoirs publics et des repr&#x00E9;sentants des patients.</p><p style=\"text-align: justify;\">Enfin, la mission essentielle des Ordres de garantir&nbsp;la d&#x00E9;ontologie, et <i>in fine</i>&nbsp;d&#x2019;&#x00EA;tre une&nbsp;instance disciplinaire ne serait plus remplie.</p><p style=\"text-align: justify;\">Pour toutes ces raisons, il convient de s&#x2019;assurer que les&nbsp;professionnels de sant&#x00E9;&nbsp;des services de sant&#x00E9; des services d&#x2019;incendie et de secours&nbsp;soient bien inscrits &#x00E0; un ordre professionnel, d&#x2019;o&#x00F9; la n&#x00E9;cessit&#x00E9; de supprimer cet article&nbsp;5.</p><p style=\"text-align: justify;\">Enfin, et d&#x2019;un strict point de vue l&#x00E9;gistique,&nbsp;il nous semble qu&#x2019;une erreur de r&#x00E9;daction touche cet article&nbsp;5.&nbsp;</p><p style=\"text-align: justify;\">En effet, il ajoute un nouvel alin&#x00E9;a&nbsp;&#x00E0; l&#x2019;article L.&nbsp;4161&#x2011;1 du code de la sant&#x00E9; publique, qui &#x00E9;num&#x00E8;re les individus qui exercent ill&#x00E9;galement la m&#x00E9;decine.&nbsp;</p><p style=\"text-align: justify;\">En l&#x2019;&#x00E9;tat de cette r&#x00E9;daction, il reviendrait donc &#x00E0; consid&#x00E9;rer comme exercice ill&#x00E9;gal de la m&#x00E9;decine&nbsp;l&#x2019;activit&#x00E9; des professionnels de sant&#x00E9; des services de sant&#x00E9; des services d&#x2019;incendie et de secours no… [truncated 261 chars]",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-02-12",
+        "datePublication": "2025-02-19",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Adopté"
+          }
+        },
+        "dateSort": "2025-02-19T10:39:49+01:00",
+        "sort": "Adopté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B0841P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "idDiscussion": "75672",
+        "typePosition": "Premier"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841",
+  "directory_json_file_count": 63,
+  "ignored_json_files_count": 62,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51346/PIONANR5L17B0841/AMANR5L17PO420120B0841P0D1N000021.json"
+  ]
+}

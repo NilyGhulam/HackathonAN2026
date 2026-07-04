@@ -1,0 +1,194 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO838901BTC0713P0D1N000001",
+      "chronotag": "1739874711781",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "AN",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO838901BTC0713P0D1",
+      "texteLegislatifRef": "PIONANR5L17BTC0713",
+      "triAmendement": "biaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA840997",
+          "groupePolitiqueRef": "PO845439",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA793980",
+            "PA841713",
+            "PA794146",
+            {
+              "__truncated_items__": 32
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Biteau,  M.&#160;Fournier, M.&#160;Tavernier, Mme&#160;Laernoes, M.&#160;Amirshahi, Mme&#160;Arrighi, Mme&#160;Autain, Mme&#160;Balage&#160;El&#160;Mariky, Mme&#160;Belluco, M.&#160;Ben&#160;Cheikh, M.&#160;Arnaud&#160;Bonnet, M.&#160;Nicolas&#160;Bonnet, Mme&#160;Chatelain, M.&#160;Corbi&#232;re, M.&#160;Davi, M.&#160;Duplessy, Mme&#160;Garin, M.&#160;Damien&#160;Girard, M.&#160;Gustave, Mme&#160;Catherine&#160;Hervieu, M.&#160;Iordanoff, M.&#160;Lahais, M.&#160;Lucas-Lundy, Mme&#160;Ozenne, M.&#160;Peytavie, Mme&#160;Pochon, M.&#160;Raux, Mme&#160;Regol, Mme&#160;Sandrine&#160;Rousseau, M.&#160;Ruffin, Mme&#160;Sas, Mme&#160;Sebaihi, Mme&#160;Simonnet, Mme&#160;Taill&#233;-Polian, M.&#160;Thierry et Mme&#160;Voynet"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "APRÈS ART. PREMIER",
+          "articleDesignation": "APRÈS L'ARTICLE PREMIER, insérer l'article suivant:",
+          "type": "ARTICLE",
+          "avant_A_Apres": "Après",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "true",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0713.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">L&#x2019;article L.&nbsp;511&#x2011;3 du&nbsp;code rural et de la p&#x00EA;che maritime est compl&#x00E9;t&#x00E9; par un alin&#x00E9;a ainsi r&#x00E9;dig&#x00E9;&nbsp;:&nbsp;<br><br>&#x00AB;&nbsp;Les chambres d&#x2019;agriculture d&#x00E9;partementales, r&#x00E9;gionales et l&#x2019;association nationale des chambres sont tenues d&#x2019;accompagner chaque r&#x00E9;union de leurs organes d&#x00E9;lib&#x00E9;rants d&#x2019;un compte rendu accessible publiquement afin de faire cesser ou de pr&#x00E9;venir toute situation de conflit d&#x2019;int&#x00E9;r&#x00EA;ts au sens de l&#x2019;article&nbsp;2 de la loi n&#x00B0;&nbsp;2013&#x2011;907 du 11 octobre 2013 relative &#x00E0; la transparence de la vie publique. Ce compte rendu doit mentionner explicitement les cas de d&#x00E9;port, en pr&#x00E9;cisant l&#x2019;identit&#x00E9; du membre concern&#x00E9;, la nature du sujet trait&#x00E9;, et les motifs justifiant le d&#x00E9;port.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise, dans un soucis d&#x00E9;mocratique, &#x00E0; renforcer la transparence des d&#x00E9;cisions prises au sein des Chambres d&#x2019;agriculture en encadrant strictement le m&#x00E9;canisme de d&#x00E9;port. La publication syst&#x00E9;matique des comptes rendus permettra d&#x2019;assurer un contr&#x00F4;le citoyen, tout en pr&#x00E9;venant les conflits d&#x2019;int&#x00E9;r&#x00EA;ts potentiels li&#x00E9;s &#x00E0; la double casquette de certains membres.</p><p style=\"text-align: justify;\">En rendant ces informations publiques,&nbsp;nous proposons de garantir&nbsp;un fonctionnement d&#x00E9;mocratique et le respect des&nbsp;principes de pluralisme et d&#x2019;int&#x00E9;grit&#x00E9; dans la gestion des affaires agricoles.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-16",
+        "datePublication": "2025-01-22",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Rejeté"
+          }
+        },
+        "dateSort": "2025-01-22T17:46:45+01:00",
+        "sort": "Rejeté"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO838901BTC0713P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": "RUANR5L17S2025IDS28916",
+      "article99": "false",
+      "loiReference": {
+        "codeLoi": "c rural",
+        "divisionCodeLoi": "L511-3"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713",
+  "directory_json_file_count": 30,
+  "ignored_json_files_count": 29,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000024.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000025.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000026.json",
+    "Amendements.json/json/DLR5L17N50915/PIONANR5L17BTC0713/AMANR5L17PO838901BTC0713P0D1N000027.json"
+  ]
+}

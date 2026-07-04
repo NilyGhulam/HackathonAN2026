@@ -1,0 +1,201 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO420120B1233P0D1N000001",
+      "chronotag": "1768925757492",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "AS1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-SOC",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO420120B1233P0D1",
+      "texteLegislatifRef": "PIONANR5L17B1233",
+      "triAmendement": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA721062",
+          "groupePolitiqueRef": "PO845413",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": [
+            "PA795228",
+            "PA793262",
+            "PA794906",
+            {
+              "__truncated_items__": 67
+            }
+          ]
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Ratenon,  Mme&#160;Abomangoli, M.&#160;Alexandre, M.&#160;Amard, Mme&#160;Amiot, Mme&#160;Amrani, M.&#160;Arenas, M.&#160;Arnault, Mme&#160;Belouassa-Cherifi, M.&#160;Bernalicis, M.&#160;Bex, M.&#160;Bilongo, M.&#160;Bompard, M.&#160;Boumertit, M.&#160;Boyard, M.&#160;Cadalen, M.&#160;Caron, M.&#160;Carri&#232;re, Mme&#160;Cathala, M.&#160;Cernon, Mme&#160;Chikirou, M.&#160;Clouet, M.&#160;Coquerel, M.&#160;Coulomme, M.&#160;Delogu, M.&#160;Diouara, Mme&#160;Dufour, Mme&#160;Erodi, Mme&#160;Feld, M.&#160;Fernandes, Mme&#160;Ferrer, M.&#160;Gaillard, Mme&#160;Guett&#233;, M.&#160;Guiraud, Mme&#160;Hamdane, Mme&#160;Hignet, M.&#160;Kerbrat, M.&#160;Lachaud, M.&#160;Lahmar, M.&#160;Laisney, M.&#160;Le&#160;Coq, M.&#160;Le&#160;Gall, Mme&#160;Leboucher, M.&#160;Legavre, Mme&#160;Legrain, Mme&#160;Lejeune, Mme&#160;Lepvraud, M.&#160;L&#233;aument, Mme&#160;&#201;lisa&#160;Martin, M.&#160;Maudet, Mme&#160;Maximi, Mme&#160;Mesmeur, Mme&#160;Manon&#160;Meunier, M.&#160;Nilor, Mme&#160;Nosb&#233;, Mme&#160;Obono, Mme&#160;Oziol, Mme&#160;Panot, M.&#160;Pilato, M.&#160;Piquemal, M.&#160;Portes, M.&#160;Prud&apos;homme, M.&#160;Saint-Martin, M.&#160;Saintoul, Mme&#160;Soudais, Mme&#160;Stambach-Terrenoir, M.&#160;Aur&#233;lien&#160;Tach&#233;, Mme&#160;Taurinya, M.&#160;Tavel, Mme&#160;Trouv&#233; et M.&#160;Vannier"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article PREMIER",
+          "articleDesignationCourte": "ART. PREMIER",
+          "articleDesignation": "ARTICLE PREMIER",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/1233.asp#D_Article_1er"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "2",
+            "alineaDesignation": "Alinéa 2"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Apr&#x00E8;s l&#x2019;alin&#x00E9;a&nbsp;2, ins&#x00E9;rer l'alin&#x00E9;a suivant&nbsp;:</p><p style=\"text-align: justify;\">&#x00AB;&nbsp;La commission remet chaque ann&#x00E9;e un rapport au Gouvernement et au Parlement afin de dresser un &#x00E9;tat des lieux de l&#x2019;avanc&#x00E9;e de ses missions et de faire un bilan sur ses moyens.&nbsp;&#x00BB;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Par cet amendement nous proposons la remise d&#x2019;un rapport annuel par la commission nouvellement cr&#x00E9;&#x00E9;e afin de suivre l&#x2019;&#x00E9;tat d&#x2019;avanc&#x00E9;e de ses missions et moyens.</p><p style=\"text-align: justify;\">L&#x2019;article premier pr&#x00E9;voit d&#x2019;importantes missions pour la commission de reconnaissance des ex-mineurs r&#x00E9;unionnais transplant&#x00E9;s, tel que le contr&#x00F4;le de l&#x2019;action de l&#x2019;administration et des collectivit&#x00E9;s, les &#x00E9;changes avec les individus, associations, et administrations publiques mais aussi la surveillance des programmes scolaires et de recherche. Il n&#x2019;y a n&#x00E9;anmoins pas de pr&#x00E9;cisions sur les moyens qui permettront de r&#x00E9;aliser correctement ces missions.</p><p style=\"text-align: justify;\">La remise d&#x2019;un rapport annuel au Gouvernement et au Parlement permettra &#x00E0; la commission de faire un bilan sur la r&#x00E9;alisation de ses missions, de faire des alertes sur d&#x2019;&#x00E9;ventuels blocages mais &#x00E9;galement sur les moyens qui lui seront attribu&#x00E9;s pour r&#x00E9;aliser ces missions. Le cas &#x00E9;ch&#x00E9;ant, ce rapport permettra de soutenir une &#x00E9;volution des moyens de la commission.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2026-01-16",
+        "datePublication": "2026-01-20",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "DI",
+            "libelle": "Discuté"
+          },
+          "sousEtat": {
+            "code": "DI",
+            "libelle": "Tombé"
+          }
+        },
+        "dateSort": "2026-01-20T17:15:51+01:00",
+        "sort": "Tombé"
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO420120B1233P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233",
+  "directory_json_file_count": 35,
+  "ignored_json_files_count": 34,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000004.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000005.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000006.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000007.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000008.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000009.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000010.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000011.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000012.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000013.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000014.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000015.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000016.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000017.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000018.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000019.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000020.json",
+    "Amendements.json/json/DLR5L17N51845/PIONANR5L17B1233/AMANR5L17PO420120B1233P0D1N000021.json"
+  ]
+}

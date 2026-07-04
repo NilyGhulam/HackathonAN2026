@@ -1,0 +1,52 @@
+{
+  "source_file": "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756391.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "pays"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "pays": {
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "uid": "GOP756391",
+      "code_insee": "99101",
+      "libelleInsee": "ROYAUME DU DANEMARK",
+      "nomCourant": "DANEMARK",
+      "code_iso2A": null,
+      "code_iso3A": "DNK",
+      "code_iso3N": null,
+      "libelleIso": null,
+      "libelleANCourt": "DANEMARK",
+      "libelleANLong": "ROYAUME DU DANEMARK",
+      "sourceJuridique": null,
+      "activ": "true"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "AMO50_acteurs_mandats_organes_divises.json/pays",
+  "directory_json_file_count": 199,
+  "ignored_json_files_count": 198,
+  "ignored_json_files_preview": [
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756392.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756393.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756396.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756397.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756398.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756399.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756400.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756401.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756402.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756403.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756404.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756405.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756406.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756407.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756408.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756409.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756410.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756411.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756412.json",
+    "AMO50_acteurs_mandats_organes_divises.json/pays/GOP756413.json"
+  ]
+}

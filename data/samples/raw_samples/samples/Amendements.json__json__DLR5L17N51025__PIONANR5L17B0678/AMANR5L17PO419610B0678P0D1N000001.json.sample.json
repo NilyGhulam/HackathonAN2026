@@ -1,0 +1,180 @@
+{
+  "source_file": "Amendements.json/json/DLR5L17N51025/PIONANR5L17B0678/AMANR5L17PO419610B0678P0D1N000001.json",
+  "format": "json",
+  "top_level_type": "dict",
+  "top_level_keys": [
+    "amendement"
+  ],
+  "inferred_entry_path": "$",
+  "sample": {
+    "amendement": {
+      "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+      "uid": "AMANR5L17PO419610B0678P0D1N000001",
+      "chronotag": "1740392275157",
+      "legislature": "17",
+      "identification": {
+        "numeroLong": "CE1",
+        "numeroOrdreDepot": "1",
+        "prefixeOrganeExamen": "CION-ECO",
+        "numeroRect": "0"
+      },
+      "examenRef": "EXANR5L17PO419610B0678P0D1",
+      "texteLegislatifRef": "PIONANR5L17B0678",
+      "triAmendement": "eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+      "cardinaliteAmdtMultiples": "1",
+      "amendementParentRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "signataires": {
+        "auteur": {
+          "typeAuteur": "Député",
+          "gouvernementRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "acteurRef": "PA793246",
+          "groupePolitiqueRef": "PO845401",
+          "auteurRapporteurOrganeRef": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "cosignataires": {
+          "acteurRef": "PA793432"
+        },
+        "suffixe": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "libelle": "M.&#160;Falcon et M.&#160;Allisio"
+      },
+      "pointeurFragmentTexte": {
+        "partieAmendableRef": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "division": {
+          "titre": "Article unique",
+          "articleDesignationCourte": "ART. UNIQUE",
+          "articleDesignation": "ARTICLE UNIQUE",
+          "type": "ARTICLE",
+          "avant_A_Apres": "A",
+          "divisionRattachee": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "articleAdditionnel": "false",
+          "chapitreAdditionnel": "false",
+          "urlDivisionTexteVise": "/17/textes/0678.asp#D_Article_unique"
+        },
+        "amendementStandard": {
+          "alinea": {
+            "avant_A_Apres": {
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:nil": "true"
+            },
+            "numero": "3",
+            "alineaDesignation": "Alinéa 3"
+          }
+        }
+      },
+      "corps": {
+        "cartoucheInformatif": "Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité",
+        "contenuAuteur": {
+          "dispositif": "<p style=\"text-align: justify;\">Supprimer les alin&#x00E9;as 3 &#x00E0; 5.&nbsp;</p>",
+          "avantAppel": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "exposeSommaire": "<p style=\"text-align: justify;\">Cet amendement vise &#x00E0; supprimer les alin&#x00E9;as 3 &#x00E0; 5 de l&#x2019;article unique de cette proposition de loi.</p><p style=\"text-align: justify;\">En effet, cet article ne saurait se targuer de lutter efficacement contre l&#x2019;apparition de risques naturels due &#x00E0; une trop forte activit&#x00E9; humaine, en permettant &#x00E0; une commune d&#x2019;&#x00E9;chapper &#x00E0; son obligation de production de logements sociaux lorsque sa densit&#x00E9; de population exc&#x00E8;de 3000 habitants par kilom&#x00E8;tre carr&#x00E9;, maintenant ainsi une forte densit&#x00E9; de population sur une telle surface, et par cons&#x00E9;quent une forte activit&#x00E9; humaine qui ne saurait faire diminuer la probabilit&#x00E9; d&#x2019;apparition de risques naturels, pourtant raison d&#x2019;&#x00EA;tre de ces alin&#x00E9;as.</p><p style=\"text-align: justify;\">Au contraire, face &#x00E0; une inflation des prix du fonciers dans les grands centres urbains caract&#x00E9;ris&#x00E9;s par une forte densit&#x00E9; de population par kilom&#x00E8;tre carr&#x00E9;, y interdire par ces alin&#x00E9;as la construction de nouveaux logements sociaux, alors que demande de logements y est pourtant la plus importante, risque d&#x2019;exclure les plus modestes de ces zones attractives vers des territoires moins bien connect&#x00E9;s en termes de services publics et d&#x2019;emplois, favorisant par cons&#x00E9;quent l&#x2019;accroissement d&#x2019;un sentiment de d&#x00E9;classement d&#x00E9;j&#x00E0; trop pr&#x00E9;sent dans l&#x2019;esprit de nombre de Fran&#x00E7;ais.</p>",
+          "annexeExposeSommaire": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "cycleDeVie": {
+        "dateDepot": "2025-01-22",
+        "datePublication": "2025-02-18",
+        "soumisArticle40": "false",
+        "etatDesTraitements": {
+          "etat": {
+            "code": "ET",
+            "libelle": "En traitement"
+          },
+          "sousEtat": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        },
+        "dateSort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        },
+        "sort": {
+          "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "@xsi:nil": "true"
+        }
+      },
+      "representations": {
+        "representation": {
+          "nom": "PDF",
+          "typeMime": {
+            "type": "application",
+            "subType": "PDF"
+          },
+          "statutRepresentation": {
+            "verbatim": "true",
+            "canonique": "true",
+            "officielle": "true",
+            "transcription": "false",
+            "enregistrement": "false"
+          },
+          "repSource": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "offset": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          },
+          "contenu": {
+            "documentURI": "/base/AMANR5L17PO419610B0678P0D1N000001?format=pdf"
+          },
+          "dateDispoRepresentation": {
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:nil": "true"
+          }
+        }
+      },
+      "seanceDiscussionRef": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "article99": "false",
+      "loiReference": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionCommune": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "discussionIdentique": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "accordGouvernementDepotHorsDelai": "Sans objet"
+    }
+  },
+  "sampling_rule": "one_first_json_file_per_directory",
+  "source_directory": "Amendements.json/json/DLR5L17N51025/PIONANR5L17B0678",
+  "directory_json_file_count": 4,
+  "ignored_json_files_count": 3,
+  "ignored_json_files_preview": [
+    "Amendements.json/json/DLR5L17N51025/PIONANR5L17B0678/AMANR5L17PO419610B0678P0D1N000002.json",
+    "Amendements.json/json/DLR5L17N51025/PIONANR5L17B0678/AMANR5L17PO419610B0678P0D1N000003.json",
+    "Amendements.json/json/DLR5L17N51025/PIONANR5L17B0678/AMANR5L17PO419610B0678P0D1N000004.json"
+  ]
+}
