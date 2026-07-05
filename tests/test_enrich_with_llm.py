@@ -55,7 +55,7 @@ def test_enrich_with_llm_mock_applies_question_and_classification(tmp_path: Path
             "extracted_traces": [
                 {
                     "id": question_id,
-                    "summary": "Question parlementaire — Situation à Mayotte",
+                    "summary": "Question parlementaire - Situation à Mayotte",
                     "issues": ["outre-mer"],
                     "evidence": [{"quote": "extrait", "source_url": "#"}],
                     "metadata": {"subject_id": subject_id},

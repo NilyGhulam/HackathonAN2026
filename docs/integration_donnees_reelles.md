@@ -1,4 +1,4 @@
-# Intégration des vraies données — AgorIA
+# Intégration des vraies données - AgorIA
 
 ## Objectif
 

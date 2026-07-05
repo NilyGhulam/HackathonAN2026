@@ -149,9 +149,9 @@ def make_tree(raw_dir: Path, max_files_per_dir: int = 20) -> str:
         indent = "  " * depth
         json_count = sum(1 for f in files if (root_path / f).suffix.lower() in JSON_SUFFIXES)
         if str(rel_root) != ".":
-            lines.append(f"{indent}📁 {rel_root}/ — {json_count} JSON")
+            lines.append(f"{indent}📁 {rel_root}/ - {json_count} JSON")
         else:
-            lines.append(f"{indent}📁 ./ — {json_count} JSON")
+            lines.append(f"{indent}📁 ./ - {json_count} JSON")
 
         visible_files = files[:max_files_per_dir]
         for f in visible_files:
@@ -285,7 +285,7 @@ def main() -> int:
     zip_path = out_dir / "raw_samples.zip"
     zip_directory(out_dir, zip_path)
 
-    print(f"OK — {manifest['sampled_directories']} dossiers échantillonnés sur {manifest['directories_with_json']} dossiers contenant des JSON.")
+    print(f"OK - {manifest['sampled_directories']} dossiers échantillonnés sur {manifest['directories_with_json']} dossiers contenant des JSON.")
     print(f"JSON vus : {manifest['total_json_files_seen']} ; ignorés par règle d'échantillonnage : {manifest['total_json_files_ignored_by_sampling_rule']}.")
     print(f"Rapport : {out_dir / 'manifest.json'}")
     print(f"Arborescence : {out_dir / 'tree.txt'}")

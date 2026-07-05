@@ -1,0 +1,11 @@
+{
+  "max_visible_children": 12,
+  "target_visible_children_min": 5,
+  "target_visible_children_max": 9,
+  "preferred_depth": 3,
+  "max_depth": 4,
+  "ideal_leaf_subject_min": 20,
+  "ideal_leaf_subject_max": 40,
+  "split_leaf_subject_threshold": 50,
+  "merge_leaf_subject_threshold": 5
+}

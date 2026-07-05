@@ -1,4 +1,4 @@
-# Architecture — AgorIA
+# Architecture - AgorIA
 
 ## Objectif
 

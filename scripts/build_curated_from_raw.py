@@ -827,13 +827,13 @@ def title_from_document(raw: dict[str, Any]) -> str:
 
 def deterministic_document_summary(document: dict[str, Any]) -> str:
     parts = [document.get("document_type"), document.get("classification", {}).get("subkind"), document.get("title_full") or document.get("title")]
-    text = join_non_empty(parts, separator=" — ")
+    text = join_non_empty(parts, separator=" - ")
     return excerpt(text, 500) or "Document législatif extrait depuis les données brutes."
 
 
 def deterministic_question_summary(title: str, raw: dict[str, Any]) -> str:
     rubrique = clean_text(dig(raw, "indexationAN", "rubrique"))
-    return join_non_empty(["Question parlementaire", title, f"rubrique {rubrique}" if rubrique else ""], separator=" — ")
+    return join_non_empty(["Question parlementaire", title, f"rubrique {rubrique}" if rubrique else ""], separator=" - ")
 
 
 def deterministic_answer_summary(raw: dict[str, Any]) -> str:

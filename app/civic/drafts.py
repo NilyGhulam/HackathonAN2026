@@ -43,16 +43,16 @@ class DraftService:
 
     def _title_for(self, diagnosis: CivicDiagnosis, measure: Measure) -> str:
         if diagnosis.output_type == "question_a_transmettre":
-            return f"Question à transmettre — {measure.article}"
+            return f"Question à transmettre - {measure.article}"
         if diagnosis.output_type == "demande_clarification":
-            return f"Demande de clarification — {measure.article}"
+            return f"Demande de clarification - {measure.article}"
         if diagnosis.output_type == "proposition_modification":
-            return f"Proposition d'évolution — {measure.article}"
+            return f"Proposition d'évolution - {measure.article}"
         if diagnosis.output_type == "argumentaire_petition":
-            return f"Argumentaire de pétition — {measure.title}"
+            return f"Argumentaire de pétition - {measure.title}"
         if diagnosis.output_type == "contribution_consultation":
-            return f"Contribution à consultation — {measure.title}"
-        return f"Message à un représentant — {measure.title}"
+            return f"Contribution à consultation - {measure.title}"
+        return f"Message à un représentant - {measure.title}"
 
     def _draft_for(self, diagnosis: CivicDiagnosis, measure: Measure, user_text: str) -> str:
         intro = (
