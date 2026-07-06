@@ -1,5 +1,9 @@
 # AgorIA
 
+<p align="center">
+  <img src="images/cover.png" alt="Capture d’écran du prototype AgorIA" width="100%">
+</p>
+
 **AgorIA** est un prototype conçu pour le **hackathon de l’Assemblée nationale 2026**.
 
 Son objectif est de rendre les données parlementaires plus compréhensibles en transformant des sources institutionnelles publiques - questions au Gouvernement, dossiers législatifs, documents parlementaires, acteurs, réponses et citations - en une interface d’exploration claire des sujets politiques, des positions et des arguments.
